@@ -308,3 +308,11 @@ main { position: relative; z-index: 1; height: 100vh; padding: 2rem 3rem 4.5rem;
 .menu.compact .series-row { margin-top: .5rem; }
 .menu.compact .series-row .btn { font-size: 1.05rem; padding: .35rem .75rem; }
 .btn.sel .muted { color: inherit; opacity: .65; }
+
+/* ---------- lite mode (default on the TV; ?fx=1 for full effects) ---------- */
+html.lite #bg .grid { display: none; }
+html.lite .av { filter: none; }
+html.lite .av.bob, html.lite .vs, html.lite .audio-vis i, html.lite .timer.low .num { animation: none; }
+html.lite .join-card { backdrop-filter: none; background: rgba(16,7,43,.92); }
+html.lite .opt, html.lite .row .cell, html.lite .media img { box-shadow: none; }
+html.lite .dirword, html.lite .board .miss { text-shadow: none; }

@@ -10,6 +10,10 @@
     set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} },
   };
 
+  // Lite mode (default): no animated background or looping effects, for weak smart-TV browsers. Add ?fx=1 to the URL for full effects.
+  const LITE = new URLSearchParams(location.search).get('fx') !== '1';
+  if (LITE) document.documentElement.classList.add('lite');
+
   let S = null;            // latest state from the server
   let offset = 0;          // server clock - local clock
   let lastKey = '';
@@ -25,6 +29,7 @@
   // ---------------- glowing squares background ----------------
   (function buildBg() {
     const grid = $('#bg .grid');
+    if (LITE) return;
     const glows = ['rgba(255,79,139,.55)', 'rgba(34,211,238,.5)', 'rgba(255,204,0,.5)', 'rgba(155,92,255,.6)'];
     let html = '';
     for (let i = 0; i < 18 * 12; i++) html += `<i style="animation-delay:${(Math.random() * -7).toFixed(2)}s;animation-duration:${(5 + Math.random() * 6).toFixed(2)}s;--g:${glows[i % glows.length]}"></i>`;
@@ -48,6 +53,7 @@
       raf = parts.length ? requestAnimationFrame(loop) : null;
     }
     return (n = 160, x = innerWidth / 2, y = innerHeight / 3) => {
+      if (LITE) n = Math.min(n, 40);
       for (let i = 0; i < n; i++) {
         const a = Math.random() * Math.PI * 2, v = 6 + Math.random() * 12;
         parts.push({ x, y, vx: Math.cos(a) * v, vy: Math.sin(a) * v - 8, r: Math.random() * 6, vr: (Math.random() - .5) * .3, s: 8 + Math.random() * 10, c: cols[i % cols.length], life: 260 });
