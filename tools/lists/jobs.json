@@ -1,0 +1,2944 @@
+{
+ "source": "U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics (OEWS), May 2025 — News release Table 1 'National employment and wage data by occupation' (https://www.bls.gov/news.release/ocwage.t01.htm, released 2026-05-15). Detailed occupations only (group totals excluded). 7 transportation/production rows not reachable in that table extract were taken from the same May 2025 OEWS estimates via BLS TED (nuclear power reactor operators: https://www.bls.gov/opub/ted/2026/recognizing-nuclear-science-occupations-for-nuclear-science-week.htm) and wagedex.com pages reproducing BLS OEWS May 2025 (airline pilots, commercial pilots, air traffic controllers, ship captains, ship engineers, power plant operators).",
+ "unit": "USD/year",
+ "rows": [
+  {
+   "text": "Pediatric surgeon",
+   "count": 502050,
+   "aliases": [
+    "pediatric surgeons",
+    "Pediatric surgeons"
+   ]
+  },
+  {
+   "text": "Cardiologist",
+   "count": 454940,
+   "aliases": [
+    "cardiologists",
+    "Cardiologists"
+   ]
+  },
+  {
+   "text": "Radiologist",
+   "count": 381530,
+   "aliases": [
+    "radiologists",
+    "Radiologists"
+   ]
+  },
+  {
+   "text": "Surgeon",
+   "count": 373930,
+   "aliases": [
+    "Cirujano",
+    "cirujana",
+    "cirujano general",
+    "surgeons, all other",
+    "Surgeons, all other"
+   ]
+  },
+  {
+   "text": "Orthopedic surgeon",
+   "count": 373570,
+   "aliases": [
+    "ortopedista",
+    "orthopedic surgeon",
+    "Orthopedic surgeons, except pediatric"
+   ]
+  },
+  {
+   "text": "Anesthesiologist",
+   "count": 360570,
+   "aliases": [
+    "anestesista",
+    "anesthesiologists",
+    "Anesthesiologists"
+   ]
+  },
+  {
+   "text": "Oral and maxillofacial surgeon",
+   "count": 346490,
+   "aliases": [
+    "cirujano dentista",
+    "cirujano oral",
+    "oral surgeon",
+    "cirujana maxilofacial",
+    "oral and maxillofacial surgeons",
+    "Oral and maxillofacial surgeons"
+   ]
+  },
+  {
+   "text": "Dermatologist",
+   "count": 323530,
+   "aliases": [
+    "dermatologists",
+    "Dermatologists"
+   ]
+  },
+  {
+   "text": "Emergency medicine physician",
+   "count": 317480,
+   "aliases": [
+    "emergency physician",
+    "emergency medicine physicians",
+    "Emergency medicine physicians"
+   ]
+  },
+  {
+   "text": "Ophthalmologist",
+   "count": 304650,
+   "aliases": [
+    "oculista",
+    "ophthalmologist",
+    "Ophthalmologists, except pediatric"
+   ]
+  },
+  {
+   "text": "Airline pilot",
+   "count": 288650,
+   "aliases": [
+    "piloto",
+    "copiloto",
+    "aviador",
+    "airline pilot",
+    "pilot",
+    "airline pilots, copilots, and flight engineers",
+    "Airline pilots, copilots, and flight engineers",
+    "Airline pilots, copilots, and flight engineer",
+    "pilot"
+   ]
+  },
+  {
+   "text": "Pathologist",
+   "count": 285420,
+   "aliases": [
+    "pathologist",
+    "physicians, pathologists",
+    "Physicians, pathologists",
+    "Physicians, pathologist"
+   ]
+  },
+  {
+   "text": "Obstetrician and gynecologist",
+   "count": 279040,
+   "aliases": [
+    "obstetra",
+    "gineco",
+    "gynecologist",
+    "OB-GYN",
+    "obstetricians and gynecologists",
+    "Obstetricians and gynecologists",
+    "Obstetrician",
+    "Gynecologist"
+   ]
+  },
+  {
+   "text": "Psychiatrist",
+   "count": 269940,
+   "aliases": [
+    "psychiatrists",
+    "Psychiatrists",
+    "shrink"
+   ]
+  },
+  {
+   "text": "Chief executive",
+   "count": 269630,
+   "aliases": [
+    "Director ejecutivo",
+    "CEO",
+    "gerente general",
+    "presidente ejecutivo",
+    "director general",
+    "directora ejecutiva",
+    "chief executives",
+    "Chief executives",
+    "CEO",
+    "executive",
+    "boss"
+   ]
+  },
+  {
+   "text": "Prosthodontist",
+   "count": 268630,
+   "aliases": [
+    "rehabilitador oral",
+    "prosthodontists",
+    "Prosthodontists"
+   ]
+  },
+  {
+   "text": "Neurologist",
+   "count": 267630,
+   "aliases": [
+    "neurologists",
+    "Neurologists"
+   ]
+  },
+  {
+   "text": "General internal medicine physician",
+   "count": 267200,
+   "aliases": [
+    "internist",
+    "general internal medicine physicians",
+    "General internal medicine physicians"
+   ]
+  },
+  {
+   "text": "Physician",
+   "count": 262040,
+   "aliases": [
+    "doctor",
+    "doctora",
+    "physicians, all other",
+    "Physicians, all other",
+    "doctor",
+    "medic",
+    "MD"
+   ]
+  },
+  {
+   "text": "Orthodontist",
+   "count": 259400,
+   "aliases": [
+    "orthodontists",
+    "Orthodontists"
+   ]
+  },
+  {
+   "text": "Family medicine physician",
+   "count": 255820,
+   "aliases": [
+    "family doctor",
+    "family medicine physicians",
+    "Family medicine physicians"
+   ]
+  },
+  {
+   "text": "Nurse anesthetist",
+   "count": 248320,
+   "aliases": [
+    "enfermera anestesista",
+    "nurse anesthetists",
+    "Nurse anesthetists"
+   ]
+  },
+  {
+   "text": "Dental specialist",
+   "count": 247930,
+   "aliases": [
+    "endodoncista",
+    "periodoncista",
+    "odontopediatra",
+    "dentists, all other specialists",
+    "Dentists, all other specialists",
+    "Dentists, all other specialist"
+   ]
+  },
+  {
+   "text": "Pediatrician",
+   "count": 212110,
+   "aliases": [
+    "pediatrician",
+    "Pediatricians, general"
+   ]
+  },
+  {
+   "text": "Athlete and sports competitor",
+   "count": 206180,
+   "aliases": [
+    "deportista",
+    "atleta",
+    "futbolista",
+    "jugador profesional",
+    "athlete",
+    "athletes and sports competitors",
+    "Athletes and sports competitors",
+    "athlete",
+    "sportsman",
+    "football player",
+    "soccer player",
+    "basketball player",
+    "professional athlete"
+   ]
+  },
+  {
+   "text": "Computer and information systems manager",
+   "count": 192160,
+   "aliases": [
+    "Gerente de sistemas",
+    "gerente de TI",
+    "jefe de sistemas",
+    "CIO",
+    "CTO",
+    "IT manager",
+    "computer and information systems managers",
+    "Computer and information systems managers"
+   ]
+  },
+  {
+   "text": "Dentist",
+   "count": 191350,
+   "aliases": [
+    "dentist",
+    "Dentists, general",
+    "dentist"
+   ]
+  },
+  {
+   "text": "Financial manager",
+   "count": 186910,
+   "aliases": [
+    "gerente de finanzas",
+    "CFO",
+    "director financiero",
+    "gerente financiera",
+    "financial managers",
+    "Financial managers"
+   ]
+  },
+  {
+   "text": "Lawyer",
+   "count": 185840,
+   "aliases": [
+    "abogada",
+    "letrado",
+    "attorney",
+    "lawyers",
+    "Lawyers",
+    "attorney"
+   ]
+  },
+  {
+   "text": "Architectural and engineering manager",
+   "count": 181540,
+   "aliases": [
+    "engineering manager",
+    "architectural and engineering managers",
+    "Architectural and engineering managers"
+   ]
+  },
+  {
+   "text": "Natural sciences manager",
+   "count": 180250,
+   "aliases": [
+    "gerente de I+D",
+    "natural sciences managers",
+    "Natural sciences managers"
+   ]
+  },
+  {
+   "text": "Marketing manager",
+   "count": 177770,
+   "aliases": [
+    "gerente de mercadeo",
+    "jefe de marketing",
+    "marketing managers",
+    "Marketing managers"
+   ]
+  },
+  {
+   "text": "Podiatrist",
+   "count": 175480,
+   "aliases": [
+    "podiatra",
+    "podiatrists",
+    "Podiatrists"
+   ]
+  },
+  {
+   "text": "Physicist",
+   "count": 171180,
+   "aliases": [
+    "physicists",
+    "Physicists"
+   ]
+  },
+  {
+   "text": "Industrial-organizational psychologist",
+   "count": 170230,
+   "aliases": [
+    "organizational psychologist",
+    "industrial-organizational psychologists",
+    "Industrial-organizational psychologists"
+   ]
+  },
+  {
+   "text": "Public relations manager",
+   "count": 164760,
+   "aliases": [
+    "gerente de RRPP",
+    "public relations managers",
+    "Public relations managers"
+   ]
+  },
+  {
+   "text": "Sales manager",
+   "count": 164350,
+   "aliases": [
+    "jefe de ventas",
+    "gerente comercial",
+    "sales managers",
+    "Sales managers"
+   ]
+  },
+  {
+   "text": "Human resources manager",
+   "count": 164230,
+   "aliases": [
+    "gerente de RRHH",
+    "jefe de recursos humanos",
+    "jefe de personal",
+    "HR manager",
+    "human resources managers",
+    "Human resources managers"
+   ]
+  },
+  {
+   "text": "Computer hardware engineer",
+   "count": 162670,
+   "aliases": [
+    "ingeniero de computadoras",
+    "hardware engineer",
+    "ingeniera de hardware",
+    "computer hardware engineers",
+    "Computer hardware engineers"
+   ]
+  },
+  {
+   "text": "Compensation and benefits manager",
+   "count": 162640,
+   "aliases": [
+    "gerente de compensaciones",
+    "compensation manager",
+    "compensation and benefits managers",
+    "Compensation and benefits managers"
+   ]
+  },
+  {
+   "text": "Petroleum engineer",
+   "count": 157150,
+   "aliases": [
+    "ingeniera petrolera",
+    "petroleum engineers",
+    "Petroleum engineers",
+    "oil engineer"
+   ]
+  },
+  {
+   "text": "Personal financial advisor",
+   "count": 156670,
+   "aliases": [
+    "asesora financiera",
+    "asesor de inversiones",
+    "financial advisor",
+    "personal financial advisors",
+    "Personal financial advisors"
+   ]
+  },
+  {
+   "text": "Purchasing manager",
+   "count": 156360,
+   "aliases": [
+    "jefe de compras",
+    "purchasing managers",
+    "Purchasing managers"
+   ]
+  },
+  {
+   "text": "Advertising and promotions manager",
+   "count": 154280,
+   "aliases": [
+    "jefe de publicidad",
+    "advertising manager",
+    "advertising and promotions managers",
+    "Advertising and promotions managers"
+   ]
+  },
+  {
+   "text": "Computer and information research scientist",
+   "count": 153930,
+   "aliases": [
+    "computer scientist",
+    "computer and information research scientists",
+    "Computer and information research scientists"
+   ]
+  },
+  {
+   "text": "Medical dosimetrist",
+   "count": 148500,
+   "aliases": [
+    "dosimetrista",
+    "medical dosimetrists",
+    "Medical dosimetrists"
+   ]
+  },
+  {
+   "text": "Training and development manager",
+   "count": 148370,
+   "aliases": [
+    "training manager",
+    "training and development managers",
+    "Training and development managers"
+   ]
+  },
+  {
+   "text": "Software developer",
+   "count": 148100,
+   "aliases": [
+    "ingeniero de software",
+    "developer",
+    "desarrolladora",
+    "software engineer",
+    "desarrolladora de software",
+    "software developers",
+    "Software developers",
+    "software engineer",
+    "developer",
+    "dev"
+   ]
+  },
+  {
+   "text": "Health specialties professor",
+   "count": 147570,
+   "aliases": [
+    "profesor de medicina",
+    "profesora universitaria de medicina",
+    "Health specialties teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Air traffic controller",
+   "count": 146490,
+   "aliases": [
+    "air traffic controllers",
+    "Air traffic controllers",
+    "ATC"
+   ]
+  },
+  {
+   "text": "Commercial pilot",
+   "count": 146080,
+   "aliases": [
+    "Piloto comercial",
+    "piloto de avioneta",
+    "commercial pilots",
+    "Commercial pilots"
+   ]
+  },
+  {
+   "text": "Law professor",
+   "count": 144770,
+   "aliases": [
+    "profesor de derecho",
+    "profesora universitaria de derecho",
+    "Law teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Database architect",
+   "count": 144440,
+   "aliases": [
+    "arquitecta de bases de datos",
+    "database architects",
+    "Database architects"
+   ]
+  },
+  {
+   "text": "Judge",
+   "count": 143830,
+   "aliases": [
+    "jueza",
+    "magistrado",
+    "magistrada",
+    "judge",
+    "judges, magistrate judges, and magistrates",
+    "Judges, magistrate judges, and magistrates",
+    "Judges, magistrate judges, and magistrate"
+   ]
+  },
+  {
+   "text": "Veterinarian",
+   "count": 142680,
+   "aliases": [
+    "vet",
+    "veterinaria",
+    "veterinarians",
+    "Veterinarians",
+    "vet"
+   ]
+  },
+  {
+   "text": "Political scientist",
+   "count": 142510,
+   "aliases": [
+    "political scientists",
+    "Political scientists"
+   ]
+  },
+  {
+   "text": "Economist",
+   "count": 142130,
+   "aliases": [
+    "economists",
+    "Economists"
+   ]
+  },
+  {
+   "text": "Aerospace engineer",
+   "count": 142060,
+   "aliases": [
+    "ingeniera aeroespacial",
+    "aerospace engineers",
+    "Aerospace engineers"
+   ]
+  },
+  {
+   "text": "Talent agent",
+   "count": 141580,
+   "aliases": [
+    "agente deportivo",
+    "agente de artistas",
+    "representante de futbolistas",
+    "agent",
+    "agents and business managers of artists, performers, and athletes",
+    "Agents and business managers of artists, performers, and athletes",
+    "Agents and business managers of artists, performers, and athlete"
+   ]
+  },
+  {
+   "text": "Optometrist",
+   "count": 141550,
+   "aliases": [
+    "optometrists",
+    "Optometrists"
+   ]
+  },
+  {
+   "text": "Actuary",
+   "count": 141480,
+   "aliases": [
+    "actuaria",
+    "actuaries",
+    "Actuaries"
+   ]
+  },
+  {
+   "text": "Physician assistant",
+   "count": 141280,
+   "aliases": [
+    "PA",
+    "physician assistants",
+    "Physician assistants"
+   ]
+  },
+  {
+   "text": "Medical and health services manager",
+   "count": 140970,
+   "aliases": [
+    "administrador de hospital",
+    "gerente de salud",
+    "health services manager",
+    "directora de hospital",
+    "medical and health services managers",
+    "Medical and health services managers"
+   ]
+  },
+  {
+   "text": "Pharmacist",
+   "count": 140920,
+   "aliases": [
+    "boticario",
+    "pharmacists",
+    "Pharmacists",
+    "chemist (pharmacy)"
+   ]
+  },
+  {
+   "text": "Nuclear engineer",
+   "count": 140420,
+   "aliases": [
+    "ingeniera nuclear",
+    "nuclear engineers",
+    "Nuclear engineers"
+   ]
+  },
+  {
+   "text": "Fundraising manager",
+   "count": 140020,
+   "aliases": [
+    "fundraising managers",
+    "Fundraising managers"
+   ]
+  },
+  {
+   "text": "Computer network architect",
+   "count": 139580,
+   "aliases": [
+    "network architect",
+    "arquitecta de redes",
+    "computer network architects",
+    "Computer network architects"
+   ]
+  },
+  {
+   "text": "Economics professor",
+   "count": 138850,
+   "aliases": [
+    "Economics teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Nurse practitioner",
+   "count": 137300,
+   "aliases": [
+    "nurse practitioners",
+    "Nurse practitioners"
+   ]
+  },
+  {
+   "text": "Electronics engineer",
+   "count": 137280,
+   "aliases": [
+    "electronics engineer",
+    "Electronics engineers, except computer"
+   ]
+  },
+  {
+   "text": "Nurse midwife",
+   "count": 136980,
+   "aliases": [
+    "obstetriz",
+    "partera",
+    "matrona",
+    "nurse midwife",
+    "midwife",
+    "nurse midwives",
+    "Nurse midwives"
+   ]
+  },
+  {
+   "text": "General and operations manager",
+   "count": 134940,
+   "aliases": [
+    "gerente general de operaciones",
+    "jefe de operaciones",
+    "general and operations managers",
+    "General and operations managers"
+   ]
+  },
+  {
+   "text": "Industrial production manager",
+   "count": 134170,
+   "aliases": [
+    "jefe de planta",
+    "production manager",
+    "industrial production managers",
+    "Industrial production managers"
+   ]
+  },
+  {
+   "text": "Astronomer",
+   "count": 132920,
+   "aliases": [
+    "astronomers",
+    "Astronomers"
+   ]
+  },
+  {
+   "text": "Information security analyst",
+   "count": 132510,
+   "aliases": [
+    "ciberseguridad",
+    "experto en ciberseguridad",
+    "security analyst",
+    "information security analysts",
+    "Information security analysts"
+   ]
+  },
+  {
+   "text": "Sales engineer",
+   "count": 130140,
+   "aliases": [
+    "ingeniera de ventas",
+    "sales engineers",
+    "Sales engineers"
+   ]
+  },
+  {
+   "text": "Chemical engineer",
+   "count": 129980,
+   "aliases": [
+    "chemical engineers",
+    "Chemical engineers"
+   ]
+  },
+  {
+   "text": "Administrative services manager",
+   "count": 129870,
+   "aliases": [
+    "gerente administrativo",
+    "administrative services managers",
+    "Administrative services managers"
+   ]
+  },
+  {
+   "text": "Biochemist and biophysicist",
+   "count": 129840,
+   "aliases": [
+    "biochemist",
+    "biochemists and biophysicists",
+    "Biochemists and biophysicists",
+    "Biochemist",
+    "Biophysicist"
+   ]
+  },
+  {
+   "text": "Art director",
+   "count": 129440,
+   "aliases": [
+    "directora de arte",
+    "art directors",
+    "Art directors"
+   ]
+  },
+  {
+   "text": "Mathematician",
+   "count": 129260,
+   "aliases": [
+    "mathematicians",
+    "Mathematicians"
+   ]
+  },
+  {
+   "text": "Data scientist",
+   "count": 126800,
+   "aliases": [
+    "analista de datos",
+    "data scientists",
+    "Data scientists",
+    "scientist"
+   ]
+  },
+  {
+   "text": "Education administrator",
+   "count": 126540,
+   "aliases": [
+    "rector",
+    "decano",
+    "director universitario",
+    "administradora universitaria",
+    "Education administrators, postsecondary"
+   ]
+  },
+  {
+   "text": "Materials scientist",
+   "count": 126180,
+   "aliases": [
+    "materials scientists",
+    "Materials scientists"
+   ]
+  },
+  {
+   "text": "Administrative law judge",
+   "count": 125990,
+   "aliases": [
+    "jueza administrativa",
+    "administrative law judge",
+    "juez administrativa",
+    "administrative law judges, adjudicators, and hearing officers",
+    "Administrative law judges, adjudicators, and hearing officers",
+    "Administrative law judges, adjudicators, and hearing officer"
+   ]
+  },
+  {
+   "text": "Electrical engineer",
+   "count": 125100,
+   "aliases": [
+    "ingeniero electricista",
+    "electrical engineers",
+    "Electrical engineers"
+   ]
+  },
+  {
+   "text": "Engineering professor",
+   "count": 124520,
+   "aliases": [
+    "Engineering teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Financial risk specialist",
+   "count": 124420,
+   "aliases": [
+    "analista de riesgos",
+    "risk analyst",
+    "financial risk specialists",
+    "Financial risk specialists"
+   ]
+  },
+  {
+   "text": "Construction manager",
+   "count": 124360,
+   "aliases": [
+    "gerente de obra",
+    "jefe de obra",
+    "construction managers",
+    "Construction managers"
+   ]
+  },
+  {
+   "text": "Marine engineer and naval architect",
+   "count": 124180,
+   "aliases": [
+    "arquitecto naval",
+    "marine engineer",
+    "ingeniera naval",
+    "marine engineers and naval architects",
+    "Marine engineers and naval architects"
+   ]
+  },
+  {
+   "text": "Logistics manager",
+   "count": 121600,
+   "aliases": [
+    "gerente de transporte",
+    "logistics manager",
+    "transportation, storage, and distribution managers",
+    "Transportation, storage, and distribution managers",
+    "Transportation, storage, and distribution manager"
+   ]
+  },
+  {
+   "text": "Nuclear power reactor operator",
+   "count": 121380,
+   "aliases": [
+    "operador nuclear",
+    "nuclear reactor operator",
+    "operadora de reactor nuclear",
+    "nuclear power reactor operators",
+    "Nuclear power reactor operators"
+   ]
+  },
+  {
+   "text": "Materials engineer",
+   "count": 120250,
+   "aliases": [
+    "ingeniera de materiales",
+    "materials engineers",
+    "Materials engineers"
+   ]
+  },
+  {
+   "text": "Health and safety engineer",
+   "count": 119770,
+   "aliases": [
+    "ingeniero de seguridad",
+    "safety engineer",
+    "ingeniera de seguridad industrial",
+    "health and safety engineers, except mining safety engineers and inspectors",
+    "Health and safety engineers, except mining safety engineers and inspectors",
+    "Health and safety engineers, except mining safety engineers and inspector"
+   ]
+  },
+  {
+   "text": "Technical sales representative",
+   "count": 119730,
+   "aliases": [
+    "sales representatives, wholesale and manufacturing, technical and scientific products",
+    "Sales representatives, wholesale and manufacturing, technical and scientific products",
+    "Sales representatives, wholesale and manufacturing, technical and scientific product"
+   ]
+  },
+  {
+   "text": "Web and digital interface designer",
+   "count": 117490,
+   "aliases": [
+    "UX designer",
+    "web designer",
+    "web and digital interface designers",
+    "Web and digital interface designers"
+   ]
+  },
+  {
+   "text": "Facilities manager",
+   "count": 116890,
+   "aliases": [
+    "jefe de mantenimiento",
+    "facilities managers",
+    "Facilities managers"
+   ]
+  },
+  {
+   "text": "Bioengineer and biomedical engineer",
+   "count": 116890,
+   "aliases": [
+    "bioingeniero",
+    "biomedical engineer",
+    "bioengineers and biomedical engineers",
+    "Bioengineers and biomedical engineers"
+   ]
+  },
+  {
+   "text": "Medical scientist",
+   "count": 116840,
+   "aliases": [
+    "medical scientist",
+    "medical scientists, except epidemiologists",
+    "Medical scientists, except epidemiologists",
+    "Medical scientists, except epidemiologist"
+   ]
+  },
+  {
+   "text": "Financial and investment analyst",
+   "count": 116800,
+   "aliases": [
+    "analista de inversiones",
+    "financial analyst",
+    "analista financiera",
+    "financial and investment analysts",
+    "Financial and investment analysts"
+   ]
+  },
+  {
+   "text": "Geoscientist",
+   "count": 116150,
+   "aliases": [
+    "geologist",
+    "geoscientists, except hydrologists and geographers",
+    "Geoscientists, except hydrologists and geographers",
+    "Geoscientists, except hydrologists and geographer"
+   ]
+  },
+  {
+   "text": "School principal",
+   "count": 116100,
+   "aliases": [
+    "director de escuela",
+    "director escolar",
+    "directora de colegio",
+    "principal",
+    "Education administrators, kindergarten through secondary"
+   ]
+  },
+  {
+   "text": "Earth sciences professor",
+   "count": 116020,
+   "aliases": [
+    "profesora universitaria de ciencias de la tierra",
+    "Atmospheric, earth, marine, and space sciences teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Statistician",
+   "count": 115700,
+   "aliases": [
+    "statisticians",
+    "Statisticians"
+   ]
+  },
+  {
+   "text": "Mining engineer",
+   "count": 115410,
+   "aliases": [
+    "ingeniero minero",
+    "mining engineer",
+    "ingeniera de minas",
+    "mining and geological engineers, including mining safety engineers",
+    "Mining and geological engineers, including mining safety engineers",
+    "Mining and geological engineers, including mining safety engineer"
+   ]
+  },
+  {
+   "text": "Radiation therapist",
+   "count": 114990,
+   "aliases": [
+    "radiation therapists",
+    "Radiation therapists"
+   ]
+  },
+  {
+   "text": "Sociologist",
+   "count": 114920,
+   "aliases": [
+    "sociologists",
+    "Sociologists"
+   ]
+  },
+  {
+   "text": "Business professor",
+   "count": 114720,
+   "aliases": [
+    "profesora universitaria de negocios",
+    "Business teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Computer systems analyst",
+   "count": 114610,
+   "aliases": [
+    "systems analyst",
+    "computer systems analysts",
+    "Computer systems analysts"
+   ]
+  },
+  {
+   "text": "Management analyst",
+   "count": 113790,
+   "aliases": [
+    "consultor",
+    "consultor empresarial",
+    "consultant",
+    "management analysts",
+    "Management analysts"
+   ]
+  },
+  {
+   "text": "Mechanical engineer",
+   "count": 113610,
+   "aliases": [
+    "mechanical engineers",
+    "Mechanical engineers"
+   ]
+  },
+  {
+   "text": "Producer and director",
+   "count": 113300,
+   "aliases": [
+    "director de cine",
+    "productor",
+    "cineasta",
+    "director de TV",
+    "producer",
+    "film director",
+    "productora",
+    "producers and directors",
+    "Producers and directors",
+    "film director",
+    "producer",
+    "director",
+    "movie producer"
+   ]
+  },
+  {
+   "text": "Environmental engineer",
+   "count": 112910,
+   "aliases": [
+    "ingeniera ambiental",
+    "environmental engineers",
+    "Environmental engineers"
+   ]
+  },
+  {
+   "text": "Special effects artist and animator",
+   "count": 112870,
+   "aliases": [
+    "animador",
+    "animador 3D",
+    "artista VFX",
+    "animator",
+    "animadora",
+    "special effects artists and animators",
+    "Special effects artists and animators"
+   ]
+  },
+  {
+   "text": "Clinical and counseling psychologist",
+   "count": 112750,
+   "aliases": [
+    "terapeuta",
+    "psychologist",
+    "clinical and counseling psychologists",
+    "Clinical and counseling psychologists",
+    "psychologist",
+    "therapist",
+    "counselor"
+   ]
+  },
+  {
+   "text": "First-line supervisors of police and detective",
+   "count": 112190,
+   "aliases": [
+    "comisario",
+    "police chief",
+    "first-line supervisors of police and detectives",
+    "First-line supervisors of police and detectives"
+   ]
+  },
+  {
+   "text": "Ship engineer",
+   "count": 111790,
+   "aliases": [
+    "maquinista naval",
+    "ingeniera de barco",
+    "ship engineers",
+    "Ship engineers"
+   ]
+  },
+  {
+   "text": "Software quality assurance analyst and tester",
+   "count": 111490,
+   "aliases": [
+    "QA",
+    "analista QA",
+    "tester",
+    "software quality assurance analysts and testers",
+    "Software quality assurance analysts and testers"
+   ]
+  },
+  {
+   "text": "Physics professor",
+   "count": 111460,
+   "aliases": [
+    "Physics teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Project management specialist",
+   "count": 110740,
+   "aliases": [
+    "project manager",
+    "jefe de proyecto",
+    "gerente de proyectos",
+    "PM",
+    "gestora de proyectos",
+    "project management specialists",
+    "Project management specialists"
+   ]
+  },
+  {
+   "text": "Database administrator",
+   "count": 110090,
+   "aliases": [
+    "DBA",
+    "administradora de bases de datos",
+    "database administrators",
+    "Database administrators"
+   ]
+  },
+  {
+   "text": "Industrial engineer",
+   "count": 109900,
+   "aliases": [
+    "ingeniera industrial",
+    "industrial engineers",
+    "Industrial engineers"
+   ]
+  },
+  {
+   "text": "Elevator and escalator installer and repairer",
+   "count": 109820,
+   "aliases": [
+    "instalador de ascensores",
+    "elevator mechanic",
+    "elevator and escalator installers and repairers",
+    "Elevator and escalator installers and repairers"
+   ]
+  },
+  {
+   "text": "Stockbroker",
+   "count": 109150,
+   "aliases": [
+    "agente de bolsa",
+    "trader",
+    "stockbroker",
+    "corredora de bolsa",
+    "securities, commodities, and financial services sales agents",
+    "Securities, commodities, and financial services sales agents",
+    "Securities, commodities, and financial services sales agent",
+    "broker",
+    "trader"
+   ]
+  },
+  {
+   "text": "Nuclear technician",
+   "count": 108940,
+   "aliases": [
+    "nuclear technicians",
+    "Nuclear technicians"
+   ]
+  },
+  {
+   "text": "Civil engineer",
+   "count": 108670,
+   "aliases": [
+    "ingeniera civil",
+    "civil engineers",
+    "Civil engineers"
+   ]
+  },
+  {
+   "text": "Agricultural engineer",
+   "count": 108230,
+   "aliases": [
+    "agricultural engineers",
+    "Agricultural engineers"
+   ]
+  },
+  {
+   "text": "Political science professor",
+   "count": 108100,
+   "aliases": [
+    "Political science teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Anthropology and archeology professor",
+   "count": 106880,
+   "aliases": [
+    "Anthropology and archeology teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Architect",
+   "count": 106260,
+   "aliases": [
+    "architect",
+    "arquitecta",
+    "Architects, except landscape and naval"
+   ]
+  },
+  {
+   "text": "Financial examiner",
+   "count": 106240,
+   "aliases": [
+    "supervisor bancario",
+    "examinadora financiera",
+    "financial examiners",
+    "Financial examiners"
+   ]
+  },
+  {
+   "text": "Atmospheric and space scientist",
+   "count": 106110,
+   "aliases": [
+    "meteorologist",
+    "atmospheric and space scientists",
+    "Atmospheric and space scientists"
+   ]
+  },
+  {
+   "text": "Physical therapist",
+   "count": 105280,
+   "aliases": [
+    "physiotherapist",
+    "physical therapists",
+    "Physical therapists"
+   ]
+  },
+  {
+   "text": "Chemistry professor",
+   "count": 105210,
+   "aliases": [
+    "Chemistry teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Computer programmer",
+   "count": 105170,
+   "aliases": [
+    "programadora",
+    "coder",
+    "programmer",
+    "computer programmers",
+    "Computer programmers",
+    "programmer",
+    "coder"
+   ]
+  },
+  {
+   "text": "Nuclear medicine technologist",
+   "count": 105160,
+   "aliases": [
+    "nuclear medicine technologists",
+    "Nuclear medicine technologists"
+   ]
+  },
+  {
+   "text": "Genetic counselor",
+   "count": 104620,
+   "aliases": [
+    "genetic counselors",
+    "Genetic counselors"
+   ]
+  },
+  {
+   "text": "Computer science professor",
+   "count": 104420,
+   "aliases": [
+    "Computer science teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Ship captain",
+   "count": 103720,
+   "aliases": [
+    "capitana",
+    "oficial de marina mercante",
+    "marino",
+    "ship captain",
+    "captains, mates, and pilots of water vessels",
+    "Captains, mates, and pilots of water vessels",
+    "Captains, mates, and pilots of water vessel",
+    "captain",
+    "sailor"
+   ]
+  },
+  {
+   "text": "Network and computer systems administrator",
+   "count": 103680,
+   "aliases": [
+    "sysadmin",
+    "administrador de sistemas",
+    "network administrator",
+    "administradora de redes",
+    "network and computer systems administrators",
+    "Network and computer systems administrators"
+   ]
+  },
+  {
+   "text": "Environmental science professor",
+   "count": 103610,
+   "aliases": [
+    "profesora universitaria de ciencias ambientales",
+    "Environmental science teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Hydrologist",
+   "count": 103600,
+   "aliases": [
+    "hydrologists",
+    "Hydrologists"
+   ]
+  },
+  {
+   "text": "Gambling manager",
+   "count": 103050,
+   "aliases": [
+    "gambling managers",
+    "Gambling managers"
+   ]
+  },
+  {
+   "text": "Biological science professor",
+   "count": 102840,
+   "aliases": [
+    "Biological science teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Journalist",
+   "count": 102460,
+   "aliases": [
+    "reportero",
+    "reportera",
+    "journalist",
+    "reporter",
+    "news analysts, reporters, and journalists",
+    "News analysts, reporters, and journalists",
+    "News analysts, reporters, and journalist",
+    "reporter"
+   ]
+  },
+  {
+   "text": "Forestry and conservation science professor",
+   "count": 102450,
+   "aliases": [
+    "profesora universitaria de ciencias forestales",
+    "Forestry and conservation science teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Emergency management director",
+   "count": 102420,
+   "aliases": [
+    "director de defensa civil",
+    "emergency management directors",
+    "Emergency management directors"
+   ]
+  },
+  {
+   "text": "Geographer",
+   "count": 102350,
+   "aliases": [
+    "geographers",
+    "Geographers"
+   ]
+  },
+  {
+   "text": "Geography professor",
+   "count": 102350,
+   "aliases": [
+    "Geography teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Makeup artist",
+   "count": 102240,
+   "aliases": [
+    "maquillador",
+    "maquilladora",
+    "makeup artist",
+    "Makeup artists, theatrical and performance"
+   ]
+  },
+  {
+   "text": "Agricultural sciences professor",
+   "count": 102050,
+   "aliases": [
+    "Agricultural sciences teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Registered nurse",
+   "count": 101420,
+   "aliases": [
+    "enfermera",
+    "nurse",
+    "registered nurses",
+    "Registered nurses",
+    "nurse"
+   ]
+  },
+  {
+   "text": "Occupational therapist",
+   "count": 101280,
+   "aliases": [
+    "occupational therapists",
+    "Occupational therapists"
+   ]
+  },
+  {
+   "text": "Architecture professor",
+   "count": 101250,
+   "aliases": [
+    "profesora universitaria de arquitectura",
+    "Architecture teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Credit analyst",
+   "count": 100850,
+   "aliases": [
+    "credit analysts",
+    "Credit analysts"
+   ]
+  },
+  {
+   "text": "Power station electrician",
+   "count": 100760,
+   "aliases": [
+    "Electrical and electronics repairers, powerhouse, substation, and relay"
+   ]
+  },
+  {
+   "text": "Chemist",
+   "count": 100450,
+   "aliases": [
+    "chemists",
+    "Chemists"
+   ]
+  },
+  {
+   "text": "Farmer",
+   "count": 99820,
+   "aliases": [
+    "agricultor",
+    "ganadero",
+    "granjero",
+    "hacendado",
+    "farmer",
+    "rancher",
+    "agricultora",
+    "farmers, ranchers, and other agricultural managers",
+    "Farmers, ranchers, and other agricultural managers",
+    "Farmers, ranchers, and other agricultural manager",
+    "rancher"
+   ]
+  },
+  {
+   "text": "Power plant operator",
+   "count": 99790,
+   "aliases": [
+    "power plant operators",
+    "Power plant operators"
+   ]
+  },
+  {
+   "text": "Operations research analyst",
+   "count": 99730,
+   "aliases": [
+    "operations research analysts",
+    "Operations research analysts"
+   ]
+  },
+  {
+   "text": "Detective and criminal investigator",
+   "count": 99430,
+   "aliases": [
+    "investigador criminal",
+    "investigador policial",
+    "detectives and criminal investigators",
+    "Detectives and criminal investigators"
+   ]
+  },
+  {
+   "text": "First-line supervisors of non-retail sales worker",
+   "count": 99370,
+   "aliases": [
+    "jefe de vendedores",
+    "sales supervisor",
+    "supervisora de ventas",
+    "first-line supervisors of non-retail sales workers",
+    "First-line supervisors of non-retail sales workers"
+   ]
+  },
+  {
+   "text": "School psychologist",
+   "count": 99160,
+   "aliases": [
+    "school psychologists",
+    "School psychologists"
+   ]
+  },
+  {
+   "text": "Dental hygienist",
+   "count": 98990,
+   "aliases": [
+    "dental hygienists",
+    "Dental hygienists"
+   ]
+  },
+  {
+   "text": "Web developer",
+   "count": 98770,
+   "aliases": [
+    "programador web",
+    "desarrolladora web",
+    "web developers",
+    "Web developers"
+   ]
+  },
+  {
+   "text": "Labor relations specialist",
+   "count": 98720,
+   "aliases": [
+    "labor relations specialists",
+    "Labor relations specialists"
+   ]
+  },
+  {
+   "text": "Cultural studies professor",
+   "count": 98330,
+   "aliases": [
+    "profesora universitaria de estudios culturales",
+    "Area, ethnic, and cultural studies teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Speech-language pathologist",
+   "count": 98170,
+   "aliases": [
+    "logopeda",
+    "speech therapist",
+    "speech-language pathologists",
+    "Speech-language pathologists"
+   ]
+  },
+  {
+   "text": "Epidemiologist",
+   "count": 97890,
+   "aliases": [
+    "epidemiologists",
+    "Epidemiologists"
+   ]
+  },
+  {
+   "text": "Audiologist",
+   "count": 97740,
+   "aliases": [
+    "audiologists",
+    "Audiologists"
+   ]
+  },
+  {
+   "text": "Microbiologist",
+   "count": 97600,
+   "aliases": [
+    "microbiologists",
+    "Microbiologists"
+   ]
+  },
+  {
+   "text": "Postmaster and mail superintendent",
+   "count": 97360,
+   "aliases": [
+    "administrador de correos",
+    "postmaster",
+    "postmasters and mail superintendents",
+    "Postmasters and mail superintendents"
+   ]
+  },
+  {
+   "text": "Diagnostic medical sonographer",
+   "count": 97240,
+   "aliases": [
+    "sonographer",
+    "diagnostic medical sonographers",
+    "Diagnostic medical sonographers"
+   ]
+  },
+  {
+   "text": "Sociology professor",
+   "count": 96980,
+   "aliases": [
+    "Sociology teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Technical writer",
+   "count": 96970,
+   "aliases": [
+    "technical writers",
+    "Technical writers"
+   ]
+  },
+  {
+   "text": "First-line supervisors of firefighting and prevention worker",
+   "count": 96930,
+   "aliases": [
+    "comandante de bomberos",
+    "fire chief",
+    "first-line supervisors of firefighting and prevention workers",
+    "First-line supervisors of firefighting and prevention workers"
+   ]
+  },
+  {
+   "text": "History professor",
+   "count": 96580,
+   "aliases": [
+    "profesor de historia",
+    "profesora universitaria de historia",
+    "History teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Budget analyst",
+   "count": 96370,
+   "aliases": [
+    "budget analysts",
+    "Budget analysts"
+   ]
+  },
+  {
+   "text": "Magnetic resonance imaging technologist",
+   "count": 96120,
+   "aliases": [
+    "MRI technologist",
+    "magnetic resonance imaging technologists",
+    "Magnetic resonance imaging technologists"
+   ]
+  },
+  {
+   "text": "Food scientist and technologist",
+   "count": 95360,
+   "aliases": [
+    "ingeniero de alimentos",
+    "food scientist",
+    "food scientists and technologists",
+    "Food scientists and technologists"
+   ]
+  },
+  {
+   "text": "Accountant and auditor",
+   "count": 94750,
+   "aliases": [
+    "contador",
+    "auditor",
+    "contable",
+    "contadora",
+    "auditora",
+    "accountant",
+    "accountants and auditors",
+    "Accountants and auditors",
+    "accountant",
+    "auditor"
+   ]
+  },
+  {
+   "text": "Urban and regional planner",
+   "count": 94750,
+   "aliases": [
+    "planificador urbano",
+    "urban planner",
+    "urban and regional planners",
+    "Urban and regional planners"
+   ]
+  },
+  {
+   "text": "Art, drama and music professor",
+   "count": 94700,
+   "aliases": [
+    "profesor de arte",
+    "profesor de teatro",
+    "Art, drama, and music teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Occupational health and safety specialist",
+   "count": 93860,
+   "aliases": [
+    "prevencionista",
+    "supervisor de seguridad",
+    "SSOMA",
+    "safety specialist",
+    "occupational health and safety specialists",
+    "Occupational health and safety specialists"
+   ]
+  },
+  {
+   "text": "Psychology professor",
+   "count": 93860,
+   "aliases": [
+    "Psychology teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Insurance underwriter",
+   "count": 93700,
+   "aliases": [
+    "underwriter",
+    "suscriptora de seguros",
+    "insurance underwriters",
+    "Insurance underwriters"
+   ]
+  },
+  {
+   "text": "Commercial and industrial designer",
+   "count": 93260,
+   "aliases": [
+    "industrial designer",
+    "commercial and industrial designers",
+    "Commercial and industrial designers"
+   ]
+  },
+  {
+   "text": "Funeral home manager",
+   "count": 92840,
+   "aliases": [
+    "funeral home managers",
+    "Funeral home managers"
+   ]
+  },
+  {
+   "text": "Philosophy and religion professor",
+   "count": 92040,
+   "aliases": [
+    "Philosophy and religion teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Electrical power-line installer and repairer",
+   "count": 91970,
+   "aliases": [
+    "liniero",
+    "lineman",
+    "electrical power-line installers and repairers",
+    "Electrical power-line installers and repairers"
+   ]
+  },
+  {
+   "text": "Transit and railroad police",
+   "count": 91810,
+   "aliases": [
+    "transit police"
+   ]
+  },
+  {
+   "text": "Environmental scientist",
+   "count": 91680,
+   "aliases": [
+    "especialista ambiental",
+    "environmental scientist",
+    "Environmental scientists and specialists, including health"
+   ]
+  },
+  {
+   "text": "Mathematical science professor",
+   "count": 91550,
+   "aliases": [
+    "Mathematical science teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Aerospace engineering and operations technologist and technician",
+   "count": 91310,
+   "aliases": [
+    "aerospace technician",
+    "aerospace engineering and operations technologists and technicians",
+    "Aerospace engineering and operations technologists and technicians"
+   ]
+  },
+  {
+   "text": "Fashion designer",
+   "count": 91230,
+   "aliases": [
+    "modisto",
+    "fashion designers",
+    "Fashion designers",
+    "designer"
+   ]
+  },
+  {
+   "text": "Mediator",
+   "count": 91010,
+   "aliases": [
+    "mediador",
+    "conciliador",
+    "mediadora",
+    "arbitrator",
+    "mediator",
+    "arbitrators, mediators, and conciliators",
+    "Arbitrators, mediators, and conciliators",
+    "Arbitrators, mediators, and conciliator"
+   ]
+  },
+  {
+   "text": "Chiropractor",
+   "count": 90520,
+   "aliases": [
+    "chiropractors",
+    "Chiropractors"
+   ]
+  },
+  {
+   "text": "Music director and composer",
+   "count": 90470,
+   "aliases": [
+    "compositor",
+    "director de orquesta",
+    "director musical",
+    "composer",
+    "conductor",
+    "directora de orquesta",
+    "music directors and composers",
+    "Music directors and composers",
+    "composer",
+    "conductor",
+    "musician"
+   ]
+  },
+  {
+   "text": "Signal and track switch repairer",
+   "count": 90410,
+   "aliases": [
+    "signal and track switch repairers",
+    "Signal and track switch repairers"
+   ]
+  },
+  {
+   "text": "Editor",
+   "count": 90060,
+   "aliases": [
+    "editora",
+    "editor de textos",
+    "editors",
+    "Editors"
+   ]
+  },
+  {
+   "text": "Communications professor",
+   "count": 90010,
+   "aliases": [
+    "profesora universitaria de comunicaciones",
+    "Communications teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Foreign language and literature professor",
+   "count": 89990,
+   "aliases": [
+    "profesor de idiomas",
+    "profesora universitaria de idiomas",
+    "Foreign language and literature teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Entertainment and recreation manager",
+   "count": 89750,
+   "aliases": [
+    "Entertainment and recreation managers, except gambling"
+   ]
+  },
+  {
+   "text": "Logistician",
+   "count": 89730,
+   "aliases": [
+    "logisticians",
+    "Logisticians"
+   ]
+  },
+  {
+   "text": "English language and literature professor",
+   "count": 89580,
+   "aliases": [
+    "profesor de literatura",
+    "profesora universitaria de literatura",
+    "English language and literature teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Market research analyst and marketing specialist",
+   "count": 89490,
+   "aliases": [
+    "investigador de mercados",
+    "especialista en marketing",
+    "market research analyst",
+    "market research analysts and marketing specialists",
+    "Market research analysts and marketing specialists"
+   ]
+  },
+  {
+   "text": "Social and community service manager",
+   "count": 88880,
+   "aliases": [
+    "social services manager",
+    "social and community service managers",
+    "Social and community service managers"
+   ]
+  },
+  {
+   "text": "Landscape architect",
+   "count": 88780,
+   "aliases": [
+    "paisajista",
+    "arquitecta paisajista",
+    "landscape architects",
+    "Landscape architects"
+   ]
+  },
+  {
+   "text": "Compliance officer",
+   "count": 88400,
+   "aliases": [
+    "compliance",
+    "compliance officers",
+    "Compliance officers"
+   ]
+  },
+  {
+   "text": "Animal scientist",
+   "count": 88350,
+   "aliases": [
+    "animal scientists",
+    "Animal scientists"
+   ]
+  },
+  {
+   "text": "Commercial diver",
+   "count": 88320,
+   "aliases": [
+    "buzo",
+    "buzo comercial",
+    "commercial divers",
+    "Commercial divers"
+   ]
+  },
+  {
+   "text": "Library science professor",
+   "count": 88110,
+   "aliases": [
+    "Library science teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Loan officer",
+   "count": 87790,
+   "aliases": [
+    "loan officers",
+    "Loan officers"
+   ]
+  },
+  {
+   "text": "Soil and plant scientist",
+   "count": 87720,
+   "aliases": [
+    "soil scientist",
+    "soil and plant scientists",
+    "Soil and plant scientists"
+   ]
+  },
+  {
+   "text": "Criminal justice and law enforcement professor",
+   "count": 87550,
+   "aliases": [
+    "Criminal justice and law enforcement teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Respiratory therapist",
+   "count": 87300,
+   "aliases": [
+    "terapeuta respiratoria",
+    "respiratory therapists",
+    "Respiratory therapists"
+   ]
+  },
+  {
+   "text": "Acupuncturist",
+   "count": 87020,
+   "aliases": [
+    "acupuncturists",
+    "Acupuncturists"
+   ]
+  },
+  {
+   "text": "Cartographer and photogrammetrist",
+   "count": 86690,
+   "aliases": [
+    "fotogrametrista",
+    "cartographer",
+    "cartographers and photogrammetrists",
+    "Cartographers and photogrammetrists",
+    "Cartographer",
+    "Photogrammetrist"
+   ]
+  },
+  {
+   "text": "Recreation and fitness studies professor",
+   "count": 86620,
+   "aliases": [
+    "Recreation and fitness studies teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "First-line supervisors of construction trade and extraction worker",
+   "count": 86450,
+   "aliases": [
+    "maestro de obra",
+    "capataz",
+    "supervisor de obra",
+    "foreman",
+    "first-line supervisors of construction trades and extraction workers",
+    "First-line supervisors of construction trades and extraction workers"
+   ]
+  },
+  {
+   "text": "Nursing instructor and professor",
+   "count": 86410,
+   "aliases": [
+    "Nursing instructors and teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Film and video editor",
+   "count": 86130,
+   "aliases": [
+    "editor de cine",
+    "editor audiovisual",
+    "video editor",
+    "editora de video",
+    "film and video editors",
+    "Film and video editors"
+   ]
+  },
+  {
+   "text": "Writer and author",
+   "count": 86090,
+   "aliases": [
+    "autor",
+    "escritora",
+    "autora",
+    "writer",
+    "writers and authors",
+    "Writers and authors",
+    "writer",
+    "author"
+   ]
+  },
+  {
+   "text": "Cost estimator",
+   "count": 85390,
+   "aliases": [
+    "presupuestista",
+    "estimadora de costos",
+    "cost estimators",
+    "Cost estimators"
+   ]
+  },
+  {
+   "text": "Mechanic supervisor",
+   "count": 85220,
+   "aliases": [
+    "supervisor de mantenimiento",
+    "jefe de taller",
+    "first-line supervisors of mechanics, installers, and repairers",
+    "First-line supervisors of mechanics, installers, and repairers",
+    "First-line supervisors of mechanics, installers, and repairer"
+   ]
+  },
+  {
+   "text": "Terrazzo worker and finisher",
+   "count": 84920,
+   "aliases": [
+    "terracista",
+    "terrazzo worker",
+    "terrazzo workers and finishers",
+    "Terrazzo workers and finishers"
+   ]
+  },
+  {
+   "text": "Aircraft mechanic and service technician",
+   "count": 84740,
+   "aliases": [
+    "aircraft mechanic",
+    "aircraft mechanics and service technicians",
+    "Aircraft mechanics and service technicians"
+   ]
+  },
+  {
+   "text": "First-line supervisors of correctional officer",
+   "count": 84380,
+   "aliases": [
+    "alcaide",
+    "first-line supervisors of correctional officers",
+    "First-line supervisors of correctional officers"
+   ]
+  },
+  {
+   "text": "Compensation specialist",
+   "count": 84330,
+   "aliases": [
+    "analista de compensaciones",
+    "compensation, benefits, and job analysis specialists",
+    "Compensation, benefits, and job analysis specialists",
+    "Compensation, benefits, and job analysis specialist"
+   ]
+  },
+  {
+   "text": "Public relations specialist",
+   "count": 84120,
+   "aliases": [
+    "PR",
+    "public relations specialists",
+    "Public relations specialists"
+   ]
+  },
+  {
+   "text": "Real estate broker",
+   "count": 83950,
+   "aliases": [
+    "agente inmobiliario",
+    "corredor de propiedades",
+    "realtor",
+    "corredora inmobiliaria",
+    "real estate brokers",
+    "Real estate brokers",
+    "realtor",
+    "real estate agent"
+   ]
+  },
+  {
+   "text": "Social work professor",
+   "count": 83940,
+   "aliases": [
+    "profesora universitaria de trabajo social",
+    "Social work teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Radiologic technologist and technician",
+   "count": 83840,
+   "aliases": [
+    "radiologic technologist",
+    "radiologic technologists and technicians",
+    "Radiologic technologists and technicians"
+   ]
+  },
+  {
+   "text": "Buyer and purchasing agent",
+   "count": 83770,
+   "aliases": [
+    "agente de compras",
+    "buyer",
+    "compradora",
+    "buyers and purchasing agents",
+    "Buyers and purchasing agents"
+   ]
+  },
+  {
+   "text": "Orthotist and prosthetist",
+   "count": 83740,
+   "aliases": [
+    "protesista",
+    "ortesista",
+    "prosthetist",
+    "orthotists and prosthetists",
+    "Orthotists and prosthetists",
+    "Orthotist",
+    "Prosthetist"
+   ]
+  },
+  {
+   "text": "Property manager",
+   "count": 83710,
+   "aliases": [
+    "administrador de edificios",
+    "administrador de condominio",
+    "property manager",
+    "administradora de propiedades",
+    "property, real estate, and community association managers",
+    "Property, real estate, and community association managers",
+    "Property, real estate, and community association manager"
+   ]
+  },
+  {
+   "text": "Avionics technician",
+   "count": 83380,
+   "aliases": [
+    "avionics technicians",
+    "Avionics technicians"
+   ]
+  },
+  {
+   "text": "Camera operator",
+   "count": 83210,
+   "aliases": [
+    "camera operator",
+    "Camera operators, television, video, and film"
+   ]
+  },
+  {
+   "text": "Set and exhibit designer",
+   "count": 83160,
+   "aliases": [
+    "set designer",
+    "set and exhibit designers",
+    "Set and exhibit designers"
+   ]
+  },
+  {
+   "text": "Zoologist and wildlife biologist",
+   "count": 83020,
+   "aliases": [
+    "zoologist",
+    "zoologists and wildlife biologists",
+    "Zoologists and wildlife biologists"
+   ]
+  },
+  {
+   "text": "Sales representative",
+   "count": 82530,
+   "aliases": [
+    "vendedor mayorista",
+    "ejecutivo de ventas",
+    "sales representative",
+    "sales representatives, wholesale and manufacturing, except technical and scientific products",
+    "Sales representatives, wholesale and manufacturing, except technical and scientific products",
+    "Sales representatives, wholesale and manufacturing, except technical and scientific product"
+   ]
+  },
+  {
+   "text": "Human resources specialist",
+   "count": 81990,
+   "aliases": [
+    "analista de RRHH",
+    "reclutador",
+    "HR specialist",
+    "human resources specialists",
+    "Human resources specialists"
+   ]
+  },
+  {
+   "text": "Computer network support specialist",
+   "count": 81870,
+   "aliases": [
+    "soporte de redes",
+    "computer network support specialists",
+    "Computer network support specialists"
+   ]
+  },
+  {
+   "text": "Insurance sales agent",
+   "count": 81480,
+   "aliases": [
+    "vendedor de seguros",
+    "corredor de seguros",
+    "insurance agent",
+    "insurance sales agents",
+    "Insurance sales agents"
+   ]
+  },
+  {
+   "text": "Sound engineering technician",
+   "count": 81390,
+   "aliases": [
+    "sonidista",
+    "sound engineer",
+    "ingeniera de sonido",
+    "sound engineering technicians",
+    "Sound engineering technicians"
+   ]
+  },
+  {
+   "text": "Electrical and electronics drafter",
+   "count": 81280,
+   "aliases": [
+    "electrical and electronics drafters",
+    "Electrical and electronics drafters"
+   ]
+  },
+  {
+   "text": "Historian",
+   "count": 81240,
+   "aliases": [
+    "historiadora",
+    "historians",
+    "Historians"
+   ]
+  },
+  {
+   "text": "Instructional coordinator",
+   "count": 80920,
+   "aliases": [
+    "instructional coordinators",
+    "Instructional coordinators"
+   ]
+  },
+  {
+   "text": "Pile driver operator",
+   "count": 80710,
+   "aliases": [
+    "operador de pilotes",
+    "operadora de piloteadora",
+    "pile driver operators",
+    "Pile driver operators"
+   ]
+  },
+  {
+   "text": "Electrical and electronic engineering technologist and technician",
+   "count": 80680,
+   "aliases": [
+    "electronics technician",
+    "electrical and electronic engineering technologists and technicians",
+    "Electrical and electronic engineering technologists and technicians"
+   ]
+  },
+  {
+   "text": "Advertising sales agent",
+   "count": 80670,
+   "aliases": [
+    "ejecutivo de publicidad",
+    "vendedora de publicidad",
+    "advertising sales agents",
+    "Advertising sales agents"
+   ]
+  },
+  {
+   "text": "Surveyor",
+   "count": 80570,
+   "aliases": [
+    "agrimensor",
+    "surveyors",
+    "Surveyors"
+   ]
+  },
+  {
+   "text": "Insurance claims adjuster",
+   "count": 80470,
+   "aliases": [
+    "perito de seguros",
+    "claims adjuster",
+    "ajustadora de seguros",
+    "claims adjusters, examiners, and investigators",
+    "Claims adjusters, examiners, and investigators",
+    "Claims adjusters, examiners, and investigator"
+   ]
+  },
+  {
+   "text": "Boilermaker",
+   "count": 80090,
+   "aliases": [
+    "calderera",
+    "boilermakers",
+    "Boilermakers"
+   ]
+  },
+  {
+   "text": "Survey researcher",
+   "count": 79580,
+   "aliases": [
+    "encuestador",
+    "investigadora de encuestas",
+    "survey researchers",
+    "Survey researchers"
+   ]
+  },
+  {
+   "text": "Education professor",
+   "count": 79350,
+   "aliases": [
+    "Education teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Forensic science technician",
+   "count": 79200,
+   "aliases": [
+    "criminalista",
+    "forense",
+    "forensic technician",
+    "perita forense",
+    "forensic science technicians",
+    "Forensic science technicians"
+   ]
+  },
+  {
+   "text": "Police and sheriff's patrol officer",
+   "count": 79200,
+   "aliases": [
+    "patrullero",
+    "police officer",
+    "sheriff",
+    "tombo",
+    "police and sheriff's patrol officers",
+    "Police and sheriff's patrol officers",
+    "police officer",
+    "cop",
+    "police",
+    "sheriff"
+   ]
+  },
+  {
+   "text": "Forester",
+   "count": 79170,
+   "aliases": [
+    "forestal",
+    "ingeniera forestal",
+    "foresters",
+    "Foresters"
+   ]
+  },
+  {
+   "text": "Executive secretary and executive administrative assistant",
+   "count": 79140,
+   "aliases": [
+    "asistente ejecutiva",
+    "secretario ejecutivo",
+    "secretaria",
+    "executive assistant",
+    "executive secretaries and executive administrative assistants",
+    "Executive secretaries and executive administrative assistants"
+   ]
+  },
+  {
+   "text": "Court reporter and simultaneous captioner",
+   "count": 78760,
+   "aliases": [
+    "estenotipista",
+    "court reporter",
+    "court reporters and simultaneous captioners",
+    "Court reporters and simultaneous captioners"
+   ]
+  },
+  {
+   "text": "Lodging manager",
+   "count": 78740,
+   "aliases": [
+    "administrador de hotel",
+    "hotel manager",
+    "lodging managers",
+    "Lodging managers"
+   ]
+  },
+  {
+   "text": "Broadcast announcer and radio disc jockey",
+   "count": 78720,
+   "aliases": [
+    "locutor",
+    "DJ de radio",
+    "DJ",
+    "presentador",
+    "radio DJ",
+    "locutora de radio",
+    "broadcast announcers and radio disc jockeys",
+    "Broadcast announcers and radio disc jockeys"
+   ]
+  },
+  {
+   "text": "Fire inspector and investigator",
+   "count": 78670,
+   "aliases": [
+    "investigador de incendios",
+    "fire inspector",
+    "inspectora de incendios",
+    "fire inspectors and investigators",
+    "Fire inspectors and investigators"
+   ]
+  },
+  {
+   "text": "Lighting technician",
+   "count": 78380,
+   "aliases": [
+    "iluminador",
+    "lighting technicians",
+    "Lighting technicians"
+   ]
+  },
+  {
+   "text": "Mine roof bolter",
+   "count": 78100,
+   "aliases": [
+    "empernador",
+    "roof bolter",
+    "empernadora minera",
+    "Roof bolters, mining"
+   ]
+  },
+  {
+   "text": "Construction and building inspector",
+   "count": 77730,
+   "aliases": [
+    "building inspector",
+    "inspectora de obras",
+    "construction and building inspectors",
+    "Construction and building inspectors"
+   ]
+  },
+  {
+   "text": "Special education teacher (high school)",
+   "count": 77260,
+   "aliases": [
+    "Special education teachers, secondary school"
+   ]
+  },
+  {
+   "text": "Fundraiser",
+   "count": 77200,
+   "aliases": [
+    "recaudadora de fondos",
+    "fundraisers",
+    "Fundraisers"
+   ]
+  },
+  {
+   "text": "Conservation scientist",
+   "count": 77130,
+   "aliases": [
+    "conservacionista",
+    "conservation scientists",
+    "Conservation scientists"
+   ]
+  },
+  {
+   "text": "Dietitian and nutritionist",
+   "count": 77130,
+   "aliases": [
+    "dietista",
+    "nutritionist",
+    "dietitian",
+    "dietitians and nutritionists",
+    "Dietitians and nutritionists",
+    "Dietitian",
+    "Nutritionist"
+   ]
+  },
+  {
+   "text": "Marriage and family therapist",
+   "count": 76960,
+   "aliases": [
+    "terapeuta de pareja",
+    "family therapist",
+    "marriage and family therapists",
+    "Marriage and family therapists"
+   ]
+  },
+  {
+   "text": "Cardiovascular technologist and technician",
+   "count": 76940,
+   "aliases": [
+    "cardiovascular technologist",
+    "cardiovascular technologists and technicians",
+    "Cardiovascular technologists and technicians"
+   ]
+  },
+  {
+   "text": "Electro-mechanical and mechatronics technologist and technician",
+   "count": 76420,
+   "aliases": [
+    "electro-mechanical and mechatronics technologists and technicians",
+    "Electro-mechanical and mechatronics technologists and technicians"
+   ]
+  },
+  {
+   "text": "Mechanical engineering technologist and technician",
+   "count": 76380,
+   "aliases": [
+    "mechanical engineering technologists and technicians",
+    "Mechanical engineering technologists and technicians"
+   ]
+  },
+  {
+   "text": "Special education teacher (preschool)",
+   "count": 76380,
+   "aliases": [
+    "Special education teachers, preschool"
+   ]
+  },
+  {
+   "text": "Secondary school teacher",
+   "count": 76320,
+   "aliases": [
+    "maestro de secundaria",
+    "docente de secundaria",
+    "high school teacher",
+    "profesora de secundaria",
+    "Secondary school teachers, except special and career/technical education"
+   ]
+  },
+  {
+   "text": "Property appraiser and assessor",
+   "count": 75770,
+   "aliases": [
+    "tasador",
+    "perito tasador",
+    "appraiser",
+    "tasadora de inmuebles",
+    "property appraisers and assessors",
+    "Property appraisers and assessors"
+   ]
+  },
+  {
+   "text": "Anthropologist and archeologist",
+   "count": 75620,
+   "aliases": [
+    "archaeologist",
+    "anthropologist",
+    "anthropologists and archeologists",
+    "Anthropologists and archeologists",
+    "Anthropologist",
+    "Archeologist"
+   ]
+  },
+  {
+   "text": "Training and development specialist",
+   "count": 75550,
+   "aliases": [
+    "instructor corporativo",
+    "trainer",
+    "capacitadora",
+    "training and development specialists",
+    "Training and development specialists"
+   ]
+  },
+  {
+   "text": "Mechanical drafter",
+   "count": 75060,
+   "aliases": [
+    "mechanical drafters",
+    "Mechanical drafters"
+   ]
+  },
+  {
+   "text": "Fish and game warden",
+   "count": 74950,
+   "aliases": [
+    "guardaparques",
+    "guarda de caza",
+    "game warden",
+    "fish and game wardens",
+    "Fish and game wardens"
+   ]
+  },
+  {
+   "text": "Interior designer",
+   "count": 74540,
+   "aliases": [
+    "decorador de interiores",
+    "interiorista",
+    "interior designers",
+    "Interior designers"
+   ]
+  },
+  {
+   "text": "Calibration technologist and technician",
+   "count": 74170,
+   "aliases": [
+    "calibration technologists and technicians",
+    "Calibration technologists and technicians"
+   ]
+  },
+  {
+   "text": "Telecommunications line installer and repairer",
+   "count": 73940,
+   "aliases": [
+    "instalador de cable",
+    "instaladora de telecomunicaciones",
+    "telecommunications line installers and repairers",
+    "Telecommunications line installers and repairers"
+   ]
+  },
+  {
+   "text": "Health education specialist",
+   "count": 73280,
+   "aliases": [
+    "promotor de salud",
+    "health educator",
+    "educadora en salud",
+    "health education specialists",
+    "Health education specialists"
+   ]
+  },
+  {
+   "text": "Artist (painter, sculptor)",
+   "count": 73150,
+   "aliases": [
+    "pintor",
+    "escultor",
+    "ilustrador",
+    "artista",
+    "painter",
+    "illustrator",
+    "fine artists, including painters, sculptors, and illustrators",
+    "Fine artists, including painters, sculptors, and illustrators",
+    "Fine artists, including painters, sculptors, and illustrator"
+   ]
+  },
+  {
+   "text": "Probation officer and correctional treatment specialist",
+   "count": 73130,
+   "aliases": [
+    "probation officer",
+    "probation officers and correctional treatment specialists",
+    "Probation officers and correctional treatment specialists"
+   ]
+  },
+  {
+   "text": "Choreographer",
+   "count": 73100,
+   "aliases": [
+    "choreographers",
+    "Choreographers"
+   ]
+  },
+  {
+   "text": "Judicial law clerk",
+   "count": 72950,
+   "aliases": [
+    "asistente de juez",
+    "law clerk",
+    "secretaria judicial",
+    "judicial law clerks",
+    "Judicial law clerks"
+   ]
+  },
+  {
+   "text": "Librarian and media collections specialist",
+   "count": 72840,
+   "aliases": [
+    "bibliotecaria",
+    "librarian",
+    "librarians and media collections specialists",
+    "Librarians and media collections specialists"
+   ]
+  },
+  {
+   "text": "Model",
+   "count": 72800,
+   "aliases": [
+    "modelo de pasarela",
+    "models",
+    "Models",
+    "fashion model"
+   ]
+  },
+  {
+   "text": "Surgical assistant",
+   "count": 72710,
+   "aliases": [
+    "surgical assistants",
+    "Surgical assistants"
+   ]
+  },
+  {
+   "text": "Elementary school teacher",
+   "count": 72650,
+   "aliases": [
+    "profesor de primaria",
+    "maestra",
+    "maestro",
+    "profesora de primaria",
+    "elementary school teacher",
+    "maestra de primaria",
+    "Elementary school teachers, except special education",
+    "teacher",
+    "school teacher"
+   ]
+  },
+  {
+   "text": "Plumber",
+   "count": 72170,
+   "aliases": [
+    "gasfiter",
+    "plomero",
+    "fontanero",
+    "tubero",
+    "plumber",
+    "gasfitera",
+    "plumbers, pipefitters, and steamfitters",
+    "Plumbers, pipefitters, and steamfitters",
+    "Plumbers, pipefitters, and steamfitter"
+   ]
+  },
+  {
+   "text": "Oil rig drill operator",
+   "count": 72130,
+   "aliases": [
+    "driller",
+    "perforadora petrolera",
+    "rotary drill operators, oil and gas",
+    "Rotary drill operators, oil and gas",
+    "Rotary drill operators, oil and ga"
+   ]
+  },
+  {
+   "text": "Career/technical education professor",
+   "count": 72060,
+   "aliases": [
+    "profesor de instituto",
+    "Career/technical education teachers, postsecondary"
+   ]
+  },
+  {
+   "text": "Healthcare social worker",
+   "count": 71790,
+   "aliases": [
+    "asistente social",
+    "trabajadora social",
+    "social worker",
+    "healthcare social workers",
+    "Healthcare social workers"
+   ]
+  },
+  {
+   "text": "Curator",
+   "count": 71560,
+   "aliases": [
+    "curador",
+    "conservador de museo",
+    "curadora de museo",
+    "curators",
+    "Curators"
+   ]
+  },
+  {
+   "text": "Electrician",
+   "count": 71490,
+   "aliases": [
+    "electricians",
+    "Electricians"
+   ]
+  }
+ ]
+}

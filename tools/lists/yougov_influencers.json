@@ -1,0 +1,763 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (influencers): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "MrBeast",
+   "count": 31,
+   "aliases": [
+    "Mr Beast",
+    "Jimmy Donaldson"
+   ]
+  },
+  {
+   "text": "Kylie Kelce",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Druski",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Markiplier",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Dr. Mike Varshavski",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "IShowSpeed",
+   "count": 28,
+   "aliases": [
+    "Speed",
+    "I Show Speed"
+   ]
+  },
+  {
+   "text": "Khaby Lame",
+   "count": 28,
+   "aliases": [
+    "Khaby"
+   ]
+  },
+  {
+   "text": "Kai Cenat",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Katie Fang",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Uncle Roger",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "SB Mowing",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Olivia Dunne",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Nick DiGiovanni",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "PewDiePie",
+   "count": 25,
+   "aliases": [
+    "Pewdiepie",
+    "Felix Kjellberg"
+   ]
+  },
+  {
+   "text": "Marie Kondo",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Lauren Conrad",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "MatPat",
+   "count": 25,
+   "aliases": [
+    "Game Theory"
+   ]
+  },
+  {
+   "text": "Mark Rober",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Valkyrae",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Addison Rae",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Dude Perfect",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Bretman Rock",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Zach King",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Brooklyn and Bailey",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Emma Chamberlain",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Good Mythical Morning",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Huda Kattan",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Jake Shane",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Molly Yeh",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Lele Pons",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Michelle Phan",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Philip DeFranco",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Emiru",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Mel Robbins",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Logan Paul",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Jeffree Star",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Mark Phillips",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Banks",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Ray William Johnson",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Joey Graceffa",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "The Try Guys",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Shayla Mitchell",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Charli D’amelio",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Lance Stewart",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Cinna",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Jen Selter",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Alexa Chung",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Collins Key",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Liza Koshy",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "The Points Guy",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Andrea Botez",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Pokimane",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Amanda Cerny",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Loren Gray",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Mr Ballen",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "LilyPichu",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Jaiden Animations",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "TenZ",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Danielle Pheloung",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Will Taylor",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Kennedy Cymone",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Jeff Rose",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Sydney Leroux Dwyer",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Naomi Giannopoulos",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Studio McGee",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Danny Gonzalez",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Meredith Hayden",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "KSI",
+   "count": 22,
+   "aliases": [
+    "Olajide William Olatunji"
+   ]
+  },
+  {
+   "text": "David Dobrik",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Lily Maymac",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Justine Ezarik",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Rickey Thompson",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Phil Lester",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Jack Douglass",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Noah Beck",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Saudah Saleem",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Simply Nailogical",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Beta Squad",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Brittany Broski",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Kaleb Anthony",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Andrea Russett",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "F2Freestylers",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Rayasianboy",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Matt Stonie",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Tanya Burr",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Lindsey Silverman Love",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Allison Kucharczyk",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Gloria Morales",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Tyler Oakley",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "The Bucket List Family",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "The Blonde Abroad",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Tatyana Lafata",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Lil Tay",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Molly Tavoletti",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Dan Howell",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Delaney Rowe",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Minimalist Baker",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Joe Wicks",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Julie Sarinana",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Amymarie Gaertner",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Hannah Bronfman",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "DrDisRespect",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Ida Frosk",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Safiya Nygaard",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Michelle Lewin",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Nicolette Mason",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Thomas Sanders",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Gabrielle Alexis",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Camila Coelho",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Jack Morris",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Rebecca Zamolo",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Alex Botez",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Lilly Singh",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Simeon Panda",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Deliciously Ella",
+   "count": 21,
+   "aliases": [
+    "Ella Woodward"
+   ]
+  },
+  {
+   "text": "Sam and Colby",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Ludwig Ahgren",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Halley McGookin",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Casey Neistat",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Jerry Purpdrank",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Kim Loaiza",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Aimee Song",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Monica Ravichandran",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Bobby Bones",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "David Lopez",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Cassey Ho",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Asmongold",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Jenn Im",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "DDG",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Massy Arias",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Cookin' with Mima",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "StableRonaldo",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Fanum",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Thalia Ho",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Summer McKeen",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Andrew B. Bachelor",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Tarik",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Ironmouse",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Shane Daweson",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Toby Turner",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Saffron Barker",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Hannah Hart",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Alyssa Rose",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Stacia Mar",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "John Stephen Grice",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Chin",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Emily Mariko",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Sidemen",
+   "count": 20,
+   "aliases": []
+  }
+ ]
+}

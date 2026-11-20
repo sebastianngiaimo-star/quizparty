@@ -1,0 +1,346 @@
+{
+ "platform": "GameCube",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/gamecube/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "Metroid Prime",
+   "count": 97,
+   "aliases": [
+    "Metroid Prime 1"
+   ]
+  },
+  {
+   "text": "Resident Evil 4",
+   "count": 96,
+   "aliases": [
+    "RE 4",
+    "RE4",
+    "Resident Evil 4",
+    "Resident Evil 4 (2005)"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Twilight Princess",
+   "count": 96,
+   "aliases": [
+    "Legend of Zelda: Twilight Princess",
+    "Twilight Princess",
+    "Zelda Twilight Princess"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: The Wind Waker",
+   "count": 96,
+   "aliases": [
+    "Legend of Zelda: The Wind Waker",
+    "The Wind Waker",
+    "TWW",
+    "Wind Waker",
+    "Zelda Wind Waker"
+   ]
+  },
+  {
+   "text": "Madden NFL 2004",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "SoulCalibur II",
+   "count": 93,
+   "aliases": [
+    "Soul Calibur 2",
+    "Soul Calibur II",
+    "SoulCalibur 2"
+   ]
+  },
+  {
+   "text": "Viewtiful Joe",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "NFL 2K3",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Eternal Darkness: Sanity's Requiem",
+   "count": 92,
+   "aliases": [
+    "Eternal Darkness",
+    "Sanity's Requiem"
+   ]
+  },
+  {
+   "text": "SSX 3",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Madden NFL 2003",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Super Smash Bros. Melee",
+   "count": 92,
+   "aliases": [
+    "Melee",
+    "Smash",
+    "Smash Bros Melee",
+    "Smash Melee",
+    "SSBM"
+   ]
+  },
+  {
+   "text": "Super Mario Sunshine",
+   "count": 92,
+   "aliases": [
+    "Mario Sunshine",
+    "Sunshine"
+   ]
+  },
+  {
+   "text": "Prince of Persia: The Sands of Time",
+   "count": 92,
+   "aliases": [
+    "PoP Sands of Time",
+    "Prince of Persia",
+    "Sands of Time",
+    "The Sands of Time"
+   ]
+  },
+  {
+   "text": "Metroid Prime 2: Echoes",
+   "count": 92,
+   "aliases": [
+    "Echoes",
+    "Metroid Prime 2"
+   ]
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 4",
+   "count": 91,
+   "aliases": [
+    "THPS 4",
+    "THPS4",
+    "Tony Hawk 4"
+   ]
+  },
+  {
+   "text": "Resident Evil (Remake)",
+   "count": 91,
+   "aliases": [
+    "RE Remake",
+    "REmake",
+    "Resident Evil"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Ocarina of Time / Master Quest",
+   "count": 91,
+   "aliases": [
+    "Legend of Zelda: Ocarina of Time / Master Quest",
+    "Master Quest",
+    "Ocarina of Time",
+    "Ocarina of Time Master Quest",
+    "OoT"
+   ]
+  },
+  {
+   "text": "NCAA Football 2003",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 3",
+   "count": 91,
+   "aliases": [
+    "THPS 3",
+    "THPS3",
+    "Tony Hawk 3"
+   ]
+  },
+  {
+   "text": "Star Wars Rogue Leader: Rogue Squadron II",
+   "count": 90,
+   "aliases": [
+    "Rogue Leader",
+    "Rogue Squadron 2",
+    "Rogue Squadron II",
+    "Star Wars Rogue Leader: Rogue Squadron 2"
+   ]
+  },
+  {
+   "text": "NBA 2K2",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Pikmin 2",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Tiger Woods PGA Tour 2003",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Madden NFL 2005",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Madden NFL 2002",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Pikmin",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Tony Hawk's Underground",
+   "count": 89,
+   "aliases": [
+    "THUG",
+    "Tony Hawk Underground"
+   ]
+  },
+  {
+   "text": "F-Zero GX",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "NCAA Football 2004",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "MVP Baseball 2004",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Tiger Woods PGA Tour 2004",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Burnout 2: Point of Impact",
+   "count": 89,
+   "aliases": [
+    "Burnout 2",
+    "Point of Impact"
+   ]
+  },
+  {
+   "text": "Tom Clancy's Splinter Cell",
+   "count": 89,
+   "aliases": [
+    "Splinter Cell"
+   ]
+  },
+  {
+   "text": "NHL 2K3",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "NBA Street Vol. 2",
+   "count": 88,
+   "aliases": [
+    "NBA Street 2",
+    "NBA Street Volume 2"
+   ]
+  },
+  {
+   "text": "NBA Street V3",
+   "count": 88,
+   "aliases": [
+    "NBA Street 3",
+    "NBA Street Vol. 3"
+   ]
+  },
+  {
+   "text": "TimeSplitters 2",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "NBA Street",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Aggressive Inline",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "NCAA Football 2005",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "MVP Baseball 2005",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Tiger Woods PGA Tour 2005",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Super Monkey Ball 2",
+   "count": 87,
+   "aliases": [
+    "Monkey Ball 2"
+   ]
+  },
+  {
+   "text": "Beyond Good & Evil",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Paper Mario: The Thousand-Year Door",
+   "count": 87,
+   "aliases": [
+    "Paper Mario TTYD",
+    "Paper Mario: The Thousand-Year Door",
+    "The Thousand-Year Door",
+    "The Thousand-Year Door (2004)",
+    "Thousand-Year Door",
+    "Thousand-Year Door (2004)",
+    "TTYD",
+    "Paper Mario: The Thousand-Year Door (2004)"
+   ]
+  },
+  {
+   "text": "Mario Kart: Double Dash!!",
+   "count": 87,
+   "aliases": [
+    "Double Dash",
+    "Mario Kart"
+   ]
+  },
+  {
+   "text": "Animal Crossing",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Super Monkey Ball",
+   "count": 87,
+   "aliases": [
+    "Monkey Ball"
+   ]
+  }
+ ]
+}

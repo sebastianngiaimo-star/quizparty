@@ -1,0 +1,945 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (contemporary-soccer-players): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Lionel Messi",
+   "count": 46,
+   "aliases": [
+    "Leo Messi",
+    "Messi"
+   ]
+  },
+  {
+   "text": "Cristiano Ronaldo",
+   "count": 45,
+   "aliases": [
+    "CR7",
+    "Cristiano"
+   ]
+  },
+  {
+   "text": "Erling Haaland",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Kylian Mbappé",
+   "count": 31,
+   "aliases": [
+    "Mbappe"
+   ]
+  },
+  {
+   "text": "Jude Bellingham",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Harry Kane",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Mohamed Salah",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Lamine Yamal",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Lindsey Horan",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Morgan Rogers",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Robert Lewandowski",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Christian Pulisic",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Alex Freeman",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Gabriel Martinelli",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Bernardo Silva",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Jordan Pickford",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Cristian Romero",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Alphonso Davies",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Jamal Musiala",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Nico Williams",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Pedri",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Paulo Dybala",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Dani Carvajal",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Victor Osimhen",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Ollie Watkins",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Luis Diaz",
+   "count": 26,
+   "aliases": [
+    "Lucho Díaz"
+   ]
+  },
+  {
+   "text": "Gabriel Jesus",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Pedro Neto",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Virgil Van Dijk",
+   "count": 26,
+   "aliases": [
+    "VVD"
+   ]
+  },
+  {
+   "text": "Bruno Fernandes",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Gabriel Magalhaes",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Ruben Dias",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Julian Alvarez",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Eberechi Eze",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Bukayo Saka",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Ousmane Dembélé",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Federico Valverde",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Rodrygo",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Rodri",
+   "count": 25,
+   "aliases": [
+    "Rodrigo Hernandez",
+    "Rodrigo Hernández"
+   ]
+  },
+  {
+   "text": "Javier \"Chicharito\" Hernández",
+   "count": 25,
+   "aliases": [
+    "Javier Hernández",
+    "Chicharito",
+    "Javier Hernandez"
+   ]
+  },
+  {
+   "text": "Harry Maguire",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Alexis Sánchez",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Gavi",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Enzo Fernandez",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Karim Benzema",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Son Heung-Min",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Jeremie Frimpong",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Joe Gomez",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Crystal Dunn",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Jess Carter",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Chloe Kelly",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Emiliano \"Dibu\" Martínez",
+   "count": 25,
+   "aliases": [
+    "Emiliano Martinez"
+   ]
+  },
+  {
+   "text": "Marquinhos",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Alisson Becker",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Alexander Isak",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Sergio Ramos",
+   "count": 24,
+   "aliases": [
+    "Sergio Ramos García"
+   ]
+  },
+  {
+   "text": "Alexis Mac Allister",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Dayot Upamecano",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Keira Walsh",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Ben White",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Weston McKinnie",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Cole Palmer",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "James Maddison",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Martin Odegaard",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Alexandra Popp",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Kai Havertz",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Marcus Rashford",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Kyle Walker",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Antonio Rudiger",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Jeremy Doku",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Conor Gallagher",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Myles Lewis-Skelly",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Alvaro Morata",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Theo Hernandez",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Aurelien Tchouameni",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Alessia Russo",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Trent Alexander-Arnold",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Ella Toone",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Xavi Simons",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Jack Grealish",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Rio Ngumoha",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Linda Caicedo",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "James Trafford",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Achraf Hakimi",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Leandro Trossard",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Lauren Hemp",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "David De Gea",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Frenkie de Jong",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Sam Johnstone",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Leah Williamson",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Beth Mead",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Joshua Kimmich",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Endrick",
+   "count": 23,
+   "aliases": [
+    "Endrick Felipe Moreira"
+   ]
+  },
+  {
+   "text": "Tyler Adams",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Georgia Stanway",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Dominic Solanke",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Douglas Luiz",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Hannah Hampton",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Liam Kelly",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Trevoh Chalobah",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Reece James",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Michael Olise",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Mary Earps",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Gio Reyna",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Millie Bright",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Marco Asensio",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "João Palhinha",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Didier Deschamps",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Nico O'Reilly",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Ferran Torres",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Lautaro Martinez",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Micky van de Ven",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Curtis Jones",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Rafael Leao",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Alex Greenwood",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Sam Kerr",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Cody Gakpo",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Declan Rice",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Jarrod Bowen",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Kobbie Mainoo",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Elliot Anderson",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "N Golo Kante",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Lauren James",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Wenderson Galeno",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Cavan Sullivan",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Alejandro Garnacho",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Pedro Porro",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Noni Madueke",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Djed Spence",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Dean Henderson",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Dusan Vlahovic",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Anthony Gordon",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Thibaut Courtois",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Viktor Gyokeres",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Vinícius Júnior",
+   "count": 21,
+   "aliases": [
+    "Vinicius Jr"
+   ]
+  },
+  {
+   "text": "William Saliba",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Darwin Nunez",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Eduardo Camavinga",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Phil Foden",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Desire Doue",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Jarell Quansah",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Gianluigi Donnarumma",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Yannick Carrasco",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Dani Olmo",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Antoine Griezmann",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Adam Wharton",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Marta",
+   "count": 21,
+   "aliases": [
+    "Marta Vieira da Silva"
+   ]
+  },
+  {
+   "text": "Ben Chilwell",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Becky Sauerbrunn",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Emre Can",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Florian Wirtz",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Patricia Guijarro",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Bruno Guimaraes",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Morgan Gibbs-White",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Josko Gvardiol",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Michelle Agyemang",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "David Raya",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Hwang Hee-Chan",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Lucas Paqueta",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Matthijs de Ligt",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "John Stones",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Bill Hamid",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Rayan Cherki",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Salma Paralluelo",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Jenni Hermoso",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Aitana Bonmati",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Tino Livramento",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Caroline Graham Hansen",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Boubacar Kamara",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Marc Guehi",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Serhou Guirassy",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Ezri Konsa",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Rasmus Hojlund",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Dan Burn",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Kieran Trippier",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Aaron Ramsdale",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Olga Carmona",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Maduka Okoye",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Mapi Leon",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Fridolina Rolfo",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Francisco Evanilson",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Kadidiatou Diani",
+   "count": 17,
+   "aliases": []
+  }
+ ]
+}

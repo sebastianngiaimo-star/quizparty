@@ -1,0 +1,360 @@
+{
+ "platform": "Nintendo DS",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/nintendo-ds/all/all-time/metascore/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "Grand Theft Auto: Chinatown Wars",
+   "count": 93,
+   "aliases": [
+    "Chinatown Wars",
+    "GTA Chinatown Wars"
+   ]
+  },
+  {
+   "text": "Flipnote Studio",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Chrono Trigger",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Mario Kart DS",
+   "count": 91,
+   "aliases": [
+    "Mario Kart",
+    "MKDS"
+   ]
+  },
+  {
+   "text": "Mario & Luigi: Bowser's Inside Story",
+   "count": 90,
+   "aliases": [
+    "Bowser's Inside Story",
+    "M&L Bowser's Inside Story"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Phantom Hourglass",
+   "count": 90,
+   "aliases": [
+    "Legend of Zelda: Phantom Hourglass",
+    "Phantom Hourglass",
+    "Zelda Phantom Hourglass"
+   ]
+  },
+  {
+   "text": "Advance Wars: Dual Strike",
+   "count": 90,
+   "aliases": [
+    "Advance Wars DS",
+    "Dual Strike"
+   ]
+  },
+  {
+   "text": "Castlevania: Dawn of Sorrow",
+   "count": 89,
+   "aliases": [
+    "Dawn of Sorrow"
+   ]
+  },
+  {
+   "text": "New Super Mario Bros.",
+   "count": 89,
+   "aliases": [
+    "NSMB"
+   ]
+  },
+  {
+   "text": "Meteos",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "The World Ends with You",
+   "count": 88,
+   "aliases": [
+    "TWEWY",
+    "World Ends with You"
+   ]
+  },
+  {
+   "text": "Pokemon White Version",
+   "count": 87,
+   "aliases": [
+    "Pokémon White"
+   ]
+  },
+  {
+   "text": "Dragon Quest IX: Sentinels of the Starry Skies",
+   "count": 87,
+   "aliases": [
+    "DQ9",
+    "DQIX",
+    "Dragon Quest 9",
+    "Dragon Quest 9: Sentinels of the Starry Skies",
+    "Dragon Quest IX",
+    "Sentinels of the Starry Skies"
+   ]
+  },
+  {
+   "text": "Pokemon SoulSilver Version",
+   "count": 87,
+   "aliases": [
+    "Pokémon SoulSilver",
+    "SoulSilver"
+   ]
+  },
+  {
+   "text": "Elite Beat Agents",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "The Legend of Zelda: Spirit Tracks",
+   "count": 87,
+   "aliases": [
+    "Legend of Zelda: Spirit Tracks",
+    "Spirit Tracks",
+    "Zelda Spirit Tracks"
+   ]
+  },
+  {
+   "text": "Pokemon HeartGold Version",
+   "count": 87,
+   "aliases": [
+    "HeartGold",
+    "Pokémon HeartGold"
+   ]
+  },
+  {
+   "text": "Pokemon Black Version",
+   "count": 87,
+   "aliases": [
+    "Pokémon Black"
+   ]
+  },
+  {
+   "text": "Kirby: Canvas Curse",
+   "count": 86,
+   "aliases": [
+    "Canvas Curse"
+   ]
+  },
+  {
+   "text": "Might & Magic: Clash of Heroes",
+   "count": 86,
+   "aliases": [
+    "Clash of Heroes"
+   ]
+  },
+  {
+   "text": "Mario & Luigi: Partners in Time",
+   "count": 86,
+   "aliases": [
+    "Partners in Time"
+   ]
+  },
+  {
+   "text": "Planet Puzzle League",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Animal Crossing: Wild World",
+   "count": 86,
+   "aliases": [
+    "Animal Crossing",
+    "Wild World"
+   ]
+  },
+  {
+   "text": "Professor Layton and the Unwound Future",
+   "count": 86,
+   "aliases": [
+    "Layton Unwound Future",
+    "Unwound Future"
+   ]
+  },
+  {
+   "text": "Advance Wars: Days of Ruin",
+   "count": 86,
+   "aliases": [
+    "Days of Ruin"
+   ]
+  },
+  {
+   "text": "Radiant Historia",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Shantae: Risky's Revenge",
+   "count": 85,
+   "aliases": [
+    "Risky's Revenge"
+   ]
+  },
+  {
+   "text": "Castlevania: Portrait of Ruin",
+   "count": 85,
+   "aliases": [
+    "Portrait of Ruin"
+   ]
+  },
+  {
+   "text": "Metroid Prime: Hunters",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon Pearl Version",
+   "count": 85,
+   "aliases": [
+    "Pokémon Pearl"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Four Swords Anniversary Edition",
+   "count": 85,
+   "aliases": [
+    "Four Swords",
+    "Four Swords Anniversary Edition",
+    "Legend of Zelda: Four Swords Anniversary Edition"
+   ]
+  },
+  {
+   "text": "Professor Layton and the Curious Village",
+   "count": 85,
+   "aliases": [
+    "Curious Village",
+    "Layton Curious Village"
+   ]
+  },
+  {
+   "text": "Super Mario 64 DS",
+   "count": 85,
+   "aliases": [
+    "Mario 64 DS",
+    "SM64 DS"
+   ]
+  },
+  {
+   "text": "Pokemon Diamond Version",
+   "count": 85,
+   "aliases": [
+    "Pokémon Diamond"
+   ]
+  },
+  {
+   "text": "Final Fantasy IV (3D Remake)",
+   "count": 85,
+   "aliases": [
+    "FF 4",
+    "FF4",
+    "FFIV",
+    "Final Fantasy 4",
+    "Final Fantasy 4 (3D Remake)",
+    "Final Fantasy IV",
+    "Final Fantasy IV DS"
+   ]
+  },
+  {
+   "text": "Castlevania: Order of Ecclesia",
+   "count": 85,
+   "aliases": [
+    "Order of Ecclesia"
+   ]
+  },
+  {
+   "text": "Space Invaders Extreme",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Peggle: Dual Shot",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Tetris DS",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Shin Megami Tensei: Devil Survivor",
+   "count": 84,
+   "aliases": [
+    "Devil Survivor"
+   ]
+  },
+  {
+   "text": "Professor Layton and the Diabolical Box",
+   "count": 84,
+   "aliases": [
+    "Diabolical Box",
+    "Layton Diabolical Box"
+   ]
+  },
+  {
+   "text": "Dark Void Zero",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Tony Hawk's American Sk8land",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Dragon Quest V: Hand of the Heavenly Bride",
+   "count": 84,
+   "aliases": [
+    "DQ5",
+    "DQV",
+    "Dragon Quest 5",
+    "Dragon Quest 5: Hand of the Heavenly Bride",
+    "Dragon Quest V",
+    "Hand of the Heavenly Bride"
+   ]
+  },
+  {
+   "text": "Ghost Trick: Phantom Detective",
+   "count": 83,
+   "aliases": [
+    "Ghost Trick"
+   ]
+  },
+  {
+   "text": "Bangai-O Spirits",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Bleach: The Blade of Fate",
+   "count": 83,
+   "aliases": [
+    "Blade of Fate",
+    "The Blade of Fate"
+   ]
+  },
+  {
+   "text": "Picross DS",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Clubhouse Games",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Picross 3D",
+   "count": 83,
+   "aliases": []
+  }
+ ]
+}

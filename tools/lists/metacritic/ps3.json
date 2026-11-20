@@ -1,0 +1,370 @@
+{
+ "platform": "PlayStation 3",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/ps3/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "Grand Theft Auto IV",
+   "count": 98,
+   "aliases": [
+    "Grand Theft Auto 4",
+    "GTA 4",
+    "GTA IV",
+    "GTA4"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto V",
+   "count": 97,
+   "aliases": [
+    "Grand Theft Auto 5",
+    "GTA 5",
+    "GTA V",
+    "GTA5"
+   ]
+  },
+  {
+   "text": "Uncharted 2: Among Thieves",
+   "count": 96,
+   "aliases": [
+    "Among Thieves",
+    "Uncharted 2"
+   ]
+  },
+  {
+   "text": "Batman: Arkham City",
+   "count": 96,
+   "aliases": [
+    "Arkham City"
+   ]
+  },
+  {
+   "text": "LittleBigPlanet",
+   "count": 95,
+   "aliases": [
+    "LBP",
+    "Little Big Planet"
+   ]
+  },
+  {
+   "text": "Red Dead Redemption",
+   "count": 95,
+   "aliases": [
+    "RDR",
+    "RDR1",
+    "Red Dead"
+   ]
+  },
+  {
+   "text": "The Last of Us",
+   "count": 95,
+   "aliases": [
+    "Last of Us",
+    "TLOU"
+   ]
+  },
+  {
+   "text": "Portal 2",
+   "count": 95,
+   "aliases": [
+    "Portal II"
+   ]
+  },
+  {
+   "text": "BioShock Infinite",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "Call of Duty: Modern Warfare 2",
+   "count": 94,
+   "aliases": [
+    "COD MW2",
+    "Modern Warfare 2",
+    "MW2"
+   ]
+  },
+  {
+   "text": "Call of Duty 4: Modern Warfare",
+   "count": 94,
+   "aliases": [
+    "Call of Duty 4",
+    "CoD 4",
+    "COD4",
+    "Modern Warfare"
+   ]
+  },
+  {
+   "text": "BioShock",
+   "count": 94,
+   "aliases": [
+    "Bioshock 1"
+   ]
+  },
+  {
+   "text": "Mass Effect 2",
+   "count": 94,
+   "aliases": [
+    "ME2"
+   ]
+  },
+  {
+   "text": "Street Fighter IV",
+   "count": 94,
+   "aliases": [
+    "SF 4",
+    "SF4",
+    "SFIV",
+    "Street Fighter 4"
+   ]
+  },
+  {
+   "text": "Metal Gear Solid 4: Guns of the Patriots",
+   "count": 94,
+   "aliases": [
+    "Guns of the Patriots",
+    "Metal Gear Solid 4",
+    "MGS 4",
+    "MGS4"
+   ]
+  },
+  {
+   "text": "Braid",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "The Elder Scrolls IV: Oblivion",
+   "count": 93,
+   "aliases": [
+    "Elder Scrolls 4",
+    "Elder Scrolls 4: Oblivion",
+    "Elder Scrolls IV",
+    "Elder Scrolls IV: Oblivion",
+    "Oblivion",
+    "TES IV",
+    "TES4",
+    "The Elder Scrolls 4",
+    "The Elder Scrolls 4: Oblivion",
+    "The Elder Scrolls IV"
+   ]
+  },
+  {
+   "text": "Mass Effect 3",
+   "count": 93,
+   "aliases": [
+    "ME3"
+   ]
+  },
+  {
+   "text": "The Elder Scrolls V: Skyrim",
+   "count": 92,
+   "aliases": [
+    "Elder Scrolls 5",
+    "Elder Scrolls 5: Skyrim",
+    "Elder Scrolls V",
+    "Elder Scrolls V: Skyrim",
+    "Skyrim",
+    "TES V",
+    "TES5",
+    "The Elder Scrolls 5",
+    "The Elder Scrolls 5: Skyrim",
+    "The Elder Scrolls V"
+   ]
+  },
+  {
+   "text": "God of War III",
+   "count": 92,
+   "aliases": [
+    "God of War 3",
+    "GoW 3",
+    "GoW3"
+   ]
+  },
+  {
+   "text": "Uncharted 3: Drake's Deception",
+   "count": 92,
+   "aliases": [
+    "Drake's Deception",
+    "Uncharted 3"
+   ]
+  },
+  {
+   "text": "Super Street Fighter IV",
+   "count": 92,
+   "aliases": [
+    "SSF 4",
+    "SSF4",
+    "SSFIV",
+    "Super Street Fighter 4"
+   ]
+  },
+  {
+   "text": "Rock Band",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Journey",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Pac-Man Championship Edition DX",
+   "count": 91,
+   "aliases": [
+    "Pac-Man CE DX",
+    "Pac-Man Championship Edition",
+    "PacMan CE DX"
+   ]
+  },
+  {
+   "text": "Rock Band 2",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "LittleBigPlanet 2",
+   "count": 91,
+   "aliases": [
+    "LBP 2",
+    "LBP2",
+    "Little Big Planet 2"
+   ]
+  },
+  {
+   "text": "Rock Band 3",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "FIFA Soccer 10",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Assassin's Creed II",
+   "count": 91,
+   "aliases": [
+    "AC2",
+    "ACII",
+    "Assassin's Creed 2"
+   ]
+  },
+  {
+   "text": "Peggle",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Borderlands 2",
+   "count": 91,
+   "aliases": [
+    "BL2"
+   ]
+  },
+  {
+   "text": "MLB 10: The Show",
+   "count": 91,
+   "aliases": [
+    "MLB 10"
+   ]
+  },
+  {
+   "text": "Killzone 2",
+   "count": 91,
+   "aliases": [
+    "KZ2"
+   ]
+  },
+  {
+   "text": "Batman: Arkham Asylum",
+   "count": 91,
+   "aliases": [
+    "Arkham Asylum"
+   ]
+  },
+  {
+   "text": "Rayman Legends",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Dark Souls II",
+   "count": 91,
+   "aliases": [
+    "Dark Souls 2",
+    "DS2"
+   ]
+  },
+  {
+   "text": "NBA 2K12",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Far Cry 3",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "FIFA Soccer 12",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Fallout 3",
+   "count": 90,
+   "aliases": [
+    "FO3"
+   ]
+  },
+  {
+   "text": "MLB 11: The Show",
+   "count": 90,
+   "aliases": [
+    "MLB 11"
+   ]
+  },
+  {
+   "text": "MLB 09: The Show",
+   "count": 90,
+   "aliases": [
+    "MLB 09"
+   ]
+  },
+  {
+   "text": "Assassin's Creed: Brotherhood",
+   "count": 90,
+   "aliases": [
+    "AC Brotherhood",
+    "ACB",
+    "Brotherhood"
+   ]
+  },
+  {
+   "text": "Okami HD",
+   "count": 90,
+   "aliases": [
+    "Okami"
+   ]
+  },
+  {
+   "text": "LIMBO",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "NBA 2K13",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Wipeout HD Fury",
+   "count": 89,
+   "aliases": [
+    "Wipeout HD"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "platform": "PlayStation",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/ps1/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "Tony Hawk's Pro Skater 2",
+   "count": 98,
+   "aliases": [
+    "THPS 2",
+    "THPS2",
+    "Tony Hawk 2"
+   ]
+  },
+  {
+   "text": "Tekken 3",
+   "count": 96,
+   "aliases": []
+  },
+  {
+   "text": "Gran Turismo",
+   "count": 96,
+   "aliases": [
+    "Gran Turismo 1",
+    "GT1"
+   ]
+  },
+  {
+   "text": "Final Fantasy IX",
+   "count": 94,
+   "aliases": [
+    "FF 9",
+    "FF9",
+    "FFIX",
+    "Final Fantasy 9"
+   ]
+  },
+  {
+   "text": "Chrono Cross",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "Metal Gear Solid",
+   "count": 94,
+   "aliases": [
+    "MGS",
+    "MGS1"
+   ]
+  },
+  {
+   "text": "Gran Turismo 2",
+   "count": 93,
+   "aliases": [
+    "GT 2",
+    "GT2"
+   ]
+  },
+  {
+   "text": "Street Fighter Alpha 3",
+   "count": 93,
+   "aliases": [
+    "SF Alpha 3",
+    "SFA3"
+   ]
+  },
+  {
+   "text": "Castlevania: Symphony of the Night",
+   "count": 93,
+   "aliases": [
+    "SOTN",
+    "Symphony of the Night"
+   ]
+  },
+  {
+   "text": "Wipeout XL",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Vagrant Story",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Tony Hawk's Pro Skater",
+   "count": 92,
+   "aliases": [
+    "THPS",
+    "THPS1",
+    "Tony Hawk 1",
+    "Tony Hawk's Pro Skater 1"
+   ]
+  },
+  {
+   "text": "Final Fantasy VII",
+   "count": 92,
+   "aliases": [
+    "FF 7",
+    "FF7",
+    "FFVII",
+    "Final Fantasy 7"
+   ]
+  },
+  {
+   "text": "Medal of Honor",
+   "count": 92,
+   "aliases": [
+    "Medal of Honor",
+    "MoH",
+    "Medal of Honor (1999)"
+   ]
+  },
+  {
+   "text": "PaRappa the Rapper",
+   "count": 92,
+   "aliases": [
+    "Parappa"
+   ]
+  },
+  {
+   "text": "Colony Wars",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Spyro: Year of the Dragon",
+   "count": 91,
+   "aliases": [
+    "Spyro 3",
+    "Year of the Dragon"
+   ]
+  },
+  {
+   "text": "Tomb Raider",
+   "count": 91,
+   "aliases": [
+    "Tomb Raider",
+    "Tomb Raider 1",
+    "Tomb Raider (1996)"
+   ]
+  },
+  {
+   "text": "Resident Evil 3: Nemesis",
+   "count": 91,
+   "aliases": [
+    "Nemesis",
+    "RE 3",
+    "RE3",
+    "Resident Evil 3"
+   ]
+  },
+  {
+   "text": "Resident Evil",
+   "count": 91,
+   "aliases": [
+    "RE1",
+    "Resident Evil (1996)",
+    "Resident Evil 1"
+   ]
+  },
+  {
+   "text": "Legacy of Kain: Soul Reaver",
+   "count": 91,
+   "aliases": [
+    "Soul Reaver"
+   ]
+  },
+  {
+   "text": "Crash Bandicoot: Warped",
+   "count": 91,
+   "aliases": [
+    "Crash 3",
+    "Crash Bandicoot 3",
+    "Crash Warped",
+    "Warped"
+   ]
+  },
+  {
+   "text": "Syphon Filter",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Ape Escape",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Dance Dance Revolution",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "WWF SmackDown! 2: Know Your Role",
+   "count": 90,
+   "aliases": [
+    "Know Your Role",
+    "SmackDown 2",
+    "WWF SmackDown! 2"
+   ]
+  },
+  {
+   "text": "Colin McRae Rally 2.0",
+   "count": 90,
+   "aliases": [
+    "Colin McRae 2",
+    "Colin McRae Rally 2"
+   ]
+  },
+  {
+   "text": "Final Fantasy VIII",
+   "count": 90,
+   "aliases": [
+    "FF 8",
+    "FF8",
+    "FFVIII",
+    "Final Fantasy 8"
+   ]
+  },
+  {
+   "text": "Madden NFL 2001",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Wipeout 3",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Final Fantasy Chronicles",
+   "count": 89,
+   "aliases": [
+    "FF Chronicles"
+   ]
+  },
+  {
+   "text": "Tekken 2",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Resident Evil 2",
+   "count": 89,
+   "aliases": [
+    "RE 2",
+    "RE2",
+    "Resident Evil 2",
+    "Resident Evil 2 (1998)"
+   ]
+  },
+  {
+   "text": "Einhander",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Grandia",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Soul Edge",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "NHL 2001",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "R4: Ridge Racer Type 4",
+   "count": 88,
+   "aliases": [
+    "R4",
+    "Ridge Racer Type 4"
+   ]
+  },
+  {
+   "text": "CTR: Crash Team Racing",
+   "count": 88,
+   "aliases": [
+    "Crash Team Racing",
+    "CTR"
+   ]
+  },
+  {
+   "text": "Madden NFL 2002",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Oddworld: Abe's Exoddus",
+   "count": 88,
+   "aliases": [
+    "Abe's Exoddus"
+   ]
+  },
+  {
+   "text": "Need for Speed III: Hot Pursuit",
+   "count": 88,
+   "aliases": [
+    "Hot Pursuit",
+    "Need for Speed 3",
+    "Need for Speed 3: Hot Pursuit",
+    "Need for Speed III",
+    "NFS III",
+    "NFS3"
+   ]
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 3",
+   "count": 87,
+   "aliases": [
+    "THPS 3",
+    "THPS3",
+    "Tony Hawk 3"
+   ]
+  },
+  {
+   "text": "Driver",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Spider-Man",
+   "count": 87,
+   "aliases": [
+    "Spider-Man",
+    "Spiderman",
+    "Spider-Man (2000)"
+   ]
+  },
+  {
+   "text": "Tenchu: Stealth Assassins",
+   "count": 87,
+   "aliases": [
+    "Stealth Assassins"
+   ]
+  },
+  {
+   "text": "Silent Hill",
+   "count": 86,
+   "aliases": [
+    "Silent Hill",
+    "Silent Hill 1",
+    "Silent Hill (1999)"
+   ]
+  },
+  {
+   "text": "NBA Live 2001",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Lunar 2: Eternal Blue",
+   "count": 86,
+   "aliases": [
+    "Eternal Blue",
+    "Lunar 2"
+   ]
+  },
+  {
+   "text": "Alundra",
+   "count": 86,
+   "aliases": []
+  }
+ ]
+}

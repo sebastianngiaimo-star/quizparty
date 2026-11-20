@@ -1,0 +1,346 @@
+{
+ "platform": "Nintendo 64",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/nintendo-64/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "The Legend of Zelda: Ocarina of Time",
+   "count": 99,
+   "aliases": [
+    "Legend of Zelda: Ocarina of Time",
+    "Legend of Zelda: Ocarina of Time (1998)",
+    "Ocarina of Time",
+    "Ocarina of Time (1998)",
+    "OoT",
+    "The Legend of Zelda: Ocarina of Time",
+    "Zelda Ocarina of Time",
+    "Zelda OoT",
+    "The Legend of Zelda: Ocarina of Time (1998)"
+   ]
+  },
+  {
+   "text": "Perfect Dark",
+   "count": 97,
+   "aliases": [
+    "Perfect Dark",
+    "Perfect Dark (2000)"
+   ]
+  },
+  {
+   "text": "GoldenEye 007",
+   "count": 96,
+   "aliases": [
+    "GoldenEye",
+    "Goldeneye 64"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Majora's Mask",
+   "count": 95,
+   "aliases": [
+    "Legend of Zelda: Majora's Mask",
+    "Majora's Mask",
+    "Majoras Mask",
+    "Zelda Majora's Mask"
+   ]
+  },
+  {
+   "text": "Super Mario 64",
+   "count": 94,
+   "aliases": [
+    "Mario 64",
+    "SM64"
+   ]
+  },
+  {
+   "text": "Paper Mario",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Banjo-Kazooie",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Wave Race 64",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Conker's Bad Fur Day",
+   "count": 92,
+   "aliases": [
+    "Bad Fur Day",
+    "Conker"
+   ]
+  },
+  {
+   "text": "Mario Tennis",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Mario Golf",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Rayman 2: The Great Escape",
+   "count": 90,
+   "aliases": [
+    "Great Escape",
+    "Rayman 2",
+    "The Great Escape"
+   ]
+  },
+  {
+   "text": "Donkey Kong 64",
+   "count": 90,
+   "aliases": [
+    "DK64"
+   ]
+  },
+  {
+   "text": "Blast Corps",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Banjo-Tooie",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Beetle Adventure Racing",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Resident Evil 2",
+   "count": 89,
+   "aliases": [
+    "RE 2",
+    "RE2",
+    "Resident Evil 2",
+    "Resident Evil 2 (1998)"
+   ]
+  },
+  {
+   "text": "WWF No Mercy",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Excitebike 64",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Star Fox 64",
+   "count": 88,
+   "aliases": [
+    "Lylat Wars",
+    "Starfox 64"
+   ]
+  },
+  {
+   "text": "Diddy Kong Racing",
+   "count": 88,
+   "aliases": [
+    "DKR"
+   ]
+  },
+  {
+   "text": "Turok 2: Seeds of Evil",
+   "count": 86,
+   "aliases": [
+    "Seeds of Evil",
+    "Turok 2"
+   ]
+  },
+  {
+   "text": "F-Zero X",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Star Wars: Rogue Squadron 3D",
+   "count": 85,
+   "aliases": [
+    "Rogue Squadron",
+    "Rogue Squadron 3D",
+    "Star Wars: Rogue Squadron"
+   ]
+  },
+  {
+   "text": "Turok: Dinosaur Hunter",
+   "count": 85,
+   "aliases": [
+    "Dinosaur Hunter",
+    "Turok",
+    "Turok 1"
+   ]
+  },
+  {
+   "text": "NFL Blitz 2000",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 2",
+   "count": 84,
+   "aliases": [
+    "THPS 2",
+    "THPS2",
+    "Tony Hawk 2"
+   ]
+  },
+  {
+   "text": "Wipeout 64",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Star Wars: Episode I Battle for Naboo",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Space Station Silicon Valley",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Mario Kart 64",
+   "count": 83,
+   "aliases": [
+    "Mario Kart",
+    "MK64"
+   ]
+  },
+  {
+   "text": "Ridge Racer 64",
+   "count": 82,
+   "aliases": []
+  },
+  {
+   "text": "Extreme-G",
+   "count": 82,
+   "aliases": []
+  },
+  {
+   "text": "Ogre Battle 64: Person of Lordly Caliber",
+   "count": 82,
+   "aliases": [
+    "Ogre Battle 64",
+    "Person of Lordly Caliber"
+   ]
+  },
+  {
+   "text": "Wetrix",
+   "count": 81,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon Puzzle League",
+   "count": 81,
+   "aliases": []
+  },
+  {
+   "text": "007: The World is not Enough",
+   "count": 81,
+   "aliases": [
+    "The World Is Not Enough",
+    "World is not Enough"
+   ]
+  },
+  {
+   "text": "Jet Force Gemini",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "StarCraft 64",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Pilotwings 64",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Super Smash Bros.",
+   "count": 79,
+   "aliases": [
+    "Smash",
+    "Smash 64",
+    "Smash Bros",
+    "SSB"
+   ]
+  },
+  {
+   "text": "Mario Party",
+   "count": 79,
+   "aliases": []
+  },
+  {
+   "text": "Harvest Moon 64",
+   "count": 78,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon Stadium 2",
+   "count": 78,
+   "aliases": []
+  },
+  {
+   "text": "Castlevania",
+   "count": 78,
+   "aliases": [
+    "Castlevania",
+    "Castlevania 64",
+    "Castlevania (1998)"
+   ]
+  },
+  {
+   "text": "Pokemon Snap",
+   "count": 77,
+   "aliases": []
+  },
+  {
+   "text": "Army Men: Air Attack",
+   "count": 77,
+   "aliases": []
+  },
+  {
+   "text": "Turok 3: Shadow of Oblivion",
+   "count": 77,
+   "aliases": [
+    "Shadow of Oblivion",
+    "Shadow of Oblivion (2000)",
+    "Turok 3",
+    "Turok 3: Shadow of Oblivion",
+    "Turok 3: Shadow of Oblivion (2000)"
+   ]
+  },
+  {
+   "text": "Kirby 64: The Crystal Shards",
+   "count": 77,
+   "aliases": [
+    "Crystal Shards",
+    "Kirby 64",
+    "The Crystal Shards"
+   ]
+  },
+  {
+   "text": "Forsaken",
+   "count": 75,
+   "aliases": [
+    "Forsaken",
+    "Forsaken (1998)"
+   ]
+  }
+ ]
+}

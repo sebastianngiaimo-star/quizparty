@@ -1,0 +1,503 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (digital-services): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "YouTube",
+   "count": 82,
+   "aliases": []
+  },
+  {
+   "text": "Gmail",
+   "count": 78,
+   "aliases": []
+  },
+  {
+   "text": "Google",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Amazon Prime",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Amazon App",
+   "count": 68,
+   "aliases": [
+    "Amazon"
+   ]
+  },
+  {
+   "text": "PayPal",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Google Photos",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "YouTube Music",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "App Store",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Spotify",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Google Docs",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Pinterest",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Zoom",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Instagram",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "MapQuest",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Uber",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "LinkedIn",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Pandora",
+   "count": 57,
+   "aliases": [
+    "Pandora - Streaming Music, Radio & Podcasts"
+   ]
+  },
+  {
+   "text": "Indeed",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "iTunes",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Apple Music",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Microsoft 365",
+   "count": 52,
+   "aliases": [
+    "Office 365",
+    "Microsoft Office"
+   ]
+  },
+  {
+   "text": "iheartradio",
+   "count": 51,
+   "aliases": [
+    "iHeart"
+   ]
+  },
+  {
+   "text": "Yelp",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Apple Siri",
+   "count": 49,
+   "aliases": [
+    "Siri"
+   ]
+  },
+  {
+   "text": "DoorDash",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Apple iCloud",
+   "count": 48,
+   "aliases": [
+    "iCloud"
+   ]
+  },
+  {
+   "text": "Lyft",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "WhatsApp",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Outlook.com",
+   "count": 47,
+   "aliases": [
+    "Outlook",
+    "Hotmail"
+   ]
+  },
+  {
+   "text": "Audible",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "TikTok",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "UberEATS",
+   "count": 45,
+   "aliases": [
+    "Uber Eats"
+   ]
+  },
+  {
+   "text": "Dropbox",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Grubhub",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Fandango.com",
+   "count": 44,
+   "aliases": [
+    "Fandango"
+   ]
+  },
+  {
+   "text": "Bing",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Realtor.com",
+   "count": 40,
+   "aliases": [
+    "Realtor"
+   ]
+  },
+  {
+   "text": "Snapchat",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "The Internet Archive",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Verizon Media",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Patreon",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Threads",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "AOL",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "SoundCloud",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Citi Mobile",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Glassdoor",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Crunchyroll",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "X (formerly known as Twitter)",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Square",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Redfin",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Microsoft OneNote",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "GasBuddy Mobile",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "E*TRADE",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "OpenTable",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Twitch",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Yahoo Fantasy Football & More",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "OfferUp",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Squarespace",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "WordPress",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Signal",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Vimeo",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Github",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Dailymotion",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Sky Guide",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "FreeCreditscore.com",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Wix.com",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Ibotta",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Neighbors by Ring",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Match.com",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Bankrate.com",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Salesforce",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "EverlyWell",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Craigslist Mobile",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Crackle",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "SkyView",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Headspace",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "AXS",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Medium",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Weebly",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Scribd",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Delivery.com",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Crypto.com",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Seamless.com",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Asana",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Scanner Pro",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Google Veo",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Slack Mobile",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "FaceApp",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Caviar",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Trello",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "WeChat",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Evernote",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Badoo",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Plenty of Fish",
+   "count": 21,
+   "aliases": []
+  }
+ ]
+}

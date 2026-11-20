@@ -1,0 +1,27 @@
+{
+  "name": "quizparty",
+  "version": "1.0.0",
+  "description": "Jackbox-style party quiz for a TV + phones: trivia (text/image/audio), HILO and SQUARES with ranked-list topics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/simulate.js",
+    "lists": "node tools/add-lists.js",
+    "import": "node tools/import-data.js",
+    "online": "node tools/online.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "multer": "^2.5.0",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.4"
+  }
+}

@@ -1,0 +1,1525 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (current-tv-shows): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Sesame Street",
+   "count": 77,
+   "aliases": [
+    "Plaza Sésamo"
+   ]
+  },
+  {
+   "text": "Jeopardy!",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "The Simpsons",
+   "count": 68,
+   "aliases": [
+    "Los Simpson"
+   ]
+  },
+  {
+   "text": "The Price Is Right",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Family Feud",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "America's Funniest Home Videos",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Wheel of Fortune",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "SpongeBob SquarePants",
+   "count": 60,
+   "aliases": [
+    "Bob Esponja"
+   ]
+  },
+  {
+   "text": "Criminal Minds",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Law & Order: SVU",
+   "count": 60,
+   "aliases": [
+    "SVU"
+   ]
+  },
+  {
+   "text": "Saturday Night Live",
+   "count": 59,
+   "aliases": [
+    "SNL"
+   ]
+  },
+  {
+   "text": "MythBusters",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Judge Judy",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "South Park",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "The Super Bowl",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "America's Got Talent",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "60 Minutes",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Game of Thrones",
+   "count": 56,
+   "aliases": [
+    "GoT",
+    "Juego de tronos"
+   ]
+  },
+  {
+   "text": "Family Guy",
+   "count": 55,
+   "aliases": [
+    "Padre de familia"
+   ]
+  },
+  {
+   "text": "Dora the Explorer",
+   "count": 55,
+   "aliases": [
+    "Dora la exploradora",
+    "Dora"
+   ]
+  },
+  {
+   "text": "Diners, Drive-Ins and Dives",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Stranger Things",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Iron Man",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "How It's Made",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Thomas the Tank Engine and Friends",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "The Tonight Show Starring Jimmy Fallon",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Antiques Roadshow",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "NCIS",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Dennis the Menace",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "The Penguins of Madagascar",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "The Walking Dead",
+   "count": 52,
+   "aliases": [
+    "Walking Dead",
+    "TWD"
+   ]
+  },
+  {
+   "text": "Will & Grace",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "The Garfield Show",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Who Wants to Be a Millionaire?",
+   "count": 51,
+   "aliases": [
+    "¿Quién quiere ser millonario?",
+    "Who Wants to Be a Millionaire"
+   ]
+  },
+  {
+   "text": "20/20",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Let's Make a Deal",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Celebrity Family Feud",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Kimmel Live",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "The Daily Show",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Rugrats",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Modern Family",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Perry Mason",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Good Morning America",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "MasterChef",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Young Sheldon",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "NFL on NBC",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Yellowstone",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Arthur",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "The Voice",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Whose Line Is It Anyway?",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "American Ninja Warrior",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Dateline NBC",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Cops",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "American Dad!",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Bluey (2018)",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "2026 FIFA World Cup",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Celebrity Jeopardy!",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Better Call Saul",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Cold Case Files",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "The Pitt",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Sunday Night Football on NBC",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Justice League",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Batman: The Animated Series",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Taken",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Animaniacs",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "NFL on FOX (Sunday Games)",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Star Wars: The Clone Wars",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "The Late Show with Stephen Colbert",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Hannah Montana",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Hell's Kitchen",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Hawaii Five-O",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "MLB Baseball on ESPN",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Sherlock",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "The Fairly OddParents",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Paw Patrol",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "The Academy Awards",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "This Old House",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Bones",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "The Last of Us",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Shark Tank",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Bob's Burgers",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Grey's Anatomy",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Doctor Who",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Supernatural",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "ABC World News Tonight",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Star Trek: Discovery",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "NFL on CBS",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Kim Possible",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Captain Kangaroo",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Reacher",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Impractical Jokers",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Cake Boss",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Mister Ed",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Rick and Morty",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "2 Broke Girls",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Dancing with the Stars",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "The First 48",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Orange is the New Black",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Avatar: The Last Airbender",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Monday Night Football on ESPN",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "CBS Local News",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Cash Cab",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Anthony Bourdain: Parts Unknown",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Blue Bloods",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Sunday NFL Countdown",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "NCIS: New Orleans",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Shameless",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "NBC Nightly News",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Fraggle Rock",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Arrested Development",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Wednesday",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "American Idol",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Chicago Fire",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "PBS NewsHour",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Twin Peaks",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Undercover Boss",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Beauty and the Beast",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The NFL Today on CBS",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The Rookie",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Chicago P.D.",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The People's Court",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Roseanne",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Kung Fu Panda: Legends of Awesomeness",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Inside Edition",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Iron Chef America",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The Flash",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "48 Hours",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The Good Doctor",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "X-Men: The Animated Series",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Top Chef",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "FOX Thursday Night Football (Thursday Game)",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Murphy Brown",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The Mandalorian",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "College Football on ESPN",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "CBS Evening News",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "American Pickers",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Comedy Central Roast",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "CNN World News",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "MADtv",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Mom",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "America's Test Kitchen",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Barney & Friends",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Cobra Kai",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Bar Rescue",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "The Blacklist",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Conan",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Pawn Stars",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "NOVA",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "The Westminster Kennel Club Dog Show",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Ghost Hunters",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Mike & Molly",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "The Ren & Stimpy Show",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Anderson Cooper 360°",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Chopped",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Roots (2016)",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Chicago Med",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Late Night with Seth Meyers",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Entertainment Tonight",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "How To Get Away With Murder",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Power Rangers",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "CBS Morning News",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Teletubbies",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Abbott Elementary",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "ABC News: Nightline",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Storage Wars",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Peppa Pig",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "The Handmaid's Tale",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "CBS Mornings",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Squid Game",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "NCIS: Los Angeles",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "NCIS: Origins",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Dateline Mystery",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Superman & Lois",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Hey Arnold!",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Schitts Creek",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Fargo",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "NBA on ABC",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "CBS News Sunday Morning",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Boy Meets World",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The White Lotus",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Property Brothers",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Witcher",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Last Week Tonight with John Oliver",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Goldbergs",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Peaky Blinders",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Today",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "It's Always Sunny in Philadelphia",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "World Cup Live",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "College GameDay Football",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "S.W.A.T.",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Obi-Wan Kenobi",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "That's So Raven",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Good Wife",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Prison Break",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Tracker (2024)",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Homeland",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "American Horror Story",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Daredevil",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Face the Nation",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "MLB Baseball on Fox",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "The Magic School Bus Rides Again",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "CNN Newsroom",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Hoarders",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "House Hunters",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "The $100,000 Pyramid",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Survivor",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "NBA Basketball on ESPN",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Person of Interest",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Marvel's Agents of S.H.I.E.L.D.",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Fixer Upper",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Football Night in America",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Deadliest Catch",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Marvel's The Defenders",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Brooklyn Nine-nine",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "House of the Dragon",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Tomb Raider: The Legend of Lara Croft",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Suits",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Black-ish",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "CNN: Anderson Cooper 360° Daily",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "The Kelly Clarkson Show",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Dexter: Original Sin",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Archer",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Rizzoli & Isles",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Chucky",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Dynasty",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Nancy Drew",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Luther",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Nightline",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Fear The Walking Dead",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "The X Factor",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "The Crown",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Outlander (TV Series)",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "The Amazing Race",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Inside the NFL",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Fox NFL Kickoff (Pregame)",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Cake Wars",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Dexter: New Blood",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Matlock (2024)",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Fallout (2024)",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Judge Steve Harvey",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Scream",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Duck Dynasty",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Gravity Falls",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Scandal",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Star Trek: Strange New Worlds",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Castle",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Ghosts",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "What Would You Do?",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Bridgerton",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Americans",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Once Upon a Time",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Billboard Music Awards",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "WandaVision",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Falcon and the Winter Soldier",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Westworld",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Wizards of Waverly Place",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Dogs",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Bear",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Pee-Wee's Playhouse",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Star Trek: The Animated Series",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Empire",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Pretty Little Liars",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "College Basketball on ESPN",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Supergirl",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Odd Couple (2015)",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Masterchef Junior",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Masterpiece Mystery!",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Boys",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Vampire Diaries",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Frontline",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "MSNBC Live",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Ask This Old House",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "The Last Dance",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Gotham",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "House Hunters International",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "This Is Us",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Fox News Live",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "River Monsters",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "The Chosen",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Restaurant: Impossible",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "The Ellen DeGeneres Show",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Doug",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "CatDog",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "The Penguin",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Lucifer",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Bates Motel",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "The Hunt with John Walsh",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Curb Your Enthusiasm",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Vikings",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Only Murders in the Building",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Black Mirror",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Lego Masters",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Food Network Star",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "CBS Saturday Mornings",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Robot Chicken",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Meet the Press",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Wipeout",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Shogun (2024)",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Fox News Sunday",
+   "count": 36,
+   "aliases": []
+  }
+ ]
+}

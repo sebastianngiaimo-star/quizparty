@@ -1,0 +1,306 @@
+{
+ "source": "INEI, Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas (fecha censal 4 ago 2025), cifras por distrito vía citypopulation.de (https://www.citypopulation.de/php/peru-limametro.php); total Provincia de Lima 10 142 492",
+ "unit": "habitantes",
+ "rows": [
+  {
+   "text": "San Juan de Lurigancho",
+   "count": 1176583,
+   "aliases": [
+    "SJL"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "San Martín de Porres",
+   "count": 764012,
+   "aliases": [
+    "SMP",
+    "San Martin de Porres"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Ate",
+   "count": 703028,
+   "aliases": [
+    "Ate Vitarte",
+    "Vitarte"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Comas",
+   "count": 578818,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Villa María del Triunfo",
+   "count": 487863,
+   "aliases": [
+    "VMT",
+    "Villa Maria del Triunfo"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Villa El Salvador",
+   "count": 451546,
+   "aliases": [
+    "VES"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Carabayllo",
+   "count": 430807,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "San Juan de Miraflores",
+   "count": 417763,
+   "aliases": [
+    "SJM"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Santiago de Surco",
+   "count": 401980,
+   "aliases": [
+    "Surco"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Puente Piedra",
+   "count": 398975,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Chorrillos",
+   "count": 377175,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Los Olivos",
+   "count": 362039,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Lima",
+   "count": 314869,
+   "aliases": [
+    "Cercado de Lima",
+    "Cercado",
+    "Lima Cercado"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Lurigancho",
+   "count": 308451,
+   "aliases": [
+    "Chosica",
+    "Lurigancho-Chosica"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "El Agustino",
+   "count": 231424,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Independencia",
+   "count": 225078,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Santa Anita",
+   "count": 224675,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Rímac",
+   "count": 197361,
+   "aliases": [
+    "Rimac"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "La Victoria",
+   "count": 192325,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "San Miguel",
+   "count": 189301,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "La Molina",
+   "count": 151360,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Pachacámac",
+   "count": 141104,
+   "aliases": [
+    "Pachacamac"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Lurín",
+   "count": 132149,
+   "aliases": [
+    "Lurin"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "San Borja",
+   "count": 126125,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Miraflores",
+   "count": 126049,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Surquillo",
+   "count": 119236,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Jesús María",
+   "count": 105776,
+   "aliases": [
+    "Jesus Maria"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Breña",
+   "count": 104888,
+   "aliases": [
+    "Brena"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Pueblo Libre",
+   "count": 99936,
+   "aliases": [
+    "Magdalena Vieja"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Magdalena del Mar",
+   "count": 82146,
+   "aliases": [
+    "Magdalena"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Ancón",
+   "count": 78256,
+   "aliases": [
+    "Ancon"
+   ],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "San Isidro",
+   "count": 73401,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Lince",
+   "count": 72911,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "San Luis",
+   "count": 61773,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Cieneguilla",
+   "count": 50393,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Chaclacayo",
+   "count": 45670,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Barranco",
+   "count": 42986,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Santa Rosa",
+   "count": 38377,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Pucusana",
+   "count": 19758,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Punta Hermosa",
+   "count": 16482,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Punta Negra",
+   "count": 11241,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "San Bartolo",
+   "count": 7408,
+   "aliases": [],
+   "note": "Provincia de Lima"
+  },
+  {
+   "text": "Santa María del Mar",
+   "count": 994,
+   "aliases": [
+    "Santa Maria del Mar"
+   ],
+   "note": "Provincia de Lima"
+  }
+ ]
+}

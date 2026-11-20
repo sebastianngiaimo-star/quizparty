@@ -1,0 +1,385 @@
+{
+ "platform": "PlayStation 2",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/ps2/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "Tony Hawk's Pro Skater 3",
+   "count": 97,
+   "aliases": [
+    "THPS 3",
+    "THPS3",
+    "Tony Hawk 3"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto III",
+   "count": 97,
+   "aliases": [
+    "Grand Theft Auto 3",
+    "GTA 3",
+    "GTA III",
+    "GTA3"
+   ]
+  },
+  {
+   "text": "Resident Evil 4",
+   "count": 96,
+   "aliases": [
+    "RE 4",
+    "RE4",
+    "Resident Evil 4",
+    "Resident Evil 4 (2005)"
+   ]
+  },
+  {
+   "text": "Metal Gear Solid 2: Sons of Liberty",
+   "count": 96,
+   "aliases": [
+    "Metal Gear Solid 2",
+    "MGS 2",
+    "MGS2",
+    "Sons of Liberty"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto: San Andreas",
+   "count": 95,
+   "aliases": [
+    "GTA SA",
+    "GTA San Andreas",
+    "San Andreas"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto: Vice City",
+   "count": 95,
+   "aliases": [
+    "GTA VC",
+    "GTA Vice City",
+    "Vice City"
+   ]
+  },
+  {
+   "text": "Gran Turismo 3: A-Spec",
+   "count": 95,
+   "aliases": [
+    "Gran Turismo 3",
+    "GT 3",
+    "GT3"
+   ]
+  },
+  {
+   "text": "Madden NFL 2003",
+   "count": 95,
+   "aliases": []
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 4",
+   "count": 94,
+   "aliases": [
+    "THPS 4",
+    "THPS4",
+    "Tony Hawk 4"
+   ]
+  },
+  {
+   "text": "Devil May Cry",
+   "count": 94,
+   "aliases": [
+    "Devil May Cry 1",
+    "DMC",
+    "DMC1"
+   ]
+  },
+  {
+   "text": "Madden NFL 2002",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "Madden NFL 2004",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "Metal Gear Solid 3: Subsistence",
+   "count": 94,
+   "aliases": [
+    "MGS3 Subsistence",
+    "Subsistence"
+   ]
+  },
+  {
+   "text": "NCAA Football 2004",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "God of War",
+   "count": 94,
+   "aliases": [
+    "God of War",
+    "God of War 1",
+    "GoW",
+    "GoW1",
+    "God of War (2005)"
+   ]
+  },
+  {
+   "text": "Virtua Fighter 4",
+   "count": 94,
+   "aliases": [
+    "VF4"
+   ]
+  },
+  {
+   "text": "Burnout 3: Takedown",
+   "count": 93,
+   "aliases": [
+    "Burnout 3",
+    "Takedown"
+   ]
+  },
+  {
+   "text": "God of War II",
+   "count": 93,
+   "aliases": [
+    "God of War 2",
+    "GoW 2",
+    "GoW2"
+   ]
+  },
+  {
+   "text": "SSX",
+   "count": 93,
+   "aliases": [
+    "SSX",
+    "SSX (2000)"
+   ]
+  },
+  {
+   "text": "SSX 3",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Okami",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "NFL 2K3",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Pro Evolution Soccer 2",
+   "count": 93,
+   "aliases": [
+    "PES 2",
+    "PES2"
+   ]
+  },
+  {
+   "text": "Virtua Fighter 4: Evolution",
+   "count": 93,
+   "aliases": [
+    "VF4 Evo",
+    "VF4 Evolution"
+   ]
+  },
+  {
+   "text": "World Soccer Winning Eleven 7 International",
+   "count": 93,
+   "aliases": [
+    "PES 3",
+    "Pro Evolution Soccer 3",
+    "WE7",
+    "Winning Eleven 7"
+   ]
+  },
+  {
+   "text": "SoulCalibur II",
+   "count": 92,
+   "aliases": [
+    "Soul Calibur 2",
+    "Soul Calibur II",
+    "SoulCalibur 2"
+   ]
+  },
+  {
+   "text": "SSX Tricky",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "NHL 2002",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Prince of Persia: The Sands of Time",
+   "count": 92,
+   "aliases": [
+    "PoP Sands of Time",
+    "Prince of Persia",
+    "Sands of Time",
+    "The Sands of Time"
+   ]
+  },
+  {
+   "text": "Final Fantasy XII",
+   "count": 92,
+   "aliases": [
+    "FF 12",
+    "FF12",
+    "FFXII",
+    "Final Fantasy 12"
+   ]
+  },
+  {
+   "text": "Final Fantasy X",
+   "count": 92,
+   "aliases": [
+    "FF 10",
+    "FF X",
+    "FF10",
+    "FFX",
+    "Final Fantasy 10"
+   ]
+  },
+  {
+   "text": "Guitar Hero II",
+   "count": 92,
+   "aliases": [
+    "GH2",
+    "Guitar Hero 2"
+   ]
+  },
+  {
+   "text": "ESPN NFL Football",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Guitar Hero",
+   "count": 91,
+   "aliases": [
+    "GH1",
+    "Guitar Hero 1"
+   ]
+  },
+  {
+   "text": "Madden NFL 2001",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Klonoa 2: Lunatea's Veil",
+   "count": 91,
+   "aliases": [
+    "Klonoa 2",
+    "Lunatea's Veil"
+   ]
+  },
+  {
+   "text": "Ratchet & Clank: Up Your Arsenal",
+   "count": 91,
+   "aliases": [
+    "Ratchet and Clank 3",
+    "Up Your Arsenal"
+   ]
+  },
+  {
+   "text": "Metal Gear Solid 3: Snake Eater",
+   "count": 91,
+   "aliases": [
+    "Metal Gear Solid 3",
+    "MGS 3",
+    "MGS3",
+    "Snake Eater"
+   ]
+  },
+  {
+   "text": "Twisted Metal: Black",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Shadow of the Colossus",
+   "count": 91,
+   "aliases": [
+    "SOTC"
+   ]
+  },
+  {
+   "text": "NCAA Football 2003",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "DOA2: Hardcore",
+   "count": 91,
+   "aliases": [
+    "Dead or Alive 2",
+    "Dead or Alive 2: Hardcore",
+    "DOA2"
+   ]
+  },
+  {
+   "text": "Madden NFL 2005",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "World Soccer Winning Eleven 8 International",
+   "count": 91,
+   "aliases": [
+    "PES 4",
+    "Pro Evolution Soccer 4",
+    "WE8",
+    "Winning Eleven 8"
+   ]
+  },
+  {
+   "text": "ICO",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Tony Hawk's Underground",
+   "count": 90,
+   "aliases": [
+    "THUG",
+    "Tony Hawk Underground"
+   ]
+  },
+  {
+   "text": "Ratchet & Clank: Going Commando",
+   "count": 90,
+   "aliases": [
+    "Going Commando",
+    "Ratchet and Clank 2"
+   ]
+  },
+  {
+   "text": "NBA Street Vol. 2",
+   "count": 90,
+   "aliases": [
+    "NBA Street 2",
+    "NBA Street Volume 2"
+   ]
+  },
+  {
+   "text": "ESPN NFL 2K5",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "MVP Baseball 2004",
+   "count": 90,
+   "aliases": []
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "platform": "Nintendo Switch",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/nintendo-switch/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "The Legend of Zelda: Breath of the Wild",
+   "count": 97,
+   "aliases": [
+    "BotW",
+    "Breath of the Wild",
+    "Legend of Zelda: Breath of the Wild",
+    "Zelda BotW",
+    "Zelda Breath of the Wild"
+   ]
+  },
+  {
+   "text": "Super Mario Odyssey",
+   "count": 97,
+   "aliases": [
+    "Mario Odyssey",
+    "Odyssey",
+    "SMO"
+   ]
+  },
+  {
+   "text": "The House in Fata Morgana - Dreams of the Revenants Edition",
+   "count": 96,
+   "aliases": [
+    "Fata Morgana",
+    "House in Fata Morgana",
+    "House in Fata Morgana - Dreams of the Revenants Edition",
+    "The House in Fata Morgana"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Tears of the Kingdom",
+   "count": 96,
+   "aliases": [
+    "Legend of Zelda: Tears of the Kingdom",
+    "Tears of the Kingdom",
+    "TotK",
+    "Zelda Tears of the Kingdom",
+    "Zelda TotK"
+   ]
+  },
+  {
+   "text": "Tetris Effect: Connected",
+   "count": 94,
+   "aliases": [
+    "Tetris Effect"
+   ]
+  },
+  {
+   "text": "Metroid Prime Remastered",
+   "count": 94,
+   "aliases": [
+    "Metroid Prime",
+    "MP Remastered"
+   ]
+  },
+  {
+   "text": "Persona 5 Royal",
+   "count": 94,
+   "aliases": [
+    "P5R",
+    "Persona 5R"
+   ]
+  },
+  {
+   "text": "Hades",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Divinity: Original Sin II - Definitive Edition",
+   "count": 93,
+   "aliases": [
+    "Divinity 2",
+    "Divinity: Original Sin 2",
+    "Divinity: Original Sin 2 - Definitive Edition",
+    "Divinity: Original Sin II",
+    "DOS2",
+    "Original Sin 2",
+    "Original Sin II"
+   ]
+  },
+  {
+   "text": "Ori and the Will of the Wisps",
+   "count": 93,
+   "aliases": [
+    "Ori 2",
+    "Ori WotW",
+    "Will of the Wisps"
+   ]
+  },
+  {
+   "text": "Undertale",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Super Smash Bros. Ultimate",
+   "count": 93,
+   "aliases": [
+    "Smash",
+    "Smash Bros Ultimate",
+    "Smash Bros.",
+    "Smash Ultimate",
+    "SSBU"
+   ]
+  },
+  {
+   "text": "Super Mario Bros. Wonder",
+   "count": 92,
+   "aliases": [
+    "Mario Bros. Wonder",
+    "Mario Wonder",
+    "SMB Wonder",
+    "Wonder"
+   ]
+  },
+  {
+   "text": "Celeste",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Bayonetta 2",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Mario Kart 8 Deluxe",
+   "count": 92,
+   "aliases": [
+    "Mario Kart",
+    "Mario Kart 8",
+    "MK8",
+    "MK8D",
+    "MK8DX"
+   ]
+  },
+  {
+   "text": "Unavowed",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "INSIDE",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+   "count": 91,
+   "aliases": [
+    "DQ11",
+    "DQXI",
+    "DQXI S",
+    "Dragon Quest 11",
+    "Dragon Quest 11 S: Echoes of an Elusive Age",
+    "Dragon Quest 11 S: Echoes of an Elusive Age - Definitive Edition",
+    "Dragon Quest XI",
+    "Dragon Quest XI S",
+    "Dragon Quest XI S: Echoes of an Elusive Age",
+    "Echoes of an Elusive Age"
+   ]
+  },
+  {
+   "text": "Sonic Mania Plus",
+   "count": 91,
+   "aliases": [
+    "Sonic Mania"
+   ]
+  },
+  {
+   "text": "SteamWorld Heist",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Shovel Knight: Treasure Trove",
+   "count": 91,
+   "aliases": [
+    "Shovel Knight"
+   ]
+  },
+  {
+   "text": "Animal Crossing: New Horizons",
+   "count": 90,
+   "aliases": [
+    "ACNH",
+    "Animal Crossing",
+    "New Horizons"
+   ]
+  },
+  {
+   "text": "Ori and the Blind Forest: Definitive Edition",
+   "count": 90,
+   "aliases": [
+    "Blind Forest",
+    "Ori",
+    "Ori 1",
+    "Ori and the Blind Forest"
+   ]
+  },
+  {
+   "text": "Jack Jeanne",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Animal Well",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Bastion",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Tsukihime: A Piece of Blue Glass Moon",
+   "count": 90,
+   "aliases": [
+    "A Piece of Blue Glass Moon",
+    "Tsukihime"
+   ]
+  },
+  {
+   "text": "Persona 4 Golden",
+   "count": 90,
+   "aliases": [
+    "P4 Golden",
+    "P4G",
+    "Persona 4"
+   ]
+  },
+  {
+   "text": "Sea of Stars",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Hollow Knight",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Chained Echoes",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Pentiment",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Balatro",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "The Making of Karateka",
+   "count": 90,
+   "aliases": [
+    "Making of Karateka"
+   ]
+  },
+  {
+   "text": "Bayonetta + Bayonetta 2",
+   "count": 90,
+   "aliases": [
+    "Bayonetta 1 + 2",
+    "Bayonetta 1+2"
+   ]
+  },
+  {
+   "text": "Chicory: A Colorful Tale",
+   "count": 90,
+   "aliases": [
+    "Chicory"
+   ]
+  },
+  {
+   "text": "Xenoblade Chronicles: Definitive Edition",
+   "count": 89,
+   "aliases": [
+    "XC1",
+    "Xenoblade",
+    "Xenoblade Chronicles",
+    "Xenoblade DE"
+   ]
+  },
+  {
+   "text": "Neva",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Dead Cells",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Into the Breach",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Unicorn Overlord",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Xenoblade Chronicles 3",
+   "count": 89,
+   "aliases": [
+    "XC3",
+    "Xenoblade 3"
+   ]
+  },
+  {
+   "text": "Super Mario 3D World + Bowser's Fury",
+   "count": 89,
+   "aliases": [
+    "3D World",
+    "Bowser's Fury",
+    "Mario 3D World",
+    "SM3DW",
+    "Super Mario 3D World"
+   ]
+  },
+  {
+   "text": "Atari 50: The Anniversary Celebration",
+   "count": 89,
+   "aliases": [
+    "Atari 50"
+   ]
+  },
+  {
+   "text": "Fire Emblem: Three Houses",
+   "count": 89,
+   "aliases": [
+    "FE Three Houses",
+    "FE3H",
+    "Three Houses"
+   ]
+  },
+  {
+   "text": "NieR: Automata - The End of YoRHa Edition",
+   "count": 89,
+   "aliases": [
+    "Nier Automata"
+   ]
+  }
+ ]
+}

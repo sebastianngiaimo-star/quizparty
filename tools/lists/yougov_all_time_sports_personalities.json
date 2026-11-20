@@ -1,0 +1,1521 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (all-time-sports-personalities): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Muhammad Ali",
+   "count": 72,
+   "aliases": [
+    "Cassius Clay"
+   ]
+  },
+  {
+   "text": "Shaquille O'Neal",
+   "count": 72,
+   "aliases": [
+    "Shaq"
+   ]
+  },
+  {
+   "text": "Michael Jordan",
+   "count": 72,
+   "aliases": [
+    "MJ",
+    "Air Jordan"
+   ]
+  },
+  {
+   "text": "Jackie Robinson",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Babe Ruth",
+   "count": 67,
+   "aliases": [
+    "The Babe",
+    "Bambino"
+   ]
+  },
+  {
+   "text": "Kobe Bryant",
+   "count": 67,
+   "aliases": [
+    "Kobe"
+   ]
+  },
+  {
+   "text": "Serena Williams",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Magic Johnson",
+   "count": 62,
+   "aliases": [
+    "Magic"
+   ]
+  },
+  {
+   "text": "Simone Biles",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "John Cena",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Michael Phelps",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Hank Aaron",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Willie Mays",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Kareem Abdul-Jabbar",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Jesse Owens",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Larry Bird",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "George Foreman",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Mickey Mantle",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Venus Williams",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Charles Barkley",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Joe DiMaggio",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Lou Gehrig",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Mike Tyson",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Sugar Ray Robinson",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "LeBron James",
+   "count": 55,
+   "aliases": [
+    "King James"
+   ]
+  },
+  {
+   "text": "Stephen Curry",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Peyton Manning",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Wilt Chamberlain",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Dale Earnhardt",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Usain Bolt",
+   "count": 53,
+   "aliases": [
+    "Bolt"
+   ]
+  },
+  {
+   "text": "Wayne Gretzky",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Joe Montana",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Yogi Berra",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Eli Manning",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "John Madden",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Sugar Ray Leonard",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Pelé",
+   "count": 51,
+   "aliases": [
+    "Pele"
+   ]
+  },
+  {
+   "text": "Walter Payton",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Caitlin Clark",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Arnold Palmer",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "David Beckham",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Nolan Ryan",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Tom Brady",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Vince Lombardi",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Scottie Pippen",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Joe Frazier",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Jerry Rice",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Julius Erving",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Evel Knievel",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Derek Jeter",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Patrick Mahomes",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Emmitt Smith",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Ken Griffey, Jr.",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Roberto Clemente",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Reggie Jackson",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Troy Aikman",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Kristi Yamaguchi",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Joe Namath",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Billie Jean King",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Terry Bradshaw",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Barry Sanders",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Dale Earnhardt, Jr.",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Lionel Messi",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Floyd Mayweather Jr.",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Jack Nicklaus",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Dan Marino",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Sammy Sosa",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Danica Patrick",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Travis Kelce",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Oscar De La Hoya",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Andre Agassi",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Cristiano Ronaldo",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Martina Navratilova",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Bill Russell",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "John Elway",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Cal Ripken, Jr.",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Patrick Ewing",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Evander Holyfield",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Ronaldo",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Rocky Marciano",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Alysa Liu",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Lindsey Vonn",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Michelle Kwan",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Chris Evert",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Bob Uecker",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Barry Bonds",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Jim Brown",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Jason Kelce",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Colin Kaepernick",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Joe Louis",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Ronda Rousey",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Deion Sanders",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Bo Jackson",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Carl Lewis",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Rob Gronkowski",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Arthur Ashe",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Reggie Miller",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Roger Clemens",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Jim Thorpe",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Durant",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Brett Favre",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Richard Petty",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Ty Cobb",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Maria Sharapova",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "David Ortiz",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Meadowlark Lemon",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Ted Williams",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Stefanie Graf",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Johnny Bench",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Phil Jackson",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Reggie White",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Shohei Ohtani",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Undertaker",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Manny Pacquiáo",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Aaron Rodgers",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Sandy Koufax",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Isaiah Thomas",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Sonny Liston",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Dwyane Wade",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Roger Federer",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Pete Rose",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Dick Butkus",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Larry Johnson",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Drew Brees",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Joe Flacco",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Tim Tebow",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Roger Staubach",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Tiger Woods",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Jeff Gordon",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Garnett",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Gale Sayers",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Herschel Walker",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Mike Ditka",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Tony Dorsett",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Terrell Owens",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Gabrielle Douglas",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Hakeem Olajuwon",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Lamar Jackson",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Andy Reid",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Cy Young",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Roger Maris",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Satchel Paige",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Frank Robinson",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Shaun White",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Johnny Unitas",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Lynn Swann",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Naomi Osaka",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "J. J. Watt",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Rafael Nadal",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Karl Malone",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Kyle Busch",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Randy Savage",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Roy Campanella",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Aaron Judge",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Troy Polamalu",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Katie Ledecky",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Howie Long",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Marcus Allen",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Allen Iverson",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Steve Nash",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Ric Flair",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Lawrence Taylor",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Ernie Banks",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Saquon Barkley",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Steve Young",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Jack Dempsey",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Doug Flutie",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Bart Starr",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Michael Johnson",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Mia Hamm",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "William Perry",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Dave Winfield",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Bobby Orr",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Pete Sampras",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Larry Holmes",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Fran Tarkenton",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Novak Djokovic",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Josh Allen",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Ray Lewis",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Mookie Betts",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Joe Greene",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Odell Beckham Jr.",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Randy Moss",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "George Brett",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Tim Duncan",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Alex Rodriguez",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Gordie Howe",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Cathy Rigby",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Don Mattingly",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Randy Johnson",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Ozzie Smith",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Mike Schmidt",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Julio Rodriguez",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Bill Parcells",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Baker Mayfield",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Donovan McNabb",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "David Robinson",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Jared Goff",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "James Harden",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Kyle Petty",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "John Stockton",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Scott Hamilton",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Carmelo Anthony",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Mike Tomlin",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Steve McNair",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Phil Mickelson",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Dennis Rodman",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Matthew Stafford",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Jayson Tatum",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Dirk Nowitzki",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Andy Roddick",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Joe Morgan",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Jim McMahon",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Franco Harris",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Ichiro Suzuki",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Greg Maddux",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Jalen Hurts",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Brooks Robinson",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Rory McIlroy",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Bill Walton",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Matt Hasselbeck",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Kurt Busch",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Tony Romo",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Tom Landry",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Bjorn Borg",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Lance Armstrong",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Russell Wilson",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Oscar Robertson",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Bob Griese",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Jordan Love",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Yoshinobu Yamamoto",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Jason Kidd",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Don Meredith",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Bear Bryant",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Roddy Piper",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Kurt Warner",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Tony Parker",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "John McEnroe",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Albert Pujols",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Butler",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Erling Haaland",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Carl Yastrzemski",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Tom Seaver",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Conor McGregor",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Nikola Jokic",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Warren Sapp",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Lamar Odom",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Michael Irvin",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Ray Allen",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Rickey Henderson",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Alex Morgan",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Marshawn Lynch",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Justin Verlander",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Dwight Howard",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Emmitt Thomas",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Reggie Bush",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Dan Reeves",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Matt Ryan",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "John Harbaugh",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Ben Roethlisberger",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Hope Solo",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Whitey Ford",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Archie Manning",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Bryce Harper",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Mark McGwire",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Chris Webber",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Earl Campbell",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Gregg Popovich",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Warren Moon",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Larry Csonka",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Ken Stabler",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Stan Musial",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Connors",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Coco Gauff",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Lee Trevino",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Terrell Davis",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Charles Oakley",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Boris Becker",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Mariano Rivera",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Joe Burrow",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Mike McCarthy",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Miguel Cabrera",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Caleb Williams",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Marco Andretti",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Brian Piccolo",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Derrick Rose",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Kerri Walsh",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Giannis Antetokounmpo",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Stefon Diggs",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Mike Trout",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Jose Ramirez",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Kyrie Irving",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "A.J. Green",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Trevor Lawrence",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Julian Edelman",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Jaylen Brown",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "José Canseco",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Dusty Rhodes",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Kirk Cousins",
+   "count": 33,
+   "aliases": []
+  }
+ ]
+}

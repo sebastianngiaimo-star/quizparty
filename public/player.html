@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="theme-color" content="#0d0b24">
+<title>QuizParty</title>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Lilita+One&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#10072b; --panel:rgba(255,255,255,.08); --panel2:rgba(255,255,255,.14); --muted:#b9b5e0; --accent:#ffd23f; --teamA:#ffcc00; --teamB:#9b5cff; --good:#22c55e; --bad:#ef4444; }
+  * { box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+  html,body { margin:0; min-height:100%; background:var(--bg); color:#fff; font-family:'Fredoka','Trebuchet MS',system-ui,sans-serif; }
+  body { background:radial-gradient(ellipse at 50% -10%, #2c1470 0%, var(--bg) 65%) fixed; }
+  button, input { font:inherit; color:inherit; }
+  #app { max-width:520px; margin:0 auto; min-height:100vh; display:flex; flex-direction:column; padding:14px 16px 24px; }
+  header { display:flex; justify-content:space-between; align-items:center; padding:6px 2px 14px; font-size:17px; }
+  header .nm { font-weight:600; display:flex; align-items:center; gap:8px; }
+  header .dot { width:14px; height:14px; border-radius:50%; display:inline-block; }
+  header .sc { background:var(--panel2); border-radius:99px; padding:4px 12px; font-weight:600; }
+  .main { flex:1; display:flex; flex-direction:column; justify-content:center; gap:14px; }
+  .card { background:var(--panel); border-radius:20px; padding:20px; text-align:center; }
+  h1 { font-size:30px; margin:0 0 6px; } h2 { font-size:22px; margin:0 0 6px; }
+  .muted { color:var(--muted); }
+  .big-emoji { font-size:64px; line-height:1; }
+  label { display:block; text-align:left; font-size:14px; color:var(--muted); margin:12px 0 6px; }
+  input[type=text] { width:100%; padding:15px 16px; border-radius:14px; border:2px solid rgba(255,255,255,.15); background:rgba(0,0,0,.25); font-size:20px; outline:none; }
+  input[type=text]:focus { border-color:var(--accent); }
+  input.code { text-transform:uppercase; letter-spacing:.3em; font-weight:700; text-align:center; }
+  .btn { width:100%; border:0; border-radius:14px; padding:15px; font-size:20px; font-weight:600; background:var(--panel2); cursor:pointer; }
+  .btn.primary { background:var(--accent); color:#1a1240; }
+  .btn:disabled { opacity:.4; }
+  .btn:active { transform:scale(.98); }
+  .err { color:#ff8a8a; min-height:22px; margin-top:8px; font-size:15px; }
+  .opts { display:grid; grid-template-columns:1fr 1fr; gap:12px; flex:1; max-height:62vh; }
+  .opts.n2 { grid-template-columns:1fr; }
+  .opt { border:0; border-radius:18px; font-size:19px; font-weight:600; padding:14px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; min-height:110px; box-shadow:0 5px 0 rgba(0,0,0,.25); }
+  .opt .sh { font-size:34px; }
+  .opt:active { transform:translateY(3px); box-shadow:0 2px 0 rgba(0,0,0,.25); }
+  .opt.dim { opacity:.3; }
+  .prompt { font-size:20px; font-weight:600; text-align:center; line-height:1.25; }
+  .badge { display:inline-block; font-weight:700; padding:2px 12px; border-radius:10px; }
+  .badge.hi { background:var(--accent); color:#1a1240; } .badge.lo { background:#5eead4; color:#062a24; }
+  .result { font-size:34px; font-weight:700; }
+  .good { color:var(--good); } .bad { color:var(--bad); }
+  .pts { font-size:26px; font-weight:700; color:var(--accent); }
+  .row { display:flex; gap:10px; }
+  .row .btn { flex:1; }
+  .sel-list { display:flex; flex-wrap:wrap; gap:8px; justify-content:center; }
+  .sel-list .btn { width:auto; padding:10px 14px; font-size:16px; }
+  .sel-list .btn.on { background:var(--accent); color:#1a1240; }
+  .mode-btn { text-align:left; padding:14px 16px; border-radius:16px; border:2px solid transparent; background:var(--panel); width:100%; margin-bottom:8px; }
+  .mode-btn.on { border-color:var(--accent); background:rgba(255,210,63,.12); }
+  .mode-btn b { font-size:20px; display:block; } .mode-btn span { font-size:14px; color:var(--muted); }
+  .vip { margin-top:16px; background:var(--panel); border-radius:16px; padding:12px; }
+  .vip summary { font-size:15px; color:var(--muted); cursor:pointer; }
+  .vip .row { margin-top:10px; } .vip .btn { font-size:16px; padding:12px; }
+  .team-pill { display:inline-block; padding:6px 16px; border-radius:99px; font-weight:700; font-size:20px; }
+  .timer { font-size:15px; color:var(--muted); text-align:center; }
+  .timer b { color:#fff; font-size:18px; }
+  #conn { position:fixed; top:0; left:0; right:0; background:var(--bad); text-align:center; padding:6px; font-size:14px; display:none; }
+  .lb div { display:flex; justify-content:space-between; padding:6px 4px; border-bottom:1px solid rgba(255,255,255,.08); }
+  .lb div.me { color:var(--accent); font-weight:600; }
+  .av { width:34px; height:34px; flex:none; filter:drop-shadow(0 2px 0 rgba(0,0,0,.35)); }
+  .av.lg { width:84px; height:84px; } .av.md { width:52px; height:52px; }
+  .vote-btn { text-align:left; padding:16px; border-radius:16px; border:2px solid transparent; background:var(--panel); width:100%; margin-bottom:10px; font-size:18px; font-weight:600; }
+  .vote-btn .n { display:inline-flex; width:30px; height:30px; border-radius:50%; background:var(--accent); color:#2a1a00; align-items:center; justify-content:center; margin-right:10px; font-weight:700; }
+  .vote-btn.on { border-color:var(--accent); background:rgba(255,204,0,.15); }
+  .fin { display:grid; gap:12px; } .fin .btn { font-size:24px; padding:22px; }
+  .sugs { display:flex; flex-wrap:wrap; gap:8px; margin:6px 0; }
+  .sugs button { border:0; border-radius:99px; padding:10px 14px; background:var(--panel2); font-size:16px; font-weight:600; }
+  .team-A { background:var(--teamA) !important; color:#2a1a00; } .team-B { background:var(--teamB) !important; color:#fff; }
+  .display { font-family:'Lilita One','Fredoka',sans-serif; font-weight:400; }
+.miss { background: rgba(255,80,100,.18); border: 2px solid #ff5064; color: #fff; border-radius: 12px; padding: 10px 12px; margin: 10px 0 4px; font-weight: 700; animation: shake .35s; }
+@keyframes shake { 0%,100% { transform: translateX(0) } 25% { transform: translateX(-6px) } 75% { transform: translateX(6px) } }
+</style>
+</head>
+<body>
+<div id="conn"></div>
+<div id="app"></div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/i18n.js"></script>
+<script src="/player.js"></script>
+</body>
+</html>

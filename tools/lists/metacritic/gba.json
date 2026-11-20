@@ -1,0 +1,377 @@
+{
+ "platform": "Game Boy Advance",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/game-boy-advance/all/all-time/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "The Legend of Zelda: A Link to the Past / Four Swords",
+   "count": 95,
+   "aliases": [
+    "A Link to the Past",
+    "A Link to the Past / Four Swords",
+    "ALttP",
+    "Four Swords",
+    "Legend of Zelda: A Link to the Past / Four Swords",
+    "Link to the Past",
+    "Zelda A Link to the Past"
+   ]
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 2",
+   "count": 95,
+   "aliases": [
+    "THPS 2",
+    "THPS2",
+    "Tony Hawk 2"
+   ]
+  },
+  {
+   "text": "Super Mario Advance 4: Super Mario Bros. 3",
+   "count": 94,
+   "aliases": [
+    "Mario 3",
+    "SMB3",
+    "Super Mario Advance 4",
+    "Super Mario Bros 3"
+   ]
+  },
+  {
+   "text": "Mario Kart: Super Circuit",
+   "count": 93,
+   "aliases": [
+    "Mario Kart",
+    "Super Circuit"
+   ]
+  },
+  {
+   "text": "Advance Wars",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Super Mario World: Super Mario Advance 2",
+   "count": 92,
+   "aliases": [
+    "Mario World",
+    "SMW",
+    "Super Mario Advance 2",
+    "Super Mario World"
+   ]
+  },
+  {
+   "text": "Metroid Fusion",
+   "count": 92,
+   "aliases": [
+    "Fusion"
+   ]
+  },
+  {
+   "text": "Final Fantasy VI",
+   "count": 92,
+   "aliases": [
+    "FF 6",
+    "FF6",
+    "FFVI",
+    "Final Fantasy 6"
+   ]
+  },
+  {
+   "text": "Yoshi's Island: Super Mario Advance 3",
+   "count": 91,
+   "aliases": [
+    "Super Mario Advance 3",
+    "Yoshi's Island"
+   ]
+  },
+  {
+   "text": "Castlevania: Aria of Sorrow",
+   "count": 91,
+   "aliases": [
+    "Aria of Sorrow"
+   ]
+  },
+  {
+   "text": "Golden Sun",
+   "count": 91,
+   "aliases": [
+    "Golden Sun 1"
+   ]
+  },
+  {
+   "text": "Castlevania: Circle of the Moon",
+   "count": 91,
+   "aliases": [
+    "Circle of the Moon"
+   ]
+  },
+  {
+   "text": "Mario & Luigi: Superstar Saga",
+   "count": 90,
+   "aliases": [
+    "M&L Superstar Saga",
+    "Superstar Saga"
+   ]
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 3",
+   "count": 90,
+   "aliases": [
+    "THPS 3",
+    "THPS3",
+    "Tony Hawk 3"
+   ]
+  },
+  {
+   "text": "Metroid: Zero Mission",
+   "count": 89,
+   "aliases": [
+    "Zero Mission"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: The Minish Cap",
+   "count": 89,
+   "aliases": [
+    "Legend of Zelda: The Minish Cap",
+    "Minish Cap",
+    "The Minish Cap",
+    "Zelda Minish Cap"
+   ]
+  },
+  {
+   "text": "Advance Wars 2: Black Hole Rising",
+   "count": 89,
+   "aliases": [
+    "Advance Wars 2",
+    "Black Hole Rising"
+   ]
+  },
+  {
+   "text": "WarioWare, Inc.: Mega Microgame$!",
+   "count": 89,
+   "aliases": [
+    "Mega Microgame$!",
+    "Mega Microgames",
+    "WarioWare",
+    "WarioWare Inc."
+   ]
+  },
+  {
+   "text": "Tactics Ogre: The Knight of Lodis",
+   "count": 88,
+   "aliases": [
+    "Knight of Lodis",
+    "The Knight of Lodis"
+   ]
+  },
+  {
+   "text": "Wario Land 4",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "WarioWare: Twisted!",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Bomberman Tournament",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Fire Emblem",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Castlevania: Harmony of Dissonance",
+   "count": 87,
+   "aliases": [
+    "Harmony of Dissonance"
+   ]
+  },
+  {
+   "text": "Ultimate Card Games",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Final Fantasy Tactics Advance",
+   "count": 87,
+   "aliases": [
+    "FFT Advance",
+    "FFTA"
+   ]
+  },
+  {
+   "text": "Sonic Advance",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Golden Sun: The Lost Age",
+   "count": 86,
+   "aliases": [
+    "Golden Sun 2",
+    "Lost Age",
+    "The Lost Age"
+   ]
+  },
+  {
+   "text": "Tony Hawk's Underground",
+   "count": 86,
+   "aliases": [
+    "THUG",
+    "Tony Hawk Underground"
+   ]
+  },
+  {
+   "text": "Moto Racer Advance",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "F-Zero: Maximum Velocity",
+   "count": 86,
+   "aliases": [
+    "Maximum Velocity"
+   ]
+  },
+  {
+   "text": "Astro Boy: Omega Factor",
+   "count": 85,
+   "aliases": [
+    "Astro Boy",
+    "Omega Factor"
+   ]
+  },
+  {
+   "text": "Fire Emblem: The Sacred Stones",
+   "count": 85,
+   "aliases": [
+    "FE Sacred Stones",
+    "Sacred Stones",
+    "The Sacred Stones"
+   ]
+  },
+  {
+   "text": "Tony Hawk's Pro Skater 4",
+   "count": 85,
+   "aliases": [
+    "THPS 4",
+    "THPS4",
+    "Tony Hawk 4"
+   ]
+  },
+  {
+   "text": "Final Fantasy IV",
+   "count": 85,
+   "aliases": [
+    "FF 4",
+    "FF4",
+    "FFIV",
+    "Final Fantasy 4"
+   ]
+  },
+  {
+   "text": "Dave Mirra Freestyle BMX 2",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Mario Golf: Advance Tour",
+   "count": 84,
+   "aliases": [
+    "Advance Tour"
+   ]
+  },
+  {
+   "text": "Super Street Fighter II Turbo: Revival",
+   "count": 84,
+   "aliases": [
+    "Super Street Fighter 2 Turbo: Revival"
+   ]
+  },
+  {
+   "text": "Super Mario Bros.",
+   "count": 84,
+   "aliases": [
+    "Classic NES Series: Super Mario Bros.",
+    "SMB"
+   ]
+  },
+  {
+   "text": "Super Mario Advance",
+   "count": 84,
+   "aliases": [
+    "Super Mario Advance 1",
+    "Super Mario Bros. 2"
+   ]
+  },
+  {
+   "text": "Spider-Man: Mysterio's Menace",
+   "count": 84,
+   "aliases": [
+    "Mysterio's Menace"
+   ]
+  },
+  {
+   "text": "Rayman",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Puyo Pop",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "The Legend of Zelda",
+   "count": 84,
+   "aliases": [
+    "Classic NES Series: The Legend of Zelda",
+    "Legend of Zelda",
+    "Zelda",
+    "Zelda 1"
+   ]
+  },
+  {
+   "text": "ChuChu Rocket!",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Virtua Tennis",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Klonoa: Empire of Dreams",
+   "count": 83,
+   "aliases": [
+    "Empire of Dreams"
+   ]
+  },
+  {
+   "text": "Racing Gears Advance",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Super Puzzle Fighter II Turbo",
+   "count": 83,
+   "aliases": [
+    "Super Puzzle Fighter 2 Turbo"
+   ]
+  },
+  {
+   "text": "Street Fighter Alpha 3",
+   "count": 83,
+   "aliases": [
+    "SF Alpha 3",
+    "SFA3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "platform": "Nintendo 3DS",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/3ds/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "The Legend of Zelda: Ocarina of Time 3D",
+   "count": 94,
+   "aliases": [
+    "Legend of Zelda: Ocarina of Time 3D",
+    "Ocarina of Time",
+    "Ocarina of Time 3D",
+    "OoT",
+    "OoT 3D",
+    "OoT3D"
+   ]
+  },
+  {
+   "text": "Fire Emblem: Awakening",
+   "count": 92,
+   "aliases": [
+    "Awakening",
+    "FE Awakening"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: A Link Between Worlds",
+   "count": 91,
+   "aliases": [
+    "A Link Between Worlds",
+    "ALBW",
+    "Legend of Zelda: A Link Between Worlds",
+    "Link Between Worlds"
+   ]
+  },
+  {
+   "text": "Shovel Knight",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Super Mario 3D Land",
+   "count": 90,
+   "aliases": [
+    "3D Land",
+    "Mario 3D Land"
+   ]
+  },
+  {
+   "text": "Pushmo",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "The Legend of Zelda: Majora's Mask 3D",
+   "count": 89,
+   "aliases": [
+    "Legend of Zelda: Majora's Mask 3D",
+    "Majora's Mask",
+    "Majora's Mask 3D",
+    "Majoras Mask",
+    "MM3D"
+   ]
+  },
+  {
+   "text": "Gunstar Heroes",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Streets of Rage 2",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Colors! 3D",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Zero Escape: Virtue's Last Reward",
+   "count": 88,
+   "aliases": [
+    "Virtue's Last Reward",
+    "VLR",
+    "Zero Escape 2"
+   ]
+  },
+  {
+   "text": "Fire Emblem Fates: Special Edition",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon Y",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Fire Emblem Fates: Revelation",
+   "count": 88,
+   "aliases": [
+    "Fates Revelation",
+    "Revelation"
+   ]
+  },
+  {
+   "text": "Animal Crossing: New Leaf",
+   "count": 88,
+   "aliases": [
+    "ACNL",
+    "Animal Crossing",
+    "New Leaf"
+   ]
+  },
+  {
+   "text": "Pokemon X",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon Sun",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon Moon",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Fire Emblem Fates: Conquest",
+   "count": 87,
+   "aliases": [
+    "Conquest",
+    "Fates Conquest"
+   ]
+  },
+  {
+   "text": "Sonic the Hedgehog 2",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "OutRun",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Monster Hunter 4 Ultimate",
+   "count": 86,
+   "aliases": [
+    "MH4U"
+   ]
+  },
+  {
+   "text": "Picross 3D: Round 2",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Crashmo",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "SteamWorld Heist",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Luigi's Mansion: Dark Moon",
+   "count": 86,
+   "aliases": [
+    "Dark Moon",
+    "Luigi's Mansion 2"
+   ]
+  },
+  {
+   "text": "Xenoblade Chronicles",
+   "count": 86,
+   "aliases": [
+    "XC1",
+    "Xenoblade"
+   ]
+  },
+  {
+   "text": "Fire Emblem Fates: Birthright",
+   "count": 86,
+   "aliases": [
+    "Birthright",
+    "Fates Birthright"
+   ]
+  },
+  {
+   "text": "Monster Hunter Generations",
+   "count": 85,
+   "aliases": [
+    "MH Generations",
+    "MHGen"
+   ]
+  },
+  {
+   "text": "Metroid: Samus Returns",
+   "count": 85,
+   "aliases": [
+    "Samus Returns"
+   ]
+  },
+  {
+   "text": "Dragon Quest VIII: Journey of the Cursed King",
+   "count": 85,
+   "aliases": [
+    "DQ8",
+    "DQVIII",
+    "Dragon Quest 8",
+    "Dragon Quest 8: Journey of the Cursed King",
+    "Dragon Quest VIII",
+    "Journey of the Cursed King"
+   ]
+  },
+  {
+   "text": "Super Street Fighter IV",
+   "count": 85,
+   "aliases": [
+    "SSF 4",
+    "SSF4",
+    "SSFIV",
+    "Super Street Fighter 4"
+   ]
+  },
+  {
+   "text": "Bravely Default",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Super Smash Bros. for Nintendo 3DS / Wii U",
+   "count": 85,
+   "aliases": [
+    "Smash",
+    "Smash 3DS",
+    "Smash 4",
+    "Smash Bros. for 3DS",
+    "Smash Bros. for Wii U",
+    "Smash Wii U",
+    "SSB4"
+   ]
+  },
+  {
+   "text": "Mario Kart 7",
+   "count": 85,
+   "aliases": [
+    "Mario Kart",
+    "MK7"
+   ]
+  },
+  {
+   "text": "Radiant Historia",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon Ultra Sun",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Shin Megami Tensei: Devil Survivor 2 Record Breaker",
+   "count": 84,
+   "aliases": [
+    "Devil Survivor 2 Record Breaker"
+   ]
+  },
+  {
+   "text": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+   "count": 84,
+   "aliases": [
+    "Bowser's Inside Story",
+    "Bowser's Inside Story + Bowser Jr.'s Journey",
+    "Bowser's Inside Story 3DS"
+   ]
+  },
+  {
+   "text": "Etrian Odyssey IV: Legends of the Titan",
+   "count": 84,
+   "aliases": [
+    "Etrian Odyssey 4",
+    "Etrian Odyssey 4: Legends of the Titan",
+    "Etrian Odyssey IV",
+    "Legends of the Titan"
+   ]
+  },
+  {
+   "text": "Pokemon Ultra Moon",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Shin Megami Tensei IV: Apocalypse",
+   "count": 84,
+   "aliases": [
+    "Shin Megami Tensei 4: Apocalypse"
+   ]
+  },
+  {
+   "text": "Kid Icarus: Uprising",
+   "count": 83,
+   "aliases": [
+    "Kid Icarus"
+   ]
+  },
+  {
+   "text": "Donkey Kong Country Returns",
+   "count": 83,
+   "aliases": [
+    "DKC Returns",
+    "DKCR"
+   ]
+  },
+  {
+   "text": "Shin Megami Tensei IV",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Persona Q: Shadow of the Labyrinth",
+   "count": 83,
+   "aliases": [
+    "Persona Q",
+    "Shadow of the Labyrinth"
+   ]
+  },
+  {
+   "text": "Retro City Rampage DX",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Pocket Card Jockey",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "BYE-BYE BOXBOY!",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Stretchmo",
+   "count": 83,
+   "aliases": []
+  }
+ ]
+}

@@ -1,0 +1,417 @@
+{
+  "categories": [
+    {
+      "id": "peru",
+      "name": "Peru",
+      "icon": "🇵🇪",
+      "color": "#e8364f"
+    },
+    {
+      "id": "geografia",
+      "name": "Geography",
+      "icon": "🌎",
+      "color": "#18c29c"
+    },
+    {
+      "id": "vida",
+      "name": "Work & life",
+      "icon": "💼",
+      "color": "#ffb020"
+    },
+    {
+      "id": "animales",
+      "name": "Animals",
+      "icon": "🐾",
+      "color": "#9b5cf6"
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "icon": "🍥",
+      "color": "#ff4f8b"
+    },
+    {
+      "id": "videojuegos",
+      "name": "Video games",
+      "icon": "🎮",
+      "color": "#3a86ff"
+    },
+    {
+      "id": "metacritic",
+      "name": "Metacritic",
+      "icon": "🏆",
+      "color": "#ffcc00"
+    },
+    {
+      "id": "cine",
+      "name": "Movies & pop culture",
+      "icon": "🎬",
+      "color": "#f472b6"
+    },
+    {
+      "id": "forbes",
+      "name": "Money & Forbes",
+      "icon": "💰",
+      "color": "#22c55e"
+    },
+    {
+      "id": "musica",
+      "name": "Music",
+      "icon": "🎵",
+      "color": "#f97316"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "🏅",
+      "color": "#0ea5e9"
+    },
+    {
+      "id": "food",
+      "name": "Food & Drink",
+      "icon": "🍔",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "internet",
+      "name": "Internet & Apps",
+      "icon": "📱",
+      "color": "#14b8a6"
+    }
+  ],
+  "lists": [
+    {
+      "file": "lima_districts.json",
+      "id": "list-lima-districts",
+      "category": "peru",
+      "unit": "inhabitants",
+      "sourceShort": "INEI — Peru National Census 2025"
+    },
+    {
+      "file": "countries_population.json",
+      "id": "list-countries",
+      "category": "geografia",
+      "unit": "people",
+      "sourceShort": "UN World Population Prospects 2024 — 2026 estimate"
+    },
+    {
+      "file": "obesity.json",
+      "id": "list-obesity",
+      "category": "geografia",
+      "unit": "%",
+      "sourceShort": "World Health Organization, 2024 — % of adults with obesity"
+    },
+    {
+      "file": "jobs.json",
+      "id": "list-jobs",
+      "category": "vida",
+      "unit": "$/year",
+      "sourceShort": "Mean annual wage in the US — BLS, May 2025 (top 300)"
+    },
+    {
+      "file": "transport.json",
+      "id": "list-transport",
+      "category": "vida",
+      "unit": "deaths / billion km",
+      "sourceShort": "Deaths per km travelled — UK, 1990–2000"
+    },
+    {
+      "file": "animals.json",
+      "id": "list-animals",
+      "category": "animales",
+      "unit": "km/h",
+      "sourceShort": "Top speed — Wikipedia 'Fastest animals'"
+    },
+    {
+      "file": "metacritic/3ds.json",
+      "id": "list-mc-3ds",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (Nintendo 3DS), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/ds.json",
+      "id": "list-mc-ds",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (Nintendo DS), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/gamecube.json",
+      "id": "list-mc-gamecube",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (GameCube), Nov 2026 — top 49",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/gba.json",
+      "id": "list-mc-gba",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (Game Boy Advance), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/n64.json",
+      "id": "list-mc-n64",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (Nintendo 64), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/pc.json",
+      "id": "list-mc-pc",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (PC), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/ps1.json",
+      "id": "list-mc-ps1",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (PlayStation), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/ps2.json",
+      "id": "list-mc-ps2",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (PlayStation 2), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/ps3.json",
+      "id": "list-mc-ps3",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (PlayStation 3), Nov 2026 — top 48",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/switch.json",
+      "id": "list-mc-switch",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (Nintendo Switch), Nov 2026 — top 47",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "metacritic/wii.json",
+      "id": "list-mc-wii",
+      "category": "metacritic",
+      "unit": "Metascore",
+      "sourceShort": "Metacritic critic score (Wii), Nov 2026 — top 50",
+      "aliasRules": "aliases-games.json",
+      "titleParts": true
+    },
+    {
+      "file": "dragonball_ranking.json",
+      "id": "list-dragonball-strength",
+      "category": "anime",
+      "unit": "rank",
+      "sourceShort": "Combined from 29 fan & editorial power rankings (CBR, ScreenRant, Game Rant, Dexerto…) through Dragon Ball Super",
+      "partAliases": true,
+      "names": "aliases-dragonball.json"
+    },
+    {
+      "file": "animals_weight.json",
+      "id": "list-animals-weight",
+      "category": "animales",
+      "unit": "kg",
+      "sourceShort": "Typical adult weight — Animal Diversity Web, Wikipedia, Britannica"
+    },
+    {
+      "file": "suicide_rate.json",
+      "id": "list-suicide",
+      "category": "geografia",
+      "unit": "per 100k",
+      "sourceShort": "WHO Global Health Estimates — age-standardized suicide rate, 2023"
+    },
+    {
+      "file": "homicide_rate.json",
+      "id": "list-homicide",
+      "category": "geografia",
+      "unit": "per 100k",
+      "sourceShort": "UNODC — intentional homicide victims per 100,000, latest year"
+    },
+    {
+      "file": "animals_intelligence.json",
+      "id": "list-animals-smart",
+      "category": "animales",
+      "unit": "rank",
+      "sourceShort": "Combined from 16 published 'smartest animals' rankings (BBC Science Focus, Live Science, Discover…)"
+    },
+    {
+      "file": "movies_gross.json",
+      "id": "list-movies",
+      "category": "cine",
+      "unit": "$",
+      "sourceShort": "Worldwide box office, not inflation-adjusted — Box Office Mojo, Nov 2026 (top 392)",
+      "titleParts": true
+    },
+    {
+      "file": "billionaires.json",
+      "id": "list-billionaires",
+      "category": "forbes",
+      "unit": "$B",
+      "sourceShort": "Net worth in billions of USD — Forbes World's Billionaires 2026 (ranks 1–200 complete, then a selection of famous names)",
+      "partAliases": "text"
+    },
+    {
+      "file": "billionaires_by_country.json",
+      "id": "list-billionaires-country",
+      "category": "forbes",
+      "unit": "billionaires",
+      "sourceShort": "Number of billionaires per country — Forbes 2026 (a few small countries: 2025 count)"
+    },
+    {
+      "file": "instruments.json",
+      "id": "list-instruments",
+      "category": "musica",
+      "unit": "%",
+      "sourceShort": "% of people who name it when listing instruments — Brown (1972) norms + JetPunk quiz stats"
+    },
+    {
+      "file": "yougov_food_snack_brands.json",
+      "id": "list-yg-food-snack-brands",
+      "category": "food",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026"
+    },
+    {
+      "file": "yougov_beers.json",
+      "id": "list-yg-beers",
+      "category": "food",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026"
+    },
+    {
+      "file": "yougov_all_time_tv_shows.json",
+      "id": "list-yg-all-time-tv-shows",
+      "category": "cine",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "titleParts": true
+    },
+    {
+      "file": "yougov_current_tv_shows.json",
+      "id": "list-yg-current-tv-shows",
+      "category": "cine",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "titleParts": true
+    },
+    {
+      "file": "yougov_comedy_movies.json",
+      "id": "list-yg-comedy-movies",
+      "category": "cine",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "titleParts": true
+    },
+    {
+      "file": "yougov_all_time_actors_actresses.json",
+      "id": "list-yg-all-time-actors-actresses",
+      "category": "cine",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_all_time_people.json",
+      "id": "list-yg-all-time-people",
+      "category": "cine",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_rap_hiphop_artists.json",
+      "id": "list-yg-rap-hiphop-artists",
+      "category": "musica",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_classic_rock_music_artists.json",
+      "id": "list-yg-classic-rock-music-artists",
+      "category": "musica",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_all_time_sports_personalities.json",
+      "id": "list-yg-all-time-sports-personalities",
+      "category": "sports",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_contemporary_soccer_players.json",
+      "id": "list-yg-contemporary-soccer-players",
+      "category": "sports",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_contemporary_basketball_players.json",
+      "id": "list-yg-contemporary-basketball-players",
+      "category": "sports",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_contemporary_wwe_personalities.json",
+      "id": "list-yg-contemporary-wwe-personalities",
+      "category": "sports",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_influencers.json",
+      "id": "list-yg-influencers",
+      "category": "internet",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026",
+      "partAliases": "text"
+    },
+    {
+      "file": "yougov_digital_services.json",
+      "id": "list-yg-digital-services",
+      "category": "internet",
+      "unit": "%",
+      "sourceShort": "% of Americans who like it — YouGov Ratings, Q3 2026"
+    },
+    {
+      "file": "ranker_anime_today.json",
+      "id": "list-ranker-anime",
+      "category": "anime",
+      "unit": "rank",
+      "titleParts": true,
+      "sourceShort": "Fan votes on Ranker (1M+ votes), Nov 2026"
+    }
+  ]
+}

@@ -1,0 +1,1523 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (comedy-movies): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Home Alone",
+   "count": 79,
+   "aliases": [
+    "Mi pobre angelito",
+    "Solo en casa"
+   ]
+  },
+  {
+   "text": "Ghostbusters",
+   "count": 77,
+   "aliases": [
+    "Cazafantasmas"
+   ]
+  },
+  {
+   "text": "How the Grinch Stole Christmas!",
+   "count": 74,
+   "aliases": [
+    "The Grinch (2000)",
+    "El Grinch"
+   ]
+  },
+  {
+   "text": "Dr. Seuss' The Grinch",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Elf",
+   "count": 64,
+   "aliases": [
+    "Elf: El duende"
+   ]
+  },
+  {
+   "text": "Home Alone 2: Lost in New York",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Ferris Bueller's Day Off",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "The Addams Family",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "A Christmas Story",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Pirates of the Caribbean: Dead Man's Chest",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "National Lampoon's Christmas Vacation",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Ghostbusters (2016)",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Ghostbusters II",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Pirates of the Caribbean: At World's End",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Pirates of the Caribbean: Dead Men Tell No Tales",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Pirates of the Caribbean: On Stranger Tides",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "National Lampoon's Vacation",
+   "count": 56,
+   "aliases": [
+    "National Lampoon"
+   ]
+  },
+  {
+   "text": "A League of Their Own",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Mean Girls",
+   "count": 55,
+   "aliases": [
+    "Chicas pesadas"
+   ]
+  },
+  {
+   "text": "Trading Places",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Barbie",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Puss in Boots",
+   "count": 53,
+   "aliases": [
+    "Puss in Boots Franchise"
+   ]
+  },
+  {
+   "text": "The Santa Clause",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "The Hangover",
+   "count": 52,
+   "aliases": [
+    "¿Qué pasó ayer?",
+    "Que paso ayer"
+   ]
+  },
+  {
+   "text": "My Big Fat Greek Wedding",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Sonic the Hedgehog",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Beetlejuice Beetlejuice",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Bad Santa",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "21 Jump Street",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Clifford The Big Red Dog",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Hotel Transylvania 4",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "The Super Mario Bros. Movie",
+   "count": 48,
+   "aliases": [
+    "Super Mario Bros. La película",
+    "Mario movie"
+   ]
+  },
+  {
+   "text": "Hitch",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "The Addams Family 2",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Pitch Perfect",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Buffy the Vampire Slayer",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "22 Jump Street",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Grown Ups",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Paul Blart: Mall Cop",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Zoolander",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Pitch Perfect 2",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "The Big Lebowski",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Liar Liar",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "My Big Fat Greek Wedding 2",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Cruella",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Ted",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "The Hangover: Part II",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Crazy Rich Asians",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Notting Hill",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Ride Along",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Mamma Mia! Here We Go Again",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "A Dog's Journey",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Baywatch",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Bridget Jones's Diary",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Ghostbusters: Afterlife",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Ted 2",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "The Hangover: Part III",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Sonic the Hedgehog 2 Movie",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Knives Out",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Scrooged",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "The Devil Wears Prada 2",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Dolittle",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Bad Santa 2",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Neighbors",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Mean Girls (2024)",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Mary Poppins Returns",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Luca",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Love Actually",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Four Weddings and a Funeral",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Magic Mike",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Paul Blart: Mall Cop 2",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "A Dog's Purpose",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Bad Moms",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Space Jam: A New Legacy",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "The Bounty Hunter",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "PAW Patrol: The Movie",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Pokemon: Detective Pikachu",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Haunted Mansion",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Daddy's Home 2",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "The Holiday",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Super Troopers",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Daddy's Home",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Joe Dirt",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Grand Budapest Hotel",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Boss Baby: Family Business",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Shaun of the Dead",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Overboard (2018)",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Date Night",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Vacation",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "A Madea Family Funeral",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Holmes and Watson",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Elemental",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Ride Along 2",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Hart: What Now?",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Hart: Laugh at My Pain",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Lightyear",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Jackass: The Movie",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Boo! A Madea Halloween",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Zoolander 2",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Raya and the Last Dragon",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Soul",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Sex and the City: The Movie",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "You Don't Mess with the Zohan",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "The Nice Guys",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Lady Bird",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Zombieland: Double Tap",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "The Bad Guys",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Scary Movie 6",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Barbershop: The Next Cut",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Diary of a Wimpy Kid: The Long Haul",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Pitch Perfect 3",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Babysitters Club",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "The Hustle",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "The Intern",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Impractical Jokers: The Movie",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Jackass 3D",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Spy",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Central Intelligence",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Hot Pursuit",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Baby Mama",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Super Troopers 2",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Red One",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Night School",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Dear Santa",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Keeping Up With The Joneses",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "The Boss",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Bridget Jones: Mad about the Boy (2025)",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Meet the Blacks",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Masterminds",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Magic Mike XXL",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Game Night",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Barbie Show",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Jojo Rabbit",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "The Other Woman",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Saturday Night",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "The Heat",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Harold and the Purple Crayon",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Girls Trip",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "The Dictator",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Show Dogs",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Sisters",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Peter Rabbit 2: The Runaway",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Uncut Gems",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Hot Fuzz",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Dirty Grandpa",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Life of the Party",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Get Hard",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Everybody Loves Somebody",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "A Bad Moms Christmas",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Hot Tub Time Machine 2",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "House of Gucci",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Jackass: Best and Last",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Entourage",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Why Him?",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "While We're Young",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Murder Mystery",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Sneakers",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "DC League of Super Pets",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "The Upside",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Focus",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "The Wedding Ringer",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Killers",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Instant Family",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "What Men Want",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Emma",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Bill & Ted Face the Music",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "American Fiction",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Fist Fight",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Johnny English Strikes Again",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "The House Next Door: Meet the Blacks 2",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Neighbors 2: Sorority Rising",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Battle of the Sexes",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Queen Bees",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Trainwreck",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Like a Boss",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Father Figures",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Bridget Jones's Baby",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "The Best Christmas Pageant Ever",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Greed",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Little",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Nonnas",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "The Thursday Murder Club",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Knight and Day",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "The World's End",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Book Club",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Family (2019)",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Office Christmas Party",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Long Shot",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Snatched",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "A Very Jonas Christmas Movie",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "The Second Best Exotic Marigold Hotel",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "The Night Before",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The War with Grandpa",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Good Boys",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Death of Stalin",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Cold Pursuit",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "You, Me & Tuscany",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "I Feel Pretty",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Roses",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Dolemite is my name",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Isn't It Romantic?",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Zombies 4: Dawn of the Vampires",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Jackass Forever",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Paws of Fury: The Legend of Hank",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Perfect Match",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Good House",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Bridget Jones: The Edge of Reason",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Wolf and the Lion",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Strays (2023)",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Book Club - The Next Chapter",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Medieval (2022)",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Big Sick",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Tag",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Going in Style (2017)",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "The Brothers Grimsby",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Gringo",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "The Duff",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "The Holdovers",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Sing Street",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Better Man",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Argylle",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "How to Be Single",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "The Peanut Butter Falcon",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Emilia Pérez",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Just Getting Started",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Ticket to Paradise",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "The Afterparty",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "The Sisters Brothers",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "A Merry Little Ex-Mas",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Thelma (2024)",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "A Real Pain",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "The Breadwinner (2026)",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Safety Not Guaranteed",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Scouts Guide to the Zombie Apocalypse",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Uncle Drew",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Strange World",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "The Spy Who Dumped Me",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "See How They Run",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Asteroid City",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Mitchells vs. the Machines",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Home Again",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Cold Storage",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Summer of 69 (2025)",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "High Spirits",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Kinds of Kindness",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Dope",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Bugonia",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "How to Be a Latin Lover",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Simmba",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "The Invite",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Youth (2015)",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Eighth Grade",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "The Edge of Seventeen",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Perfect Days",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "The Unbearable Weight of Massive Talent",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Eddington",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Lupin III: The First",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Me Time",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "F*ck Valentines Day",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Caught Stealing",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "American Ultra",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Tully (2018)",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Mortdecai",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Playing with Fire",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Don't Worry, Darling",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Faith, Hope & Love",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Logan Lucky",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Blockers",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "The Favourite",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "You People",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Mid90s",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Honk for Jesus. Save Your Soul.",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Extra Ordinary",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "The King’s Daughter",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Hail, Caesar!",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Unfinished Business",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Everybody Wants Some!!",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Deep Cover (2025)",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "The Beach Bum",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Middle School: The Worst Years of my Life",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "The French Dispatch",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Love the Coopers",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Together Together",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Booksmart",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Poor Things",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Anora",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Mrs. Harris Goes to Paris",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Meet the Patels",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Mike and Dave Need Wedding Dates",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Popstar: Never Stop, Never Stopping",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Rock the Kasbah",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "The House",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Downhill",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "The Happytime Murders",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Absolutely Fabulous: The Movie",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Good Fortune",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Ricki and the Flash",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Second Act",
+   "count": 22,
+   "aliases": []
+  }
+ ]
+}

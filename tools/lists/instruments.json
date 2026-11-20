@@ -1,0 +1,696 @@
+{
+ "source": "Share of people who name the instrument when asked to list musical instruments. Average of two sources: Brown (1972) category-production norms, 200 University of Aberdeen students listing instruments for one minute (The Irish Journal of Psychology 1(3), Appendix cat. 15; \"Bass\", \"Comb\", \"Woodwinds\", \"Pipes\", \"Whistle\", \"Chinese block\", \"Musical box\", \"Chanter\" dropped; synonyms such as Fiddle/Violin, Mouth organ/Harmonica, Kettle drum/Timpani, Horn/French horn merged), and the JetPunk quiz \"Most Common Musical Instruments\" stats (% of quiz-takers who typed each answer, read Nov 2026). Instruments present in only one source keep that source's value.",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Piano",
+   "count": 92.5,
+   "aliases": [
+    "pianoforte",
+    "grand piano",
+    "upright piano"
+   ]
+  },
+  {
+   "text": "Violin",
+   "count": 90.8,
+   "aliases": [
+    "violín",
+    "Fiddle",
+    "fiddle"
+   ]
+  },
+  {
+   "text": "Trumpet",
+   "count": 83.5,
+   "aliases": [
+    "trompeta"
+   ]
+  },
+  {
+   "text": "Drum",
+   "count": 81.3,
+   "aliases": [
+    "drums",
+    "drum kit",
+    "drum set",
+    "tambor",
+    "batería",
+    "bateria",
+    "tambores"
+   ]
+  },
+  {
+   "text": "Flute",
+   "count": 80.8,
+   "aliases": [
+    "flauta",
+    "flauta travesera"
+   ]
+  },
+  {
+   "text": "Guitar",
+   "count": 79.5,
+   "aliases": [
+    "guitarra",
+    "acoustic guitar",
+    "guitarra acústica",
+    "classical guitar",
+    "guitarra clásica",
+    "spanish guitar"
+   ]
+  },
+  {
+   "text": "Clarinet",
+   "count": 70.5,
+   "aliases": [
+    "clarinete"
+   ]
+  },
+  {
+   "text": "Cello",
+   "count": 70.3,
+   "aliases": [
+    "violoncello",
+    "violonchelo",
+    "chelo"
+   ]
+  },
+  {
+   "text": "Trombone",
+   "count": 67.5,
+   "aliases": [
+    "trombón"
+   ]
+  },
+  {
+   "text": "Viola",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Oboe",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Saxophone",
+   "count": 59.8,
+   "aliases": [
+    "sax",
+    "saxofón",
+    "saxo"
+   ]
+  },
+  {
+   "text": "French horn",
+   "count": 55,
+   "aliases": [
+    "trompa",
+    "corno francés",
+    "Horn",
+    "cuerno",
+    "horn",
+    "corno"
+   ]
+  },
+  {
+   "text": "Harp",
+   "count": 54,
+   "aliases": [
+    "arpa"
+   ]
+  },
+  {
+   "text": "Organ",
+   "count": 48.5,
+   "aliases": [
+    "órgano",
+    "Hammond organ",
+    "Pipe organ",
+    "órgano de tubos",
+    "pipe organ",
+    "hammond organ",
+    "hammond",
+    "organo",
+    "church organ"
+   ]
+  },
+  {
+   "text": "Tuba",
+   "count": 47.5,
+   "aliases": []
+  },
+  {
+   "text": "Double bass",
+   "count": 47.3,
+   "aliases": [
+    "upright bass",
+    "contrabass",
+    "contrabajo",
+    "Bass fiddle",
+    "bass fiddle",
+    "standup bass"
+   ]
+  },
+  {
+   "text": "Bassoon",
+   "count": 44.5,
+   "aliases": [
+    "fagot"
+   ]
+  },
+  {
+   "text": "Keyboard",
+   "count": 39,
+   "aliases": [
+    "electric keyboard",
+    "electronic keyboard",
+    "teclado",
+    "keyboards"
+   ]
+  },
+  {
+   "text": "Harmonica",
+   "count": 37,
+   "aliases": [
+    "Mouth organ",
+    "armónica",
+    "mouth organ",
+    "armonica"
+   ]
+  },
+  {
+   "text": "Piccolo",
+   "count": 35.3,
+   "aliases": [
+    "flautín",
+    "píccolo"
+   ]
+  },
+  {
+   "text": "Xylophone",
+   "count": 35.3,
+   "aliases": [
+    "xilófono"
+   ]
+  },
+  {
+   "text": "Marimba",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Electric guitar",
+   "count": 30,
+   "aliases": [
+    "guitarra eléctrica",
+    "guitarra electrica"
+   ]
+  },
+  {
+   "text": "Banjo",
+   "count": 27.5,
+   "aliases": []
+  },
+  {
+   "text": "Triangle",
+   "count": 27.5,
+   "aliases": [
+    "triángulo"
+   ]
+  },
+  {
+   "text": "Bass guitar",
+   "count": 25,
+   "aliases": [
+    "electric bass",
+    "bajo eléctrico",
+    "bass",
+    "bajo",
+    "bajo electrico"
+   ]
+  },
+  {
+   "text": "Sitar",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Baritone horn",
+   "count": 24,
+   "aliases": [
+    "baritone"
+   ]
+  },
+  {
+   "text": "Cymbals",
+   "count": 24,
+   "aliases": [
+    "cymbal",
+    "platillos",
+    "címbalos"
+   ]
+  },
+  {
+   "text": "Accordion",
+   "count": 23,
+   "aliases": [
+    "acordeón",
+    "Piano accordion",
+    "piano accordion",
+    "acordeon"
+   ]
+  },
+  {
+   "text": "Bagpipes",
+   "count": 22.8,
+   "aliases": [
+    "bagpipe",
+    "gaita",
+    "pipes"
+   ]
+  },
+  {
+   "text": "Timpani",
+   "count": 21.5,
+   "aliases": [
+    "tympani",
+    "timps",
+    "tímpanos",
+    "Kettle drum",
+    "kettledrum",
+    "timbal",
+    "kettle drum",
+    "kettledrums",
+    "timbales sinfónicos"
+   ]
+  },
+  {
+   "text": "Gong",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Tambourine",
+   "count": 18.5,
+   "aliases": [
+    "pandereta"
+   ]
+  },
+  {
+   "text": "Euphonium",
+   "count": 16,
+   "aliases": [
+    "bombardino",
+    "eufonio"
+   ]
+  },
+  {
+   "text": "Harpsichord",
+   "count": 16,
+   "aliases": [
+    "clavecín",
+    "clavicémbalo",
+    "clave"
+   ]
+  },
+  {
+   "text": "Snare drum",
+   "count": 15,
+   "aliases": [
+    "Side drum",
+    "snares",
+    "snare",
+    "side drum",
+    "caja",
+    "tarola",
+    "redoblante"
+   ]
+  },
+  {
+   "text": "Ukulele",
+   "count": 14.8,
+   "aliases": [
+    "ukelele",
+    "uke"
+   ]
+  },
+  {
+   "text": "Cornet",
+   "count": 14.5,
+   "aliases": [
+    "corneta",
+    "cornetín"
+   ]
+  },
+  {
+   "text": "Mandolin",
+   "count": 14,
+   "aliases": [
+    "mandolina"
+   ]
+  },
+  {
+   "text": "Lute",
+   "count": 13.5,
+   "aliases": [
+    "laúd"
+   ]
+  },
+  {
+   "text": "Recorder",
+   "count": 12.5,
+   "aliases": [
+    "flauta dulce",
+    "flauta de pico"
+   ]
+  },
+  {
+   "text": "Ocarina",
+   "count": 10,
+   "aliases": []
+  },
+  {
+   "text": "Lyre",
+   "count": 9,
+   "aliases": [
+    "lira"
+   ]
+  },
+  {
+   "text": "Cor anglais",
+   "count": 8.5,
+   "aliases": [
+    "English horn",
+    "corno inglés"
+   ]
+  },
+  {
+   "text": "Bongos",
+   "count": 8.3,
+   "aliases": [
+    "bongo",
+    "bongó"
+   ]
+  },
+  {
+   "text": "Bugle",
+   "count": 7.5,
+   "aliases": [
+    "clarín"
+   ]
+  },
+  {
+   "text": "Zither",
+   "count": 6.5,
+   "aliases": [
+    "cítara"
+   ]
+  },
+  {
+   "text": "Tenor sax",
+   "count": 6.3,
+   "aliases": [
+    "tenor saxophone",
+    "saxo tenor"
+   ]
+  },
+  {
+   "text": "Castanets",
+   "count": 5.5,
+   "aliases": [
+    "castañuelas"
+   ]
+  },
+  {
+   "text": "Jaw harp",
+   "count": 5.5,
+   "aliases": [
+    "Jew's harp",
+    "jews harp",
+    "mouth harp",
+    "arpa de boca",
+    "jew's harp",
+    "guimbarda",
+    "birimbao"
+   ]
+  },
+  {
+   "text": "Vibraphone",
+   "count": 5,
+   "aliases": [
+    "vibes",
+    "vibráfono"
+   ]
+  },
+  {
+   "text": "Spinet",
+   "count": 3.5,
+   "aliases": [
+    "espineta"
+   ]
+  },
+  {
+   "text": "Mellophone",
+   "count": 3.3,
+   "aliases": [
+    "Mellophonium",
+    "mellophonium"
+   ]
+  },
+  {
+   "text": "Concertina",
+   "count": 2.5,
+   "aliases": []
+  },
+  {
+   "text": "Player piano",
+   "count": 2.5,
+   "aliases": [
+    "Pianola",
+    "pianola"
+   ]
+  },
+  {
+   "text": "Tin whistle",
+   "count": 2.5,
+   "aliases": [
+    "Penny whistle",
+    "Irish whistle",
+    "penny whistle",
+    "irish whistle",
+    "whistle"
+   ]
+  },
+  {
+   "text": "Tabla",
+   "count": 2,
+   "aliases": []
+  },
+  {
+   "text": "Contrabassoon",
+   "count": 1.5,
+   "aliases": [
+    "Double bassoon",
+    "contrafagot",
+    "double bassoon"
+   ]
+  },
+  {
+   "text": "Fife",
+   "count": 1.5,
+   "aliases": [
+    "pífano"
+   ]
+  },
+  {
+   "text": "Glockenspiel",
+   "count": 1.5,
+   "aliases": []
+  },
+  {
+   "text": "Alto sax",
+   "count": 1,
+   "aliases": [
+    "alto saxophone",
+    "saxo alto"
+   ]
+  },
+  {
+   "text": "Clavichord",
+   "count": 1,
+   "aliases": [
+    "clavicordio"
+   ]
+  },
+  {
+   "text": "Conga",
+   "count": 1,
+   "aliases": [
+    "congas",
+    "tumbadora"
+   ]
+  },
+  {
+   "text": "Dulcimer",
+   "count": 1,
+   "aliases": [
+    "dulcémele"
+   ]
+  },
+  {
+   "text": "Flugelhorn",
+   "count": 1,
+   "aliases": [
+    "fliscorno"
+   ]
+  },
+  {
+   "text": "Harmonium",
+   "count": 1,
+   "aliases": [
+    "armonio"
+   ]
+  },
+  {
+   "text": "Maracas",
+   "count": 1,
+   "aliases": [
+    "maraca"
+   ]
+  },
+  {
+   "text": "Melodeon",
+   "count": 1,
+   "aliases": []
+  },
+  {
+   "text": "Pedal steel guitar",
+   "count": 1,
+   "aliases": [
+    "steel guitar",
+    "pedal steel",
+    "lap steel"
+   ]
+  },
+  {
+   "text": "Sousaphone",
+   "count": 1,
+   "aliases": [
+    "sousafón"
+   ]
+  },
+  {
+   "text": "Synthesizer",
+   "count": 1,
+   "aliases": [
+    "synth",
+    "sintetizador",
+    "electronic synthesizer",
+    "moog"
+   ]
+  },
+  {
+   "text": "Turntable",
+   "count": 1,
+   "aliases": [
+    "turntables",
+    "dj turntable",
+    "tornamesa",
+    "tocadiscos"
+   ]
+  },
+  {
+   "text": "Viol",
+   "count": 1,
+   "aliases": [
+    "viola da gamba",
+    "viola de gamba"
+   ]
+  },
+  {
+   "text": "Autoharp",
+   "count": 0.5,
+   "aliases": []
+  },
+  {
+   "text": "Baritone sax",
+   "count": 0.5,
+   "aliases": [
+    "baritone saxophone",
+    "saxo barítono"
+   ]
+  },
+  {
+   "text": "Bass clarinet",
+   "count": 0.5,
+   "aliases": [
+    "clarinete bajo"
+   ]
+  },
+  {
+   "text": "Basset horn",
+   "count": 0.5,
+   "aliases": [
+    "corno di bassetto"
+   ]
+  },
+  {
+   "text": "Bombardon",
+   "count": 0.5,
+   "aliases": []
+  },
+  {
+   "text": "Bouzouki",
+   "count": 0.5,
+   "aliases": [
+    "buzuki"
+   ]
+  },
+  {
+   "text": "Celesta",
+   "count": 0.5,
+   "aliases": [
+    "Celeste",
+    "celeste"
+   ]
+  },
+  {
+   "text": "Flageolet",
+   "count": 0.5,
+   "aliases": []
+  },
+  {
+   "text": "Post horn",
+   "count": 0.5,
+   "aliases": [
+    "posthorn"
+   ]
+  },
+  {
+   "text": "Saxhorn",
+   "count": 0.5,
+   "aliases": [
+    "sax-horn"
+   ]
+  },
+  {
+   "text": "Tom-tom",
+   "count": 0.5,
+   "aliases": [
+    "tomtom",
+    "tom",
+    "toms"
+   ]
+  },
+  {
+   "text": "Tubular bells",
+   "count": 0.5,
+   "aliases": [
+    "chimes",
+    "campanas tubulares"
+   ]
+  }
+ ]
+}

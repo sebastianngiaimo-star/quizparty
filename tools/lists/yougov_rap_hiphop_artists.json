@@ -1,0 +1,1168 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (rap-hiphop-artists): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Ice Cube",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Eminem",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Tupac Shakur",
+   "count": 56,
+   "aliases": [
+    "2Pac",
+    "Tupac"
+   ]
+  },
+  {
+   "text": "Pharrell Williams",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "LL Cool J",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Beastie Boys",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "MC Hammer",
+   "count": 51,
+   "aliases": [
+    "Hammer"
+   ]
+  },
+  {
+   "text": "Salt-N-Pepa",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Missy Elliott",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "50 Cent",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Run-D.M.C.",
+   "count": 50,
+   "aliases": [
+    "Run DMC"
+   ]
+  },
+  {
+   "text": "Dr. Dre",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Kendrick Lamar",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "OutKast",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Ludacris",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "The Notorious B.I.G.",
+   "count": 48,
+   "aliases": [
+    "Biggie",
+    "Biggie Smalls",
+    "Notorious BIG"
+   ]
+  },
+  {
+   "text": "Post Malone",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Pitbull",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Will.i.am",
+   "count": 45,
+   "aliases": [
+    "Will I Am"
+   ]
+  },
+  {
+   "text": "Nelly",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Donald Glover",
+   "count": 45,
+   "aliases": [
+    "Childish Gambino"
+   ]
+  },
+  {
+   "text": "Lil Wayne",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Cardi B",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Wu-Tang Clan",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Coolio",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Lin-Manuel Miranda",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "DMX",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Jelly Roll",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Drake",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Wiz Khalifa",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Jay-Z",
+   "count": 41,
+   "aliases": [
+    "Jay Z",
+    "Hova"
+   ]
+  },
+  {
+   "text": "Public Enemy",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Busta Rhymes",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Lil' Jon",
+   "count": 40,
+   "aliases": [
+    "Lil Jon"
+   ]
+  },
+  {
+   "text": "Wyclef Jean",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "T-Pain",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Nicki Minaj",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Flo Rida",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Bobby Brown",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Fugees",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "The Roots",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Vanilla Ice",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "DJ Jazzy Jeff & the Fresh Prince",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Eazy-E",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Cypress Hill",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Doja Cat",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Timbaland",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Macklemore",
+   "count": 37,
+   "aliases": [
+    "Macklemore & Ryan Lewis"
+   ]
+  },
+  {
+   "text": "Nas",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Bone Thugs-N-Harmony",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "J. Cole",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "T.I.",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Mac Miller",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Arrested Development",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "DJ Khaled",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Lil Nas X",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Iggy Azalea",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Method Man",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "N.W.A",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "A$AP Rocky",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Chance the Rapper",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "The Sugarhill Gang",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Nipsey Hussle",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Shaboozey",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Common",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Soulja Boy",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Kanye West",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Eve",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Lil' Kim",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Future",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Travis Scott",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Three 6 Mafia",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Kid Cudi",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Daddy Yankee",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Tyler, the Creator",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Big Sean",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "A Tribe Called Quest",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Ja Rule",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Questlove",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Rick Ross",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "2 Live Crew",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Mos Def",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "21 Savage",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Gucci Mane",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Machine Gun Kelly",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Juice Wrld",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "GloRilla",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Ice Spice",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Fred Durst",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Fetty Wap",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Jack Harlow",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Ying Yang Twins",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Master P",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Trey Songz",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "2 Chainz",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "SWV",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Migos",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "B.o.B.",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Young Jeezy",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Tyga",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Ty Dolla $ign",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "The Game",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "G-Unit",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Lil Dicky",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Saweetie",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Kodak Black",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "French Montana",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Fabolous",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Latto",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Jhene Aiko",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Playboi Carti",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Doechii",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "DaBaby",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Gates",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Lupe Fiasco",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Lil Uzi Vert",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Pop Smoke",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "PARTYNEXTDOOR",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Roddy Ricch",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Pusha T",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Wale",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Waka Flocka Flame",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Remy Ma",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Insane Clown Posse",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Chief Keef",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Lil Baby",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Quavo",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Meek Mill",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Logic",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Jadakiss",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Rae Sremmurd",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Ghostface Killah",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Yo Gotti",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "NF",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Metro Boomin",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Baby Keem",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "G-Eazy",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "YoungBoy Never Broke Again",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Sexyy Red",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Moneybagg Yo",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Lil Durk",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Swae Lee",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Paul Wall",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Don Toliver",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Clipse",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Trick Daddy",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "A Boogie wit da Hoodie",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Plies",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "The Kid LAROI",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Lil Yachty",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Killer Mike",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "YG",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "ASAP Ferg",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Rod Wave",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Gunna",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "6LACK",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Coi Leray",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Kaliii",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Stevie J",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Lil Tjay",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "NLE Choppa",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Polo G",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Quando Rondo",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "PnB Rock",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Atmosphere",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Silento",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Farruko",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Trevor Daniel",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Stormzy",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Bhad Bhabie",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Hulvey",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Earl Sweatshirt",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "blackbear",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Cordae",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Vince Staples",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Powfu",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Young Dolph",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Amine",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Bobby Lytes",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Dave",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Sheck Wes",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "SAINt JHN",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "KSI",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "StaySolidRocky",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Big K.R.I.T.",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Pooh Shiesty",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Central Cee",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "The Streets",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Black Thought",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Asake",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Nemo",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Lil Xan",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "D.R.A.M.",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Little Simz",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Desiigner",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Bizarrap",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Kae Tempest",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "IDK",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "24kGoldn",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "6ix9ine",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Lil Mosey",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Young Fathers",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Ink",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Lunay",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Finesse2tymes",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Sam Tompkins",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Action Bronson",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Malice",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "J Hus",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Libianca",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Loyle Carner",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Big Scarr",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Ghetts",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Clay \"Krucial\" Perry III",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Tierra Whack",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Emiway Bantai",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Yella Beezy",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Sada Baby",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "BabyTron",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "MadeinTYO",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Jawsh 685",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Headie One",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Flyana Boss",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Lil Pump",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Anuel AA",
+   "count": 17,
+   "aliases": []
+  },
+  {
+   "text": "Morgenshtern",
+   "count": 17,
+   "aliases": []
+  },
+  {
+   "text": "257ers",
+   "count": 16,
+   "aliases": []
+  },
+  {
+   "text": "Bktherula",
+   "count": 15,
+   "aliases": []
+  }
+ ]
+}

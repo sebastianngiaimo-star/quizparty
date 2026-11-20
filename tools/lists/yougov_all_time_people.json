@@ -1,0 +1,1526 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (all-time-people): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Morgan Freeman",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Keanu Reeves",
+   "count": 82,
+   "aliases": []
+  },
+  {
+   "text": "Albert Einstein",
+   "count": 82,
+   "aliases": [
+    "Einstein"
+   ]
+  },
+  {
+   "text": "Martin Luther King, Jr.",
+   "count": 82,
+   "aliases": [
+    "MLK",
+    "Martin Luther King"
+   ]
+  },
+  {
+   "text": "Betty White",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Dolly Parton",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Robin Williams",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Denzel Washington",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Sandra Bullock",
+   "count": 79,
+   "aliases": []
+  },
+  {
+   "text": "Bruce Willis",
+   "count": 78,
+   "aliases": []
+  },
+  {
+   "text": "Samuel L. Jackson",
+   "count": 78,
+   "aliases": []
+  },
+  {
+   "text": "Jackie Chan",
+   "count": 78,
+   "aliases": []
+  },
+  {
+   "text": "Leonardo da Vinci",
+   "count": 78,
+   "aliases": [
+    "Da Vinci",
+    "Leonardo"
+   ]
+  },
+  {
+   "text": "Abraham Lincoln",
+   "count": 77,
+   "aliases": [
+    "Lincoln",
+    "Abe Lincoln"
+   ]
+  },
+  {
+   "text": "Danny DeVito",
+   "count": 77,
+   "aliases": []
+  },
+  {
+   "text": "Bruce Lee",
+   "count": 77,
+   "aliases": []
+  },
+  {
+   "text": "Harrison Ford",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "Michael J. Fox",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "Steven Spielberg",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "James Earl Jones",
+   "count": 75,
+   "aliases": []
+  },
+  {
+   "text": "John F. Kennedy",
+   "count": 75,
+   "aliases": [
+    "JFK",
+    "Kennedy"
+   ]
+  },
+  {
+   "text": "Michelangelo",
+   "count": 75,
+   "aliases": []
+  },
+  {
+   "text": "Dr. Seuss",
+   "count": 75,
+   "aliases": [
+    "Seuss"
+   ]
+  },
+  {
+   "text": "Benjamin Franklin",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Tom Hanks",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Sean Connery",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Jim Carrey",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Eddie Murphy",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Elton John",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Isaac Newton",
+   "count": 74,
+   "aliases": [
+    "Newton"
+   ]
+  },
+  {
+   "text": "Stevie Wonder",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Matt Damon",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Johnny Cash",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Jennifer Lawrence",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Brad Pitt",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Matthew McConaughey",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Adele",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Muhammad Ali",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Bill Murray",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "George Washington",
+   "count": 72,
+   "aliases": [
+    "Washington"
+   ]
+  },
+  {
+   "text": "Hugh Jackman",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Steve Martin",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Wolfgang Amadeus Mozart",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Mark Twain",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Shaquille O'Neal",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Christopher Walken",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Michael Jordan",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Jamie Lee Curtis",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Adam Sandler",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Liam Neeson",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "William Shakespeare",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Robert Downey Jr.",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Bob Marley",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Whitney Houston",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Halle Berry",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Nicolas Cage",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Michael Keaton",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Paul McCartney",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Frank Sinatra",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Gene Wilder",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Michael Jackson",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Walt Disney",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Prince",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Marilyn Monroe",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Anthony Hopkins",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Jennifer Aniston",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Diana Ross",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Scarlett Johansson",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Vincent van Gogh",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Kurt Russell",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Danny Glover",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Dwayne Johnson",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Louis Armstrong",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Bob Ross",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Elvis Presley",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Al Pacino",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Edgar Allan Poe",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Lucille Ball",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Theodore Roosevelt",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Cameron Diaz",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Jackie Robinson",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Dick Van Dyke",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Judy Garland",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Audrey Hepburn",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Anne Hathaway",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Marvin Gaye",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Mark Wahlberg",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Meryl Streep",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Eleanor Roosevelt",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Ryan Gosling",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Charles Dickens",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "John Lennon",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Jimi Hendrix",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Carol Burnett",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Reese Witherspoon",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Sally Field",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Sylvester Stallone",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Terry Crews",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "David Bowie",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Johnny Depp",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Michelle Pfeiffer",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Tina Fey",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Franklin D. Roosevelt",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Jennifer Garner",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Babe Ruth",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Ben Affleck",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Julia Roberts",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Robert De Niro",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Jack Nicholson",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Joe Pesci",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Lionel Richie",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Sam Elliott",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Jack Black",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Steve Irwin",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Kobe Bryant",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Jodie Foster",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Tommy Lee Jones",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Celine Dion",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Christina Applegate",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Ben Stiller",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Kathy Bates",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Emma Stone",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Kate Winslet",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Alfred Hitchcock",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Ludwig van Beethoven",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Forest Whitaker",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Pablo Picasso",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Billy Joel",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Drew Barrymore",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Will Ferrell",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "George Lucas",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Leonardo DiCaprio",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Kate Hudson",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Patrick Swayze",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Sidney Poitier",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Michael Douglas",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Julie Andrews",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Elizabeth Taylor",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Natalie Portman",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Dustin Hoffman",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Thomas Jefferson",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Robert Redford",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Tom Selleck",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Willem Dafoe",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Henry Winkler",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Salma Hayek",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Costner",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Bacon",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Kristen Bell",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Shirley Temple",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Jeff Bridges",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Freddie Mercury",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Paul Newman",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Jamie Foxx",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Christopher Reeve",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Jason Momoa",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Woody Harrelson",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Winona Ryder",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Patrick Stewart",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Lady Gaga",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Antonio Banderas",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Sofía Vergara",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Carlos Santana",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Clint Eastwood",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Nat King Cole",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Jeff Goldblum",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Olivia Newton-John",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Cyndi Lauper",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Bruno Mars",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Michael Caine",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Tobey Maguire",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Queen Latifah",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Lucy Liu",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Michael B. Jordan",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Beatrice Arthur",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Jason Statham",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "William Shatner",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Barack Obama",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Gene Hackman",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Angelina Jolie",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Demi Moore",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Johnny Carson",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Alicia Keys",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Pierce Brosnan",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Tim Curry",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "John Travolta",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Owen Wilson",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Katharine Hepburn",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Ryan Reynolds",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Sigourney Weaver",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Paul Rudd",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Hart",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Aristotle",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "John Legend",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Goldie Hawn",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Donald Sutherland",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Diane Keaton",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Macaulay Culkin",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Willie Nelson",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Helen Hunt",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Chris Pratt",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Janet Jackson",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Jon Bon Jovi",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Agatha Christie",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Ted Danson",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Dwight D. Eisenhower",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Kirk Douglas",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Christian Bale",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Laurence Fishburne",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Daniel Radcliffe",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Serena Williams",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Chris Hemsworth",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Shakira",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Mahatma Gandhi",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Magic Johnson",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "John Goodman",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Hugh Laurie",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Emma Watson",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Chuck Norris",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "James Brown",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Robert Duvall",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Steve Carell",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Russell Crowe",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Liam Hemsworth",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Nicole Kidman",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Bradley Cooper",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Tim Allen",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Christopher Lloyd",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Emma Thompson",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Selena",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "John Adams",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Reba McEntire",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "John Ritter",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Ella Fitzgerald",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Martin Short",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Carrie Fisher",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Jacqueline Kennedy Onassis",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Eric Clapton",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Rob Lowe",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Charlie Chaplin",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Stephen King",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Andy Griffith",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Heath Ledger",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Simone Biles",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Eva Longoria",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Jim Henson",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Mariah Carey",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "George Clooney",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Pope Francis I",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Rembrandt",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Catherine Zeta-Jones",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Alex Trebek",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Chuck Berry",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "John Cena",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Bob Hope",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Richard Pryor",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Emily Dickinson",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Angela Bassett",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Jason Bateman",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Billie Holiday",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Alexander Hamilton",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Susan Sarandon",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Jennifer Love Hewitt",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Rihanna",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Viola Davis",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Mel Brooks",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "B.B. King",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Kelly Clarkson",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Martin Scorsese",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Val Kilmer",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Bette Davis",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "John Candy",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Burt Reynolds",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Ed Harris",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Johann Sebastian Bach",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Mr. T",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Chris Farley",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Bob Barker",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Bill Nye",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Helen Mirren",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Margot Robbie",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Carter",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Emilio Estevez",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Martin Sheen",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Cate Blanchett",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Neil Diamond",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Katey Sagal",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Buddy Holly",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Kirsten Dunst",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Donna Summer",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Tom Petty",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Danny Trejo",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Janis Joplin",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Tim Burton",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Gordon Ramsay",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "James Dean",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Jake Gyllenhaal",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Marlon Brando",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Hugh Grant",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Glenn Close",
+   "count": 59,
+   "aliases": []
+  }
+ ]
+}

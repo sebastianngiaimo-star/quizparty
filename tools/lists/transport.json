@@ -1,0 +1,110 @@
+{
+ "source": "UK DETR survey data 1990–2000 (via Roger Ford, Modern Railways, Oct 2000), as tabulated in Wikipedia 'Transport accident' — deaths per billion km column (https://en.wikipedia.org/wiki/Transport_accident), accessed 2026-11-09",
+ "unit": "deaths per billion km",
+ "rows": [
+  {
+   "text": "Motorcycle",
+   "count": 108.9,
+   "aliases": [
+    "moto",
+    "motos",
+    "motocicletas",
+    "mototaxi",
+    "motorcycle",
+    "motorbike"
+   ]
+  },
+  {
+   "text": "Walking",
+   "count": 54.2,
+   "aliases": [
+    "caminar",
+    "caminando",
+    "peatones",
+    "andar",
+    "walking",
+    "on foot",
+    "foot"
+   ]
+  },
+  {
+   "text": "Bicycle",
+   "count": 44.6,
+   "aliases": [
+    "bici",
+    "bicicletas",
+    "ciclismo",
+    "ciclista",
+    "bike",
+    "bicycle",
+    "cycling"
+   ]
+  },
+  {
+   "text": "Car",
+   "count": 3.1,
+   "aliases": [
+    "carro",
+    "coche",
+    "taxi",
+    "car"
+   ]
+  },
+  {
+   "text": "Boat / ferry",
+   "count": 2.6,
+   "aliases": [
+    "barco",
+    "ferry",
+    "bote",
+    "lancha",
+    "boat",
+    "water"
+   ]
+  },
+  {
+   "text": "Van",
+   "count": 1.2,
+   "aliases": [
+    "camioneta",
+    "van",
+    "furgoneta",
+    "minivan"
+   ]
+  },
+  {
+   "text": "Train",
+   "count": 0.6,
+   "aliases": [
+    "ferrocarril",
+    "metro",
+    "rail",
+    "train"
+   ]
+  },
+  {
+   "text": "Bus",
+   "count": 0.4,
+   "aliases": [
+    "micro",
+    "combi",
+    "colectivo",
+    "bus interprovincial",
+    "coaster",
+    "coach"
+   ]
+  },
+  {
+   "text": "Plane",
+   "count": 0.05,
+   "aliases": [
+    "aviones",
+    "vuelo",
+    "volar",
+    "plane",
+    "air",
+    "airplane"
+   ]
+  }
+ ]
+}

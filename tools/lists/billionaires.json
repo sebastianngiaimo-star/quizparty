@@ -1,0 +1,2540 @@
+{
+ "source": "Forbes World's Billionaires 2026 (net worth as of March 1, 2026). Ranks 1–200 complete; below that, a selection of well-known names from the same list.",
+ "unit": "$B",
+ "rows": [
+  {
+   "text": "Elon Musk",
+   "count": 839,
+   "aliases": [
+    "Musk"
+   ]
+  },
+  {
+   "text": "Larry Page",
+   "count": 257,
+   "aliases": [
+    "Page",
+    "Lawrence Page"
+   ]
+  },
+  {
+   "text": "Sergey Brin",
+   "count": 237,
+   "aliases": [
+    "Brin"
+   ]
+  },
+  {
+   "text": "Jeff Bezos",
+   "count": 224,
+   "aliases": [
+    "Bezos",
+    "Jeffrey Bezos"
+   ]
+  },
+  {
+   "text": "Mark Zuckerberg",
+   "count": 222,
+   "aliases": [
+    "Zuckerberg",
+    "Zuck"
+   ]
+  },
+  {
+   "text": "Larry Ellison",
+   "count": 190,
+   "aliases": [
+    "Ellison"
+   ]
+  },
+  {
+   "text": "Bernard Arnault",
+   "count": 171,
+   "aliases": [
+    "Arnault",
+    "Bernard Arnault & family"
+   ]
+  },
+  {
+   "text": "Jensen Huang",
+   "count": 154,
+   "aliases": [
+    "Jen-Hsun Huang"
+   ]
+  },
+  {
+   "text": "Warren Buffett",
+   "count": 149,
+   "aliases": [
+    "Buffett",
+    "Oracle of Omaha",
+    "Warren Buffet"
+   ]
+  },
+  {
+   "text": "Amancio Ortega",
+   "count": 148,
+   "aliases": [
+    "Ortega"
+   ]
+  },
+  {
+   "text": "Rob Walton",
+   "count": 146,
+   "aliases": [
+    "Rob Walton & family",
+    "Robson Walton",
+    "S. Robson Walton"
+   ]
+  },
+  {
+   "text": "Jim Walton",
+   "count": 143,
+   "aliases": [
+    "Jim Walton & family",
+    "James Walton"
+   ]
+  },
+  {
+   "text": "Michael Dell",
+   "count": 141,
+   "aliases": [
+    "Dell"
+   ]
+  },
+  {
+   "text": "Alice Walton",
+   "count": 134,
+   "aliases": []
+  },
+  {
+   "text": "Steve Ballmer",
+   "count": 126,
+   "aliases": [
+    "Ballmer"
+   ]
+  },
+  {
+   "text": "Carlos Slim",
+   "count": 125,
+   "aliases": [
+    "Slim",
+    "Carlos Slim Helú",
+    "Carlos Slim Helu"
+   ]
+  },
+  {
+   "text": "Changpeng Zhao",
+   "count": 110,
+   "aliases": [
+    "CZ",
+    "Zhao"
+   ]
+  },
+  {
+   "text": "Michael Bloomberg",
+   "count": 109,
+   "aliases": [
+    "Bloomberg",
+    "Mike Bloomberg"
+   ]
+  },
+  {
+   "text": "Bill Gates",
+   "count": 108,
+   "aliases": [
+    "William Gates",
+    "Bill Gates III"
+   ]
+  },
+  {
+   "text": "Françoise Bettencourt Meyers",
+   "count": 100,
+   "aliases": [
+    "Bettencourt",
+    "Bettencourt Meyers",
+    "Francoise Bettencourt Meyers"
+   ]
+  },
+  {
+   "text": "Mukesh Ambani",
+   "count": 99.7,
+   "aliases": [
+    "Ambani"
+   ]
+  },
+  {
+   "text": "Giancarlo Devasini",
+   "count": 89.3,
+   "aliases": [
+    "Devasini"
+   ]
+  },
+  {
+   "text": "Thomas Peterffy",
+   "count": 82.9,
+   "aliases": [
+    "Peterffy"
+   ]
+  },
+  {
+   "text": "Julia Koch",
+   "count": 81.2,
+   "aliases": [
+    "Julia Koch & family"
+   ]
+  },
+  {
+   "text": "Charles Koch",
+   "count": 73.8,
+   "aliases": [
+    "Charles Koch & family"
+   ]
+  },
+  {
+   "text": "Zhang Yiming",
+   "count": 69.3,
+   "aliases": []
+  },
+  {
+   "text": "Zhong Shanshan",
+   "count": 68.1,
+   "aliases": []
+  },
+  {
+   "text": "Jeff Yass",
+   "count": 67.4,
+   "aliases": [
+    "Yass"
+   ]
+  },
+  {
+   "text": "Dieter Schwarz",
+   "count": 67.2,
+   "aliases": [
+    "Schwarz"
+   ]
+  },
+  {
+   "text": "Germán Larrea",
+   "count": 67.1,
+   "aliases": [
+    "Larrea",
+    "German Larrea",
+    "Germán Larrea Mota Velasco"
+   ]
+  },
+  {
+   "text": "Gautam Adani",
+   "count": 63.8,
+   "aliases": [
+    "Adani Group"
+   ]
+  },
+  {
+   "text": "Tadashi Yanai",
+   "count": 61.8,
+   "aliases": [
+    "Yanai"
+   ]
+  },
+  {
+   "text": "Ma Huateng",
+   "count": 53.8,
+   "aliases": [
+    "Pony Ma"
+   ]
+  },
+  {
+   "text": "Robin Zeng",
+   "count": 53.2,
+   "aliases": [
+    "Zeng Yuqun"
+   ]
+  },
+  {
+   "text": "Iris Fontbona",
+   "count": 52.6,
+   "aliases": [
+    "Fontbona",
+    "Luksic"
+   ]
+  },
+  {
+   "text": "Masayoshi Son",
+   "count": 51.5,
+   "aliases": [
+    "Son"
+   ]
+  },
+  {
+   "text": "Ken Griffin",
+   "count": 49.8,
+   "aliases": [
+    "Griffin",
+    "Kenneth Griffin"
+   ]
+  },
+  {
+   "text": "Jacqueline Mars",
+   "count": 49.1,
+   "aliases": []
+  },
+  {
+   "text": "John Mars",
+   "count": 49.1,
+   "aliases": []
+  },
+  {
+   "text": "Lukas Walton",
+   "count": 48.9,
+   "aliases": []
+  },
+  {
+   "text": "Giovanni Ferrero",
+   "count": 48.8,
+   "aliases": [
+    "Ferrero",
+    "Ferrero Rocher"
+   ]
+  },
+  {
+   "text": "Li Ka-shing",
+   "count": 47,
+   "aliases": [
+    "Li Ka Shing",
+    "Superman Li"
+   ]
+  },
+  {
+   "text": "Mark Mateschitz",
+   "count": 45.8,
+   "aliases": [
+    "Mateschitz"
+   ]
+  },
+  {
+   "text": "Gianluigi Aponte",
+   "count": 44.5,
+   "aliases": []
+  },
+  {
+   "text": "Rafaela Aponte-Diamant",
+   "count": 44.5,
+   "aliases": [
+    "Rafaela Aponte"
+   ]
+  },
+  {
+   "text": "Andrea Pignataro",
+   "count": 42.6,
+   "aliases": [
+    "Pignataro"
+   ]
+  },
+  {
+   "text": "Klaus-Michael Kuehne",
+   "count": 41.9,
+   "aliases": [
+    "Kuehne",
+    "Kühne",
+    "Kuehne + Nagel",
+    "Klaus-Michael Kühne"
+   ]
+  },
+  {
+   "text": "Thomas Frist Jr.",
+   "count": 41.1,
+   "aliases": [
+    "Frist",
+    "Thomas Frist"
+   ]
+  },
+  {
+   "text": "Alain Wertheimer",
+   "count": 39.4,
+   "aliases": []
+  },
+  {
+   "text": "Gérard Wertheimer",
+   "count": 39.4,
+   "aliases": [
+    "Gerard Wertheimer"
+   ]
+  },
+  {
+   "text": "Savitri Jindal",
+   "count": 39.1,
+   "aliases": [
+    "Jindal",
+    "Jindal Steel",
+    "OP Jindal Group"
+   ]
+  },
+  {
+   "text": "Stephen Schwarzman",
+   "count": 38.3,
+   "aliases": [
+    "Schwarzman",
+    "Steve Schwarzman"
+   ]
+  },
+  {
+   "text": "Paolo Ardoino",
+   "count": 38,
+   "aliases": [
+    "Ardoino"
+   ]
+  },
+  {
+   "text": "Jean-Louis van der Velde",
+   "count": 38,
+   "aliases": [
+    "van der Velde"
+   ]
+  },
+  {
+   "text": "William Ding",
+   "count": 37.9,
+   "aliases": [
+    "Ding Lei"
+   ]
+  },
+  {
+   "text": "Miriam Adelson",
+   "count": 37.5,
+   "aliases": [
+    "Adelson"
+   ]
+  },
+  {
+   "text": "Alexey Mordashov",
+   "count": 37,
+   "aliases": [
+    "Mordashov"
+   ]
+  },
+  {
+   "text": "Colin Huang",
+   "count": 36.6,
+   "aliases": [
+    "Huang Zheng"
+   ]
+  },
+  {
+   "text": "Eduardo Saverin",
+   "count": 35.9,
+   "aliases": [
+    "Saverin"
+   ]
+  },
+  {
+   "text": "Eric Schmidt",
+   "count": 35.5,
+   "aliases": [
+    "Schmidt"
+   ]
+  },
+  {
+   "text": "Idan Ofer",
+   "count": 34.6,
+   "aliases": []
+  },
+  {
+   "text": "Eyal Ofer",
+   "count": 33.6,
+   "aliases": [
+    "Ofer Global"
+   ]
+  },
+  {
+   "text": "He Xiangjian",
+   "count": 33.2,
+   "aliases": []
+  },
+  {
+   "text": "Abigail Johnson",
+   "count": 33.2,
+   "aliases": []
+  },
+  {
+   "text": "Zheng Shuliang",
+   "count": 33.2,
+   "aliases": []
+  },
+  {
+   "text": "Marilyn Simons",
+   "count": 32.5,
+   "aliases": []
+  },
+  {
+   "text": "Robert Pera",
+   "count": 31.7,
+   "aliases": [
+    "Pera"
+   ]
+  },
+  {
+   "text": "Phil Knight",
+   "count": 31.1,
+   "aliases": [
+    "Knight"
+   ]
+  },
+  {
+   "text": "Michal Strnad",
+   "count": 31.1,
+   "aliases": [
+    "Strnad"
+   ]
+  },
+  {
+   "text": "Lakshmi Mittal",
+   "count": 31,
+   "aliases": [
+    "Mittal"
+   ]
+  },
+  {
+   "text": "Elaine Marshall",
+   "count": 30.9,
+   "aliases": [
+    "Marshall"
+   ]
+  },
+  {
+   "text": "Shiv Nadar",
+   "count": 30.9,
+   "aliases": [
+    "Nadar"
+   ]
+  },
+  {
+   "text": "Henry Samueli",
+   "count": 30.8,
+   "aliases": [
+    "Samueli"
+   ]
+  },
+  {
+   "text": "Melinda French Gates",
+   "count": 30.3,
+   "aliases": [
+    "Melinda Gates",
+    "French Gates"
+   ]
+  },
+  {
+   "text": "Stefan Quandt",
+   "count": 30.1,
+   "aliases": [
+    "Quandt"
+   ]
+  },
+  {
+   "text": "Reinhold Wuerth",
+   "count": 30.1,
+   "aliases": [
+    "Würth",
+    "Wurth",
+    "Reinhold Würth"
+   ]
+  },
+  {
+   "text": "Lyndal Stephens Greth",
+   "count": 30,
+   "aliases": [
+    "Greth",
+    "Lyndal Greth"
+   ]
+  },
+  {
+   "text": "Len Blavatnik",
+   "count": 29.9,
+   "aliases": [
+    "Blavatnik",
+    "Leonard Blavatnik"
+   ]
+  },
+  {
+   "text": "Susanne Klatten",
+   "count": 29.7,
+   "aliases": [
+    "Klatten"
+   ]
+  },
+  {
+   "text": "Vladimir Potanin",
+   "count": 29.7,
+   "aliases": [
+    "Potanin"
+   ]
+  },
+  {
+   "text": "Vagit Alekperov",
+   "count": 29.5,
+   "aliases": [
+    "Alekperov"
+   ]
+  },
+  {
+   "text": "François Pinault",
+   "count": 29.5,
+   "aliases": [
+    "Pinault",
+    "Francois Pinault"
+   ]
+  },
+  {
+   "text": "Jack Ma",
+   "count": 29.1,
+   "aliases": [
+    "Ma Yun"
+   ]
+  },
+  {
+   "text": "Prajogo Pangestu",
+   "count": 28.6,
+   "aliases": [
+    "Pangestu"
+   ]
+  },
+  {
+   "text": "MacKenzie Scott",
+   "count": 28.6,
+   "aliases": [
+    "MacKenzie Bezos",
+    "Mackenzie Scott"
+   ]
+  },
+  {
+   "text": "Aliko Dangote",
+   "count": 28.5,
+   "aliases": [
+    "Dangote",
+    "Dangote Group"
+   ]
+  },
+  {
+   "text": "Peter Thiel",
+   "count": 28.4,
+   "aliases": [
+    "Thiel"
+   ]
+  },
+  {
+   "text": "Emmanuel Besnier",
+   "count": 28.3,
+   "aliases": [
+    "Besnier"
+   ]
+  },
+  {
+   "text": "Leonid Mikhelson",
+   "count": 28.3,
+   "aliases": [
+    "Mikhelson"
+   ]
+  },
+  {
+   "text": "Daniel Gilbert",
+   "count": 27.9,
+   "aliases": [
+    "Dan Gilbert"
+   ]
+  },
+  {
+   "text": "Lei Jun",
+   "count": 27.9,
+   "aliases": []
+  },
+  {
+   "text": "Andreas von Bechtolsheim",
+   "count": 27.9,
+   "aliases": [
+    "Bechtolsheim",
+    "Andy Bechtolsheim"
+   ]
+  },
+  {
+   "text": "Pham Nhat Vuong",
+   "count": 27.7,
+   "aliases": [
+    "Vuong",
+    "Phạm Nhật Vượng"
+   ]
+  },
+  {
+   "text": "Vicky Safra",
+   "count": 27.1,
+   "aliases": [
+    "Safra",
+    "Banco Safra"
+   ]
+  },
+  {
+   "text": "Jay Y. Lee",
+   "count": 27,
+   "aliases": [
+    "Lee Jae-yong"
+   ]
+  },
+  {
+   "text": "Cyrus Poonawalla",
+   "count": 27,
+   "aliases": [
+    "Poonawalla"
+   ]
+  },
+  {
+   "text": "Rick Cohen",
+   "count": 26.3,
+   "aliases": []
+  },
+  {
+   "text": "Israel Englander",
+   "count": 25.8,
+   "aliases": [
+    "Izzy Englander",
+    "Englander"
+   ]
+  },
+  {
+   "text": "Suleiman Kerimov",
+   "count": 25.7,
+   "aliases": [
+    "Kerimov"
+   ]
+  },
+  {
+   "text": "Dilip Shanghvi",
+   "count": 25.6,
+   "aliases": [
+    "Shanghvi"
+   ]
+  },
+  {
+   "text": "Vladimir Lisin",
+   "count": 25.5,
+   "aliases": [
+    "Lisin"
+   ]
+  },
+  {
+   "text": "Gina Rinehart",
+   "count": 25.5,
+   "aliases": [
+    "Rinehart"
+   ]
+  },
+  {
+   "text": "Yu Yong",
+   "count": 25.4,
+   "aliases": []
+  },
+  {
+   "text": "Stuart Hoegner",
+   "count": 24.7,
+   "aliases": [
+    "Hoegner"
+   ]
+  },
+  {
+   "text": "Huang Shilin",
+   "count": 24.4,
+   "aliases": []
+  },
+  {
+   "text": "Christy Walton",
+   "count": 24.3,
+   "aliases": []
+  },
+  {
+   "text": "Stefan Persson",
+   "count": 24.2,
+   "aliases": [
+    "Persson"
+   ]
+  },
+  {
+   "text": "Gennady Timchenko",
+   "count": 24.2,
+   "aliases": [
+    "Timchenko"
+   ]
+  },
+  {
+   "text": "David Tepper",
+   "count": 23.7,
+   "aliases": [
+    "Tepper"
+   ]
+  },
+  {
+   "text": "Harry Triguboff",
+   "count": 23.4,
+   "aliases": [
+    "Triguboff",
+    "High-Rise Harry"
+   ]
+  },
+  {
+   "text": "Steve Cohen",
+   "count": 23,
+   "aliases": [
+    "Steven Cohen"
+   ]
+  },
+  {
+   "text": "Rupert Murdoch",
+   "count": 22.7,
+   "aliases": [
+    "Murdoch"
+   ]
+  },
+  {
+   "text": "Diane Hendricks",
+   "count": 22.3,
+   "aliases": [
+    "Hendricks"
+   ]
+  },
+  {
+   "text": "Stanley Kroenke",
+   "count": 22.2,
+   "aliases": [
+    "Stan Kroenke",
+    "Kroenke Sports"
+   ]
+  },
+  {
+   "text": "Todd Graves",
+   "count": 22,
+   "aliases": [
+    "Graves"
+   ]
+  },
+  {
+   "text": "Ernest Garcia II",
+   "count": 21.5,
+   "aliases": [
+    "Ernie Garcia"
+   ]
+  },
+  {
+   "text": "Wang Chuanfu",
+   "count": 21.5,
+   "aliases": []
+  },
+  {
+   "text": "John Fredriksen",
+   "count": 21.2,
+   "aliases": [
+    "Fredriksen"
+   ]
+  },
+  {
+   "text": "Kumar Birla",
+   "count": 21.1,
+   "aliases": [
+    "Birla",
+    "Aditya Birla Group",
+    "Kumar Mangalam Birla"
+   ]
+  },
+  {
+   "text": "Michael Platt",
+   "count": 20.9,
+   "aliases": [
+    "Platt"
+   ]
+  },
+  {
+   "text": "Vinod Adani",
+   "count": 20.8,
+   "aliases": []
+  },
+  {
+   "text": "Qin Yinglin",
+   "count": 20.8,
+   "aliases": []
+  },
+  {
+   "text": "Chen Tianshi",
+   "count": 20.7,
+   "aliases": []
+  },
+  {
+   "text": "Dang Yanbao",
+   "count": 20.7,
+   "aliases": []
+  },
+  {
+   "text": "Kwong Siu-hing",
+   "count": 20.7,
+   "aliases": [
+    "Kwong Siu Hing"
+   ]
+  },
+  {
+   "text": "Henry Nicholas III",
+   "count": 20.6,
+   "aliases": [
+    "Henry Nicholas"
+   ]
+  },
+  {
+   "text": "Andrey Melnichenko",
+   "count": 20.4,
+   "aliases": [
+    "Melnichenko"
+   ]
+  },
+  {
+   "text": "Andrew Forrest",
+   "count": 20.3,
+   "aliases": [
+    "Twiggy Forrest"
+   ]
+  },
+  {
+   "text": "Jerry Jones",
+   "count": 20.3,
+   "aliases": []
+  },
+  {
+   "text": "Takemitsu Takizaki",
+   "count": 20.3,
+   "aliases": [
+    "Takizaki"
+   ]
+  },
+  {
+   "text": "André Esteves",
+   "count": 20.2,
+   "aliases": [
+    "Esteves",
+    "Andre Esteves"
+   ]
+  },
+  {
+   "text": "Renáta Kellnerová",
+   "count": 20.2,
+   "aliases": [
+    "Kellnerova",
+    "Kellnerová",
+    "Renata Kellnerova"
+   ]
+  },
+  {
+   "text": "Low Tuck Kwong",
+   "count": 20.2,
+   "aliases": []
+  },
+  {
+   "text": "Nancy Walton Laurie",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Prince Alwaleed bin Talal",
+   "count": 19.9,
+   "aliases": [
+    "Alwaleed",
+    "Al Waleed",
+    "Alwaleed bin Talal",
+    "Prince Alwaleed Bin Talal Alsaud"
+   ]
+  },
+  {
+   "text": "Dhanin Chearavanont",
+   "count": 19.9,
+   "aliases": [
+    "Chearavanont",
+    "Dhanin"
+   ]
+  },
+  {
+   "text": "John Doerr",
+   "count": 19.8,
+   "aliases": [
+    "Doerr"
+   ]
+  },
+  {
+   "text": "Jorge Paulo Lemann",
+   "count": 19.8,
+   "aliases": [
+    "Lemann"
+   ]
+  },
+  {
+   "text": "R. Budi Hartono",
+   "count": 19.6,
+   "aliases": [
+    "Budi Hartono",
+    "Robert Budi Hartono"
+   ]
+  },
+  {
+   "text": "Alejandro Baillères",
+   "count": 19.5,
+   "aliases": [
+    "Baillères",
+    "Bailleres",
+    "Alejandro Baillères Gual"
+   ]
+  },
+  {
+   "text": "Philip Anschutz",
+   "count": 19.4,
+   "aliases": [
+    "Anschutz"
+   ]
+  },
+  {
+   "text": "John Menard Jr.",
+   "count": 19.4,
+   "aliases": [
+    "Menard",
+    "Menards"
+   ]
+  },
+  {
+   "text": "Chen Jianhua",
+   "count": 19.3,
+   "aliases": []
+  },
+  {
+   "text": "Donald Bren",
+   "count": 19.2,
+   "aliases": [
+    "Bren"
+   ]
+  },
+  {
+   "text": "Georg Schaeffler",
+   "count": 19.2,
+   "aliases": [
+    "Schaeffler"
+   ]
+  },
+  {
+   "text": "Brett Adcock",
+   "count": 19.1,
+   "aliases": [
+    "Adcock"
+   ]
+  },
+  {
+   "text": "Karl Albrecht Jr.",
+   "count": 19.1,
+   "aliases": []
+  },
+  {
+   "text": "Beate Heister",
+   "count": 19.1,
+   "aliases": [
+    "Heister"
+   ]
+  },
+  {
+   "text": "Michael Hartono",
+   "count": 18.9,
+   "aliases": [
+    "Michael Bambang Hartono"
+   ]
+  },
+  {
+   "text": "Nik Storonsky",
+   "count": 18.8,
+   "aliases": [
+    "Storonsky"
+   ]
+  },
+  {
+   "text": "Eric Li",
+   "count": 18.7,
+   "aliases": [
+    "Li Shufu"
+   ]
+  },
+  {
+   "text": "Zhong Huijuan",
+   "count": 18.7,
+   "aliases": []
+  },
+  {
+   "text": "Torstein Hagen",
+   "count": 18.4,
+   "aliases": [
+    "Hagen"
+   ]
+  },
+  {
+   "text": "James Ratcliffe",
+   "count": 18.4,
+   "aliases": [
+    "Ratcliffe",
+    "Jim Ratcliffe",
+    "Sir Jim Ratcliffe"
+   ]
+  },
+  {
+   "text": "Wang Ning",
+   "count": 18.4,
+   "aliases": []
+  },
+  {
+   "text": "Ludwig Merckle",
+   "count": 18.3,
+   "aliases": [
+    "Merckle"
+   ]
+  },
+  {
+   "text": "Sarath Ratanavadi",
+   "count": 18.1,
+   "aliases": [
+    "Ratanavadi"
+   ]
+  },
+  {
+   "text": "Theo Albrecht Jr.",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Edwin Chen",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Charlene de Carvalho-Heineken",
+   "count": 17.9,
+   "aliases": [
+    "Heineken",
+    "Carvalho-Heineken",
+    "Heineken heiress"
+   ]
+  },
+  {
+   "text": "Eric Smidt",
+   "count": 17.9,
+   "aliases": [
+    "Smidt"
+   ]
+  },
+  {
+   "text": "John Collison",
+   "count": 17.5,
+   "aliases": []
+  },
+  {
+   "text": "Patrick Collison",
+   "count": 17.5,
+   "aliases": []
+  },
+  {
+   "text": "David Sun",
+   "count": 17.4,
+   "aliases": []
+  },
+  {
+   "text": "John Tu",
+   "count": 17.4,
+   "aliases": []
+  },
+  {
+   "text": "Brad Jacobs",
+   "count": 17.1,
+   "aliases": [
+    "Jacobs"
+   ]
+  },
+  {
+   "text": "Jan Koum",
+   "count": 17.1,
+   "aliases": [
+    "Koum"
+   ]
+  },
+  {
+   "text": "Zhou Qunfei",
+   "count": 17.1,
+   "aliases": []
+  },
+  {
+   "text": "Lu Xiangyang",
+   "count": 17,
+   "aliases": []
+  },
+  {
+   "text": "Stephen Ross",
+   "count": 17,
+   "aliases": []
+  },
+  {
+   "text": "Arthur Dantchik",
+   "count": 16.9,
+   "aliases": [
+    "Dantchik"
+   ]
+  },
+  {
+   "text": "Li Shuirong",
+   "count": 16.9,
+   "aliases": []
+  },
+  {
+   "text": "Anders Holch Povlsen",
+   "count": 16.9,
+   "aliases": [
+    "Povlsen",
+    "Holch Povlsen"
+   ]
+  },
+  {
+   "text": "Wang Wei",
+   "count": 16.6,
+   "aliases": []
+  },
+  {
+   "text": "Mikhail Fridman",
+   "count": 16.5,
+   "aliases": [
+    "Fridman"
+   ]
+  },
+  {
+   "text": "Enrique Razon Jr.",
+   "count": 16.5,
+   "aliases": [
+    "Razon",
+    "Enrique Razon",
+    "Ricky Razon"
+   ]
+  },
+  {
+   "text": "George Kaiser",
+   "count": 16.2,
+   "aliases": [
+    "Kaiser"
+   ]
+  },
+  {
+   "text": "Charles Ergen",
+   "count": 16.1,
+   "aliases": [
+    "Ergen"
+   ]
+  },
+  {
+   "text": "Peter Mallouk",
+   "count": 16.1,
+   "aliases": [
+    "Mallouk"
+   ]
+  },
+  {
+   "text": "Johann Rupert",
+   "count": 16.1,
+   "aliases": [
+    "Rupert"
+   ]
+  },
+  {
+   "text": "Zhang Zhidong",
+   "count": 16.1,
+   "aliases": [
+    "Tony Zhang"
+   ]
+  },
+  {
+   "text": "Harold Hamm",
+   "count": 16,
+   "aliases": [
+    "Hamm"
+   ]
+  },
+  {
+   "text": "Zou Zhinong",
+   "count": 15.9,
+   "aliases": []
+  },
+  {
+   "text": "Adam Foroughi",
+   "count": 15.8,
+   "aliases": [
+    "Foroughi"
+   ]
+  },
+  {
+   "text": "Radhakishan Damani",
+   "count": 15.7,
+   "aliases": [
+    "Damani"
+   ]
+  },
+  {
+   "text": "Friedhelm Loh",
+   "count": 15.5,
+   "aliases": [
+    "Loh"
+   ]
+  },
+  {
+   "text": "Peter Woo",
+   "count": 15.5,
+   "aliases": [
+    "Woo"
+   ]
+  },
+  {
+   "text": "Ray Dalio",
+   "count": 15.4,
+   "aliases": [
+    "Dalio"
+   ]
+  },
+  {
+   "text": "Wang Liping",
+   "count": 15.4,
+   "aliases": []
+  },
+  {
+   "text": "Terry Gou",
+   "count": 15.3,
+   "aliases": [
+    "Gou",
+    "Guo Tai-ming"
+   ]
+  },
+  {
+   "text": "Donald Newhouse",
+   "count": 15.3,
+   "aliases": [
+    "Newhouse"
+   ]
+  },
+  {
+   "text": "Hussain Sajwani",
+   "count": 15.3,
+   "aliases": [
+    "Sajwani"
+   ]
+  },
+  {
+   "text": "James Dyson",
+   "count": 15,
+   "aliases": [
+    "Dyson"
+   ]
+  },
+  {
+   "text": "Shahid Khan",
+   "count": 15,
+   "aliases": [
+    "Shad Khan"
+   ]
+  },
+  {
+   "text": "Antonia Ax:son Johnson",
+   "count": 14.8,
+   "aliases": [
+    "Axel Johnson",
+    "Antonia Axson Johnson"
+   ]
+  },
+  {
+   "text": "Jaime Gilinski",
+   "count": 14.7,
+   "aliases": [
+    "Gilinski",
+    "Jaime Gilinski Bacal"
+   ]
+  },
+  {
+   "text": "Ann Walton Kroenke",
+   "count": 14.6,
+   "aliases": []
+  },
+  {
+   "text": "Xavier Niel",
+   "count": 14.6,
+   "aliases": [
+    "Niel"
+   ]
+  },
+  {
+   "text": "Alisher Usmanov",
+   "count": 14.5,
+   "aliases": [
+    "Usmanov"
+   ]
+  },
+  {
+   "text": "David Vélez",
+   "count": 14.5,
+   "aliases": [
+    "Velez",
+    "Vélez"
+   ]
+  },
+  {
+   "text": "Robert Kuok",
+   "count": 14.2,
+   "aliases": [
+    "Kuok"
+   ]
+  },
+  {
+   "text": "Jason Chang",
+   "count": 14.2,
+   "aliases": []
+  },
+  {
+   "text": "Dmitry Bukhman",
+   "count": 13.6,
+   "aliases": []
+  },
+  {
+   "text": "Igor Bukhman",
+   "count": 13.6,
+   "aliases": []
+  },
+  {
+   "text": "Hamdi Ulukaya",
+   "count": 13.5,
+   "aliases": [
+    "Ulukaya"
+   ]
+  },
+  {
+   "text": "Ken Fisher",
+   "count": 13.2,
+   "aliases": [
+    "Fisher",
+    "Fisher Investments"
+   ]
+  },
+  {
+   "text": "Richard Kinder",
+   "count": 13,
+   "aliases": [
+    "Kinder Morgan",
+    "Rich Kinder"
+   ]
+  },
+  {
+   "text": "Anthoni Salim",
+   "count": 13,
+   "aliases": [
+    "Salim",
+    "Salim Group"
+   ]
+  },
+  {
+   "text": "Anthony Pratt",
+   "count": 12.8,
+   "aliases": [
+    "Pratt",
+    "Pratt Industries"
+   ]
+  },
+  {
+   "text": "Andy Beal",
+   "count": 12.6,
+   "aliases": [
+    "Beal",
+    "Beal Bank"
+   ]
+  },
+  {
+   "text": "Charoen Sirivadhanabhakdi",
+   "count": 12.2,
+   "aliases": [
+    "Charoen",
+    "Sirivadhanabhakdi"
+   ]
+  },
+  {
+   "text": "Tilman Fertitta",
+   "count": 11.7,
+   "aliases": [
+    "Fertitta"
+   ]
+  },
+  {
+   "text": "Jeong Yongji",
+   "count": 11.7,
+   "aliases": []
+  },
+  {
+   "text": "Juan Carlos Escotet",
+   "count": 11.3,
+   "aliases": [
+    "Escotet"
+   ]
+  },
+  {
+   "text": "Charles Butt",
+   "count": 11.1,
+   "aliases": [
+    "Butt"
+   ]
+  },
+  {
+   "text": "Graeme Hart",
+   "count": 10.2,
+   "aliases": [
+    "Hart"
+   ]
+  },
+  {
+   "text": "Seo Jung-jin",
+   "count": 9.9,
+   "aliases": [
+    "Seo Jungjin"
+   ]
+  },
+  {
+   "text": "Fernando Roberto Moreira Salles",
+   "count": 9.9,
+   "aliases": [
+    "Fernando Moreira Salles"
+   ]
+  },
+  {
+   "text": "Lee Boo-jin",
+   "count": 9.8,
+   "aliases": [
+    "Lee Boojin"
+   ]
+  },
+  {
+   "text": "Chung Mong-koo",
+   "count": 9.7,
+   "aliases": [
+    "Chung Mongkoo"
+   ]
+  },
+  {
+   "text": "Nassef Sawiris",
+   "count": 9.6,
+   "aliases": [
+    "Sawiris"
+   ]
+  },
+  {
+   "text": "Liu Debing",
+   "count": 9.1,
+   "aliases": []
+  },
+  {
+   "text": "Nathan Kirsh",
+   "count": 9.1,
+   "aliases": [
+    "Kirsh"
+   ]
+  },
+  {
+   "text": "Odd Reitan",
+   "count": 9.1,
+   "aliases": [
+    "Reitan"
+   ]
+  },
+  {
+   "text": "Pedro Moreira Salles",
+   "count": 9.1,
+   "aliases": []
+  },
+  {
+   "text": "Eric Wittouck",
+   "count": 9,
+   "aliases": [
+    "Wittouck"
+   ]
+  },
+  {
+   "text": "Les Wexner",
+   "count": 8.8,
+   "aliases": [
+    "Wexner"
+   ]
+  },
+  {
+   "text": "Frank Lowy",
+   "count": 8.8,
+   "aliases": [
+    "Lowy"
+   ]
+  },
+  {
+   "text": "Robert Rowling",
+   "count": 8.8,
+   "aliases": [
+    "Rowling"
+   ]
+  },
+  {
+   "text": "Justin Sun",
+   "count": 8.5,
+   "aliases": [
+    "Sun Yuchen"
+   ]
+  },
+  {
+   "text": "Kerry Stokes",
+   "count": 8.1,
+   "aliases": [
+    "Stokes"
+   ]
+  },
+  {
+   "text": "Ole Andreas Halvorsen",
+   "count": 8,
+   "aliases": [
+    "Halvorsen"
+   ]
+  },
+  {
+   "text": "Kelcy Warren",
+   "count": 7.8,
+   "aliases": [
+    "Kelcy Warren"
+   ]
+  },
+  {
+   "text": "Vyacheslav Kim",
+   "count": 7.8,
+   "aliases": []
+  },
+  {
+   "text": "Rinat Akhmetov",
+   "count": 7.8,
+   "aliases": [
+    "Akhmetov"
+   ]
+  },
+  {
+   "text": "Kjell Inge Røkke",
+   "count": 7.7,
+   "aliases": [
+    "Rokke",
+    "Røkke"
+   ]
+  },
+  {
+   "text": "Daniel Nadler",
+   "count": 7.6,
+   "aliases": [
+    "Nadler"
+   ]
+  },
+  {
+   "text": "Maria Fernanda Amorim",
+   "count": 7.6,
+   "aliases": [
+    "Amorim",
+    "Corticeira Amorim"
+   ]
+  },
+  {
+   "text": "Melanie Perkins",
+   "count": 7.6,
+   "aliases": [
+    "Perkins"
+   ]
+  },
+  {
+   "text": "Cliff Obrecht",
+   "count": 7.6,
+   "aliases": [
+    "Obrecht"
+   ]
+  },
+  {
+   "text": "Jorge Moll Filho",
+   "count": 7.5,
+   "aliases": [
+    "Jorge Moll"
+   ]
+  },
+  {
+   "text": "Maria Angelicoussi",
+   "count": 7.5,
+   "aliases": [
+    "Angelicoussi",
+    "Angelicoussis"
+   ]
+  },
+  {
+   "text": "Mike Cannon-Brookes",
+   "count": 7.4,
+   "aliases": [
+    "Cannon-Brookes"
+   ]
+  },
+  {
+   "text": "Remon Vos",
+   "count": 7.4,
+   "aliases": []
+  },
+  {
+   "text": "Marcos Galperin",
+   "count": 7.2,
+   "aliases": [
+    "Galperin"
+   ]
+  },
+  {
+   "text": "Yan Junjie",
+   "count": 7.2,
+   "aliases": []
+  },
+  {
+   "text": "Steven Spielberg",
+   "count": 7.1,
+   "aliases": [
+    "Spielberg"
+   ]
+  },
+  {
+   "text": "Scott Farquhar",
+   "count": 7,
+   "aliases": [
+    "Farquhar"
+   ]
+  },
+  {
+   "text": "Vangelis Marinakis",
+   "count": 7,
+   "aliases": [
+    "Marinakis"
+   ]
+  },
+  {
+   "text": "Carlos Alberto Sicupira",
+   "count": 6.9,
+   "aliases": [
+    "Sicupira",
+    "Beto Sicupira"
+   ]
+  },
+  {
+   "text": "Luca Del Vecchio",
+   "count": 6.8,
+   "aliases": []
+  },
+  {
+   "text": "Miguel Krigsner",
+   "count": 6.8,
+   "aliases": [
+    "Krigsner"
+   ]
+  },
+  {
+   "text": "Forrest Li",
+   "count": 6.8,
+   "aliases": [
+    "Li Xiaodong"
+   ]
+  },
+  {
+   "text": "Lee Thiam Wah",
+   "count": 6.8,
+   "aliases": []
+  },
+  {
+   "text": "Koon Poh Keong",
+   "count": 6.8,
+   "aliases": []
+  },
+  {
+   "text": "Johannes von Baumbach",
+   "count": 6.6,
+   "aliases": [
+    "von Baumbach"
+   ]
+  },
+  {
+   "text": "Ray Lee Hunt",
+   "count": 6.6,
+   "aliases": [
+    "Ray Hunt",
+    "Hunt Oil"
+   ]
+  },
+  {
+   "text": "Donald Trump",
+   "count": 6.5,
+   "aliases": [
+    "Trump",
+    "Donald J. Trump",
+    "President Trump",
+    "The Donald"
+   ]
+  },
+  {
+   "text": "H. Ross Perot Jr.",
+   "count": 6.5,
+   "aliases": [
+    "Ross Perot Jr.",
+    "Perot"
+   ]
+  },
+  {
+   "text": "Stefano Pessina",
+   "count": 6.3,
+   "aliases": [
+    "Pessina"
+   ]
+  },
+  {
+   "text": "Mark Cuban",
+   "count": 6,
+   "aliases": [
+    "Cuban"
+   ]
+  },
+  {
+   "text": "Trevor Rees-Jones",
+   "count": 6,
+   "aliases": [
+    "Rees-Jones"
+   ]
+  },
+  {
+   "text": "Mikhail Lomtadze",
+   "count": 6,
+   "aliases": [
+    "Lomtadze"
+   ]
+  },
+  {
+   "text": "Michał Sołowow",
+   "count": 5.9,
+   "aliases": [
+    "Solowow",
+    "Sołowow"
+   ]
+  },
+  {
+   "text": "Vladimir Kim",
+   "count": 5.9,
+   "aliases": []
+  },
+  {
+   "text": "Tomasz Biernacki",
+   "count": 5.7,
+   "aliases": [
+    "Biernacki"
+   ]
+  },
+  {
+   "text": "Jeffrey Cheah",
+   "count": 5.6,
+   "aliases": []
+  },
+  {
+   "text": "Jerzy Starak",
+   "count": 5.5,
+   "aliases": [
+    "Starak"
+   ]
+  },
+  {
+   "text": "Timur Kulibayev",
+   "count": 5.4,
+   "aliases": [
+    "Kulibayev"
+   ]
+  },
+  {
+   "text": "Lőrinc Mészáros",
+   "count": 5.2,
+   "aliases": [
+    "Meszaros",
+    "Mészáros",
+    "Lorinc Meszaros"
+   ]
+  },
+  {
+   "text": "George Lucas",
+   "count": 5.2,
+   "aliases": [
+    "Lucas",
+    "Lucasfilm"
+   ]
+  },
+  {
+   "text": "Eduardo Hochschild",
+   "count": 5.2,
+   "aliases": [
+    "Hochschild"
+   ]
+  },
+  {
+   "text": "Hamad bin Jassim Al Thani",
+   "count": 5.2,
+   "aliases": [
+    "HBJ",
+    "Hamad bin Jassim",
+    "Sheikh Hamad bin Jassim"
+   ]
+  },
+  {
+   "text": "Timur Turlov",
+   "count": 5.2,
+   "aliases": [
+    "Turlov"
+   ]
+  },
+  {
+   "text": "Matei Zaharia",
+   "count": 5,
+   "aliases": [
+    "Zaharia"
+   ]
+  },
+  {
+   "text": "Ion Stoica",
+   "count": 5,
+   "aliases": [
+    "Stoica"
+   ]
+  },
+  {
+   "text": "Kevin David Lehmann",
+   "count": 4.9,
+   "aliases": [
+    "Lehmann"
+   ]
+  },
+  {
+   "text": "Antti Herlin",
+   "count": 4.8,
+   "aliases": [
+    "Herlin"
+   ]
+  },
+  {
+   "text": "Gustav Magnar Witzøe",
+   "count": 4.5,
+   "aliases": [
+    "Witzoe",
+    "Witzøe"
+   ]
+  },
+  {
+   "text": "Michael Jordan",
+   "count": 4.3,
+   "aliases": [
+    "Jordan",
+    "MJ",
+    "Air Jordan",
+    "His Airness"
+   ]
+  },
+  {
+   "text": "Nguyễn Thị Phương Thảo",
+   "count": 4.2,
+   "aliases": [
+    "Phuong Thao",
+    "Nguyen Thi Phuong Thao"
+   ]
+  },
+  {
+   "text": "Kenneth Dart",
+   "count": 4,
+   "aliases": [
+    "Dart",
+    "Dart Container"
+   ]
+  },
+  {
+   "text": "Ben Lamm",
+   "count": 3.9,
+   "aliases": [
+    "Lamm"
+   ]
+  },
+  {
+   "text": "P.N.C. Menon",
+   "count": 3.9,
+   "aliases": [
+    "PNC Menon"
+   ]
+  },
+  {
+   "text": "Spyros Latsis",
+   "count": 3.9,
+   "aliases": [
+    "Latsis"
+   ]
+  },
+  {
+   "text": "Najib Mikati",
+   "count": 3.8,
+   "aliases": [
+    "Mikati"
+   ]
+  },
+  {
+   "text": "Syed Mokhtar Albukhary",
+   "count": 3.7,
+   "aliases": [
+    "Syed Mokhtar",
+    "Albukhary"
+   ]
+  },
+  {
+   "text": "Issad Rebrab",
+   "count": 3.6,
+   "aliases": [
+    "Rebrab"
+   ]
+  },
+  {
+   "text": "Vince McMahon",
+   "count": 3.6,
+   "aliases": [
+    "McMahon",
+    "Vincent McMahon"
+   ]
+  },
+  {
+   "text": "Ramon Ang",
+   "count": 3.6,
+   "aliases": []
+  },
+  {
+   "text": "Lucio Tan",
+   "count": 3.5,
+   "aliases": []
+  },
+  {
+   "text": "Alexandr Wang",
+   "count": 3.2,
+   "aliases": [
+    "Alex Wang"
+   ]
+  },
+  {
+   "text": "Oprah Winfrey",
+   "count": 3.2,
+   "aliases": [
+    "Oprah",
+    "Winfrey"
+   ]
+  },
+  {
+   "text": "Stephen Lansdown",
+   "count": 3.2,
+   "aliases": [
+    "Lansdown",
+    "Hargreaves Lansdown"
+   ]
+  },
+  {
+   "text": "Firoz Mistry",
+   "count": 3.1,
+   "aliases": []
+  },
+  {
+   "text": "Manuel Villar",
+   "count": 3.1,
+   "aliases": [
+    "Villar",
+    "Manny Villar"
+   ]
+  },
+  {
+   "text": "Kiril Domuschiev",
+   "count": 2.9,
+   "aliases": [
+    "Domuschiev"
+   ]
+  },
+  {
+   "text": "Trần Đình Long",
+   "count": 2.9,
+   "aliases": [
+    "Tran Dinh Long"
+   ]
+  },
+  {
+   "text": "Philip Niarchos",
+   "count": 2.8,
+   "aliases": [
+    "Niarchos"
+   ]
+  },
+  {
+   "text": "Jay-Z",
+   "count": 2.8,
+   "aliases": [
+    "Jay Z",
+    "Shawn Carter",
+    "Hova",
+    "Jigga"
+   ]
+  },
+  {
+   "text": "Zygmunt Solorz",
+   "count": 2.6,
+   "aliases": [
+    "Solorz"
+   ]
+  },
+  {
+   "text": "Bret Taylor",
+   "count": 2.5,
+   "aliases": []
+  },
+  {
+   "text": "Alexandra Andresen",
+   "count": 2.5,
+   "aliases": [
+    "Andresen"
+   ]
+  },
+  {
+   "text": "Hồ Hùng Anh",
+   "count": 2.5,
+   "aliases": [
+    "Ho Hung Anh"
+   ]
+  },
+  {
+   "text": "Remi Dassault",
+   "count": 2.4,
+   "aliases": [
+    "Dassault"
+   ]
+  },
+  {
+   "text": "John de Mol",
+   "count": 2.4,
+   "aliases": [
+    "de Mol"
+   ]
+  },
+  {
+   "text": "Jyoti Bansal",
+   "count": 2.3,
+   "aliases": [
+    "Bansal"
+   ]
+  },
+  {
+   "text": "Kristo Käärmann",
+   "count": 2.2,
+   "aliases": [
+    "Kaarmann",
+    "Käärmann"
+   ]
+  },
+  {
+   "text": "Surya Midha",
+   "count": 2.2,
+   "aliases": [
+    "Midha"
+   ]
+  },
+  {
+   "text": "Petter Stordalen",
+   "count": 2.2,
+   "aliases": [
+    "Stordalen"
+   ]
+  },
+  {
+   "text": "Jaroslav Haščák",
+   "count": 2.2,
+   "aliases": [
+    "Hascak",
+    "Haščák"
+   ]
+  },
+  {
+   "text": "Aravind Srinivas",
+   "count": 2.1,
+   "aliases": [
+    "Srinivas"
+   ]
+  },
+  {
+   "text": "Dominika Kulczyk",
+   "count": 2.1,
+   "aliases": [
+    "Kulczyk"
+   ]
+  },
+  {
+   "text": "Binod Chaudhary",
+   "count": 2.1,
+   "aliases": [
+    "Chaudhary"
+   ]
+  },
+  {
+   "text": "Strive Masiyiwa",
+   "count": 2.1,
+   "aliases": [
+    "Masiyiwa"
+   ]
+  },
+  {
+   "text": "Mohammed Dewji",
+   "count": 2.1,
+   "aliases": [
+    "Dewji",
+    "Mo Dewji"
+   ]
+  },
+  {
+   "text": "Vasily Anisimov",
+   "count": 2.1,
+   "aliases": [
+    "Anisimov"
+   ]
+  },
+  {
+   "text": "Taylor Swift",
+   "count": 2,
+   "aliases": [
+    "Swift",
+    "Tay Tay",
+    "T-Swift"
+   ]
+  },
+  {
+   "text": "Clark Hunt",
+   "count": 2,
+   "aliases": []
+  },
+  {
+   "text": "Torsten Reil",
+   "count": 2,
+   "aliases": [
+    "Reil"
+   ]
+  },
+  {
+   "text": "Samir Mane",
+   "count": 1.9,
+   "aliases": [
+    "Mane"
+   ]
+  },
+  {
+   "text": "Kim Kardashian",
+   "count": 1.9,
+   "aliases": [
+    "Kardashian",
+    "Kim K"
+   ]
+  },
+  {
+   "text": "Peter Jackson",
+   "count": 1.9,
+   "aliases": [
+    "Sir Peter Jackson"
+   ]
+  },
+  {
+   "text": "Joop van den Ende",
+   "count": 1.9,
+   "aliases": [
+    "van den Ende"
+   ]
+  },
+  {
+   "text": "Arthur Mensch",
+   "count": 1.8,
+   "aliases": [
+    "Mensch"
+   ]
+  },
+  {
+   "text": "Mati Staniszewski",
+   "count": 1.8,
+   "aliases": [
+    "Staniszewski"
+   ]
+  },
+  {
+   "text": "Pieter van der Does",
+   "count": 1.8,
+   "aliases": [
+    "van der Does"
+   ]
+  },
+  {
+   "text": "Andrew Tan",
+   "count": 1.7,
+   "aliases": []
+  },
+  {
+   "text": "Othman Benjelloun",
+   "count": 1.7,
+   "aliases": [
+    "Benjelloun"
+   ]
+  },
+  {
+   "text": "Thaksin Shinawatra",
+   "count": 1.6,
+   "aliases": [
+    "Thaksin",
+    "Shinawatra"
+   ]
+  },
+  {
+   "text": "Fabian Hedin",
+   "count": 1.6,
+   "aliases": [
+    "Hedin"
+   ]
+  },
+  {
+   "text": "Magic Johnson",
+   "count": 1.6,
+   "aliases": [
+    "Magic",
+    "Earvin Johnson"
+   ]
+  },
+  {
+   "text": "Lucio Co",
+   "count": 1.6,
+   "aliases": []
+  },
+  {
+   "text": "Tiger Woods",
+   "count": 1.5,
+   "aliases": [
+    "Tiger",
+    "Woods"
+   ]
+  },
+  {
+   "text": "Dick Wolf",
+   "count": 1.5,
+   "aliases": [
+    "Wolf"
+   ]
+  },
+  {
+   "text": "Tyler Perry",
+   "count": 1.4,
+   "aliases": [
+    "Perry"
+   ]
+  },
+  {
+   "text": "LeBron James",
+   "count": 1.4,
+   "aliases": [
+    "LeBron",
+    "King James",
+    "LBJ"
+   ]
+  },
+  {
+   "text": "Sara Blakely",
+   "count": 1.4,
+   "aliases": [
+    "Blakely"
+   ]
+  },
+  {
+   "text": "Lucy Guo",
+   "count": 1.4,
+   "aliases": [
+    "Guo"
+   ]
+  },
+  {
+   "text": "Mirwais Azizi",
+   "count": 1.4,
+   "aliases": [
+    "Azizi",
+    "Azizi Developments"
+   ]
+  },
+  {
+   "text": "Tarek Mansour",
+   "count": 1.3,
+   "aliases": [
+    "Mansour"
+   ]
+  },
+  {
+   "text": "Luana Lopes Lara",
+   "count": 1.3,
+   "aliases": [
+    "Lopes Lara"
+   ]
+  },
+  {
+   "text": "Michael Truell",
+   "count": 1.3,
+   "aliases": [
+    "Truell"
+   ]
+  },
+  {
+   "text": "Sualeh Asif",
+   "count": 1.3,
+   "aliases": [
+    "Asif"
+   ]
+  },
+  {
+   "text": "Ruben Vardanyan",
+   "count": 1.3,
+   "aliases": [
+    "Vardanyan"
+   ]
+  },
+  {
+   "text": "Christoph Zeller",
+   "count": 1.3,
+   "aliases": [
+    "Zeller"
+   ]
+  },
+  {
+   "text": "Bruce Springsteen",
+   "count": 1.2,
+   "aliases": [
+    "Springsteen",
+    "The Boss"
+   ]
+  },
+  {
+   "text": "Arnold Schwarzenegger",
+   "count": 1.2,
+   "aliases": [
+    "Schwarzenegger",
+    "Arnie",
+    "The Terminator",
+    "Governator"
+   ]
+  },
+  {
+   "text": "Michael Gans",
+   "count": 1.2,
+   "aliases": [
+    "Gans"
+   ]
+  },
+  {
+   "text": "Nguyễn Đăng Quang",
+   "count": 1.2,
+   "aliases": [
+    "Nguyen Dang Quang"
+   ]
+  },
+  {
+   "text": "Steven Schuurman",
+   "count": 1.2,
+   "aliases": [
+    "Schuurman"
+   ]
+  },
+  {
+   "text": "Jerry Seinfeld",
+   "count": 1.1,
+   "aliases": [
+    "Seinfeld"
+   ]
+  },
+  {
+   "text": "Roger Federer",
+   "count": 1.1,
+   "aliases": [
+    "Federer"
+   ]
+  },
+  {
+   "text": "James Cameron",
+   "count": 1.1,
+   "aliases": [
+    "Cameron"
+   ]
+  },
+  {
+   "text": "Rafał Brzoska",
+   "count": 1.1,
+   "aliases": [
+    "Brzoska"
+   ]
+  },
+  {
+   "text": "Tony Tan Caktiong",
+   "count": 1.1,
+   "aliases": [
+    "Tan Caktiong"
+   ]
+  },
+  {
+   "text": "Rihanna",
+   "count": 1,
+   "aliases": [
+    "Robyn Fenty",
+    "RiRi"
+   ]
+  },
+  {
+   "text": "Beyoncé",
+   "count": 1,
+   "aliases": [
+    "Beyonce",
+    "Queen Bey",
+    "Beyoncé Knowles-Carter",
+    "Beyonce Knowles"
+   ]
+  },
+  {
+   "text": "Dr. Dre",
+   "count": 1,
+   "aliases": [
+    "Dre",
+    "Andre Young",
+    "Dr Dre"
+   ]
+  },
+  {
+   "text": "Shayne Coplan",
+   "count": 1,
+   "aliases": [
+    "Coplan"
+   ]
+  },
+  {
+   "text": "Greg Abel",
+   "count": 1,
+   "aliases": [
+    "Abel"
+   ]
+  },
+  {
+   "text": "Thor Bjorgolfsson",
+   "count": 1,
+   "aliases": [
+    "Bjorgolfsson",
+    "Björgólfsson"
+   ]
+  },
+  {
+   "text": "Trae Stephens",
+   "count": 1,
+   "aliases": []
+  }
+ ]
+}

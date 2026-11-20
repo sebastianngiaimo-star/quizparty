@@ -1,0 +1,922 @@
+{
+ "source": "Ranker \"The Most Popular Anime Right Now\" — live fan votes (1M+ votes), order read Nov 2026",
+ "unit": "rank",
+ "rows": [
+  {
+   "text": "Demon Slayer: Kimetsu no Yaiba",
+   "count": 150,
+   "aliases": [
+    "鬼滅の刃",
+    "Guardianes de la noche"
+   ]
+  },
+  {
+   "text": "Attack on Titan",
+   "count": 149,
+   "aliases": [
+    "Shingeki no Kyojin",
+    "Ataque a los Titanes",
+    "進撃の巨人",
+    "SnK",
+    "AoT"
+   ]
+  },
+  {
+   "text": "Jujutsu Kaisen",
+   "count": 148,
+   "aliases": [
+    "呪術廻戦",
+    "JJK"
+   ]
+  },
+  {
+   "text": "My Hero Academia",
+   "count": 147,
+   "aliases": [
+    "Boku no Hero Academia",
+    "僕のヒーローアカデミア",
+    "MHA",
+    "BNHA"
+   ]
+  },
+  {
+   "text": "Black Clover",
+   "count": 146,
+   "aliases": []
+  },
+  {
+   "text": "One Piece",
+   "count": 145,
+   "aliases": [
+    "ワンピース"
+   ]
+  },
+  {
+   "text": "One-Punch Man",
+   "count": 144,
+   "aliases": [
+    "ワンパンマン",
+    "One Punch Man"
+   ]
+  },
+  {
+   "text": "Solo Leveling",
+   "count": 143,
+   "aliases": [
+    "Ore dake Level Up na Ken",
+    "俺だけレベルアップな件"
+   ]
+  },
+  {
+   "text": "Dr. Stone",
+   "count": 142,
+   "aliases": []
+  },
+  {
+   "text": "Spy x Family",
+   "count": 141,
+   "aliases": [
+    "スパイファミリー",
+    "SpyxFamily"
+   ]
+  },
+  {
+   "text": "Haikyu!!",
+   "count": 140,
+   "aliases": [
+    "ハイキュー!!",
+    "Haikyuu"
+   ]
+  },
+  {
+   "text": "Chainsaw Man",
+   "count": 139,
+   "aliases": [
+    "チェンソーマン"
+   ]
+  },
+  {
+   "text": "The Rising of the Shield Hero",
+   "count": 138,
+   "aliases": [
+    "Tate no Yuusha no Nariagari",
+    "Shield Hero"
+   ]
+  },
+  {
+   "text": "That Time I Got Reincarnated As A Slime",
+   "count": 137,
+   "aliases": [
+    "Tensei Shitara Slime Datta Ken",
+    "Tensura",
+    "Slime"
+   ]
+  },
+  {
+   "text": "A Silent Voice",
+   "count": 136,
+   "aliases": [
+    "Koe no Katachi",
+    "聲の形",
+    "Una voz silenciosa"
+   ]
+  },
+  {
+   "text": "The Seven Deadly Sins",
+   "count": 135,
+   "aliases": [
+    "Nanatsu no Taizai",
+    "Los siete pecados capitales",
+    "七つの大罪"
+   ]
+  },
+  {
+   "text": "The Promised Neverland",
+   "count": 134,
+   "aliases": [
+    "Yakusoku no Neverland",
+    "約束のネバーランド"
+   ]
+  },
+  {
+   "text": "Fire Force",
+   "count": 133,
+   "aliases": [
+    "Enen no Shouboutai"
+   ]
+  },
+  {
+   "text": "The Apothecary Diaries",
+   "count": 132,
+   "aliases": [
+    "Kusuriya no Hitorigoto",
+    "薬屋のひとりごと"
+   ]
+  },
+  {
+   "text": "Your Name",
+   "count": 131,
+   "aliases": [
+    "Kimi no Na wa",
+    "君の名は。",
+    "Tu nombre"
+   ]
+  },
+  {
+   "text": "Frieren: Beyond Journey’s End",
+   "count": 130,
+   "aliases": [
+    "Sousou no Frieren",
+    "葬送のフリーレン"
+   ]
+  },
+  {
+   "text": "Bleach: Thousand-Year Blood War",
+   "count": 129,
+   "aliases": [
+    "Bleach",
+    "ブリーチ"
+   ]
+  },
+  {
+   "text": "Mob Psycho 100",
+   "count": 128,
+   "aliases": [
+    "モブサイコ100"
+   ]
+  },
+  {
+   "text": "Blue Lock",
+   "count": 127,
+   "aliases": [
+    "ブルーロック"
+   ]
+  },
+  {
+   "text": "Vinland Saga",
+   "count": 126,
+   "aliases": [
+    "ヴィンランド・サガ"
+   ]
+  },
+  {
+   "text": "Bungo Stray Dogs",
+   "count": 125,
+   "aliases": [
+    "Bungou Stray Dogs"
+   ]
+  },
+  {
+   "text": "Tokyo Revengers",
+   "count": 124,
+   "aliases": [
+    "東京リベンジャーズ"
+   ]
+  },
+  {
+   "text": "Hell's Paradise",
+   "count": 123,
+   "aliases": [
+    "Jigokuraku",
+    "地獄楽"
+   ]
+  },
+  {
+   "text": "Mashle: Magic and Muscles",
+   "count": 122,
+   "aliases": []
+  },
+  {
+   "text": "Re:Zero − Starting Life in Another World",
+   "count": 121,
+   "aliases": [
+    "Re:Zero",
+    "Re Zero",
+    "Re:ゼロから始める異世界生活"
+   ]
+  },
+  {
+   "text": "Horimiya",
+   "count": 120,
+   "aliases": [
+    "ホリミヤ"
+   ]
+  },
+  {
+   "text": "Dragon Ball Super",
+   "count": 119,
+   "aliases": [
+    "ドラゴンボール超",
+    "DBS",
+    "Dragon Ball"
+   ]
+  },
+  {
+   "text": "Kaguya-sama: Love is War",
+   "count": 118,
+   "aliases": [
+    "Kaguya-sama wa Kokurasetai",
+    "Kaguya sama"
+   ]
+  },
+  {
+   "text": "Sword Art Online",
+   "count": 117,
+   "aliases": [
+    "SAO",
+    "ソードアート・オンライン"
+   ]
+  },
+  {
+   "text": "The Disastrous Life of Saiki K.",
+   "count": 116,
+   "aliases": [
+    "Saiki Kusuo no Psi-nan",
+    "Saiki K"
+   ]
+  },
+  {
+   "text": "Violet Evergarden",
+   "count": 115,
+   "aliases": [
+    "ヴァイオレット・エヴァーガーデン"
+   ]
+  },
+  {
+   "text": "Rascal Does Not Dream Of Bunny Girl Senpai",
+   "count": 114,
+   "aliases": []
+  },
+  {
+   "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "count": 113,
+   "aliases": []
+  },
+  {
+   "text": "Goblin Slayer",
+   "count": 112,
+   "aliases": []
+  },
+  {
+   "text": "Mushoku Tensei: Jobless Reincarnation",
+   "count": 111,
+   "aliases": [
+    "無職転生"
+   ]
+  },
+  {
+   "text": "KonoSuba",
+   "count": 110,
+   "aliases": [
+    "Kono Subarashii Sekai ni Shukufuku wo!",
+    "このすば"
+   ]
+  },
+  {
+   "text": "Food Wars: Shokugeki no Soma",
+   "count": 109,
+   "aliases": [
+    "食戟のソーマ"
+   ]
+  },
+  {
+   "text": "Fruits Basket (2019)",
+   "count": 108,
+   "aliases": []
+  },
+  {
+   "text": "Dan Da Dan",
+   "count": 107,
+   "aliases": [
+    "ダンダダン",
+    "Dandadan"
+   ]
+  },
+  {
+   "text": "Gachiakuta",
+   "count": 106,
+   "aliases": []
+  },
+  {
+   "text": "Kaiju No. 8",
+   "count": 105,
+   "aliases": [
+    "Kaiju 8",
+    "怪獣8号",
+    "Kaijuu 8-gou"
+   ]
+  },
+  {
+   "text": "Tower of God",
+   "count": 104,
+   "aliases": []
+  },
+  {
+   "text": "Oshi no Ko",
+   "count": 103,
+   "aliases": [
+    "推しの子"
+   ]
+  },
+  {
+   "text": "My Dress-Up Darling",
+   "count": 102,
+   "aliases": [
+    "Sono Bisque Doll wa Koi wo Suru"
+   ]
+  },
+  {
+   "text": "JoJo's Bizarre Adventure",
+   "count": 101,
+   "aliases": [
+    "JoJo no Kimyou na Bouken",
+    "JoJo",
+    "ジョジョの奇妙な冒険"
+   ]
+  },
+  {
+   "text": "Komi Can't Communicate",
+   "count": 100,
+   "aliases": [
+    "Komi-san wa, Comyushou desu.",
+    "Komi-san"
+   ]
+  },
+  {
+   "text": "Toilet-bound Hanako-kun",
+   "count": 99,
+   "aliases": [
+    "Jibaku Shounen Hanako-kun"
+   ]
+  },
+  {
+   "text": "SK8 the Infinity",
+   "count": 98,
+   "aliases": []
+  },
+  {
+   "text": "Wise Man's Grandchild",
+   "count": 97,
+   "aliases": []
+  },
+  {
+   "text": "The God of High School",
+   "count": 96,
+   "aliases": []
+  },
+  {
+   "text": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+   "count": 95,
+   "aliases": []
+  },
+  {
+   "text": "Cells at Work!",
+   "count": 94,
+   "aliases": [
+    "Hataraku Saibou",
+    "はたらく細胞"
+   ]
+  },
+  {
+   "text": "Yuri!!! on Ice",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Zom 100: Bucket List of the Dead",
+   "count": 92,
+   "aliases": [
+    "Zom 100"
+   ]
+  },
+  {
+   "text": "My Teen Romantic Comedy SNAFU",
+   "count": 91,
+   "aliases": [
+    "Oregairu"
+   ]
+  },
+  {
+   "text": "To Your Eternity",
+   "count": 90,
+   "aliases": [
+    "Fumetsu no Anata e"
+   ]
+  },
+  {
+   "text": "The Quintessential Quintuplets",
+   "count": 89,
+   "aliases": [
+    "Go-toubun no Hanayome",
+    "5-toubun no Hanayome"
+   ]
+  },
+  {
+   "text": "Delicious in Dungeon",
+   "count": 88,
+   "aliases": [
+    "Dungeon Meshi",
+    "ダンジョン飯"
+   ]
+  },
+  {
+   "text": "The Summer Hikaru Died",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Given",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "The Way of the Househusband",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Wind Breaker",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Rent-a-Girlfriend",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "Banana Fish",
+   "count": 82,
+   "aliases": []
+  },
+  {
+   "text": "86 -Eighty Six-",
+   "count": 81,
+   "aliases": []
+  },
+  {
+   "text": "The Irregular at Magic High School",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Don't Toy With Me, Miss Nagatoro",
+   "count": 79,
+   "aliases": []
+  },
+  {
+   "text": "Welcome to Demon School! Iruma-kun",
+   "count": 78,
+   "aliases": [
+    "Mairimashita! Iruma-kun"
+   ]
+  },
+  {
+   "text": "Tonikawa: Over the Moon for You",
+   "count": 77,
+   "aliases": []
+  },
+  {
+   "text": "Noblesse",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "The Millionaire Detective – Balance: Unlimited",
+   "count": 75,
+   "aliases": []
+  },
+  {
+   "text": "Devilman Crybaby",
+   "count": 74,
+   "aliases": [
+    "デビルマン"
+   ]
+  },
+  {
+   "text": "Shangri-la Frontier",
+   "count": 73,
+   "aliases": [
+    "シャングリラ・フロンティア"
+   ]
+  },
+  {
+   "text": "Pokémon: The Arceus Chronicles",
+   "count": 72,
+   "aliases": [
+    "Pokémon",
+    "Pokemon"
+   ]
+  },
+  {
+   "text": "My Happy Marriage",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "My Next Life as a Villainess: All Routes Lead to Doom!",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Buddy Daddies",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "The Case Study of Vanitas",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "The Water Magician",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Rurouni Kenshin",
+   "count": 66,
+   "aliases": [
+    "Samurai X",
+    "るろうに剣心",
+    "Kenshin"
+   ]
+  },
+  {
+   "text": "Log Horizon",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "So I'm a Spider, So What?",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Shikimori's Not Just a Cutie",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Undead Unluck",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "The Beginning After the End",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Loving Yamada at Lv999!",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "The Angel Next Door Spoils Me Rotten",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Blue Period",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Heavenly Delusion",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Pokémon Journeys: The Series",
+   "count": 56,
+   "aliases": [
+    "Pokémon",
+    "Pokemon"
+   ]
+  },
+  {
+   "text": "Little Witch Academia",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Danganronpa The Animation",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Lord of Mysteries",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Secrets of the Silent Witch",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Pokémon Horizons: The Series",
+   "count": 50,
+   "aliases": [
+    "Pokémon",
+    "Pokemon"
+   ]
+  },
+  {
+   "text": "Beastars",
+   "count": 49,
+   "aliases": [
+    "ビースターズ"
+   ]
+  },
+  {
+   "text": "The 8th Son? Are You Kidding Me?",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "To Be Hero X",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Boruto",
+   "count": 46,
+   "aliases": [
+    "ボルト",
+    "Boruto: Naruto Next Generations"
+   ]
+  },
+  {
+   "text": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Clevatess: The King of Devil Beasts, the Baby and the Brave of Undead",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Isekai Quartet",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "The Brilliant Healer's New Life in the Shadows",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Wonder Egg Priority",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "A Sign of Affection",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Tomo-chan Is a Girl!",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "KonoSuba: An Explosion on This Wonderful World!",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Edens Zero",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Radiant",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Kemono Jihen",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Cells at Work! Code Black",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "The Dangers in My Heart",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Ascendance of a Bookworm",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Ragna Crimson",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Shaman King (2021)",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "In/Spectre",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "BNA: Brand New Animal",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Aggretsuko",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Spy Classroom",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "The Reason Why Raeliana Ended up at the Duke's Mansion",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "I'm Quitting Heroing",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Scooped up by an S-Rank Adventurer!",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "The Too-Perfect Saint: Tossed Aside by My Fiance and Sold to Another Kingdom",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Sugar Apple Fairy Tale",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Welcome to the Outcast's Restaurant!",
+   "count": 17,
+   "aliases": []
+  },
+  {
+   "text": "Skip and Loafer",
+   "count": 16,
+   "aliases": []
+  },
+  {
+   "text": "The Ice Guy and His Cool Female Colleague",
+   "count": 15,
+   "aliases": []
+  },
+  {
+   "text": "I'm the Evil Lord of an Intergalactic Empire!",
+   "count": 14,
+   "aliases": []
+  },
+  {
+   "text": "New Saga",
+   "count": 13,
+   "aliases": []
+  },
+  {
+   "text": "Danganronpa 3: The End of Hope's Peak High School",
+   "count": 12,
+   "aliases": []
+  },
+  {
+   "text": "The Unaware Atelier Meister",
+   "count": 11,
+   "aliases": []
+  },
+  {
+   "text": "Possibly the Greatest Alchemist of All Time",
+   "count": 10,
+   "aliases": []
+  },
+  {
+   "text": "Dealing With Mikadono Sisters Is a Breeze",
+   "count": 9,
+   "aliases": []
+  },
+  {
+   "text": "Kubo Won't Let Me Be Invisible",
+   "count": 8,
+   "aliases": []
+  },
+  {
+   "text": "The Gorilla God's Go-To Girl",
+   "count": 7,
+   "aliases": []
+  },
+  {
+   "text": "Apocalypse Bringer Mynoghra: World Conquest Starts With the Civilization of Ruin",
+   "count": 6,
+   "aliases": []
+  },
+  {
+   "text": "Our Dating Story: The Experienced You and the Inexperienced Me",
+   "count": 5,
+   "aliases": []
+  },
+  {
+   "text": "Ruri Rocks",
+   "count": 4,
+   "aliases": []
+  },
+  {
+   "text": "Handyman Saito in Another World",
+   "count": 3,
+   "aliases": []
+  },
+  {
+   "text": "Betrothed to My Sister's Ex",
+   "count": 2,
+   "aliases": []
+  },
+  {
+   "text": "The Detective Is Already Dead",
+   "count": 1,
+   "aliases": []
+  }
+ ]
+}

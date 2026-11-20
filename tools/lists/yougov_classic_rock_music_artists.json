@@ -1,0 +1,1159 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (classic-rock-music-artists): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "The Beatles",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Queen",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Paul McCartney",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Fleetwood Mac",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Elvis Presley",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "The Rolling Stones",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "John Lennon",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Jimi Hendrix",
+   "count": 68,
+   "aliases": [
+    "The Jimi Hendrix Experience"
+   ]
+  },
+  {
+   "text": "David Bowie",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Aerosmith",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Billy Joel",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Bon Jovi",
+   "count": 66,
+   "aliases": [
+    "Jon Bon Jovi"
+   ]
+  },
+  {
+   "text": "Freddie Mercury",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Journey",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Phil Collins",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Stevie Nicks",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Eagles",
+   "count": 62,
+   "aliases": [
+    "The Eagles"
+   ]
+  },
+  {
+   "text": "Pink Floyd",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Bee Gees",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Eric Clapton",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Chuck Berry",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Creedence Clearwater Revival",
+   "count": 60,
+   "aliases": [
+    "CCR",
+    "Creedence"
+   ]
+  },
+  {
+   "text": "The Doors",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Chicago",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Red Hot Chili Peppers",
+   "count": 60,
+   "aliases": [
+    "RHCP",
+    "Chili Peppers"
+   ]
+  },
+  {
+   "text": "Neil Diamond",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Buddy Holly",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Tom Petty",
+   "count": 60,
+   "aliases": [
+    "Tom Petty and the Heartbreakers"
+   ]
+  },
+  {
+   "text": "Mick Jagger",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Bruce Springsteen",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "The Who",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Green Day",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "The Carpenters",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Ringo Starr",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Eddie Van Halen",
+   "count": 58,
+   "aliases": [
+    "Van Halen"
+   ]
+  },
+  {
+   "text": "Lenny Kravitz",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "George Harrison",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Billy Idol",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Pat Benatar",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "The Monkees",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Foreigner",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "The Mamas & the Papas",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Jim Morrison",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Rod Stewart",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "The Police",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Joan Jett",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "The Doobie Brothers",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Bob Seger",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Kenny Loggins",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "REO Speedwagon",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "KC and the Sunshine Band",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Huey Lewis and the News",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Genesis",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "ZZ Top",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Lynyrd Skynyrd",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "R.E.M.",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Boston",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Jefferson Airplane",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Linkin Park",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Black Sabbath",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Steve Miller Band",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Crosby, Stills, Nash & Young",
+   "count": 53,
+   "aliases": [
+    "Crosby, Stills & Nash"
+   ]
+  },
+  {
+   "text": "Heart",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Chubby Checker",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Grateful Dead",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Bryan Adams",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Roy Orbison",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Michael Bolton",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Steven Tyler",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "John Mellencamp",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Dave Matthews Band",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Meat Loaf",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Neil Young",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "John Fogerty",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Electric Light Orchestra",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "The Pretenders",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Nickelback",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Van Morrison",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Styx",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Kansas",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Radiohead",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Rick Springfield",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Dire Straits",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Ritchie Valens",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Bonnie Tyler",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "The Allman Brothers Band",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Waylon Jennings",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "The Go-Go's",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Three Dog Night",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "The Cars",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Peter Frampton",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "The Charlie Daniels Band",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Cheap Trick",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Harry Styles",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Don Henley",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "The Moody Blues",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Men at Work",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Air Supply",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Robert Plant",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Blood, Sweat & Tears",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Gloria Gaynor",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Keith Richards",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "The Byrds",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Matchbox Twenty",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Jerry Garcia",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Steve Perry",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Brian Wilson",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Jerry Lee Lewis",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Robert Palmer",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The Kinks",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Frank Zappa",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "3 Doors Down",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "The Animals",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Fall Out Boy",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Gene Simmons",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Bad Company",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Wings",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "The Rascals",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Ricky Nelson",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Blue Öyster Cult",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Pete Townshend",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Jethro Tull",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Panic! At The Disco",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Axl Rose",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Steve Winwood",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "The Hollies",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Neil Sedaka",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Elvis Costello",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Page",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Slash",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Deep Purple",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Buffalo Springfield",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Lindsey Buckingham",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Bachman-Turner Overdrive",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "My Chemical Romance",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Turtles",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Grand Funk Railroad",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Paul Revere and The Raiders",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Lovin' Spoonful",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Black Crowes",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "The Marshall Tucker Band",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Paramore",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Lisa Marie Presley",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Emerson, Lake & Palmer",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Los Lobos",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Simple Minds",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "The Alan Parsons Project",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Supertramp",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Stephen Stills",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "The E Street Band",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "The J. Geils Band",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Bread",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Roger Daltrey",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Gorillaz",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Yes",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Cream",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Lou Reed",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Eddie Vedder",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Davy Jones",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Chris Isaak",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Rob Thomas",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Stray Cats",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Zombies",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Glenn Frey",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Paul Kantner & Jefferson Starship",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Jackson Browne",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "The Yardbirds",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Jeff Beck",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Loverboy",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Kings of Leon",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "4 Non Blondes",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Blues Traveler",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": ".38 Special",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Ronnie Van Zant",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Bruce Hornsby & The Range",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "The Pixies",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Loggins & Messina",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Mannheim Steamroller",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Collective Soul",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Foghat",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Good Charlotte",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Flea",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Billy Gibbons",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Incubus",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "David Gilmour",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Muse",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "The Velvet Underground",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Breaking Benjamin",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Billy Squier",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "The Band",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Iron Butterfly",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Hanson",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Lifehouse",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Everclear",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Jack Johnson",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "The Ventures",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Todd Rundgren",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Warren Zevon",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Garbage",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Tame Impala",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Phish",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Ace Frehley",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Hole",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Golden Earring",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Buckcherry",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Ronnie Wood",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Robbie Robertson",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Joel Madden",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Portugal. The Man",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Neon Trees",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Proclaimers",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The 1975",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Keane",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Måneskin",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Bring Me The Horizon",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Sleeping with Sirens",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Killswitch Engage",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Bo Bice",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Brandon Flowers",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Pete Yorn",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "The Revivalists",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Story of the Year",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "St. Vincent",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Frank Beard",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Kaleo",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "JXDN",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Anwar Hadid",
+   "count": 19,
+   "aliases": []
+  }
+ ]
+}

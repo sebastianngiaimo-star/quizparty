@@ -1,0 +1,1483 @@
+{
+  "categories": [
+    {
+      "id": "anime",
+      "name": "Anime",
+      "icon": "🍥",
+      "color": "#ff4f8b"
+    },
+    {
+      "id": "videojuegos",
+      "name": "Video games",
+      "icon": "🎮",
+      "color": "#3a86ff"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "mal-characters",
+      "type": "malTop",
+      "kind": "characters",
+      "category": "anime",
+      "prompt": "Name an anime character",
+      "source": "Most favorited characters on MyAnimeList ({year})",
+      "limit": 300
+    },
+    {
+      "id": "mal-anime",
+      "type": "malTop",
+      "kind": "anime",
+      "category": "anime",
+      "prompt": "Name an anime",
+      "source": "Most popular anime on MyAnimeList — members ({year})",
+      "limit": 300,
+      "mediaType": "tv",
+      "names": {
+        "Shingeki no Kyojin": {
+          "also": [
+            "Ataque a los Titanes",
+            "Ataque de los Titanes",
+            "El Ataque de los Titanes",
+            "進撃の巨人"
+          ]
+        },
+        "Kimetsu no Yaiba": {
+          "also": [
+            "Guardianes de la Noche",
+            "Cazador de Demonios",
+            "鬼滅の刃"
+          ]
+        },
+        "Nanatsu no Taizai": {
+          "also": [
+            "Los Siete Pecados Capitales",
+            "Siete Pecados Capitales"
+          ]
+        },
+        "Shigatsu wa Kimi no Uso": {
+          "also": [
+            "Tu mentira en abril"
+          ]
+        },
+        "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.": {
+          "also": [
+            "Anohana: La flor que vimos aquel día",
+            "Anohana: La flor que vimos ese día",
+            "Anohana"
+          ]
+        },
+        "Tensei shitara Slime Datta Ken": {
+          "also": [
+            "Aquella vez que me convertí en Slime",
+            "Aquella vez que me reencarné como un Slime",
+            "Slime"
+          ]
+        },
+        "Cardcaptor Sakura": {
+          "also": [
+            "Sakura Card Captor",
+            "Sakura Card Captors",
+            "Sakura Cardcaptor"
+          ]
+        },
+        "Saint Seiya": {
+          "also": [
+            "Los Caballeros del Zodiaco",
+            "Caballeros del Zodiaco"
+          ]
+        },
+        "Captain Tsubasa": {
+          "also": [
+            "Supercampeones",
+            "Super Campeones",
+            "Los Supercampeones",
+            "Oliver y Benji"
+          ]
+        },
+        "Rurouni Kenshin: Meiji Kenkaku Romantan": {
+          "also": [
+            "Samurai X",
+            "Rurouni Kenshin"
+          ]
+        },
+        "Hajime no Ippo": {
+          "also": [
+            "Espíritu de Lucha"
+          ]
+        },
+        "Dragon Quest: Dai no Daibouken": {
+          "also": [
+            "Las Aventuras de Fly",
+            "Fly"
+          ]
+        },
+        "Mahou Shoujo Madoka★Magica": {
+          "also": [
+            "Puella Magi Madoka Magica",
+            "Madoka Magica",
+            "Madoka"
+          ]
+        },
+        "Shin Seiki Evangelion": {
+          "also": [
+            "Evangelion",
+            "Neon Genesis Evangelion"
+          ]
+        },
+        "Boku no Hero Academia": {
+          "also": [
+            "Mi Academia de Héroes",
+            "My Hero Academia",
+            "MHA",
+            "BNHA"
+          ]
+        },
+        "Yakusoku no Neverland": {
+          "also": [
+            "El país de Nunca Jamás prometido",
+            "The Promised Neverland"
+          ]
+        },
+        "Boku dake ga Inai Machi": {
+          "also": [
+            "Desaparecido",
+            "Erased"
+          ]
+        },
+        "Koe no Katachi": {
+          "also": [
+            "Una voz silenciosa",
+            "A Silent Voice"
+          ]
+        },
+        "Kimi no Na wa.": {
+          "also": [
+            "Tu nombre",
+            "Your Name"
+          ]
+        },
+        "Sen to Chihiro no Kamikakushi": {
+          "also": [
+            "El viaje de Chihiro",
+            "Spirited Away"
+          ]
+        },
+        "Mononoke Hime": {
+          "also": [
+            "La princesa Mononoke",
+            "Princess Mononoke"
+          ]
+        },
+        "Tonari no Totoro": {
+          "also": [
+            "Mi vecino Totoro",
+            "My Neighbor Totoro",
+            "Totoro"
+          ]
+        },
+        "Howl no Ugoku Shiro": {
+          "also": [
+            "El increíble castillo vagabundo",
+            "El castillo ambulante",
+            "Howl's Moving Castle"
+          ]
+        },
+        "Hotaru no Haka": {
+          "also": [
+            "La tumba de las luciérnagas",
+            "Grave of the Fireflies"
+          ]
+        },
+        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen": {
+          "also": [
+            "Kaguya-sama: Love Is War",
+            "Kaguya-sama",
+            "Kaguya"
+          ]
+        },
+        "Mob Psycho 100": {
+          "also": [
+            "Mob Psycho"
+          ]
+        },
+        "One Punch Man": {
+          "also": [
+            "One-Punch Man",
+            "OPM"
+          ]
+        },
+        "Hunter x Hunter (2011)": {
+          "also": [
+            "Hunter x Hunter",
+            "HxH",
+            "Cazador X"
+          ]
+        },
+        "Fullmetal Alchemist: Brotherhood": {
+          "also": [
+            "FMA Brotherhood",
+            "FMAB",
+            "Fullmetal Alchemist",
+            "Hagane no Renkinjutsushi"
+          ]
+        },
+        "Code Geass: Hangyaku no Lelouch": {
+          "also": [
+            "Code Geass",
+            "Lelouch of the Rebellion"
+          ]
+        },
+        "Shokugeki no Souma": {
+          "also": [
+            "Food Wars",
+            "Food Wars!: Shokugeki no Soma"
+          ]
+        },
+        "Kono Subarashii Sekai ni Shukufuku wo!": {
+          "also": [
+            "KonoSuba",
+            "Konosuba"
+          ]
+        },
+        "Re:Zero kara Hajimeru Isekai Seikatsu": {
+          "also": [
+            "Re:Zero",
+            "ReZero",
+            "Re Zero"
+          ]
+        },
+        "Sousou no Frieren": {
+          "also": [
+            "Frieren",
+            "Frieren: Beyond Journey's End",
+            "Frieren: Más allá del final del viaje"
+          ]
+        },
+        "Jigokuraku": {
+          "also": [
+            "Hell's Paradise"
+          ]
+        },
+        "Chainsaw Man": {
+          "also": [
+            "チェンソーマン"
+          ]
+        },
+        "Spy x Family": {
+          "also": [
+            "Spy Family",
+            "SPY×FAMILY"
+          ]
+        },
+        "Jujutsu Kaisen": {
+          "also": [
+            "JJK",
+            "呪術廻戦"
+          ]
+        },
+        "Bleach": {
+          "also": [
+            "ブリーチ"
+          ]
+        },
+        "Naruto": {
+          "also": [
+            "ナルト"
+          ]
+        },
+        "One Piece": {
+          "also": [
+            "ワンピース"
+          ]
+        },
+        "Dragon Ball": {
+          "also": [
+            "ドラゴンボール"
+          ]
+        },
+        "Death Note": {
+          "also": [
+            "デスノート"
+          ]
+        },
+        "Tokyo Ghoul": {
+          "also": [
+            "東京喰種"
+          ]
+        },
+        "Tokyo Revengers": {
+          "also": [
+            "東京リベンジャーズ"
+          ]
+        },
+        "Haikyuu!!": {
+          "also": [
+            "Haikyu",
+            "Haikyuu",
+            "ハイキュー"
+          ]
+        },
+        "Sword Art Online": {
+          "also": [
+            "SAO",
+            "ソードアート・オンライン"
+          ]
+        },
+        "Steins;Gate": {
+          "also": [
+            "Steins Gate",
+            "シュタインズ・ゲート"
+          ]
+        },
+        "Vinland Saga": {
+          "also": [
+            "ヴィンランド・サガ"
+          ]
+        },
+        "Made in Abyss": {
+          "also": [
+            "メイドインアビス"
+          ]
+        },
+        "JoJo no Kimyou na Bouken": {
+          "also": [
+            "JoJo's Bizarre Adventure",
+            "JoJo",
+            "JoJos",
+            "ジョジョの奇妙な冒険"
+          ]
+        },
+        "Yuu☆Yuu☆Hakusho": {
+          "also": [
+            "Yu Yu Hakusho",
+            "YuYu Hakusho",
+            "Los Guerreros del Más Allá"
+          ]
+        },
+        "Slam Dunk": {
+          "also": [
+            "スラムダンク"
+          ]
+        },
+        "Pokemon": {
+          "also": [
+            "Pokémon",
+            "ポケモン",
+            "Pocket Monsters"
+          ]
+        },
+        "Digimon Adventure": {
+          "also": [
+            "Digimon",
+            "デジモンアドベンチャー"
+          ]
+        },
+        "Yu☆Gi☆Oh! Duel Monsters": {
+          "also": [
+            "Yu-Gi-Oh!",
+            "Yugioh",
+            "Yu Gi Oh",
+            "遊☆戯☆王"
+          ]
+        },
+        "InuYasha": {
+          "also": [
+            "Inuyasha",
+            "犬夜叉"
+          ]
+        },
+        "Ranma ½": {
+          "also": [
+            "Ranma 1/2",
+            "Ranma",
+            "らんま1/2"
+          ]
+        },
+        "Detective Conan": {
+          "also": [
+            "Case Closed",
+            "名探偵コナン",
+            "Meitantei Conan"
+          ]
+        },
+        "Doraemon": {
+          "also": [
+            "ドラえもん"
+          ]
+        },
+        "Bishoujo Senshi Sailor Moon": {
+          "also": [
+            "Sailor Moon",
+            "美少女戦士セーラームーン"
+          ]
+        },
+        "Cowboy Bebop": {
+          "also": [
+            "カウボーイビバップ"
+          ]
+        },
+        "Great Teacher Onizuka": {
+          "also": [
+            "GTO"
+          ]
+        },
+        "Ansatsu Kyoushitsu": {
+          "also": [
+            "Assassination Classroom",
+            "Aula de Asesinatos"
+          ]
+        },
+        "Kuroshitsuji": {
+          "also": [
+            "Black Butler"
+          ]
+        },
+        "Shingeki no Bahamut": {
+          "also": [
+            "Rage of Bahamut"
+          ]
+        },
+        "Dr. Stone": {
+          "also": [
+            "Doctor Stone",
+            "ドクターストーン"
+          ]
+        },
+        "Black Clover": {
+          "also": [
+            "ブラッククローバー"
+          ]
+        },
+        "Fairy Tail": {
+          "also": [
+            "フェアリーテイル"
+          ]
+        },
+        "Blue Lock": {
+          "also": [
+            "ブルーロック"
+          ]
+        },
+        "Bocchi the Rock!": {
+          "also": [
+            "Bocchi the Rock",
+            "Bocchi",
+            "ぼっち・ざ・ろっく!"
+          ]
+        },
+        "Oshi no Ko": {
+          "also": [
+            "[Oshi no Ko]",
+            "Mi estrella favorita",
+            "推しの子"
+          ]
+        },
+        "Kaijuu 8-gou": {
+          "also": [
+            "Kaiju No. 8",
+            "Kaiju 8"
+          ]
+        },
+        "Dandadan": {
+          "also": [
+            "Dan Da Dan",
+            "ダンダダン"
+          ]
+        },
+        "Solo Leveling": {
+          "also": [
+            "Ore dake Level Up na Ken",
+            "俺だけレベルアップな件"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mal-manga",
+      "type": "malTop",
+      "kind": "manga",
+      "category": "anime",
+      "prompt": "Name a manga",
+      "source": "Most popular manga on MyAnimeList — members ({year})",
+      "limit": 300,
+      "names": {
+        "Shingeki no Kyojin": {
+          "also": [
+            "Ataque a los Titanes",
+            "Ataque de los Titanes",
+            "El Ataque de los Titanes",
+            "進撃の巨人"
+          ]
+        },
+        "Kimetsu no Yaiba": {
+          "also": [
+            "Guardianes de la Noche",
+            "Cazador de Demonios",
+            "鬼滅の刃"
+          ]
+        },
+        "Nanatsu no Taizai": {
+          "also": [
+            "Los Siete Pecados Capitales",
+            "Siete Pecados Capitales"
+          ]
+        },
+        "Shigatsu wa Kimi no Uso": {
+          "also": [
+            "Tu mentira en abril"
+          ]
+        },
+        "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.": {
+          "also": [
+            "Anohana: La flor que vimos aquel día",
+            "Anohana: La flor que vimos ese día",
+            "Anohana"
+          ]
+        },
+        "Tensei shitara Slime Datta Ken": {
+          "also": [
+            "Aquella vez que me convertí en Slime",
+            "Aquella vez que me reencarné como un Slime",
+            "Slime"
+          ]
+        },
+        "Cardcaptor Sakura": {
+          "also": [
+            "Sakura Card Captor",
+            "Sakura Card Captors",
+            "Sakura Cardcaptor"
+          ]
+        },
+        "Saint Seiya": {
+          "also": [
+            "Los Caballeros del Zodiaco",
+            "Caballeros del Zodiaco"
+          ]
+        },
+        "Captain Tsubasa": {
+          "also": [
+            "Supercampeones",
+            "Super Campeones",
+            "Los Supercampeones",
+            "Oliver y Benji"
+          ]
+        },
+        "Rurouni Kenshin: Meiji Kenkaku Romantan": {
+          "also": [
+            "Samurai X",
+            "Rurouni Kenshin"
+          ]
+        },
+        "Hajime no Ippo": {
+          "also": [
+            "Espíritu de Lucha"
+          ]
+        },
+        "Dragon Quest: Dai no Daibouken": {
+          "also": [
+            "Las Aventuras de Fly",
+            "Fly"
+          ]
+        },
+        "Mahou Shoujo Madoka★Magica": {
+          "also": [
+            "Puella Magi Madoka Magica",
+            "Madoka Magica",
+            "Madoka"
+          ]
+        },
+        "Shin Seiki Evangelion": {
+          "also": [
+            "Evangelion",
+            "Neon Genesis Evangelion"
+          ]
+        },
+        "Boku no Hero Academia": {
+          "also": [
+            "Mi Academia de Héroes",
+            "My Hero Academia",
+            "MHA",
+            "BNHA"
+          ]
+        },
+        "Yakusoku no Neverland": {
+          "also": [
+            "El país de Nunca Jamás prometido",
+            "The Promised Neverland"
+          ]
+        },
+        "Boku dake ga Inai Machi": {
+          "also": [
+            "Desaparecido",
+            "Erased"
+          ]
+        },
+        "Koe no Katachi": {
+          "also": [
+            "Una voz silenciosa",
+            "A Silent Voice"
+          ]
+        },
+        "Kimi no Na wa.": {
+          "also": [
+            "Tu nombre",
+            "Your Name"
+          ]
+        },
+        "Sen to Chihiro no Kamikakushi": {
+          "also": [
+            "El viaje de Chihiro",
+            "Spirited Away"
+          ]
+        },
+        "Mononoke Hime": {
+          "also": [
+            "La princesa Mononoke",
+            "Princess Mononoke"
+          ]
+        },
+        "Tonari no Totoro": {
+          "also": [
+            "Mi vecino Totoro",
+            "My Neighbor Totoro",
+            "Totoro"
+          ]
+        },
+        "Howl no Ugoku Shiro": {
+          "also": [
+            "El increíble castillo vagabundo",
+            "El castillo ambulante",
+            "Howl's Moving Castle"
+          ]
+        },
+        "Hotaru no Haka": {
+          "also": [
+            "La tumba de las luciérnagas",
+            "Grave of the Fireflies"
+          ]
+        },
+        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen": {
+          "also": [
+            "Kaguya-sama: Love Is War",
+            "Kaguya-sama",
+            "Kaguya"
+          ]
+        },
+        "Mob Psycho 100": {
+          "also": [
+            "Mob Psycho"
+          ]
+        },
+        "One Punch Man": {
+          "also": [
+            "One-Punch Man",
+            "OPM"
+          ]
+        },
+        "Hunter x Hunter (2011)": {
+          "also": [
+            "Hunter x Hunter",
+            "HxH",
+            "Cazador X"
+          ]
+        },
+        "Fullmetal Alchemist: Brotherhood": {
+          "also": [
+            "FMA Brotherhood",
+            "FMAB",
+            "Fullmetal Alchemist",
+            "Hagane no Renkinjutsushi"
+          ]
+        },
+        "Code Geass: Hangyaku no Lelouch": {
+          "also": [
+            "Code Geass",
+            "Lelouch of the Rebellion"
+          ]
+        },
+        "Shokugeki no Souma": {
+          "also": [
+            "Food Wars",
+            "Food Wars!: Shokugeki no Soma"
+          ]
+        },
+        "Kono Subarashii Sekai ni Shukufuku wo!": {
+          "also": [
+            "KonoSuba",
+            "Konosuba"
+          ]
+        },
+        "Re:Zero kara Hajimeru Isekai Seikatsu": {
+          "also": [
+            "Re:Zero",
+            "ReZero",
+            "Re Zero"
+          ]
+        },
+        "Sousou no Frieren": {
+          "also": [
+            "Frieren",
+            "Frieren: Beyond Journey's End",
+            "Frieren: Más allá del final del viaje"
+          ]
+        },
+        "Jigokuraku": {
+          "also": [
+            "Hell's Paradise"
+          ]
+        },
+        "Chainsaw Man": {
+          "also": [
+            "チェンソーマン"
+          ]
+        },
+        "Spy x Family": {
+          "also": [
+            "Spy Family",
+            "SPY×FAMILY"
+          ]
+        },
+        "Jujutsu Kaisen": {
+          "also": [
+            "JJK",
+            "呪術廻戦"
+          ]
+        },
+        "Bleach": {
+          "also": [
+            "ブリーチ"
+          ]
+        },
+        "Naruto": {
+          "also": [
+            "ナルト"
+          ]
+        },
+        "One Piece": {
+          "also": [
+            "ワンピース"
+          ]
+        },
+        "Dragon Ball": {
+          "also": [
+            "ドラゴンボール"
+          ]
+        },
+        "Death Note": {
+          "also": [
+            "デスノート"
+          ]
+        },
+        "Tokyo Ghoul": {
+          "also": [
+            "東京喰種"
+          ]
+        },
+        "Tokyo Revengers": {
+          "also": [
+            "東京リベンジャーズ"
+          ]
+        },
+        "Haikyuu!!": {
+          "also": [
+            "Haikyu",
+            "Haikyuu",
+            "ハイキュー"
+          ]
+        },
+        "Sword Art Online": {
+          "also": [
+            "SAO",
+            "ソードアート・オンライン"
+          ]
+        },
+        "Steins;Gate": {
+          "also": [
+            "Steins Gate",
+            "シュタインズ・ゲート"
+          ]
+        },
+        "Vinland Saga": {
+          "also": [
+            "ヴィンランド・サガ"
+          ]
+        },
+        "Made in Abyss": {
+          "also": [
+            "メイドインアビス"
+          ]
+        },
+        "JoJo no Kimyou na Bouken": {
+          "also": [
+            "JoJo's Bizarre Adventure",
+            "JoJo",
+            "JoJos",
+            "ジョジョの奇妙な冒険"
+          ]
+        },
+        "Yuu☆Yuu☆Hakusho": {
+          "also": [
+            "Yu Yu Hakusho",
+            "YuYu Hakusho",
+            "Los Guerreros del Más Allá"
+          ]
+        },
+        "Slam Dunk": {
+          "also": [
+            "スラムダンク"
+          ]
+        },
+        "Pokemon": {
+          "also": [
+            "Pokémon",
+            "ポケモン",
+            "Pocket Monsters"
+          ]
+        },
+        "Digimon Adventure": {
+          "also": [
+            "Digimon",
+            "デジモンアドベンチャー"
+          ]
+        },
+        "Yu☆Gi☆Oh! Duel Monsters": {
+          "also": [
+            "Yu-Gi-Oh!",
+            "Yugioh",
+            "Yu Gi Oh",
+            "遊☆戯☆王"
+          ]
+        },
+        "InuYasha": {
+          "also": [
+            "Inuyasha",
+            "犬夜叉"
+          ]
+        },
+        "Ranma ½": {
+          "also": [
+            "Ranma 1/2",
+            "Ranma",
+            "らんま1/2"
+          ]
+        },
+        "Detective Conan": {
+          "also": [
+            "Case Closed",
+            "名探偵コナン",
+            "Meitantei Conan"
+          ]
+        },
+        "Doraemon": {
+          "also": [
+            "ドラえもん"
+          ]
+        },
+        "Bishoujo Senshi Sailor Moon": {
+          "also": [
+            "Sailor Moon",
+            "美少女戦士セーラームーン"
+          ]
+        },
+        "Cowboy Bebop": {
+          "also": [
+            "カウボーイビバップ"
+          ]
+        },
+        "Great Teacher Onizuka": {
+          "also": [
+            "GTO"
+          ]
+        },
+        "Ansatsu Kyoushitsu": {
+          "also": [
+            "Assassination Classroom",
+            "Aula de Asesinatos"
+          ]
+        },
+        "Kuroshitsuji": {
+          "also": [
+            "Black Butler"
+          ]
+        },
+        "Shingeki no Bahamut": {
+          "also": [
+            "Rage of Bahamut"
+          ]
+        },
+        "Dr. Stone": {
+          "also": [
+            "Doctor Stone",
+            "ドクターストーン"
+          ]
+        },
+        "Black Clover": {
+          "also": [
+            "ブラッククローバー"
+          ]
+        },
+        "Fairy Tail": {
+          "also": [
+            "フェアリーテイル"
+          ]
+        },
+        "Blue Lock": {
+          "also": [
+            "ブルーロック"
+          ]
+        },
+        "Bocchi the Rock!": {
+          "also": [
+            "Bocchi the Rock",
+            "Bocchi",
+            "ぼっち・ざ・ろっく!"
+          ]
+        },
+        "Oshi no Ko": {
+          "also": [
+            "[Oshi no Ko]",
+            "Mi estrella favorita",
+            "推しの子"
+          ]
+        },
+        "Kaijuu 8-gou": {
+          "also": [
+            "Kaiju No. 8",
+            "Kaiju 8"
+          ]
+        },
+        "Dandadan": {
+          "also": [
+            "Dan Da Dan",
+            "ダンダダン"
+          ]
+        },
+        "Solo Leveling": {
+          "also": [
+            "Ore dake Level Up na Ken",
+            "俺だけレベルアップな件"
+          ]
+        }
+      }
+    },
+    {
+      "id": "waifus",
+      "type": "topCharacters",
+      "gender": "Female",
+      "category": "anime",
+      "prompt": "Name a female anime character",
+      "source": "Most favorited female characters on AniList ({year})",
+      "limit": 300
+    },
+    {
+      "id": "dragonball-characters",
+      "type": "franchiseCharacters",
+      "category": "anime",
+      "prompt": "Name a Dragon Ball character",
+      "source": "AniList favorites ({year})",
+      "search": "Dragon Ball",
+      "match": "dragon ball",
+      "pages": 3,
+      "limit": 35,
+      "names": {
+        "Gokuu Son": {
+          "show": "Goku",
+          "also": [
+            "Son Goku",
+            "Kakaroto",
+            "Kakarotto",
+            "Kakarot"
+          ]
+        },
+        "Goku Son": {
+          "show": "Goku",
+          "also": [
+            "Son Goku",
+            "Kakaroto",
+            "Kakarotto",
+            "Kakarot"
+          ]
+        },
+        "Gohan Son": {
+          "show": "Gohan"
+        },
+        "Goten Son": {
+          "show": "Goten"
+        },
+        "Kuririn": {
+          "show": "Krillin",
+          "also": [
+            "Krillin",
+            "Kuririn",
+            "Krilin"
+          ]
+        },
+        "Krillin": {
+          "show": "Krillin",
+          "also": [
+            "Krillin",
+            "Kuririn",
+            "Krilin"
+          ]
+        },
+        "Frieza": {
+          "show": "Frieza",
+          "also": [
+            "Frieza",
+            "Freeza",
+            "Freezer"
+          ]
+        },
+        "Freeza": {
+          "show": "Frieza",
+          "also": [
+            "Frieza",
+            "Freeza",
+            "Freezer"
+          ]
+        },
+        "Chi-Chi": {
+          "also": [
+            "Milk",
+            "Chichi"
+          ]
+        },
+        "Muten Roushi": {
+          "show": "Master Roshi",
+          "also": [
+            "Roshi",
+            "Kame Sennin",
+            "Duende Tortuga",
+            "Master Roshi",
+            "Maestro Roshi"
+          ]
+        },
+        "Kame-Sennin": {
+          "show": "Master Roshi",
+          "also": [
+            "Roshi",
+            "Kame Sennin",
+            "Duende Tortuga",
+            "Master Roshi",
+            "Maestro Roshi"
+          ]
+        },
+        "Juuhachigou": {
+          "show": "Android 18",
+          "also": [
+            "Número 18",
+            "Numero 18",
+            "Android 18",
+            "A18",
+            "Lazuli",
+            "Androide 18"
+          ]
+        },
+        "Android 18": {
+          "show": "Android 18",
+          "also": [
+            "Número 18",
+            "Numero 18",
+            "Android 18",
+            "A18",
+            "Lazuli",
+            "Androide 18"
+          ]
+        },
+        "Juunanagou": {
+          "show": "Android 17",
+          "also": [
+            "Número 17",
+            "Numero 17",
+            "Android 17",
+            "A17",
+            "Lapis",
+            "Androide 17"
+          ]
+        },
+        "Android 17": {
+          "show": "Android 17",
+          "also": [
+            "Número 17",
+            "Numero 17",
+            "Android 17",
+            "A17",
+            "Lapis",
+            "Androide 17"
+          ]
+        },
+        "Juurokugou": {
+          "show": "Android 16",
+          "also": [
+            "Número 16",
+            "Android 16",
+            "Androide 16"
+          ]
+        },
+        "Android 16": {
+          "show": "Android 16",
+          "also": [
+            "Número 16",
+            "Android 16",
+            "Androide 16"
+          ]
+        },
+        "Mr. Satan": {
+          "show": "Mr. Satan",
+          "also": [
+            "Hercule",
+            "Mister Satan",
+            "Satan",
+            "Mr. Satán"
+          ]
+        },
+        "Hercule": {
+          "show": "Mr. Satan",
+          "also": [
+            "Hercule",
+            "Mister Satan",
+            "Satan",
+            "Mr. Satán"
+          ]
+        },
+        "Beerus": {
+          "show": "Beerus",
+          "also": [
+            "Beerus",
+            "Bils",
+            "Birus",
+            "Bills"
+          ]
+        },
+        "Tenshinhan": {
+          "show": "Tien",
+          "also": [
+            "Tenshinhan",
+            "Tien",
+            "Ten",
+            "Ten Shin Han"
+          ]
+        },
+        "Tien Shinhan": {
+          "show": "Tien",
+          "also": [
+            "Tenshinhan",
+            "Tien",
+            "Ten",
+            "Ten Shin Han"
+          ]
+        },
+        "Majin Buu": {
+          "also": [
+            "Majin Boo",
+            "Boo",
+            "Buu"
+          ]
+        },
+        "Shenron": {
+          "show": "Shenron",
+          "also": [
+            "Shenlong",
+            "Shenron",
+            "Sheng Long",
+            "Shen Long"
+          ]
+        },
+        "Vegetto": {
+          "show": "Vegito",
+          "also": [
+            "Vegetto",
+            "Vegito"
+          ]
+        },
+        "Piccolo": {
+          "also": [
+            "Piccoro",
+            "Picoro",
+            "Picolo",
+            "Señor Piccolo"
+          ]
+        },
+        "Kaiou": {
+          "show": "King Kai",
+          "also": [
+            "Kaio-sama",
+            "Kaio",
+            "Rey Kai",
+            "King Kai",
+            "Kaiosama"
+          ]
+        },
+        "Ginyuu": {
+          "show": "Captain Ginyu",
+          "also": [
+            "Ginyu",
+            "Capitan Ginyu",
+            "Capitán Ginyu"
+          ]
+        },
+        "Ginyu": {
+          "show": "Captain Ginyu",
+          "also": [
+            "Ginyu",
+            "Capitan Ginyu",
+            "Capitán Ginyu"
+          ]
+        },
+        "Goku Black": {
+          "also": [
+            "Black Goku",
+            "Black"
+          ]
+        },
+        "Zeno": {
+          "show": "Zeno",
+          "also": [
+            "Zeno",
+            "Zen-Oh",
+            "Zenoh",
+            "Zeno-sama"
+          ]
+        },
+        "Lunch": {
+          "also": [
+            "Launch",
+            "Lunch"
+          ]
+        },
+        "Pilaf": {
+          "also": [
+            "Emperador Pilaf",
+            "Pilaf"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dragonball-titles",
+      "type": "franchiseTitles",
+      "category": "anime",
+      "prompt": "Name a Dragon Ball series or movie",
+      "source": "AniList popularity ({year})",
+      "search": "Dragon Ball",
+      "match": "dragon ball",
+      "pages": 2,
+      "limit": 30
+    },
+    {
+      "id": "demonslayer-characters",
+      "type": "franchiseCharacters",
+      "category": "anime",
+      "prompt": "Name a Demon Slayer character",
+      "source": "AniList favorites ({year})",
+      "search": "Kimetsu no Yaiba",
+      "match": "kimetsu|demon slayer",
+      "pages": 2,
+      "limit": 30,
+      "names": {
+        "Kyoujurou Rengoku": {
+          "also": [
+            "Rengoku",
+            "Kyojuro"
+          ]
+        },
+        "Tengen Uzui": {
+          "also": [
+            "Uzui",
+            "Tengen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jjk-characters",
+      "type": "franchiseCharacters",
+      "category": "anime",
+      "prompt": "Name a Jujutsu Kaisen character",
+      "source": "AniList favorites ({year})",
+      "search": "Jujutsu Kaisen",
+      "match": "jujutsu kaisen",
+      "pages": 2,
+      "limit": 30,
+      "names": {
+        "Ryoumen Sukuna": {
+          "also": [
+            "Sukuna"
+          ]
+        },
+        "Satoru Gojou": {
+          "also": [
+            "Gojo",
+            "Gojou",
+            "Satoru"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dota2-heroes",
+      "type": "dotaHeroes",
+      "category": "videojuegos",
+      "prompt": "Name a Dota 2 hero",
+      "source": "Most picked heroes in public matches — OpenDota ({year})",
+      "limit": 130,
+      "surveyId": "curated-dota2-heroes",
+      "names": {
+        "Anti-Mage": {
+          "also": [
+            "AM",
+            "Antimage"
+          ]
+        },
+        "Phantom Assassin": {
+          "also": [
+            "PA",
+            "Mortred"
+          ]
+        },
+        "Witch Doctor": {
+          "also": [
+            "WD"
+          ]
+        },
+        "Shadow Shaman": {
+          "also": [
+            "Rhasta",
+            "SS"
+          ]
+        },
+        "Nature's Prophet": {
+          "also": [
+            "Furion",
+            "NP",
+            "Prophet"
+          ]
+        },
+        "Shadow Fiend": {
+          "also": [
+            "SF",
+            "Nevermore"
+          ]
+        },
+        "Crystal Maiden": {
+          "also": [
+            "CM",
+            "Rylai"
+          ]
+        },
+        "Drow Ranger": {
+          "also": [
+            "Drow",
+            "Traxex"
+          ]
+        },
+        "Legion Commander": {
+          "also": [
+            "LC",
+            "Legion"
+          ]
+        },
+        "Spirit Breaker": {
+          "also": [
+            "SB",
+            "Bara"
+          ]
+        },
+        "Faceless Void": {
+          "also": [
+            "Void",
+            "FV"
+          ]
+        },
+        "Windranger": {
+          "also": [
+            "WR",
+            "Windrunner"
+          ]
+        },
+        "Lifestealer": {
+          "also": [
+            "Naix",
+            "LS"
+          ]
+        },
+        "Ogre Magi": {
+          "also": [
+            "Ogre"
+          ]
+        },
+        "Earthshaker": {
+          "also": [
+            "ES",
+            "Shaker"
+          ]
+        },
+        "Necrophos": {
+          "also": [
+            "Necro",
+            "Necrolyte"
+          ]
+        },
+        "Juggernaut": {
+          "also": [
+            "Jugg",
+            "Yurnero"
+          ]
+        },
+        "Invoker": {
+          "also": [
+            "Invo",
+            "Voker",
+            "Carl"
+          ]
+        },
+        "Phantom Lancer": {
+          "also": [
+            "PL"
+          ]
+        },
+        "Queen of Pain": {
+          "also": [
+            "QoP"
+          ]
+        },
+        "Templar Assassin": {
+          "also": [
+            "TA"
+          ]
+        },
+        "Dragon Knight": {
+          "also": [
+            "DK"
+          ]
+        },
+        "Centaur Warrunner": {
+          "also": [
+            "Centaur"
+          ]
+        },
+        "Keeper of the Light": {
+          "also": [
+            "KotL"
+          ]
+        },
+        "Treant Protector": {
+          "also": [
+            "Treant"
+          ]
+        },
+        "Outworld Destroyer": {
+          "also": [
+            "OD"
+          ]
+        },
+        "Wraith King": {
+          "also": [
+            "WK",
+            "Skeleton King"
+          ]
+        }
+      }
+    }
+  ]
+}

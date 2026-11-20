@@ -1,0 +1,565 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (contemporary-basketball-players): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "LeBron James",
+   "count": 55,
+   "aliases": [
+    "King James",
+    "LBJ"
+   ]
+  },
+  {
+   "text": "Stephen Curry",
+   "count": 54,
+   "aliases": [
+    "Steph Curry",
+    "Steph"
+   ]
+  },
+  {
+   "text": "Caitlin Clark",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Durant",
+   "count": 42,
+   "aliases": [
+    "KD"
+   ]
+  },
+  {
+   "text": "James Harden",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Jayson Tatum",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Butler",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Nikola Jokic",
+   "count": 35,
+   "aliases": [
+    "Joker"
+   ]
+  },
+  {
+   "text": "Giannis Antetokounmpo",
+   "count": 34,
+   "aliases": [
+    "Greek Freak"
+   ]
+  },
+  {
+   "text": "Kyrie Irving",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Jaylen Brown",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Russell Westbrook",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Jalen Brunson",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Kevin Love",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Luka Doncic",
+   "count": 32,
+   "aliases": [
+    "Luka"
+   ]
+  },
+  {
+   "text": "Brittney Griner",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Paige Bueckers",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Kawhi Leonard",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Jamal Murray",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Anthony Edwards",
+   "count": 31,
+   "aliases": [
+    "Ant",
+    "Ant-Man"
+   ]
+  },
+  {
+   "text": "Chris Paul",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Jalen Green",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Victor Wembanyama",
+   "count": 31,
+   "aliases": [
+    "Wemby"
+   ]
+  },
+  {
+   "text": "Alyssa Thomas",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Dylan Harper",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Tyrese Haliburton",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Angel Reese",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Jalen Williams",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Anthony Davis",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Klay Thompson",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Paul George",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Draymond Green",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Bam Adebayo",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Damian Lillard",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "DeAndre Jordan",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Zion Williamson",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "A'ja Wilson",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Aliyah Boston",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Austin Reaves",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Lonzo Ball",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "De'Aaron Fox",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Jabari Walker",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Donovan Mitchell",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Cade Cunningham",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Shai Gilgeous-Alexander",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Breanna Stewart",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Bronny James",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Andrew Wiggins",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "DeMar DeRozan",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Ben Simmons",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Cooper Flagg",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Joel Embiid",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Tyrese Maxey",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Trey Murphy III",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Al Horford",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "CJ McCollum",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Shaedon Sharpe",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Scottie Barnes",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Mike Conley Jr.",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Nneka Ogwumike",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Sabrina Ionescu",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Mikal Bridges",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Kristaps Porzingis",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Kyle Lowry",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "AJ Johnson",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Aaron Gordon",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Karl-Anthony Towns",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Deandre Ayton",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Ja Morant",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "D'Angelo Russell",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Jaren Jackson Jr.",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Trae Young",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Devin Booker",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Grant Williams",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Kris Murray",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Scoot Henderson",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Brandon Ingram",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Andre Drummond",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Isaiah Collier",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "James Wiseman",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Chet Holmgren",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Clint Capela",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Bobby Portis",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Jonquel Jones",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Jonathan Kuminga",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Khris Middleton",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Kelsey Plum",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Zach LaVine",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Alperen Sengun",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Alexandre Sarr",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Deja Kelly",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "RJ Barrett",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Domantas Sabonis",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Josh Giddey",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Bradley Beal",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Lauri Markkanen",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "LaMelo Ball",
+   "count": 23,
+   "aliases": []
+  },
+  {
+   "text": "Kahleah Copper",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Stephon Castle",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Anfernee Simons",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Kelly Oubre Jr.",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Donovan Clingan",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Josh Christopher",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Paolo Banchero",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Yang Hansen",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Georges Niang",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Oso Ighodaro",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Gradey Dick",
+   "count": 19,
+   "aliases": []
+  }
+ ]
+}

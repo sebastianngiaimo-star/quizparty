@@ -1,0 +1,3507 @@
+{
+ "source": "Box Office Mojo (IMDbPro), 'Top Lifetime Grosses' worldwide chart, nominal USD, not inflation-adjusted; fetched 2026-11-09 via WebFetch. Ranks 1-200 from https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/ (snapshot that already includes Zootopia 2 and Avatar: Fire and Ash); ranks 201-390 from https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?offset=190 (a slightly earlier cached snapshot, c. late 2025; where a film appears on both pages the first page's figure is kept). Lifetime grosses include re-releases (e.g. Avatar incl. 2022 re-release, Titanic incl. 2012 3D and 2023 re-releases, Avengers: Endgame incl. 2019 'Bring Back' re-release, Spider-Man: No Way Home incl. 'More Fun Stuff' version). Display titles are the commonly used English titles; a year in parentheses is added only to tell remakes/same-named films apart.",
+ "unit": "USD",
+ "rows": [
+  {
+   "text": "Avatar",
+   "count": 2923710708,
+   "aliases": [
+    "Avatar 1",
+    "Avatar (2009)"
+   ]
+  },
+  {
+   "text": "Avengers: Endgame",
+   "count": 2799439100,
+   "aliases": [
+    "Endgame",
+    "Avengers 4",
+    "Avengers Endgame"
+   ]
+  },
+  {
+   "text": "Avatar: The Way of Water",
+   "count": 2334484620,
+   "aliases": [
+    "The Way of Water",
+    "Way of Water",
+    "Avatar 2",
+    "Avatar: El camino del agua"
+   ]
+  },
+  {
+   "text": "Titanic",
+   "count": 2264812968,
+   "aliases": [
+    "Titanic (1997)"
+   ]
+  },
+  {
+   "text": "Ne Zha 2",
+   "count": 2259822417,
+   "aliases": [
+    "Nezha 2",
+    "Ne Zha II",
+    "哪吒之魔童闹海",
+    "Ne Zha 2: Demon Child Conquers the Sea"
+   ]
+  },
+  {
+   "text": "Star Wars: The Force Awakens",
+   "count": 2071310218,
+   "aliases": [
+    "The Force Awakens",
+    "Force Awakens",
+    "Star Wars 7",
+    "Episode VII",
+    "Star Wars Episode VII",
+    "Star Wars Episode 7",
+    "Star Wars VII",
+    "El despertar de la Fuerza"
+   ]
+  },
+  {
+   "text": "Avengers: Infinity War",
+   "count": 2052415039,
+   "aliases": [
+    "Infinity War",
+    "Avengers 3"
+   ]
+  },
+  {
+   "text": "Spider-Man: No Way Home",
+   "count": 1921426073,
+   "aliases": [
+    "No Way Home",
+    "Spider-Man: Sin camino a casa",
+    "Sin camino a casa"
+   ]
+  },
+  {
+   "text": "Zootopia 2",
+   "count": 1849833392,
+   "aliases": [
+    "Zootropolis 2"
+   ]
+  },
+  {
+   "text": "Inside Out 2",
+   "count": 1698863816,
+   "aliases": [
+    "Intensamente 2",
+    "Intensa-Mente 2",
+    "IntensaMente 2"
+   ]
+  },
+  {
+   "text": "Jurassic World",
+   "count": 1671537444,
+   "aliases": [
+    "Jurassic World 1",
+    "Jurassic World (2015)",
+    "Jurassic Park 4",
+    "Mundo Jurásico"
+   ]
+  },
+  {
+   "text": "The Lion King (2019)",
+   "count": 1662020819,
+   "aliases": [
+    "Lion King 2019",
+    "The Lion King (live action)",
+    "Lion King remake",
+    "El Rey León (2019)"
+   ]
+  },
+  {
+   "text": "The Avengers",
+   "count": 1520538536,
+   "aliases": [
+    "Avengers",
+    "Avengers 1",
+    "Marvel's The Avengers",
+    "Los Vengadores"
+   ]
+  },
+  {
+   "text": "Furious 7",
+   "count": 1515342457,
+   "aliases": [
+    "Fast 7",
+    "Fast & Furious 7",
+    "Fast and Furious 7",
+    "Fast Seven",
+    "Rápidos y Furiosos 7"
+   ]
+  },
+  {
+   "text": "Top Gun: Maverick",
+   "count": 1495696292,
+   "aliases": [
+    "Maverick",
+    "Top Gun 2"
+   ]
+  },
+  {
+   "text": "Avatar: Fire and Ash",
+   "count": 1474466709,
+   "aliases": [
+    "Fire and Ash",
+    "Avatar 3",
+    "Avatar: Fuego y ceniza"
+   ]
+  },
+  {
+   "text": "Frozen II",
+   "count": 1453683476,
+   "aliases": [
+    "Frozen 2"
+   ]
+  },
+  {
+   "text": "Barbie",
+   "count": 1447138421,
+   "aliases": [
+    "Barbie (2023)"
+   ]
+  },
+  {
+   "text": "Avengers: Age of Ultron",
+   "count": 1405018048,
+   "aliases": [
+    "Age of Ultron",
+    "Avengers 2",
+    "Avengers: Era de Ultrón"
+   ]
+  },
+  {
+   "text": "The Super Mario Bros. Movie",
+   "count": 1360879735,
+   "aliases": [
+    "Super Mario Bros",
+    "Super Mario Bros. Movie",
+    "Super Mario Movie",
+    "Mario Movie",
+    "Super Mario Bros. La película"
+   ]
+  },
+  {
+   "text": "Black Panther",
+   "count": 1349926083,
+   "aliases": [
+    "Black Panther 1",
+    "Pantera Negra"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Deathly Hallows: Part 2",
+   "count": 1342942050,
+   "aliases": [
+    "Deathly Hallows Part 2",
+    "Deathly Hallows: Part 2",
+    "Harry Potter 8",
+    "Harry Potter 7 Part 2",
+    "Harry Potter y las Reliquias de la Muerte: Parte 2",
+    "Reliquias de la Muerte Parte 2"
+   ]
+  },
+  {
+   "text": "Deadpool & Wolverine",
+   "count": 1338073645,
+   "aliases": [
+    "Deadpool 3",
+    "Deadpool and Wolverine"
+   ]
+  },
+  {
+   "text": "Star Wars: The Last Jedi",
+   "count": 1334407706,
+   "aliases": [
+    "The Last Jedi",
+    "Last Jedi",
+    "Star Wars 8",
+    "Episode VIII",
+    "Star Wars Episode VIII",
+    "Star Wars Episode 8",
+    "Los últimos Jedi"
+   ]
+  },
+  {
+   "text": "Jurassic World: Fallen Kingdom",
+   "count": 1308566455,
+   "aliases": [
+    "Fallen Kingdom",
+    "Jurassic World 2",
+    "Jurassic World: El reino caído"
+   ]
+  },
+  {
+   "text": "Frozen",
+   "count": 1286513286,
+   "aliases": [
+    "Frozen 1",
+    "Frozen: Una aventura congelada"
+   ]
+  },
+  {
+   "text": "Beauty and the Beast (2017)",
+   "count": 1266115964,
+   "aliases": [
+    "Beauty and the Beast (live action)",
+    "La Bella y la Bestia (2017)"
+   ]
+  },
+  {
+   "text": "Incredibles 2",
+   "count": 1243225667,
+   "aliases": [
+    "The Incredibles 2",
+    "Los Increíbles 2"
+   ]
+  },
+  {
+   "text": "The Fate of the Furious",
+   "count": 1236009236,
+   "aliases": [
+    "Fate of the Furious",
+    "Fast 8",
+    "Fast & Furious 8",
+    "Fast and Furious 8",
+    "Rápidos y Furiosos 8"
+   ]
+  },
+  {
+   "text": "Iron Man 3",
+   "count": 1215577205,
+   "aliases": []
+  },
+  {
+   "text": "Minions",
+   "count": 1159457503,
+   "aliases": [
+    "Minions 1",
+    "Los Minions",
+    "Minions (2015)"
+   ]
+  },
+  {
+   "text": "Captain America: Civil War",
+   "count": 1155046416,
+   "aliases": [
+    "Civil War",
+    "Captain America 3",
+    "Capitán América: Civil War"
+   ]
+  },
+  {
+   "text": "Aquaman",
+   "count": 1152028393,
+   "aliases": [
+    "Aquaman 1",
+    "Aquaman (2018)"
+   ]
+  },
+  {
+   "text": "The Lord of the Rings: The Return of the King",
+   "count": 1148888242,
+   "aliases": [
+    "Return of the King",
+    "The Return of the King",
+    "LOTR Return of the King",
+    "LOTR 3",
+    "Lord of the Rings 3",
+    "El Señor de los Anillos: El retorno del Rey",
+    "El retorno del Rey"
+   ]
+  },
+  {
+   "text": "Spider-Man: Far From Home",
+   "count": 1132723226,
+   "aliases": [
+    "Far From Home",
+    "Spider-Man: Lejos de casa",
+    "Lejos de casa"
+   ]
+  },
+  {
+   "text": "Captain Marvel",
+   "count": 1131416446,
+   "aliases": [
+    "Capitana Marvel"
+   ]
+  },
+  {
+   "text": "Transformers: Dark of the Moon",
+   "count": 1123794079,
+   "aliases": [
+    "Dark of the Moon",
+    "Transformers 3",
+    "Transformers: El lado oscuro de la luna"
+   ]
+  },
+  {
+   "text": "Skyfall",
+   "count": 1108594137,
+   "aliases": [
+    "007 Skyfall",
+    "James Bond: Skyfall",
+    "Operación Skyfall"
+   ]
+  },
+  {
+   "text": "Transformers: Age of Extinction",
+   "count": 1105261713,
+   "aliases": [
+    "Age of Extinction",
+    "Transformers 4",
+    "Transformers: La era de la extinción"
+   ]
+  },
+  {
+   "text": "Jurassic Park",
+   "count": 1103110411,
+   "aliases": [
+    "Jurassic Park 1",
+    "Jurassic Park (1993)",
+    "Parque Jurásico"
+   ]
+  },
+  {
+   "text": "The Dark Knight Rises",
+   "count": 1085429532,
+   "aliases": [
+    "Dark Knight Rises",
+    "Batman: El caballero de la noche asciende",
+    "El caballero de la noche asciende"
+   ]
+  },
+  {
+   "text": "Joker",
+   "count": 1078958629,
+   "aliases": [
+    "Joker (2019)",
+    "Guasón"
+   ]
+  },
+  {
+   "text": "Star Wars: The Rise of Skywalker",
+   "count": 1077022372,
+   "aliases": [
+    "The Rise of Skywalker",
+    "Rise of Skywalker",
+    "Star Wars 9",
+    "Episode IX",
+    "Star Wars Episode IX",
+    "Star Wars Episode 9",
+    "El ascenso de Skywalker"
+   ]
+  },
+  {
+   "text": "Toy Story 4",
+   "count": 1073841394,
+   "aliases": []
+  },
+  {
+   "text": "Toy Story 3",
+   "count": 1067316101,
+   "aliases": []
+  },
+  {
+   "text": "Pirates of the Caribbean: Dead Man's Chest",
+   "count": 1066179747,
+   "aliases": [
+    "Dead Man's Chest",
+    "Pirates of the Caribbean 2",
+    "Pirates 2",
+    "Piratas del Caribe 2",
+    "Piratas del Caribe: El cofre de la muerte",
+    "El cofre de la muerte"
+   ]
+  },
+  {
+   "text": "Moana 2",
+   "count": 1059242164,
+   "aliases": [
+    "Vaiana 2"
+   ]
+  },
+  {
+   "text": "Rogue One: A Star Wars Story",
+   "count": 1058684742,
+   "aliases": [
+    "Rogue One"
+   ]
+  },
+  {
+   "text": "Aladdin (2019)",
+   "count": 1054304000,
+   "aliases": [
+    "Aladdin (live action)"
+   ]
+  },
+  {
+   "text": "Pirates of the Caribbean: On Stranger Tides",
+   "count": 1046721266,
+   "aliases": [
+    "On Stranger Tides",
+    "Pirates of the Caribbean 4",
+    "Pirates 4",
+    "Piratas del Caribe 4",
+    "Piratas del Caribe: Navegando aguas misteriosas",
+    "Navegando aguas misteriosas"
+   ]
+  },
+  {
+   "text": "Star Wars: The Phantom Menace",
+   "count": 1046515409,
+   "aliases": [
+    "The Phantom Menace",
+    "Phantom Menace",
+    "Episode I",
+    "Star Wars Episode I",
+    "Star Wars Episode 1",
+    "Star Wars 1",
+    "La amenaza fantasma"
+   ]
+  },
+  {
+   "text": "Lilo & Stitch (2025)",
+   "count": 1038027526,
+   "aliases": [
+    "Lilo & Stitch",
+    "Lilo and Stitch",
+    "Lilo & Stitch (live action)"
+   ]
+  },
+  {
+   "text": "Despicable Me 3",
+   "count": 1034800131,
+   "aliases": [
+    "Mi villano favorito 3"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Sorcerer's Stone",
+   "count": 1029374615,
+   "aliases": [
+    "Harry Potter and the Philosopher's Stone",
+    "Sorcerer's Stone",
+    "Philosopher's Stone",
+    "Harry Potter 1",
+    "Harry Potter y la piedra filosofal",
+    "La piedra filosofal"
+   ]
+  },
+  {
+   "text": "Finding Dory",
+   "count": 1029266989,
+   "aliases": [
+    "Buscando a Dory",
+    "Finding Nemo 2"
+   ]
+  },
+  {
+   "text": "Zootopia",
+   "count": 1025521689,
+   "aliases": [
+    "Zootopia 1",
+    "Zootropolis"
+   ]
+  },
+  {
+   "text": "Alice in Wonderland (2010)",
+   "count": 1025468216,
+   "aliases": [
+    "Alice in Wonderland",
+    "Alicia en el país de las maravillas"
+   ]
+  },
+  {
+   "text": "The Hobbit: An Unexpected Journey",
+   "count": 1017453991,
+   "aliases": [
+    "An Unexpected Journey",
+    "The Hobbit 1",
+    "Hobbit 1",
+    "El Hobbit: Un viaje inesperado",
+    "Un viaje inesperado"
+   ]
+  },
+  {
+   "text": "The Dark Knight",
+   "count": 1008477382,
+   "aliases": [
+    "Dark Knight",
+    "Batman: El caballero de la noche",
+    "El caballero de la noche",
+    "Batman 2 (Nolan)"
+   ]
+  },
+  {
+   "text": "Jurassic World Dominion",
+   "count": 1001978080,
+   "aliases": [
+    "Jurassic World: Dominion",
+    "Dominion",
+    "Jurassic World 3",
+    "Jurassic World: Dominio"
+   ]
+  },
+  {
+   "text": "The Lion King (1994)",
+   "count": 979161632,
+   "aliases": [
+    "Lion King 1994",
+    "The Lion King (animated)",
+    "El Rey León (1994)"
+   ]
+  },
+  {
+   "text": "Oppenheimer",
+   "count": 975811333,
+   "aliases": []
+  },
+  {
+   "text": "Despicable Me 4",
+   "count": 972021410,
+   "aliases": [
+    "Mi villano favorito 4"
+   ]
+  },
+  {
+   "text": "Despicable Me 2",
+   "count": 970766005,
+   "aliases": [
+    "Mi villano favorito 2"
+   ]
+  },
+  {
+   "text": "The Jungle Book (2016)",
+   "count": 967724775,
+   "aliases": [
+    "The Jungle Book",
+    "Jungle Book",
+    "El libro de la selva"
+   ]
+  },
+  {
+   "text": "The Hobbit: The Battle of the Five Armies",
+   "count": 962749443,
+   "aliases": [
+    "The Battle of the Five Armies",
+    "Battle of the Five Armies",
+    "The Hobbit 3",
+    "Hobbit 3",
+    "El Hobbit: La batalla de los cinco ejércitos",
+    "La batalla de los cinco ejércitos"
+   ]
+  },
+  {
+   "text": "Jumanji: Welcome to the Jungle",
+   "count": 962544585,
+   "aliases": [
+    "Welcome to the Jungle",
+    "Jumanji 2",
+    "Jumanji (2017)",
+    "Jumanji: En la selva"
+   ]
+  },
+  {
+   "text": "Pirates of the Caribbean: At World's End",
+   "count": 961691209,
+   "aliases": [
+    "At World's End",
+    "Pirates of the Caribbean 3",
+    "Pirates 3",
+    "Piratas del Caribe 3",
+    "Piratas del Caribe: En el fin del mundo",
+    "En el fin del mundo"
+   ]
+  },
+  {
+   "text": "A Minecraft Movie",
+   "count": 961187780,
+   "aliases": [
+    "Minecraft",
+    "The Minecraft Movie",
+    "Minecraft Movie",
+    "Una película de Minecraft"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Deathly Hallows: Part 1",
+   "count": 960858478,
+   "aliases": [
+    "Deathly Hallows Part 1",
+    "Deathly Hallows: Part 1",
+    "Harry Potter 7",
+    "Harry Potter 7 Part 1",
+    "Harry Potter y las Reliquias de la Muerte: Parte 1",
+    "Reliquias de la Muerte Parte 1"
+   ]
+  },
+  {
+   "text": "The Hobbit: The Desolation of Smaug",
+   "count": 959079095,
+   "aliases": [
+    "The Desolation of Smaug",
+    "Desolation of Smaug",
+    "The Hobbit 2",
+    "Hobbit 2",
+    "El Hobbit: La desolación de Smaug",
+    "La desolación de Smaug"
+   ]
+  },
+  {
+   "text": "Doctor Strange in the Multiverse of Madness",
+   "count": 955775804,
+   "aliases": [
+    "Multiverse of Madness",
+    "Doctor Strange 2",
+    "Dr. Strange 2",
+    "Doctor Strange en el multiverso de la locura"
+   ]
+  },
+  {
+   "text": "The Lord of the Rings: The Two Towers",
+   "count": 944737736,
+   "aliases": [
+    "The Two Towers",
+    "Two Towers",
+    "LOTR 2",
+    "LOTR The Two Towers",
+    "Lord of the Rings 2",
+    "El Señor de los Anillos: Las dos torres",
+    "Las dos torres"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Order of the Phoenix",
+   "count": 942872838,
+   "aliases": [
+    "Order of the Phoenix",
+    "Harry Potter 5",
+    "Harry Potter y la Orden del Fénix",
+    "La Orden del Fénix"
+   ]
+  },
+  {
+   "text": "Finding Nemo",
+   "count": 941637960,
+   "aliases": [
+    "Buscando a Nemo",
+    "Nemo"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Half-Blood Prince",
+   "count": 941056063,
+   "aliases": [
+    "Half-Blood Prince",
+    "Harry Potter 6",
+    "Harry Potter y el misterio del príncipe",
+    "El misterio del príncipe"
+   ]
+  },
+  {
+   "text": "Minions: The Rise of Gru",
+   "count": 940482695,
+   "aliases": [
+    "The Rise of Gru",
+    "Rise of Gru",
+    "Minions 2",
+    "Minions: Nace un villano"
+   ]
+  },
+  {
+   "text": "Shrek 2",
+   "count": 932536239,
+   "aliases": []
+  },
+  {
+   "text": "Bohemian Rhapsody",
+   "count": 910813521,
+   "aliases": []
+  },
+  {
+   "text": "Star Wars: Revenge of the Sith",
+   "count": 905595947,
+   "aliases": [
+    "Revenge of the Sith",
+    "Episode III",
+    "Star Wars Episode III",
+    "Star Wars Episode 3",
+    "Star Wars 3",
+    "La venganza de los Sith"
+   ]
+  },
+  {
+   "text": "The Battle at Lake Changjin",
+   "count": 902548476,
+   "aliases": [
+    "Lake Changjin",
+    "Battle at Lake Changjin 1",
+    "长津湖"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Goblet of Fire",
+   "count": 900435886,
+   "aliases": [
+    "Goblet of Fire",
+    "Harry Potter 4",
+    "Harry Potter y el cáliz de fuego",
+    "El cáliz de fuego"
+   ]
+  },
+  {
+   "text": "The Lord of the Rings: The Fellowship of the Ring",
+   "count": 896997016,
+   "aliases": [
+    "The Fellowship of the Ring",
+    "Fellowship of the Ring",
+    "LOTR 1",
+    "LOTR Fellowship",
+    "Lord of the Rings 1",
+    "El Señor de los Anillos: La comunidad del anillo",
+    "La comunidad del anillo"
+   ]
+  },
+  {
+   "text": "Spider-Man 3",
+   "count": 887404761,
+   "aliases": [
+    "Spider-Man 3 (2007)",
+    "El Hombre Araña 3"
+   ]
+  },
+  {
+   "text": "Ice Age: Dawn of the Dinosaurs",
+   "count": 886686817,
+   "aliases": [
+    "Dawn of the Dinosaurs",
+    "Ice Age 3",
+    "La Era de Hielo 3"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Chamber of Secrets",
+   "count": 883386103,
+   "aliases": [
+    "Chamber of Secrets",
+    "Harry Potter 2",
+    "Harry Potter y la cámara secreta",
+    "La cámara secreta"
+   ]
+  },
+  {
+   "text": "Spider-Man: Homecoming",
+   "count": 880978185,
+   "aliases": [
+    "Homecoming",
+    "Spider-Man: De regreso a casa",
+    "De regreso a casa"
+   ]
+  },
+  {
+   "text": "Spectre",
+   "count": 880707597,
+   "aliases": [
+    "007 Spectre",
+    "James Bond: Spectre"
+   ]
+  },
+  {
+   "text": "Ice Age: Continental Drift",
+   "count": 877244782,
+   "aliases": [
+    "Continental Drift",
+    "Ice Age 4",
+    "La Era de Hielo 4"
+   ]
+  },
+  {
+   "text": "The Secret Life of Pets",
+   "count": 875698161,
+   "aliases": [
+    "Secret Life of Pets 1",
+    "La vida secreta de tus mascotas"
+   ]
+  },
+  {
+   "text": "Batman v Superman: Dawn of Justice",
+   "count": 874362803,
+   "aliases": [
+    "Batman v Superman",
+    "Batman vs Superman",
+    "Batman vs. Superman",
+    "BvS",
+    "Dawn of Justice",
+    "Batman vs Superman: El origen de la justicia"
+   ]
+  },
+  {
+   "text": "Wolf Warrior 2",
+   "count": 870325439,
+   "aliases": [
+    "Wolf Warriors 2",
+    "战狼2"
+   ]
+  },
+  {
+   "text": "Jurassic World Rebirth",
+   "count": 869146189,
+   "aliases": [
+    "Jurassic World: Rebirth",
+    "Rebirth",
+    "Jurassic World 4",
+    "Jurassic World: Renace"
+   ]
+  },
+  {
+   "text": "The Twilight Saga: Breaking Dawn – Part 2",
+   "count": 868590075,
+   "aliases": [
+    "Breaking Dawn Part 2",
+    "Breaking Dawn - Part 2",
+    "Breaking Dawn: Part 2",
+    "Twilight 5",
+    "Twilight: Breaking Dawn Part 2",
+    "Crepúsculo: Amanecer Parte 2",
+    "Amanecer Parte 2"
+   ]
+  },
+  {
+   "text": "The Hunger Games: Catching Fire",
+   "count": 865011746,
+   "aliases": [
+    "Catching Fire",
+    "Hunger Games 2",
+    "The Hunger Games 2",
+    "Los juegos del hambre: En llamas",
+    "En llamas"
+   ]
+  },
+  {
+   "text": "Guardians of the Galaxy Vol. 2",
+   "count": 863764214,
+   "aliases": [
+    "Guardians of the Galaxy 2",
+    "Guardians 2",
+    "GotG 2",
+    "Guardianes de la Galaxia Vol. 2",
+    "Guardianes de la Galaxia 2"
+   ]
+  },
+  {
+   "text": "Black Panther: Wakanda Forever",
+   "count": 859208836,
+   "aliases": [
+    "Wakanda Forever",
+    "Black Panther 2",
+    "Pantera Negra: Wakanda por siempre"
+   ]
+  },
+  {
+   "text": "Inside Out",
+   "count": 859076254,
+   "aliases": [
+    "Inside Out 1",
+    "Intensamente",
+    "Intensa-Mente",
+    "IntensaMente"
+   ]
+  },
+  {
+   "text": "Venom",
+   "count": 856085161,
+   "aliases": [
+    "Venom 1",
+    "Venom (2018)"
+   ]
+  },
+  {
+   "text": "Thor: Ragnarok",
+   "count": 855301806,
+   "aliases": [
+    "Ragnarok",
+    "Thor 3"
+   ]
+  },
+  {
+   "text": "Guardians of the Galaxy Vol. 3",
+   "count": 845555777,
+   "aliases": [
+    "Guardians of the Galaxy 3",
+    "Guardians 3",
+    "GotG 3",
+    "Guardianes de la Galaxia Vol. 3",
+    "Guardianes de la Galaxia 3"
+   ]
+  },
+  {
+   "text": "Inception",
+   "count": 839786473,
+   "aliases": [
+    "El origen"
+   ]
+  },
+  {
+   "text": "Transformers: Revenge of the Fallen",
+   "count": 836304167,
+   "aliases": [
+    "Revenge of the Fallen",
+    "Transformers 2",
+    "Transformers: La venganza de los caídos"
+   ]
+  },
+  {
+   "text": "Mission: Impossible – Fallout",
+   "count": 824171374,
+   "aliases": [
+    "Mission: Impossible - Fallout",
+    "Fallout",
+    "Mission Impossible 6",
+    "Mission: Impossible 6",
+    "Misión Imposible: Repercusión",
+    "Misión Imposible 6"
+   ]
+  },
+  {
+   "text": "Wonder Woman",
+   "count": 823970682,
+   "aliases": [
+    "Wonder Woman (2017)",
+    "Mujer Maravilla"
+   ]
+  },
+  {
+   "text": "Coco",
+   "count": 823285838,
+   "aliases": []
+  },
+  {
+   "text": "Hi, Mom",
+   "count": 822009764,
+   "aliases": [
+    "Hi Mom",
+    "你好，李焕英",
+    "你好, 李焕英"
+   ]
+  },
+  {
+   "text": "Independence Day",
+   "count": 817400891,
+   "aliases": [
+    "ID4",
+    "Independence Day (1996)",
+    "Día de la Independencia"
+   ]
+  },
+  {
+   "text": "Fantastic Beasts and Where to Find Them",
+   "count": 816037575,
+   "aliases": [
+    "Fantastic Beasts",
+    "Fantastic Beasts 1",
+    "Animales fantásticos y dónde encontrarlos",
+    "Animales fantásticos"
+   ]
+  },
+  {
+   "text": "Spider-Man (2002)",
+   "count": 810923968,
+   "aliases": [
+    "Spider-Man",
+    "Spider-Man 1",
+    "El Hombre Araña",
+    "El Hombre Araña (2002)"
+   ]
+  },
+  {
+   "text": "Harry Potter and the Prisoner of Azkaban",
+   "count": 810556919,
+   "aliases": [
+    "Prisoner of Azkaban",
+    "Harry Potter 3",
+    "Harry Potter y el prisionero de Azkaban",
+    "El prisionero de Azkaban"
+   ]
+  },
+  {
+   "text": "Shrek the Third",
+   "count": 808310187,
+   "aliases": [
+    "Shrek 3",
+    "Shrek Tercero"
+   ]
+  },
+  {
+   "text": "Jumanji: The Next Level",
+   "count": 801693929,
+   "aliases": [
+    "The Next Level",
+    "Jumanji 3",
+    "Jumanji: El siguiente nivel"
+   ]
+  },
+  {
+   "text": "The Da Vinci Code",
+   "count": 801349858,
+   "aliases": [
+    "Da Vinci Code",
+    "El código Da Vinci"
+   ]
+  },
+  {
+   "text": "E.T. the Extra-Terrestrial",
+   "count": 797307407,
+   "aliases": [
+    "E.T.",
+    "ET",
+    "E.T. el extraterrestre"
+   ]
+  },
+  {
+   "text": "Pirates of the Caribbean: Dead Men Tell No Tales",
+   "count": 795922298,
+   "aliases": [
+    "Dead Men Tell No Tales",
+    "Salazar's Revenge",
+    "Pirates of the Caribbean 5",
+    "Pirates 5",
+    "Piratas del Caribe 5",
+    "Piratas del Caribe: La venganza de Salazar",
+    "La venganza de Salazar"
+   ]
+  },
+  {
+   "text": "2012",
+   "count": 791217826,
+   "aliases": [
+    "2012 (movie)",
+    "2012 (2009)"
+   ]
+  },
+  {
+   "text": "Fast & Furious 6",
+   "count": 788683342,
+   "aliases": [
+    "Fast 6",
+    "Furious 6",
+    "Fast and Furious 6",
+    "Rápidos y Furiosos 6"
+   ]
+  },
+  {
+   "text": "Indiana Jones and the Kingdom of the Crystal Skull",
+   "count": 786636033,
+   "aliases": [
+    "Kingdom of the Crystal Skull",
+    "Indiana Jones 4",
+    "Indiana Jones y el reino de la calavera de cristal"
+   ]
+  },
+  {
+   "text": "Deadpool 2",
+   "count": 785896632,
+   "aliases": []
+  },
+  {
+   "text": "Spider-Man 2",
+   "count": 785388262,
+   "aliases": [
+    "Spider-Man 2 (2004)",
+    "El Hombre Araña 2"
+   ]
+  },
+  {
+   "text": "Deadpool",
+   "count": 782837347,
+   "aliases": [
+    "Deadpool 1",
+    "Deadpool (2016)"
+   ]
+  },
+  {
+   "text": "Star Wars: A New Hope",
+   "count": 775398507,
+   "aliases": [
+    "Star Wars",
+    "A New Hope",
+    "Star Wars (1977)",
+    "Episode IV",
+    "Star Wars Episode IV",
+    "Star Wars Episode 4",
+    "Star Wars 4",
+    "La guerra de las galaxias",
+    "Una nueva esperanza"
+   ]
+  },
+  {
+   "text": "No Time to Die",
+   "count": 774153007,
+   "aliases": [
+    "007 No Time to Die",
+    "James Bond: No Time to Die",
+    "Sin tiempo para morir"
+   ]
+  },
+  {
+   "text": "Interstellar",
+   "count": 773889028,
+   "aliases": [
+    "Interestelar"
+   ]
+  },
+  {
+   "text": "Guardians of the Galaxy",
+   "count": 773350376,
+   "aliases": [
+    "Guardians of the Galaxy 1",
+    "Guardians of the Galaxy Vol. 1",
+    "Guardians 1",
+    "GotG",
+    "GotG 1",
+    "Guardianes de la Galaxia"
+   ]
+  },
+  {
+   "text": "The Batman",
+   "count": 772775278,
+   "aliases": [
+    "The Batman (2022)",
+    "Batman (2022)"
+   ]
+  },
+  {
+   "text": "Thor: Love and Thunder",
+   "count": 760928081,
+   "aliases": [
+    "Love and Thunder",
+    "Thor 4",
+    "Thor: Amor y Trueno"
+   ]
+  },
+  {
+   "text": "Fast & Furious Presents: Hobbs & Shaw",
+   "count": 760732926,
+   "aliases": [
+    "Hobbs & Shaw",
+    "Hobbs and Shaw",
+    "Rápidos y Furiosos: Hobbs & Shaw"
+   ]
+  },
+  {
+   "text": "The Twilight Saga: Eclipse",
+   "count": 760627618,
+   "aliases": [
+    "Eclipse",
+    "Twilight 3",
+    "Twilight: Eclipse",
+    "Crepúsculo: Eclipse"
+   ]
+  },
+  {
+   "text": "Maleficent",
+   "count": 759853685,
+   "aliases": [
+    "Maleficent 1",
+    "Maléfica"
+   ]
+  },
+  {
+   "text": "The Hunger Games: Mockingjay – Part 1",
+   "count": 758846335,
+   "aliases": [
+    "Mockingjay Part 1",
+    "Mockingjay - Part 1",
+    "Mockingjay: Part 1",
+    "Hunger Games 3",
+    "The Hunger Games 3",
+    "Los juegos del hambre: Sinsajo Parte 1",
+    "Sinsajo Parte 1"
+   ]
+  },
+  {
+   "text": "Wicked",
+   "count": 758790057,
+   "aliases": [
+    "Wicked (2024)",
+    "Wicked: Part One",
+    "Wicked Part 1",
+    "Wicked 1"
+   ]
+  },
+  {
+   "text": "The Amazing Spider-Man",
+   "count": 758725893,
+   "aliases": [
+    "Amazing Spider-Man",
+    "Amazing Spider-Man 1",
+    "El sorprendente Hombre Araña"
+   ]
+  },
+  {
+   "text": "Shrek Forever After",
+   "count": 752600867,
+   "aliases": [
+    "Shrek 4",
+    "Shrek para siempre",
+    "Shrek: The Final Chapter"
+   ]
+  },
+  {
+   "text": "Suicide Squad",
+   "count": 749200054,
+   "aliases": [
+    "Suicide Squad (2016)",
+    "Escuadrón Suicida"
+   ]
+  },
+  {
+   "text": "Madagascar 3: Europe's Most Wanted",
+   "count": 746921274,
+   "aliases": [
+    "Madagascar 3",
+    "Europe's Most Wanted",
+    "Madagascar 3: Los fugitivos"
+   ]
+  },
+  {
+   "text": "X-Men: Days of Future Past",
+   "count": 746045700,
+   "aliases": [
+    "Days of Future Past",
+    "X-Men: Días del futuro pasado",
+    "Días del futuro pasado"
+   ]
+  },
+  {
+   "text": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+   "count": 745013115,
+   "aliases": [
+    "Narnia",
+    "Narnia 1",
+    "The Chronicles of Narnia",
+    "The Lion, the Witch and the Wardrobe",
+    "Las crónicas de Narnia",
+    "Las crónicas de Narnia: El león, la bruja y el ropero",
+    "El león, la bruja y el ropero"
+   ]
+  },
+  {
+   "text": "Monsters University",
+   "count": 743559645,
+   "aliases": [
+    "Monsters Inc 2",
+    "Monsters, Inc. 2",
+    "Monsters University (2013)"
+   ]
+  },
+  {
+   "text": "The Matrix Reloaded",
+   "count": 741847937,
+   "aliases": [
+    "Matrix Reloaded",
+    "Matrix 2",
+    "The Matrix 2",
+    "Matrix Recargado"
+   ]
+  },
+  {
+   "text": "Up",
+   "count": 735103954,
+   "aliases": [
+    "Up (2009)",
+    "Up: Una aventura de altura"
+   ]
+  },
+  {
+   "text": "Demon Slayer: Infinity Castle",
+   "count": 732893040,
+   "aliases": [
+    "Infinity Castle",
+    "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "Kimetsu no Yaiba: Infinity Castle",
+    "Demon Slayer Infinity Castle",
+    "Demon Slayer: Castillo Infinito",
+    "鬼滅の刃 無限城編"
+   ]
+  },
+  {
+   "text": "The Twilight Saga: Breaking Dawn – Part 1",
+   "count": 731980095,
+   "aliases": [
+    "Breaking Dawn Part 1",
+    "Breaking Dawn - Part 1",
+    "Breaking Dawn: Part 1",
+    "Twilight 4",
+    "Twilight: Breaking Dawn Part 1",
+    "Crepúsculo: Amanecer Parte 1",
+    "Amanecer Parte 1"
+   ]
+  },
+  {
+   "text": "F9: The Fast Saga",
+   "count": 726229501,
+   "aliases": [
+    "F9",
+    "Fast 9",
+    "Fast & Furious 9",
+    "Fast and Furious 9",
+    "Rápidos y Furiosos 9"
+   ]
+  },
+  {
+   "text": "Ne Zha",
+   "count": 726225471,
+   "aliases": [
+    "Ne Zha 1",
+    "Nezha 1",
+    "Ne Zha (2019)",
+    "哪吒之魔童降世"
+   ]
+  },
+  {
+   "text": "Gravity",
+   "count": 723753370,
+   "aliases": [
+    "Gravedad"
+   ]
+  },
+  {
+   "text": "Mufasa: The Lion King",
+   "count": 722631756,
+   "aliases": [
+    "Mufasa",
+    "Mufasa: El Rey León"
+   ]
+  },
+  {
+   "text": "It (2017)",
+   "count": 719766009,
+   "aliases": [
+    "It",
+    "It: Chapter One",
+    "It Chapter One",
+    "Eso",
+    "It (Eso)"
+   ]
+  },
+  {
+   "text": "The Amazing Spider-Man 2",
+   "count": 716934779,
+   "aliases": [
+    "Amazing Spider-Man 2",
+    "The Amazing Spider-Man 2: Rise of Electro",
+    "El sorprendente Hombre Araña 2"
+   ]
+  },
+  {
+   "text": "Dune: Part Two",
+   "count": 714844358,
+   "aliases": [
+    "Dune 2",
+    "Dune Part 2",
+    "Dune: Parte dos",
+    "Duna: Parte dos"
+   ]
+  },
+  {
+   "text": "Captain America: The Winter Soldier",
+   "count": 714421503,
+   "aliases": [
+    "The Winter Soldier",
+    "Winter Soldier",
+    "Captain America 2",
+    "Capitán América y el Soldado del Invierno",
+    "Capitán América 2"
+   ]
+  },
+  {
+   "text": "The Twilight Saga: New Moon",
+   "count": 712135229,
+   "aliases": [
+    "New Moon",
+    "Twilight 2",
+    "Twilight: New Moon",
+    "Luna Nueva",
+    "Crepúsculo: Luna Nueva"
+   ]
+  },
+  {
+   "text": "Mission: Impossible – Rogue Nation",
+   "count": 710916403,
+   "aliases": [
+    "Mission: Impossible - Rogue Nation",
+    "Rogue Nation",
+    "Mission Impossible 5",
+    "Mission: Impossible 5",
+    "Misión Imposible: Nación secreta",
+    "Misión Imposible 5"
+   ]
+  },
+  {
+   "text": "Dawn of the Planet of the Apes",
+   "count": 710644566,
+   "aliases": [
+    "Dawn of the Apes",
+    "Planet of the Apes 2 (reboot)",
+    "El planeta de los simios: Confrontación"
+   ]
+  },
+  {
+   "text": "Transformers",
+   "count": 709709780,
+   "aliases": [
+    "Transformers 1",
+    "Transformers (2007)"
+   ]
+  },
+  {
+   "text": "Fast X",
+   "count": 704875015,
+   "aliases": [
+    "Fast 10",
+    "Fast & Furious 10",
+    "Fast and Furious 10",
+    "Rápidos y Furiosos X",
+    "Rápidos y Furiosos 10"
+   ]
+  },
+  {
+   "text": "The Wandering Earth",
+   "count": 699992512,
+   "aliases": [
+    "Wandering Earth",
+    "The Wandering Earth 1",
+    "流浪地球"
+   ]
+  },
+  {
+   "text": "The Hunger Games",
+   "count": 695220619,
+   "aliases": [
+    "Hunger Games",
+    "Hunger Games 1",
+    "The Hunger Games 1",
+    "Los juegos del hambre"
+   ]
+  },
+  {
+   "text": "Mission: Impossible – Ghost Protocol",
+   "count": 694713380,
+   "aliases": [
+    "Mission: Impossible - Ghost Protocol",
+    "Ghost Protocol",
+    "Mission Impossible 4",
+    "Mission: Impossible 4",
+    "Misión Imposible: Protocolo fantasma",
+    "Misión Imposible 4"
+   ]
+  },
+  {
+   "text": "Spider-Man: Across the Spider-Verse",
+   "count": 690824738,
+   "aliases": [
+    "Across the Spider-Verse",
+    "Spider-Verse 2",
+    "Into the Spider-Verse 2",
+    "Spider-Man: A través del Spider-Verso"
+   ]
+  },
+  {
+   "text": "Detective Chinatown 3",
+   "count": 686257563,
+   "aliases": [
+    "唐人街探案3"
+   ]
+  },
+  {
+   "text": "Forrest Gump",
+   "count": 678226465,
+   "aliases": []
+  },
+  {
+   "text": "Doctor Strange",
+   "count": 677796833,
+   "aliases": [
+    "Doctor Strange 1",
+    "Dr. Strange",
+    "Doctor Strange (2016)",
+    "Doctor Strange: Hechicero Supremo"
+   ]
+  },
+  {
+   "text": "The Sixth Sense",
+   "count": 672806731,
+   "aliases": [
+    "Sixth Sense",
+    "El sexto sentido",
+    "Sexto sentido"
+   ]
+  },
+  {
+   "text": "Big Hero 6",
+   "count": 672107599,
+   "aliases": [
+    "Grandes héroes"
+   ]
+  },
+  {
+   "text": "Full River Red",
+   "count": 670491959,
+   "aliases": [
+    "满江红",
+    "Man Jiang Hong"
+   ]
+  },
+  {
+   "text": "Man of Steel",
+   "count": 670145518,
+   "aliases": [
+    "Superman: Man of Steel",
+    "El Hombre de Acero"
+   ]
+  },
+  {
+   "text": "Ice Age: The Meltdown",
+   "count": 667318416,
+   "aliases": [
+    "Ice Age 2: The Meltdown",
+    "The Meltdown",
+    "Ice Age 2",
+    "La Era de Hielo 2",
+    "La Era de Hielo 2: El deshielo"
+   ]
+  },
+  {
+   "text": "Kung Fu Panda 2",
+   "count": 665692281,
+   "aliases": []
+  },
+  {
+   "text": "The Hunger Games: Mockingjay – Part 2",
+   "count": 664905155,
+   "aliases": [
+    "Mockingjay Part 2",
+    "Mockingjay - Part 2",
+    "Mockingjay: Part 2",
+    "Hunger Games 4",
+    "The Hunger Games 4",
+    "Los juegos del hambre: Sinsajo Parte 2",
+    "Sinsajo Parte 2"
+   ]
+  },
+  {
+   "text": "Justice League",
+   "count": 661326987,
+   "aliases": [
+    "Justice League (2017)",
+    "Liga de la Justicia"
+   ]
+  },
+  {
+   "text": "Fantastic Beasts: The Crimes of Grindelwald",
+   "count": 655755901,
+   "aliases": [
+    "The Crimes of Grindelwald",
+    "Crimes of Grindelwald",
+    "Fantastic Beasts 2",
+    "Animales fantásticos: Los crímenes de Grindelwald",
+    "Los crímenes de Grindelwald"
+   ]
+  },
+  {
+   "text": "Pirates of the Caribbean: The Curse of the Black Pearl",
+   "count": 654264546,
+   "aliases": [
+    "The Curse of the Black Pearl",
+    "Curse of the Black Pearl",
+    "Pirates of the Caribbean 1",
+    "Pirates 1",
+    "Piratas del Caribe 1",
+    "Piratas del Caribe: La maldición del Perla Negra",
+    "La maldición del Perla Negra"
+   ]
+  },
+  {
+   "text": "Men in Black 3",
+   "count": 654213485,
+   "aliases": [
+    "Men in Black³",
+    "Men in Black III",
+    "MIB 3",
+    "MIB3",
+    "Hombres de negro 3"
+   ]
+  },
+  {
+   "text": "Star Wars: Attack of the Clones",
+   "count": 653780724,
+   "aliases": [
+    "Attack of the Clones",
+    "Episode II",
+    "Star Wars Episode II",
+    "Star Wars Episode 2",
+    "Star Wars 2",
+    "El ataque de los clones"
+   ]
+  },
+  {
+   "text": "Thor: The Dark World",
+   "count": 644783140,
+   "aliases": [
+    "The Dark World",
+    "Thor 2",
+    "Thor: Un mundo oscuro"
+   ]
+  },
+  {
+   "text": "Moana",
+   "count": 643332974,
+   "aliases": [
+    "Moana 1",
+    "Vaiana",
+    "Moana (2016)"
+   ]
+  },
+  {
+   "text": "How to Train Your Dragon (2025)",
+   "count": 636351148,
+   "aliases": [
+    "HTTYD (2025)",
+    "HTTYD live action",
+    "How to Train Your Dragon live action",
+    "How to Train Your Dragon remake",
+    "Cómo entrenar a tu dragón (2025)"
+   ]
+  },
+  {
+   "text": "Wonka",
+   "count": 634502312,
+   "aliases": []
+  },
+  {
+   "text": "Sing",
+   "count": 634338409,
+   "aliases": [
+    "Sing (2016)",
+    "Sing 1",
+    "Sing: ¡Ven y canta!"
+   ]
+  },
+  {
+   "text": "F1: The Movie",
+   "count": 633242436,
+   "aliases": [
+    "F1",
+    "F1 The Movie",
+    "F1 Movie",
+    "F1: La película"
+   ]
+  },
+  {
+   "text": "Kung Fu Panda",
+   "count": 632384787,
+   "aliases": [
+    "Kung Fu Panda 1",
+    "Kung Fu Panda (2008)"
+   ]
+  },
+  {
+   "text": "The Incredibles",
+   "count": 631688498,
+   "aliases": [
+    "Incredibles",
+    "Incredibles 1",
+    "The Incredibles 1",
+    "Los Increíbles"
+   ]
+  },
+  {
+   "text": "The Martian",
+   "count": 630621406,
+   "aliases": [
+    "Martian",
+    "Misión rescate"
+   ]
+  },
+  {
+   "text": "Hancock",
+   "count": 629443428,
+   "aliases": []
+  },
+  {
+   "text": "The Battle at Lake Changjin II",
+   "count": 626571697,
+   "aliases": [
+    "Water Gate Bridge",
+    "The Battle at Lake Changjin 2",
+    "Battle at Lake Changjin 2",
+    "Lake Changjin 2",
+    "长津湖之水门桥"
+   ]
+  },
+  {
+   "text": "Fast Five",
+   "count": 626140012,
+   "aliases": [
+    "Fast 5",
+    "Fast & Furious 5",
+    "Fast and Furious 5",
+    "Fast Five: Rio Heist",
+    "Rápidos y Furiosos 5",
+    "Rápidos y Furiosos 5in Control"
+   ]
+  },
+  {
+   "text": "Iron Man 2",
+   "count": 623933331,
+   "aliases": []
+  },
+  {
+   "text": "Ratatouille",
+   "count": 623738973,
+   "aliases": []
+  },
+  {
+   "text": "Ant-Man and the Wasp",
+   "count": 622674139,
+   "aliases": [
+    "Ant-Man 2",
+    "Ant-Man y la Avispa"
+   ]
+  },
+  {
+   "text": "How to Train Your Dragon 2",
+   "count": 621537519,
+   "aliases": [
+    "HTTYD 2",
+    "Cómo entrenar a tu dragón 2"
+   ]
+  },
+  {
+   "text": "Logan",
+   "count": 619180476,
+   "aliases": [
+    "Wolverine 3",
+    "Logan: Wolverine"
+   ]
+  },
+  {
+   "text": "Superman (2025)",
+   "count": 618723803,
+   "aliases": [
+    "Superman",
+    "Superman: Legacy",
+    "Superman (James Gunn)"
+   ]
+  },
+  {
+   "text": "The Lost World: Jurassic Park",
+   "count": 618638999,
+   "aliases": [
+    "The Lost World",
+    "Lost World",
+    "Jurassic Park 2",
+    "Jurassic Park: The Lost World",
+    "El mundo perdido: Jurassic Park",
+    "El mundo perdido"
+   ]
+  },
+  {
+   "text": "Casino Royale",
+   "count": 616585752,
+   "aliases": [
+    "007 Casino Royale",
+    "James Bond: Casino Royale",
+    "Casino Royale (2006)"
+   ]
+  },
+  {
+   "text": "Mamma Mia!",
+   "count": 615057699,
+   "aliases": [
+    "Mamma Mia",
+    "Mamma Mia! (2008)",
+    "Mamma Mia 1"
+   ]
+  },
+  {
+   "text": "The Wandering Earth II",
+   "count": 615023132,
+   "aliases": [
+    "The Wandering Earth 2",
+    "Wandering Earth 2",
+    "Wandering Earth II",
+    "流浪地球2"
+   ]
+  },
+  {
+   "text": "The Passion of the Christ",
+   "count": 610063438,
+   "aliases": [
+    "Passion of the Christ",
+    "La Pasión de Cristo"
+   ]
+  },
+  {
+   "text": "Life of Pi",
+   "count": 609016565,
+   "aliases": [
+    "Una aventura extraordinaria"
+   ]
+  },
+  {
+   "text": "Ready Player One",
+   "count": 607874422,
+   "aliases": [
+    "Ready Player One: Comienza el juego"
+   ]
+  },
+  {
+   "text": "Transformers: The Last Knight",
+   "count": 605425157,
+   "aliases": [
+    "The Last Knight",
+    "Transformers 5",
+    "Transformers: El último caballero"
+   ]
+  },
+  {
+   "text": "Madagascar: Escape 2 Africa",
+   "count": 603900354,
+   "aliases": [
+    "Madagascar 2",
+    "Escape 2 Africa",
+    "Madagascar: Escape to Africa"
+   ]
+  },
+  {
+   "text": "War of the Worlds (2005)",
+   "count": 603873504,
+   "aliases": [
+    "War of the Worlds",
+    "Guerra de los mundos",
+    "La guerra de los mundos"
+   ]
+  },
+  {
+   "text": "Mission: Impossible – The Final Reckoning",
+   "count": 598767057,
+   "aliases": [
+    "Mission: Impossible - The Final Reckoning",
+    "The Final Reckoning",
+    "Final Reckoning",
+    "Mission Impossible 8",
+    "Mission: Impossible 8",
+    "Misión Imposible: Sentencia final",
+    "Misión Imposible 8"
+   ]
+  },
+  {
+   "text": "Tangled",
+   "count": 591806017,
+   "aliases": [
+    "Enredados",
+    "Rapunzel"
+   ]
+  },
+  {
+   "text": "Quantum of Solace",
+   "count": 589593688,
+   "aliases": [
+    "007 Quantum of Solace",
+    "James Bond: Quantum of Solace",
+    "Quantum"
+   ]
+  },
+  {
+   "text": "Men in Black",
+   "count": 589390539,
+   "aliases": [
+    "Men in Black 1",
+    "MIB",
+    "MIB 1",
+    "Men in Black (1997)",
+    "Hombres de negro"
+   ]
+  },
+  {
+   "text": "The Croods",
+   "count": 587266745,
+   "aliases": [
+    "Croods",
+    "Los Croods"
+   ]
+  },
+  {
+   "text": "The Hangover Part II",
+   "count": 586764305,
+   "aliases": [
+    "The Hangover 2",
+    "Hangover 2",
+    "Hangover Part 2",
+    "¿Qué pasó ayer? Parte II",
+    "¿Qué pasó ayer? 2"
+   ]
+  },
+  {
+   "text": "Iron Man",
+   "count": 585796247,
+   "aliases": [
+    "Iron Man 1",
+    "Iron Man (2008)"
+   ]
+  },
+  {
+   "text": "I Am Legend",
+   "count": 585498742,
+   "aliases": [
+    "Soy leyenda"
+   ]
+  },
+  {
+   "text": "Monsters, Inc.",
+   "count": 579772590,
+   "aliases": [
+    "Monsters Inc",
+    "Monsters Inc.",
+    "Monsters Inc 1",
+    "Monsters, Inc. 1"
+   ]
+  },
+  {
+   "text": "Operation Red Sea",
+   "count": 579330426,
+   "aliases": [
+    "红海行动"
+   ]
+  },
+  {
+   "text": "Night at the Museum",
+   "count": 574482479,
+   "aliases": [
+    "Night at the Museum 1",
+    "Una noche en el museo"
+   ]
+  },
+  {
+   "text": "Godzilla x Kong: The New Empire",
+   "count": 572050016,
+   "aliases": [
+    "Godzilla x Kong",
+    "The New Empire",
+    "Godzilla y Kong: El nuevo imperio"
+   ]
+  },
+  {
+   "text": "Mission: Impossible – Dead Reckoning Part One",
+   "count": 571125435,
+   "aliases": [
+    "Mission: Impossible - Dead Reckoning Part One",
+    "Dead Reckoning",
+    "Dead Reckoning Part One",
+    "Dead Reckoning Part 1",
+    "Mission Impossible 7",
+    "Mission: Impossible 7",
+    "Misión Imposible: Sentencia mortal Parte uno",
+    "Misión Imposible 7"
+   ]
+  },
+  {
+   "text": "Fifty Shades of Grey",
+   "count": 569651467,
+   "aliases": [
+    "50 Shades of Grey",
+    "Cincuenta sombras de Grey"
+   ]
+  },
+  {
+   "text": "The Little Mermaid (2023)",
+   "count": 569642672,
+   "aliases": [
+    "The Little Mermaid",
+    "Little Mermaid",
+    "La Sirenita",
+    "La Sirenita (2023)"
+   ]
+  },
+  {
+   "text": "Kong: Skull Island",
+   "count": 568652812,
+   "aliases": [
+    "Skull Island",
+    "Kong: La Isla Calavera"
+   ]
+  },
+  {
+   "text": "The Smurfs",
+   "count": 563892376,
+   "aliases": [
+    "Smurfs",
+    "The Smurfs (2011)",
+    "Los Pitufos"
+   ]
+  },
+  {
+   "text": "Cars 2",
+   "count": 559853036,
+   "aliases": []
+  },
+  {
+   "text": "King Kong (2005)",
+   "count": 556907510,
+   "aliases": [
+    "King Kong",
+    "King Kong (Peter Jackson)"
+   ]
+  },
+  {
+   "text": "Puss in Boots",
+   "count": 554987477,
+   "aliases": [
+    "Puss in Boots (2011)",
+    "Puss in Boots 1",
+    "El Gato con Botas"
+   ]
+  },
+  {
+   "text": "The Mermaid",
+   "count": 553810228,
+   "aliases": [
+    "The Mermaid (2016)",
+    "Mei Ren Yu",
+    "美人鱼"
+   ]
+  },
+  {
+   "text": "Armageddon",
+   "count": 553712773,
+   "aliases": []
+  },
+  {
+   "text": "The Day After Tomorrow",
+   "count": 552639571,
+   "aliases": [
+    "Day After Tomorrow",
+    "El día después de mañana"
+   ]
+  },
+  {
+   "text": "Star Wars: The Empire Strikes Back",
+   "count": 550016086,
+   "aliases": [
+    "The Empire Strikes Back",
+    "Empire Strikes Back",
+    "Episode V",
+    "Star Wars Episode V",
+    "Star Wars Episode 5",
+    "Star Wars 5",
+    "El Imperio contraataca"
+   ]
+  },
+  {
+   "text": "Ted",
+   "count": 549368315,
+   "aliases": [
+    "Ted (2012)"
+   ]
+  },
+  {
+   "text": "Dunkirk",
+   "count": 549136737,
+   "aliases": [
+    "Dunkerque"
+   ]
+  },
+  {
+   "text": "Kung Fu Panda 4",
+   "count": 547946428,
+   "aliases": []
+  },
+  {
+   "text": "American Sniper",
+   "count": 547659020,
+   "aliases": [
+    "Francotirador"
+   ]
+  },
+  {
+   "text": "Mission: Impossible II",
+   "count": 546388108,
+   "aliases": [
+    "Mission: Impossible 2",
+    "Mission Impossible 2",
+    "M:I-2",
+    "MI2",
+    "Misión Imposible 2"
+   ]
+  },
+  {
+   "text": "Detective Chinatown 2",
+   "count": 544185156,
+   "aliases": [
+    "唐人街探案2"
+   ]
+  },
+  {
+   "text": "Despicable Me",
+   "count": 544174973,
+   "aliases": [
+    "Despicable Me 1",
+    "Mi villano favorito",
+    "Mi villano favorito 1"
+   ]
+  },
+  {
+   "text": "X-Men: Apocalypse",
+   "count": 543934105,
+   "aliases": [
+    "Apocalypse",
+    "X-Men Apocalypse",
+    "X-Men: Apocalipsis"
+   ]
+  },
+  {
+   "text": "Sherlock Holmes: A Game of Shadows",
+   "count": 543848418,
+   "aliases": [
+    "A Game of Shadows",
+    "Game of Shadows",
+    "Sherlock Holmes 2",
+    "Sherlock Holmes: Juego de sombras"
+   ]
+  },
+  {
+   "text": "Cinderella (2015)",
+   "count": 542358331,
+   "aliases": [
+    "Cinderella",
+    "Cinderella (live action)",
+    "La Cenicienta",
+    "Cenicienta"
+   ]
+  },
+  {
+   "text": "Madagascar",
+   "count": 542068271,
+   "aliases": [
+    "Madagascar 1",
+    "Madagascar (2005)"
+   ]
+  },
+  {
+   "text": "Hotel Transylvania 3: Summer Vacation",
+   "count": 541504608,
+   "aliases": [
+    "Hotel Transylvania 3",
+    "Summer Vacation",
+    "Hotel Transilvania 3",
+    "Hotel Transylvania 3: A Monster Vacation"
+   ]
+  },
+  {
+   "text": "World War Z",
+   "count": 540455876,
+   "aliases": [
+    "WWZ",
+    "Guerra Mundial Z"
+   ]
+  },
+  {
+   "text": "How to Train Your Dragon: The Hidden World",
+   "count": 539987993,
+   "aliases": [
+    "The Hidden World",
+    "How to Train Your Dragon 3",
+    "HTTYD 3",
+    "Cómo entrenar a tu dragón 3"
+   ]
+  },
+  {
+   "text": "The Grinch (2018)",
+   "count": 539294964,
+   "aliases": [
+    "The Grinch",
+    "Grinch",
+    "Dr. Seuss' The Grinch",
+    "El Grinch"
+   ]
+  },
+  {
+   "text": "Brave",
+   "count": 538983207,
+   "aliases": [
+    "Brave (2012)",
+    "Valiente"
+   ]
+  },
+  {
+   "text": "The Simpsons Movie",
+   "count": 536414293,
+   "aliases": [
+    "Simpsons Movie",
+    "The Simpsons",
+    "Los Simpson: La película"
+   ]
+  },
+  {
+   "text": "The Revenant",
+   "count": 532950503,
+   "aliases": [
+    "Revenant",
+    "El renacido"
+   ]
+  },
+  {
+   "text": "No More Bets",
+   "count": 532600264,
+   "aliases": [
+    "孤注一掷"
+   ]
+  },
+  {
+   "text": "The Meg",
+   "count": 529338515,
+   "aliases": [
+    "Meg",
+    "The Meg (2018)",
+    "Megalodón"
+   ]
+  },
+  {
+   "text": "Ralph Breaks the Internet",
+   "count": 529323962,
+   "aliases": [
+    "Wreck-It Ralph 2",
+    "Ralph 2",
+    "Wifi Ralph",
+    "Ralph rompe Internet"
+   ]
+  },
+  {
+   "text": "The Boss Baby",
+   "count": 527965936,
+   "aliases": [
+    "Boss Baby",
+    "Un jefe en pañales"
+   ]
+  },
+  {
+   "text": "WALL-E",
+   "count": 527403656,
+   "aliases": [
+    "WALL·E",
+    "Wall E",
+    "WALLE"
+   ]
+  },
+  {
+   "text": "Godzilla (2014)",
+   "count": 524978362,
+   "aliases": [
+    "Godzilla",
+    "Godzilla (Legendary)"
+   ]
+  },
+  {
+   "text": "Sherlock Holmes",
+   "count": 524028679,
+   "aliases": [
+    "Sherlock Holmes (2009)",
+    "Sherlock Holmes 1"
+   ]
+  },
+  {
+   "text": "Meet the Fockers",
+   "count": 522657936,
+   "aliases": [
+    "Meet the Parents 2",
+    "La familia de mi esposo"
+   ]
+  },
+  {
+   "text": "La La Land",
+   "count": 522314583,
+   "aliases": []
+  },
+  {
+   "text": "The Fantastic Four: First Steps",
+   "count": 521858728,
+   "aliases": [
+    "Fantastic Four: First Steps",
+    "First Steps",
+    "Fantastic Four (2025)",
+    "Los 4 Fantásticos: Primeros pasos",
+    "Los Cuatro Fantásticos: Primeros pasos"
+   ]
+  },
+  {
+   "text": "Kung Fu Panda 3",
+   "count": 521170825,
+   "aliases": []
+  },
+  {
+   "text": "Ant-Man",
+   "count": 519311965,
+   "aliases": [
+    "Ant-Man 1",
+    "Ant-Man (2015)"
+   ]
+  },
+  {
+   "text": "Terminator 2: Judgment Day",
+   "count": 517778573,
+   "aliases": [
+    "Terminator 2",
+    "T2",
+    "Judgment Day",
+    "Terminator 2: El juicio final"
+   ]
+  },
+  {
+   "text": "Venom: Let There Be Carnage",
+   "count": 506813864,
+   "aliases": [
+    "Let There Be Carnage",
+    "Venom 2",
+    "Venom: Carnage liberado"
+   ]
+  },
+  {
+   "text": "Ghost (1990)",
+   "count": 505703557,
+   "aliases": [
+    "Ghost",
+    "Ghost: La sombra del amor"
+   ]
+  },
+  {
+   "text": "Aladdin (1992)",
+   "count": 504050219,
+   "aliases": [
+    "Aladdin (animated)"
+   ]
+  },
+  {
+   "text": "Rio 2",
+   "count": 498781117,
+   "aliases": []
+  },
+  {
+   "text": "Troy",
+   "count": 497409852,
+   "aliases": [
+    "Troya"
+   ]
+  },
+  {
+   "text": "Toy Story 2",
+   "count": 497375404,
+   "aliases": []
+  },
+  {
+   "text": "Elemental",
+   "count": 496444308,
+   "aliases": [
+    "Elementos"
+   ]
+  },
+  {
+   "text": "How to Train Your Dragon (2010)",
+   "count": 494879860,
+   "aliases": [
+    "HTTYD",
+    "HTTYD 1",
+    "How to Train Your Dragon 1",
+    "How to Train Your Dragon (animated)",
+    "Cómo entrenar a tu dragón (2010)"
+   ]
+  },
+  {
+   "text": "Twister (1996)",
+   "count": 494580615,
+   "aliases": [
+    "Twister"
+   ]
+  },
+  {
+   "text": "The Conjuring: Last Rites",
+   "count": 494538844,
+   "aliases": [
+    "Last Rites",
+    "Conjuring 4",
+    "The Conjuring 4",
+    "El Conjuro 4",
+    "El Conjuro: Últimos ritos"
+   ]
+  },
+  {
+   "text": "Oz the Great and Powerful",
+   "count": 493311825,
+   "aliases": [
+    "Oz",
+    "Oz: El poderoso"
+   ]
+  },
+  {
+   "text": "Clash of the Titans (2010)",
+   "count": 493214993,
+   "aliases": [
+    "Clash of the Titans",
+    "Furia de titanes"
+   ]
+  },
+  {
+   "text": "Sonic the Hedgehog 3",
+   "count": 492162604,
+   "aliases": [
+    "Sonic 3",
+    "Sonic 3: La película"
+   ]
+  },
+  {
+   "text": "Maleficent: Mistress of Evil",
+   "count": 491730089,
+   "aliases": [
+    "Mistress of Evil",
+    "Maleficent 2",
+    "Maléfica: Dueña del mal"
+   ]
+  },
+  {
+   "text": "Jaws",
+   "count": 490736300,
+   "aliases": [
+    "Jaws (1975)",
+    "Tiburón"
+   ]
+  },
+  {
+   "text": "War for the Planet of the Apes",
+   "count": 490719763,
+   "aliases": [
+    "War of the Planet of the Apes",
+    "El planeta de los simios: La guerra"
+   ]
+  },
+  {
+   "text": "Shrek",
+   "count": 488977919,
+   "aliases": [
+    "Shrek 1",
+    "Shrek (2001)"
+   ]
+  },
+  {
+   "text": "Lost in the Stars",
+   "count": 487637474,
+   "aliases": [
+    "消失的她"
+   ]
+  },
+  {
+   "text": "Mr. & Mrs. Smith",
+   "count": 487287646,
+   "aliases": [
+    "Mr. and Mrs. Smith",
+    "Mr & Mrs Smith",
+    "Sr. y Sra. Smith"
+   ]
+  },
+  {
+   "text": "Demon Slayer: Mugen Train",
+   "count": 486451200,
+   "aliases": [
+    "Mugen Train",
+    "Demon Slayer the Movie: Mugen Train",
+    "Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train",
+    "Kimetsu no Yaiba: Mugen Train",
+    "Demon Slayer: Tren Infinito",
+    "鬼滅の刃 無限列車編"
+   ]
+  },
+  {
+   "text": "Angels & Demons",
+   "count": 485930816,
+   "aliases": [
+    "Angels and Demons",
+    "Ángeles y demonios"
+   ]
+  },
+  {
+   "text": "Teenage Mutant Ninja Turtles (2014)",
+   "count": 485004754,
+   "aliases": [
+    "Teenage Mutant Ninja Turtles",
+    "TMNT",
+    "TMNT (2014)",
+    "Tortugas Ninja",
+    "Tortugas Ninja (2014)"
+   ]
+  },
+  {
+   "text": "Bruce Almighty",
+   "count": 484592874,
+   "aliases": [
+    "Todopoderoso"
+   ]
+  },
+  {
+   "text": "Rio",
+   "count": 483895196,
+   "aliases": [
+    "Rio 1",
+    "Rio (2011)"
+   ]
+  },
+  {
+   "text": "Star Wars: Return of the Jedi",
+   "count": 482466382,
+   "aliases": [
+    "Return of the Jedi",
+    "Episode VI",
+    "Star Wars Episode VI",
+    "Star Wars Episode 6",
+    "Star Wars 6",
+    "El regreso del Jedi"
+   ]
+  },
+  {
+   "text": "Saving Private Ryan",
+   "count": 482352390,
+   "aliases": [
+    "Private Ryan",
+    "Rescatando al soldado Ryan"
+   ]
+  },
+  {
+   "text": "Rise of the Planet of the Apes",
+   "count": 481800873,
+   "aliases": [
+    "Rise of the Apes",
+    "Planet of the Apes (2011)",
+    "El planeta de los simios: (R)evolución",
+    "El planeta de los simios: Revolución"
+   ]
+  },
+  {
+   "text": "Puss in Boots: The Last Wish",
+   "count": 480466413,
+   "aliases": [
+    "The Last Wish",
+    "Puss in Boots 2",
+    "El Gato con Botas: El último deseo",
+    "El último deseo"
+   ]
+  },
+  {
+   "text": "Venom: The Last Dance",
+   "count": 478937618,
+   "aliases": [
+    "The Last Dance",
+    "Venom 3",
+    "Venom: El último baile"
+   ]
+  },
+  {
+   "text": "Home Alone",
+   "count": 476684675,
+   "aliases": [
+    "Home Alone 1",
+    "Mi pobre angelito"
+   ]
+  },
+  {
+   "text": "Ant-Man and the Wasp: Quantumania",
+   "count": 476071180,
+   "aliases": [
+    "Quantumania",
+    "Ant-Man 3",
+    "Ant-Man y la Avispa: Quantumanía"
+   ]
+  },
+  {
+   "text": "Hotel Transylvania 2",
+   "count": 475186976,
+   "aliases": [
+    "Hotel Transilvania 2"
+   ]
+  },
+  {
+   "text": "Charlie and the Chocolate Factory",
+   "count": 474968763,
+   "aliases": [
+    "Charlie y la fábrica de chocolate"
+   ]
+  },
+  {
+   "text": "San Andreas",
+   "count": 474609154,
+   "aliases": []
+  },
+  {
+   "text": "Indiana Jones and the Last Crusade",
+   "count": 474171806,
+   "aliases": [
+    "The Last Crusade",
+    "Last Crusade",
+    "Indiana Jones 3",
+    "Indiana Jones y la última cruzada"
+   ]
+  },
+  {
+   "text": "It Chapter Two",
+   "count": 473123154,
+   "aliases": [
+    "It: Chapter Two",
+    "It 2",
+    "It Chapter 2",
+    "Eso: Capítulo 2",
+    "It: Capítulo dos"
+   ]
+  },
+  {
+   "text": "The Greatest Showman",
+   "count": 471871490,
+   "aliases": [
+    "Greatest Showman",
+    "El gran showman"
+   ]
+  },
+  {
+   "text": "Wreck-It Ralph",
+   "count": 471222906,
+   "aliases": [
+    "Wreck-It Ralph 1",
+    "Ralph",
+    "Ralph el demoledor"
+   ]
+  },
+  {
+   "text": "The Lego Movie",
+   "count": 470760260,
+   "aliases": [
+    "Lego Movie",
+    "La gran aventura Lego"
+   ]
+  },
+  {
+   "text": "Godzilla vs. Kong",
+   "count": 470116094,
+   "aliases": [
+    "Godzilla vs Kong",
+    "Godzilla v Kong"
+   ]
+  },
+  {
+   "text": "The Hangover",
+   "count": 469329059,
+   "aliases": [
+    "Hangover",
+    "The Hangover 1",
+    "Hangover 1",
+    "¿Qué pasó ayer?"
+   ]
+  },
+  {
+   "text": "Lucy",
+   "count": 469058574,
+   "aliases": [
+    "Lucy (2014)"
+   ]
+  },
+  {
+   "text": "Bumblebee",
+   "count": 467989645,
+   "aliases": [
+    "Transformers: Bumblebee"
+   ]
+  },
+  {
+   "text": "The Matrix",
+   "count": 467845851,
+   "aliases": [
+    "Matrix",
+    "Matrix 1",
+    "The Matrix 1",
+    "The Matrix (1999)"
+   ]
+  },
+  {
+   "text": "Star Trek Into Darkness",
+   "count": 467365246,
+   "aliases": [
+    "Star Trek 2 (2013)",
+    "Into Darkness",
+    "Star Trek: En la oscuridad"
+   ]
+  },
+  {
+   "text": "Gladiator",
+   "count": 465516248,
+   "aliases": [
+    "Gladiator 1",
+    "Gladiator (2000)",
+    "Gladiador"
+   ]
+  },
+  {
+   "text": "Pretty Woman",
+   "count": 463406268,
+   "aliases": [
+    "Mujer bonita"
+   ]
+  },
+  {
+   "text": "Gladiator II",
+   "count": 462180717,
+   "aliases": [
+    "Gladiator 2",
+    "Gladiador II",
+    "Gladiador 2"
+   ]
+  },
+  {
+   "text": "Cars",
+   "count": 461996328,
+   "aliases": [
+    "Cars 1",
+    "Cars (2006)"
+   ]
+  },
+  {
+   "text": "The Eight Hundred",
+   "count": 461421559,
+   "aliases": [
+    "Eight Hundred",
+    "八佰"
+   ]
+  },
+  {
+   "text": "X-Men: The Last Stand",
+   "count": 460435291,
+   "aliases": [
+    "The Last Stand",
+    "X-Men 3",
+    "X-Men: La batalla final"
+   ]
+  },
+  {
+   "text": "Moon Man",
+   "count": 460237662,
+   "aliases": [
+    "独行月球"
+   ]
+  },
+  {
+   "text": "National Treasure: Book of Secrets",
+   "count": 459242249,
+   "aliases": [
+    "Book of Secrets",
+    "National Treasure 2",
+    "La leyenda del tesoro perdido 2",
+    "La leyenda del tesoro perdido: El libro de los secretos"
+   ]
+  },
+  {
+   "text": "Mission: Impossible",
+   "count": 457696391,
+   "aliases": [
+    "Mission: Impossible 1",
+    "Mission Impossible 1",
+    "Mission: Impossible (1996)",
+    "Misión Imposible",
+    "Misión Imposible 1"
+   ]
+  },
+  {
+   "text": "300",
+   "count": 456082343,
+   "aliases": [
+    "300 (movie)",
+    "300 (2007)"
+   ]
+  },
+  {
+   "text": "The Last Samurai",
+   "count": 454627263,
+   "aliases": [
+    "Last Samurai",
+    "El último samurái"
+   ]
+  },
+  {
+   "text": "Beetlejuice Beetlejuice",
+   "count": 452000435,
+   "aliases": [
+    "Beetlejuice 2"
+   ]
+  },
+  {
+   "text": "Beauty and the Beast (1991)",
+   "count": 451291298,
+   "aliases": [
+    "Beauty and the Beast (animated)",
+    "La Bella y la Bestia (1991)"
+   ]
+  },
+  {
+   "text": "Dying to Survive",
+   "count": 451183391,
+   "aliases": [
+    "我不是药神",
+    "Wo Bu Shi Yao Shen"
+   ]
+  },
+  {
+   "text": "Ocean's Eleven",
+   "count": 450717150,
+   "aliases": [
+    "Ocean's 11",
+    "Oceans Eleven",
+    "La gran estafa"
+   ]
+  },
+  {
+   "text": "My People, My Country",
+   "count": 450064993,
+   "aliases": [
+    "我和我的祖国"
+   ]
+  },
+  {
+   "text": "Pokémon Detective Pikachu",
+   "count": 450063166,
+   "aliases": [
+    "Pokémon: Detective Pikachu",
+    "Detective Pikachu"
+   ]
+  },
+  {
+   "text": "Thor",
+   "count": 449326618,
+   "aliases": [
+    "Thor 1",
+    "Thor (2011)"
+   ]
+  },
+  {
+   "text": "Pearl Harbor",
+   "count": 449220945,
+   "aliases": []
+  },
+  {
+   "text": "Tarzan (1999)",
+   "count": 448192603,
+   "aliases": [
+    "Tarzan",
+    "Tarzán",
+    "Tarzan (Disney)"
+   ]
+  },
+  {
+   "text": "John Wick: Chapter 4",
+   "count": 447142521,
+   "aliases": [
+    "John Wick 4",
+    "John Wick Chapter 4"
+   ]
+  },
+  {
+   "text": "1917",
+   "count": 446064352,
+   "aliases": [
+    "1917 (movie)",
+    "1917 (2019)"
+   ]
+  },
+  {
+   "text": "Men in Black II",
+   "count": 445135288,
+   "aliases": [
+    "Men in Black 2",
+    "MIB 2",
+    "MIB2",
+    "Hombres de negro 2"
+   ]
+  },
+  {
+   "text": "The Mummy Returns",
+   "count": 443284916,
+   "aliases": [
+    "Mummy Returns",
+    "The Mummy 2",
+    "La momia regresa"
+   ]
+  },
+  {
+   "text": "Alvin and the Chipmunks: The Squeakquel",
+   "count": 443140005,
+   "aliases": [
+    "The Squeakquel",
+    "Alvin and the Chipmunks 2",
+    "Alvin y las ardillas 2"
+   ]
+  },
+  {
+   "text": "The Bourne Ultimatum",
+   "count": 442824138,
+   "aliases": [
+    "Bourne Ultimatum",
+    "Bourne 3",
+    "Bourne: El ultimátum"
+   ]
+  },
+  {
+   "text": "Les Misérables",
+   "count": 442757529,
+   "aliases": [
+    "Les Misérables (2012)",
+    "Los Miserables"
+   ]
+  },
+  {
+   "text": "Transformers: Rise of the Beasts",
+   "count": 441656550,
+   "aliases": [
+    "Rise of the Beasts",
+    "Transformers 7",
+    "Transformers: El despertar de las bestias"
+   ]
+  },
+  {
+   "text": "Mrs. Doubtfire",
+   "count": 441286195,
+   "aliases": [
+    "Mrs Doubtfire",
+    "Papá por siempre"
+   ]
+  },
+  {
+   "text": "Terminator Genisys",
+   "count": 440603537,
+   "aliases": [
+    "Genisys",
+    "Terminator 5",
+    "Terminator: Génesis"
+   ]
+  },
+  {
+   "text": "Aquaman and the Lost Kingdom",
+   "count": 440181226,
+   "aliases": [
+    "The Lost Kingdom",
+    "Aquaman 2",
+    "Aquaman y el reino perdido"
+   ]
+  },
+  {
+   "text": "A Star Is Born (2018)",
+   "count": 439943006,
+   "aliases": [
+    "A Star Is Born",
+    "A Star is Born",
+    "Nace una estrella"
+   ]
+  },
+  {
+   "text": "Warcraft",
+   "count": 439048914,
+   "aliases": [
+    "Warcraft: The Beginning",
+    "Warcraft: El origen",
+    "Warcraft: El primer encuentro de dos mundos"
+   ]
+  },
+  {
+   "text": "YOLO",
+   "count": 433606094,
+   "aliases": [
+    "YOLO (2024)",
+    "热辣滚烫"
+   ]
+  },
+  {
+   "text": "Terminator 3: Rise of the Machines",
+   "count": 433371112,
+   "aliases": [
+    "Terminator 3",
+    "T3",
+    "Rise of the Machines",
+    "Terminator 3: La rebelión de las máquinas"
+   ]
+  },
+  {
+   "text": "Shang-Chi and the Legend of the Ten Rings",
+   "count": 432243292,
+   "aliases": [
+    "Shang-Chi",
+    "Shang Chi",
+    "Shang-Chi y la leyenda de los diez anillos"
+   ]
+  },
+  {
+   "text": "Die Another Day",
+   "count": 431971781,
+   "aliases": [
+    "007 Die Another Day",
+    "James Bond: Die Another Day",
+    "Otro día para morir"
+   ]
+  },
+  {
+   "text": "The Secret Life of Pets 2",
+   "count": 431164459,
+   "aliases": [
+    "Secret Life of Pets 2",
+    "La vida secreta de tus mascotas 2"
+   ]
+  },
+  {
+   "text": "The Exorcist",
+   "count": 430872776,
+   "aliases": [
+    "Exorcist",
+    "The Exorcist (1973)",
+    "El exorcista"
+   ]
+  },
+  {
+   "text": "Cast Away",
+   "count": 429632142,
+   "aliases": [
+    "Castaway",
+    "Náufrago"
+   ]
+  },
+  {
+   "text": "Rampage",
+   "count": 428128399,
+   "aliases": [
+    "Rampage (2018)",
+    "Rampage: Devastación"
+   ]
+  },
+  {
+   "text": "The Matrix Revolutions",
+   "count": 427344325,
+   "aliases": [
+    "Matrix Revolutions",
+    "Matrix 3",
+    "The Matrix 3",
+    "Matrix Revoluciones"
+   ]
+  },
+  {
+   "text": "The Intouchables",
+   "count": 426590315,
+   "aliases": [
+    "Intouchables",
+    "Les Intouchables",
+    "Untouchable",
+    "Amigos intocables",
+    "Amigos"
+   ]
+  },
+  {
+   "text": "Bad Boys for Life",
+   "count": 426505244,
+   "aliases": [
+    "Bad Boys 3",
+    "Bad Boys para siempre"
+   ]
+  },
+  {
+   "text": "Django Unchained",
+   "count": 426076540,
+   "aliases": [
+    "Django",
+    "Django sin cadenas"
+   ]
+  },
+  {
+   "text": "Dances with Wolves",
+   "count": 424208848,
+   "aliases": [
+    "Danza con lobos"
+   ]
+  },
+  {
+   "text": "Pegasus 2",
+   "count": 422878491,
+   "aliases": [
+    "飞驰人生2"
+   ]
+  },
+  {
+   "text": "My People, My Homeland",
+   "count": 422390820,
+   "aliases": [
+    "我和我的家乡"
+   ]
+  },
+  {
+   "text": "Successor",
+   "count": 422307398,
+   "aliases": [
+    "Successor (2024)",
+    "抓娃娃"
+   ]
+  },
+  {
+   "text": "The Chronicles of Narnia: Prince Caspian",
+   "count": 419665568,
+   "aliases": [
+    "Prince Caspian",
+    "Narnia 2",
+    "Las crónicas de Narnia: El príncipe Caspian",
+    "El príncipe Caspian"
+   ]
+  },
+  {
+   "text": "Sex and the City",
+   "count": 418769972,
+   "aliases": [
+    "Sex and the City: The Movie",
+    "Sex and the City (2008)",
+    "Sexo en la ciudad"
+   ]
+  },
+  {
+   "text": "The Captain",
+   "count": 417863545,
+   "aliases": [
+    "The Captain (2019)",
+    "The Chinese Pilot",
+    "中国机长"
+   ]
+  },
+  {
+   "text": "The Mummy (1999)",
+   "count": 417643286,
+   "aliases": [
+    "La momia (1999)",
+    "The Mummy (Brendan Fraser)"
+   ]
+  },
+  {
+   "text": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+   "count": 415686217,
+   "aliases": [
+    "The Voyage of the Dawn Treader",
+    "Voyage of the Dawn Treader",
+    "Narnia 3",
+    "Las crónicas de Narnia: La travesía del Viajero del Alba",
+    "La travesía del Viajero del Alba"
+   ]
+  },
+  {
+   "text": "Jason Bourne",
+   "count": 415484914,
+   "aliases": [
+    "Bourne 5",
+    "Jason Bourne (2016)"
+   ]
+  },
+  {
+   "text": "Captain America: Brave New World",
+   "count": 415101577,
+   "aliases": [
+    "Brave New World",
+    "Captain America 4",
+    "Capitán América: Un nuevo mundo"
+   ]
+  },
+  {
+   "text": "The Wolverine",
+   "count": 414828246,
+   "aliases": [
+    "Wolverine 2",
+    "The Wolverine (2013)",
+    "Wolverine: Inmortal"
+   ]
+  },
+  {
+   "text": "Kingsman: The Secret Service",
+   "count": 414351546,
+   "aliases": [
+    "Kingsman",
+    "Kingsman 1",
+    "The Secret Service",
+    "Kingsman: El servicio secreto"
+   ]
+  },
+  {
+   "text": "The King's Speech",
+   "count": 414245125,
+   "aliases": [
+    "King's Speech",
+    "El discurso del rey"
+   ]
+  },
+  {
+   "text": "Night at the Museum: Battle of the Smithsonian",
+   "count": 413106170,
+   "aliases": [
+    "Battle of the Smithsonian",
+    "Night at the Museum 2",
+    "Una noche en el museo 2"
+   ]
+  },
+  {
+   "text": "Batman (1989)",
+   "count": 411569241,
+   "aliases": [
+    "Batman",
+    "Batman (Tim Burton)",
+    "Batman (Michael Keaton)"
+   ]
+  },
+  {
+   "text": "The Bodyguard",
+   "count": 411046449,
+   "aliases": [
+    "Bodyguard",
+    "El guardaespaldas"
+   ]
+  },
+  {
+   "text": "Pacific Rim",
+   "count": 411002906,
+   "aliases": [
+    "Pacific Rim (2013)",
+    "Titanes del Pacífico"
+   ]
+  },
+  {
+   "text": "Kingsman: The Golden Circle",
+   "count": 410902662,
+   "aliases": [
+    "The Golden Circle",
+    "Golden Circle",
+    "Kingsman 2",
+    "Kingsman: El círculo dorado"
+   ]
+  },
+  {
+   "text": "Dune: Part One",
+   "count": 410668500,
+   "aliases": [
+    "Dune",
+    "Dune (2021)",
+    "Dune 1",
+    "Dune Part 1",
+    "Duna",
+    "Duna (2021)"
+   ]
+  },
+  {
+   "text": "The Mummy (2017)",
+   "count": 409231607,
+   "aliases": [
+    "La momia (2017)",
+    "The Mummy (Tom Cruise)"
+   ]
+  },
+  {
+   "text": "Ice Age: Collision Course",
+   "count": 408754975,
+   "aliases": [
+    "Collision Course",
+    "Ice Age 5",
+    "La Era de Hielo 5",
+    "La Era de Hielo: Choque de mundos"
+   ]
+  },
+  {
+   "text": "Sing 2",
+   "count": 408402685,
+   "aliases": [
+    "Sing 2: ¡Ven y canta de nuevo!"
+   ]
+  },
+  {
+   "text": "Signs",
+   "count": 408247917,
+   "aliases": [
+    "Signs (2002)",
+    "Señales"
+   ]
+  },
+  {
+   "text": "X2: X-Men United",
+   "count": 407711549,
+   "aliases": [
+    "X2",
+    "X-Men 2",
+    "X-Men 2: United",
+    "X-Men United"
+   ]
+  },
+  {
+   "text": "Fantastic Beasts: The Secrets of Dumbledore",
+   "count": 407150844,
+   "aliases": [
+    "The Secrets of Dumbledore",
+    "Secrets of Dumbledore",
+    "Fantastic Beasts 3",
+    "Animales fantásticos: Los secretos de Dumbledore",
+    "Los secretos de Dumbledore"
+   ]
+  },
+  {
+   "text": "Uncharted",
+   "count": 407141258,
+   "aliases": [
+    "Uncharted (2022)",
+    "Uncharted: Fuera del mapa"
+   ]
+  },
+  {
+   "text": "The Wolf of Wall Street",
+   "count": 407039432,
+   "aliases": [
+    "Wolf of Wall Street",
+    "El lobo de Wall Street"
+   ]
+  },
+  {
+   "text": "Sonic the Hedgehog 2",
+   "count": 405421518,
+   "aliases": [
+    "Sonic 2",
+    "Sonic 2: La película"
+   ]
+  },
+  {
+   "text": "Your Name",
+   "count": 405312768,
+   "aliases": [
+    "Your Name.",
+    "Kimi no Na wa",
+    "Kimi no Na wa.",
+    "君の名は。",
+    "君の名は"
+   ]
+  },
+  {
+   "text": "Alita: Battle Angel",
+   "count": 404980543,
+   "aliases": [
+    "Alita",
+    "Battle Angel",
+    "Alita: Ángel de combate"
+   ]
+  },
+  {
+   "text": "Bad Boys: Ride or Die",
+   "count": 404550184,
+   "aliases": [
+    "Ride or Die",
+    "Bad Boys 4",
+    "Bad Boys: Hasta la muerte"
+   ]
+  },
+  {
+   "text": "The Mummy: Tomb of the Dragon Emperor",
+   "count": 403449830,
+   "aliases": [
+    "Tomb of the Dragon Emperor",
+    "The Mummy 3",
+    "La momia: La tumba del emperador Dragón"
+   ]
+  },
+  {
+   "text": "Prometheus",
+   "count": 403354469,
+   "aliases": [
+    "Prometheus (2012)",
+    "Prometeo"
+   ]
+  },
+  {
+   "text": "Gone with the Wind",
+   "count": 402382193,
+   "aliases": [
+    "Lo que el viento se llevó"
+   ]
+  },
+  {
+   "text": "Eternals",
+   "count": 402064899,
+   "aliases": [
+    "The Eternals",
+    "Los Eternos"
+   ]
+  },
+  {
+   "text": "Toy Story",
+   "count": 401157969,
+   "aliases": [
+    "Toy Story 1",
+    "Toy Story (1995)"
+   ]
+  },
+  {
+   "text": "Tron: Legacy",
+   "count": 400070675,
+   "aliases": [
+    "Tron Legacy",
+    "Tron 2",
+    "Tron: El legado"
+   ]
+  },
+  {
+   "text": "Meg 2: The Trench",
+   "count": 398500317,
+   "aliases": [
+    "Meg 2",
+    "The Meg 2",
+    "The Trench",
+    "Megalodón 2"
+   ]
+  },
+  {
+   "text": "Mission: Impossible III",
+   "count": 398479497,
+   "aliases": [
+    "Mission: Impossible 3",
+    "Mission Impossible 3",
+    "M:I-3",
+    "MI3",
+    "Misión Imposible 3"
+   ]
+  },
+  {
+   "text": "Twilight",
+   "count": 397799871,
+   "aliases": [
+    "Twilight 1",
+    "Twilight (2008)",
+    "The Twilight Saga: Twilight",
+    "Crepúsculo"
+   ]
+  },
+  {
+   "text": "Kingdom of the Planet of the Apes",
+   "count": 397378150,
+   "aliases": [
+    "Kingdom of the Apes",
+    "Planet of the Apes (2024)",
+    "El planeta de los simios: Nuevo reino"
+   ]
+  },
+  {
+   "text": "Snow White and the Huntsman",
+   "count": 396592829,
+   "aliases": [
+    "Snow White & the Huntsman",
+    "Blancanieves y el cazador"
+   ]
+  }
+ ]
+}

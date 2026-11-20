@@ -1,0 +1,563 @@
+{
+ "source": "Wikipedia 'Fastest animals' (Kiwix mirror wikipedia_en_all_nopic_2026-03: https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Fastest_animal; Indian rhinoceros from the current wikiwand copy https://www.wikiwand.com/en/articles/Fastest_animal). Where a range is given, the upper bound is used. Diving (stoop) speeds included for birds of prey. Horsefly (dubious) and swordfish (flawed calculation) excluded.",
+ "unit": "km/h",
+ "rows": [
+  {
+   "text": "Peregrine falcon",
+   "count": 389,
+   "aliases": [
+    "peregrino",
+    "falcon"
+   ]
+  },
+  {
+   "text": "Golden eagle",
+   "count": 320,
+   "aliases": [
+    "eagle"
+   ]
+  },
+  {
+   "text": "Gyrfalcon",
+   "count": 209,
+   "aliases": [
+    "gerifalte",
+    "girfalte"
+   ]
+  },
+  {
+   "text": "White-throated needletail",
+   "count": 169,
+   "aliases": [
+    "vencejo de cola espinosa",
+    "vencejo",
+    "swift"
+   ]
+  },
+  {
+   "text": "Eurasian hobby",
+   "count": 160,
+   "aliases": [
+    "hobby"
+   ]
+  },
+  {
+   "text": "Mexican free-tailed bat",
+   "count": 160,
+   "aliases": [
+    "bat"
+   ]
+  },
+  {
+   "text": "Frigatebird",
+   "count": 153,
+   "aliases": [
+    "ave fragata",
+    "rabihorcado",
+    "tijereta de mar"
+   ]
+  },
+  {
+   "text": "Pigeon (rock dove)",
+   "count": 148.9,
+   "aliases": [
+    "paloma",
+    "paloma mensajera",
+    "pigeon",
+    "rock dove",
+    "Pigeon"
+   ]
+  },
+  {
+   "text": "Spur-winged goose",
+   "count": 142,
+   "aliases": [
+    "ganso espolonado",
+    "ganso",
+    "goose"
+   ]
+  },
+  {
+   "text": "Black marlin",
+   "count": 129,
+   "aliases": [
+    "pez espada negro"
+   ]
+  },
+  {
+   "text": "Red-breasted merganser",
+   "count": 129,
+   "aliases": [
+    "serreta",
+    "pato serreta",
+    "merganser"
+   ]
+  },
+  {
+   "text": "Grey-headed albatross",
+   "count": 127,
+   "aliases": [
+    "albatros",
+    "albatross"
+   ]
+  },
+  {
+   "text": "Cheetah",
+   "count": 120.7,
+   "aliases": [
+    "chita",
+    "leopardo cazador"
+   ]
+  },
+  {
+   "text": "Sailfish",
+   "count": 109.19,
+   "aliases": [
+    "pez velero"
+   ]
+  },
+  {
+   "text": "Giant Australian dragonfly",
+   "count": 98.6,
+   "aliases": [
+    "caballito del diablo",
+    "austrophlebia costalis",
+    "dragonfly"
+   ]
+  },
+  {
+   "text": "Anna's hummingbird",
+   "count": 98.27,
+   "aliases": [
+    "picaflor",
+    "chupaflor",
+    "hummingbird"
+   ]
+  },
+  {
+   "text": "Ostrich",
+   "count": 97,
+   "aliases": []
+  },
+  {
+   "text": "Pronghorn",
+   "count": 96,
+   "aliases": []
+  },
+  {
+   "text": "Thomson's gazelle",
+   "count": 90,
+   "aliases": [
+    "gacela",
+    "gazelle"
+   ]
+  },
+  {
+   "text": "Tsessebe",
+   "count": 90,
+   "aliases": [
+    "sasabi",
+    "topi"
+   ]
+  },
+  {
+   "text": "Horse",
+   "count": 88.5,
+   "aliases": [
+    "caballo pura sangre",
+    "cuarto de milla",
+    "pura sangre",
+    "yegua",
+    "quarter horse",
+    "thoroughbred"
+   ]
+  },
+  {
+   "text": "Springbok",
+   "count": 88,
+   "aliases": [
+    "gacela saltarina"
+   ]
+  },
+  {
+   "text": "Wildebeest",
+   "count": 80.5,
+   "aliases": [
+    "gnu"
+   ]
+  },
+  {
+   "text": "Blackbuck",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Grant's gazelle",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Hartebeest",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Impala",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Lion",
+   "count": 80,
+   "aliases": [
+    "leona"
+   ]
+  },
+  {
+   "text": "Hare",
+   "count": 80,
+   "aliases": []
+  },
+  {
+   "text": "Yellowfin tuna",
+   "count": 76,
+   "aliases": [
+    "rabil",
+    "tuna"
+   ]
+  },
+  {
+   "text": "Jackrabbit",
+   "count": 72,
+   "aliases": [
+    "liebre de cola negra"
+   ]
+  },
+  {
+   "text": "Mako shark",
+   "count": 72,
+   "aliases": [
+    "mako",
+    "marrajo",
+    "shortfin mako shark",
+    "shark"
+   ]
+  },
+  {
+   "text": "African wild dog",
+   "count": 71,
+   "aliases": [
+    "perro salvaje africano",
+    "lobo pintado"
+   ]
+  },
+  {
+   "text": "Kangaroo",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Greyhound",
+   "count": 70,
+   "aliases": [
+    "perro galgo",
+    "perro",
+    "dog"
+   ]
+  },
+  {
+   "text": "Onager",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Zebra",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Eland",
+   "count": 70,
+   "aliases": [
+    "alce africano"
+   ]
+  },
+  {
+   "text": "Coyote",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Big brown bat",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Common dolphin",
+   "count": 64,
+   "aliases": [
+    "dolphin"
+   ]
+  },
+  {
+   "text": "Tiger",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Hyena",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Giraffe",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "African buffalo",
+   "count": 56,
+   "aliases": [
+    "buffalo"
+   ]
+  },
+  {
+   "text": "Orca (killer whale)",
+   "count": 56,
+   "aliases": [
+    "ballena asesina",
+    "killer whale",
+    "Orca"
+   ]
+  },
+  {
+   "text": "Brown bear",
+   "count": 56,
+   "aliases": [
+    "oso grizzly",
+    "grizzly",
+    "oso",
+    "bear"
+   ]
+  },
+  {
+   "text": "American black bear",
+   "count": 56,
+   "aliases": [
+    "oso negro",
+    "black bear"
+   ]
+  },
+  {
+   "text": "Black rhinoceros",
+   "count": 55,
+   "aliases": [
+    "rinoceronte",
+    "rhino"
+   ]
+  },
+  {
+   "text": "Indian rhinoceros",
+   "count": 55,
+   "aliases": [
+    "rinoceronte de la India"
+   ]
+  },
+  {
+   "text": "Sei whale",
+   "count": 55,
+   "aliases": [
+    "ballena sei"
+   ]
+  },
+  {
+   "text": "Warthog",
+   "count": 55,
+   "aliases": [
+    "pumba"
+   ]
+  },
+  {
+   "text": "Emu",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Cassowary",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Blue whale",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Fin whale",
+   "count": 46,
+   "aliases": [
+    "ballena de aleta"
+   ]
+  },
+  {
+   "text": "Human",
+   "count": 44.244,
+   "aliases": [
+    "humano",
+    "persona",
+    "hombre",
+    "Usain Bolt"
+   ]
+  },
+  {
+   "text": "Roadrunner",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Perentie",
+   "count": 40.23,
+   "aliases": [
+    "varano perentie"
+   ]
+  },
+  {
+   "text": "Wombat",
+   "count": 40,
+   "aliases": [
+    "vombat"
+   ]
+  },
+  {
+   "text": "Minke whale",
+   "count": 37,
+   "aliases": [
+    "ballena minke",
+    "minke",
+    "common minke whale"
+   ]
+  },
+  {
+   "text": "Squid",
+   "count": 36,
+   "aliases": [
+    "calamares",
+    "pota"
+   ]
+  },
+  {
+   "text": "Green iguana",
+   "count": 35.41,
+   "aliases": [
+    "iguana"
+   ]
+  },
+  {
+   "text": "Leatherback sea turtle",
+   "count": 35.28,
+   "aliases": [
+    "tortuga marina",
+    "tortuga",
+    "turtle"
+   ]
+  },
+  {
+   "text": "Spiny-tailed iguana",
+   "count": 34.6,
+   "aliases": [
+    "garrobo",
+    "iguana negra"
+   ]
+  },
+  {
+   "text": "Hippopotamus",
+   "count": 30,
+   "aliases": [
+    "hipo",
+    "hippo"
+   ]
+  },
+  {
+   "text": "Six-lined racerunner",
+   "count": 28.97,
+   "aliases": [
+    "lagartija"
+   ]
+  },
+  {
+   "text": "Humpback whale",
+   "count": 27,
+   "aliases": [
+    "yubarta"
+   ]
+  },
+  {
+   "text": "Asian elephant",
+   "count": 25,
+   "aliases": [
+    "elefante",
+    "elephant"
+   ]
+  },
+  {
+   "text": "Sperm whale",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Nauta salamander",
+   "count": 24.14,
+   "aliases": [
+    "salamandra"
+   ]
+  },
+  {
+   "text": "Black mamba",
+   "count": 22.53,
+   "aliases": [
+    "mamba",
+    "serpiente",
+    "snake"
+   ]
+  },
+  {
+   "text": "African elephant",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Komodo dragon",
+   "count": 20.92,
+   "aliases": [
+    "komodo"
+   ]
+  },
+  {
+   "text": "Bowhead whale",
+   "count": 10,
+   "aliases": [
+    "ballena boreal"
+   ]
+  },
+  {
+   "text": "Right whale",
+   "count": 9.3,
+   "aliases": []
+  },
+  {
+   "text": "Tiger beetle",
+   "count": 6.8,
+   "aliases": [
+    "escarabajo"
+   ]
+  },
+  {
+   "text": "Mite (Paratarsotomus macropalpis)",
+   "count": 0.8,
+   "aliases": [
+    "mite",
+    "Mite"
+   ]
+  }
+ ]
+}

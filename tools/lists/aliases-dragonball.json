@@ -1,0 +1,682 @@
+{
+ "_note": "Japanese / Spanish / alternative names for Dragon Ball characters, keyed by the English display name. Applied by tools/add-lists.js (names).",
+ "Goku": [
+  "孫悟空",
+  "悟空",
+  "Kakarotto",
+  "カカロット",
+  "Gokú",
+  "Son Gokú",
+  "Kakaroto"
+ ],
+ "Vegeta": [
+  "ベジータ",
+  "Vegeta",
+  "Príncipe Vegeta",
+  "Prince Vegeta"
+ ],
+ "Gohan": [
+  "孫悟飯",
+  "悟飯",
+  "Son Gohan",
+  "Gohan Bestia",
+  "Beast Gohan",
+  "Mystic Gohan",
+  "Ultimate Gohan",
+  "Gohan Místico"
+ ],
+ "Goten": [
+  "孫悟天",
+  "悟天",
+  "Son Goten"
+ ],
+ "Krillin": [
+  "クリリン",
+  "Krilin",
+  "Kuririn"
+ ],
+ "Frieza": [
+  "フリーザ",
+  "Freezer",
+  "Freeza"
+ ],
+ "Piccolo": [
+  "ピッコロ",
+  "Picoro",
+  "Piccoro",
+  "Picolo"
+ ],
+ "Trunks": [
+  "トランクス",
+  "Kid Trunks",
+  "Trunks niño"
+ ],
+ "Bulma": [
+  "ブルマ",
+  "Bulma"
+ ],
+ "Master Roshi": [
+  "亀仙人",
+  "Kame Sennin",
+  "Maestro Roshi",
+  "Roshi",
+  "Duende Tortuga",
+  "Muten Roshi"
+ ],
+ "Beerus": [
+  "ビルス",
+  "Bills",
+  "Birus"
+ ],
+ "Whis": [
+  "ウイス",
+  "Wiss",
+  "Whis"
+ ],
+ "Broly": [
+  "ブロリー",
+  "Broly",
+  "Brolly"
+ ],
+ "Cell": [
+  "セル",
+  "Célula",
+  "Perfect Cell",
+  "Cell Perfecto"
+ ],
+ "Majin Buu": [
+  "魔人ブウ",
+  "Buu",
+  "Boo",
+  "Majin Boo",
+  "Buu Gordo",
+  "Fat Buu"
+ ],
+ "Android 18": [
+  "人造人間18号",
+  "18号",
+  "Androide 18",
+  "Número 18",
+  "Numero 18",
+  "A18",
+  "Lazuli",
+  "Dieciocho"
+ ],
+ "Android 17": [
+  "人造人間17号",
+  "17号",
+  "Androide 17",
+  "Número 17",
+  "Numero 17",
+  "A17",
+  "Lapis",
+  "Diecisiete"
+ ],
+ "Tien": [
+  "天津飯",
+  "Tenshinhan",
+  "Ten Shin Han",
+  "Ten"
+ ],
+ "Yamcha": [
+  "ヤムチャ",
+  "Yamcha",
+  "Yamucha"
+ ],
+ "Chi-Chi": [
+  "チチ",
+  "Milk",
+  "Chichi"
+ ],
+ "Gotenks": [
+  "ゴテンクス",
+  "Gotenks"
+ ],
+ "Vegito": [
+  "ベジット",
+  "Vegetto",
+  "Vegeto"
+ ],
+ "Gogeta": [
+  "ゴジータ",
+  "Gogueta"
+ ],
+ "Jiren": [
+  "ジレン",
+  "Jiren el Gris",
+  "Jiren the Gray"
+ ],
+ "Hit": [
+  "ヒット",
+  "Hitto"
+ ],
+ "Zeno": [
+  "全王",
+  "Zen-Oh",
+  "Zeno-sama",
+  "Zenoh",
+  "Zeno sama",
+  "Rey de Todo"
+ ],
+ "Bardock": [
+  "バーダック",
+  "Bardock",
+  "Bardock el padre de Goku"
+ ],
+ "Raditz": [
+  "ラディッツ",
+  "Raditz"
+ ],
+ "Nappa": [
+  "ナッパ",
+  "Nappa"
+ ],
+ "Shenron": [
+  "神龍",
+  "Shen Long",
+  "Shenlong"
+ ],
+ "Mr. Satan": [
+  "ミスター・サタン",
+  "Hercule",
+  "Mr. Satán",
+  "Mister Satán",
+  "Satán"
+ ],
+ "Videl": [
+  "ビーデル",
+  "Videl"
+ ],
+ "Dende": [
+  "デンデ",
+  "Dendé"
+ ],
+ "Kami": [
+  "神様",
+  "Kamisama",
+  "Kami-sama",
+  "Dios"
+ ],
+ "Mr. Popo": [
+  "ミスター・ポポ",
+  "Señor Popo",
+  "Popo"
+ ],
+ "King Kai": [
+  "界王",
+  "Kaio-sama",
+  "Kaiosama",
+  "Kaio",
+  "Rey Kai"
+ ],
+ "Captain Ginyu": [
+  "ギニュー",
+  "Ginyu"
+ ],
+ "Zarbon": [
+  "ザーボン",
+  "Zarbón"
+ ],
+ "Dodoria": [
+  "ドドリア",
+  "Dodoria"
+ ],
+ "Cooler": [
+  "クウラ",
+  "Coola",
+  "Kura"
+ ],
+ "Goku Black": [
+  "ゴクウブラック",
+  "Black Goku",
+  "Black",
+  "Gokú Black"
+ ],
+ "Zamasu": [
+  "ザマス",
+  "Zamas"
+ ],
+ "Caulifla": [
+  "カリフラ",
+  "Caulifla"
+ ],
+ "Kale": [
+  "ケール",
+  "Kale"
+ ],
+ "Kefla": [
+  "ケフラ",
+  "Kefura",
+  "Kefla"
+ ],
+ "Toppo": [
+  "トッポ",
+  "Top",
+  "Toppo"
+ ],
+ "Dyspo": [
+  "ディスポ",
+  "Dyspo"
+ ],
+ "Granolah": [
+  "グラノラ",
+  "Granola",
+  "Granolah"
+ ],
+ "Gas": [
+  "ガス",
+  "Gas"
+ ],
+ "Moro": [
+  "モロ",
+  "Molo",
+  "Planet Eater Moro"
+ ],
+ "Oolong": [
+  "ウーロン",
+  "Oolong",
+  "Ulong"
+ ],
+ "Puar": [
+  "プーアル",
+  "Puar",
+  "Pual",
+  "Pu'ar"
+ ],
+ "Launch": [
+  "ランチ",
+  "Lunch"
+ ],
+ "Chiaotzu": [
+  "餃子",
+  "Chaoz",
+  "Chaozu",
+  "Chaos"
+ ],
+ "Yajirobe": [
+  "ヤジロベー",
+  "Yajirobe",
+  "Yajirobai"
+ ],
+ "Pan": [
+  "パン",
+  "Pan"
+ ],
+ "Uub": [
+  "ウーブ",
+  "Oob",
+  "Ub"
+ ],
+ "Mai": [
+  "マイ",
+  "Mai"
+ ],
+ "Pilaf": [
+  "ピラフ",
+  "Emperador Pilaf"
+ ],
+ "Android 16": [
+  "人造人間16号",
+  "16号",
+  "Androide 16",
+  "Número 16",
+  "Numero 16",
+  "A16"
+ ],
+ "Dr. Gero": [
+  "ドクター・ゲロ",
+  "Gero",
+  "Doctor Gero",
+  "Dr. Maki Gero",
+  "Android 20",
+  "Androide 20"
+ ],
+ "Babidi": [
+  "バビディ"
+ ],
+ "Dabura": [
+  "ダーブラ",
+  "Dabura",
+  "Dabra"
+ ],
+ "Supreme Kai": [
+  "界王神",
+  "Shin",
+  "Kaioshin",
+  "Kaio Shin",
+  "Supremo Kaiosama"
+ ],
+ "Old Kai": [
+  "老界王神",
+  "Anciano Kaioshin",
+  "Rou Kaioshin",
+  "Elder Kai"
+ ],
+ "Vados": [
+  "ヴァドス",
+  "Vados"
+ ],
+ "Champa": [
+  "シャンパ",
+  "Champa",
+  "Shanpa"
+ ],
+ "Grand Priest": [
+  "大神官",
+  "Daishinkan",
+  "Gran Sacerdote",
+  "Sumo Sacerdote"
+ ],
+ "Super Shenron": [
+  "超神龍",
+  "Súper Shenron",
+  "Super Shen Long",
+  "Zalama"
+ ],
+ "Cabba": [
+  "キャベ",
+  "Cabba",
+  "Kyabe"
+ ],
+ "Frost": [
+  "フロスト",
+  "Frost"
+ ],
+ "Magetta": [
+  "マゲッタ"
+ ],
+ "Botamo": [
+  "ボタモ"
+ ],
+ "Ribrianne": [
+  "リブリアン",
+  "Ribrianne",
+  "Brianne de Chateau"
+ ],
+ "Monaka": [
+  "モナカ"
+ ],
+ "Tapion": [
+  "タピオン",
+  "Tapión"
+ ],
+ "Janemba": [
+  "ジャネンバ",
+  "Janemba"
+ ],
+ "Bojack": [
+  "ボージャック",
+  "Bojack"
+ ],
+ "Turles": [
+  "ターレス",
+  "Tullece",
+  "Turles"
+ ],
+ "Hirudegarn": [
+  "ヒルデガーン",
+  "Hildegarn"
+ ],
+ "Garlic Jr.": [
+  "ガーリックJr.",
+  "Garlic Junior",
+  "Garlic"
+ ],
+ "King Cold": [
+  "コルド大王",
+  "Cold",
+  "Rey Cold",
+  "Rey Frío"
+ ],
+ "King Vegeta": [
+  "ベジータ王",
+  "Rey Vegeta"
+ ],
+ "Fortuneteller Baba": [
+  "占いババ",
+  "Baba",
+  "Uranai Baba",
+  "Adivina Baba"
+ ],
+ "Korin": [
+  "カリン",
+  "Karin",
+  "Maestro Karin",
+  "Karin-sama"
+ ],
+ "Mercenary Tao": [
+  "桃白白",
+  "Tao Pai Pai",
+  "Taopaipai",
+  "Tao"
+ ],
+ "Master Shen": [
+  "鶴仙人",
+  "Tsuru Sennin"
+ ],
+ "Farmer with Shotgun": [
+  "Farmer",
+  "Granjero",
+  "Granjero con escopeta",
+  "Agricultor"
+ ],
+ "Tarble": [
+  "ターブル"
+ ],
+ "Paragus": [
+  "パラガス",
+  "Paragus"
+ ],
+ "Nail": [
+  "ネイル",
+  "Neil"
+ ],
+ "Guru": [
+  "最長老",
+  "Grand Elder",
+  "Gran Patriarca",
+  "Saichoro"
+ ],
+ "Recoome": [
+  "リクーム",
+  "Recoom",
+  "Likum"
+ ],
+ "Burter": [
+  "バータ",
+  "Butta",
+  "Barta"
+ ],
+ "Jeice": [
+  "ジース",
+  "Jheese",
+  "Jeese"
+ ],
+ "Guldo": [
+  "グルド",
+  "Gurd",
+  "Guldo"
+ ],
+ "Cui": [
+  "キュイ"
+ ],
+ "Appule": [
+  "アプール"
+ ],
+ "Saibaman": [
+  "栽培マン",
+  "Saibamen",
+  "Saibaiman"
+ ],
+ "Yamu": [
+  "ヤムー"
+ ],
+ "Spopovich": [
+  "スポポビッチ"
+ ],
+ "Pui Pui": [
+  "プイプイ"
+ ],
+ "Yakon": [
+  "ヤコン"
+ ],
+ "Cell Jr.": [
+  "セルジュニア"
+ ],
+ "Majin Duu": [
+  "魔人ドゥー",
+  "Majin Duu",
+  "Duu"
+ ],
+ "Gomah": [
+  "ゴマー",
+  "Gomah"
+ ],
+ "Glorio": [
+  "グロリオ"
+ ],
+ "Fused Zamasu": [
+  "合体ザマス",
+  "Merged Zamasu",
+  "Zamasu fusionado",
+  "Zamasu Fusión"
+ ],
+ "Super Buu": [
+  "スーパーブウ",
+  "Buuhan",
+  "Buutenks",
+  "Súper Buu",
+  "Super Boo"
+ ],
+ "Kid Buu": [
+  "純粋ブウ",
+  "Pure Buu"
+ ],
+ "Cell Max": [
+  "セルマックス",
+  "Célula Max"
+ ],
+ "Gamma 1": [
+  "ガンマ1号",
+  "Gamma Uno"
+ ],
+ "Gamma 2": [
+  "ガンマ2号",
+  "Gamma Dos"
+ ],
+ "Dr. Hedo": [
+  "Dr.ヘド",
+  "Hedo"
+ ],
+ "Baby": [
+  "ベビー",
+  "Baby Vegeta",
+  "Bebi"
+ ],
+ "Omega Shenron": [
+  "一星龍",
+  "Syn Shenron",
+  "Yi Xing Long",
+  "Li Shenron",
+  "Shenron Omega"
+ ],
+ "Super 17": [
+  "超17号"
+ ],
+ "Android 13": [
+  "人造人間13号"
+ ],
+ "Lord Slug": [
+  "スラッグ",
+  "Slug"
+ ],
+ "Dr. Wheelo": [
+  "ドクター・ウィロー",
+  "Doctor Wheelo",
+  "Doctor Willow",
+  "Dr. Willow"
+ ],
+ "Kid Goku": [
+  "Goku niño"
+ ],
+ "King Piccolo": [
+  "Rey Piccolo",
+  "Piccolo Daimaku",
+  "Piccolo Daimao",
+  "Gran Rey Demonio Piccolo"
+ ],
+ "Grandpa Gohan": [
+  "Abuelo Gohan",
+  "Abuelito Gohan",
+  "Son Gohan (abuelo)"
+ ],
+ "Ox-King": [
+  "Ox Satán",
+  "Ox Satan",
+  "Rey Buey",
+  "Gyumao",
+  "Gyu-Mao"
+ ],
+ "Emperor Pilaf": [
+  "Pilaf",
+  "Emperador Pilaf"
+ ],
+ "Future Trunks": [
+  "Trunks del futuro",
+  "Mirai Trunks",
+  "Trunks del Futuro"
+ ],
+ "Future Gohan": [
+  "Gohan del futuro",
+  "Mirai Gohan"
+ ],
+ "King Enma": [
+  "King Yemma",
+  "Enma Daio",
+  "Enma",
+  "Yemma"
+ ],
+ "Bulla": [
+  "Bra",
+  "Bura"
+ ],
+ "Gine": [
+  "Gine"
+ ],
+ "Cheelai": [
+  "Chirai",
+  "Cheelye"
+ ],
+ "Arale": [
+  "Arale Norimaki",
+  "Arale-chan"
+ ],
+ "Pikkon": [
+  "Paikuhan",
+  "Pikkon"
+ ],
+ "Kibito Kai": [
+  "Kibitoshin",
+  "Kibito Shin"
+ ],
+ "Ginyu": [
+  "Capitán Ginyu",
+  "Captain Ginyu",
+  "Ginew"
+ ],
+ "Vermoud": [
+  "Belmod",
+  "Vermouth"
+ ],
+ "Marcarita": [
+  "Marcarita"
+ ],
+ "Merus": [
+  "Merus"
+ ],
+ "Seven-Three": [
+  "Seven Three",
+  "73",
+  "OG73"
+ ]
+}

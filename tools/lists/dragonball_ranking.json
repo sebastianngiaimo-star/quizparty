@@ -1,0 +1,1065 @@
+{
+ "source": "Combined Borda-style ranking of fan/editorial 'strongest Dragon Ball characters' lists (forms merged per character, best rank kept). Normalization: top-N editorial lists scaled as (rank-1)/160 (vs the 161-entry full-spectrum list) so a #10 in a top-10 list stays near the top; full-spectrum/selected lists (dbfusions, looper, screenrantheroes, skstrength, skrace, thegamernonsaiyan, thegamergods) as (rank-1)/(len-1). Score = mean over sources including the character. Obscure single-source movie/GT/game-only characters trimmed. Final row 'Farmer with Shotgun' appended from official power level (5). SOURCES: [slashfilm] SlashFilm - 20 Strongest Dragon Ball Characters, Ranked By Power (2025-11-11) https://www.slashfilm.com/2022655/dragon-ball-strongest-characters-ranked | [otakusnotes] OtakusNotes - Strongest Dragon Ball characters (2022-10-17) https://otakusnotes.com/strongest-dragon-ball-characters/ - notes: group entries 'Angels' -> Whis, 'Gods of Destruction' -> Beerus | [japanfigure] Japan-Figure - Strongest Dragon Ball characters (2025-08-26 (mod. 2026-02-02)) https://japan-figure.com/blogs/news/strongest-dragon-ball-characters - notes: 'The Angels' -> Whis | [nerdsnack] NerdSnack - Strongest Dragon Ball Characters: Top 15 Ranked (2026) (2026-10-09) https://nerdsnack.com/?p=7540 | [animehunch] AnimeHunch - Top 20 Strongest Dragon Ball Characters (Mortals) Ranked (2023-03-23) https://animehunch.com/top-15-strongest-dragon-ball-mortal-characters-of-all-time/ | [dexerto] Dexerto - Dragon Ball Super: 10 strongest characters ranked (2024-01-26) https://www.dexerto.com/anime/dragon-ball-super-strongest-characters-ranked-2497041/ - notes: 'The Angels' -> Whis | [cbr2025] CBR - The 10 Strongest Dragon Ball Super Characters As Of 2025, Ranked (2025-06-25) https://www.cbr.com/dragon-ball-super-strongest-characters-2025-ranked/ | [cbr2026all] CBR - 10 Strongest Dragon Ball Characters as of 2026, Ranked (2026-01-10) https://www.cbr.com/official-strongest-dragon-ball-characters-as-of-2026/ | [cbr2026super] CBR - 10 Strongest Dragon Ball Super Characters as of 2026, Ranked (2026-01-18) https://www.cbr.com/official-strongest-dragon-ball-super-characters-as-of-2026/ | [cbrforms] CBR - The Strongest Dragon Ball Super Characters & Their Best Form, Ranked (2025-09-03) https://www.cbr.com/most-powerful-dragon-ball-super-characters-strongest-forms-ranked/ - notes: unnumbered ascending list, reversed; 'Gogeta and Vegito' shared entry | [cbrcanon25] CBR - 25 Strongest Canon Dragon Ball Characters, Ranked (entries 25-16 retrievable) (2024-01-11 (upd. 2025-05-26)) https://www.cbr.com/dragon-ball-strongest-canonical-characters-ranked/ | [cbr20] CBR - The 20 Strongest Dragon Ball Characters (entries 20-11 retrievable) (2018-05-07 (upd. 2024-01-28)) https://www.cbr.com/most-powerful-dbz-characters-ranked/ | [gamerantop] Game Rant - Dragon Ball Super: 10 Most Overpowered Characters, Ranked (2026-05-09) https://gamerant.com/dragon-ball-super-most-overpowered-characters-ranked/ - notes: 'Whis & the Angels' -> Whis | [gamerantgod] Game Rant - 12 Strongest God-Tier Dragon Ball Super Characters, Ranked (entries 12-3 retrievable) (2026-04-21) https://gamerant.com/strongest-god-tier-dragon-ball-characters-ranked/ - notes: #4 'Zeno's Attendants' (group) dropped | [gamerant2019] Game Rant - Ranking the most powerful characters in Dragon Ball Z (top 5) (2019-08-25) https://gamerant.com/ranking-most-powerful-characters-dragon-ball-z/ | [screenrantmortal] ScreenRant - Dragon Ball: 10 Strongest Mortal Fighters, Ranked (2025-10-31) https://screenrant.com/dragon-ball-strongest-mortal-fighters-ranked/ | [filibuster] The Filibuster Blog - Ranking the 25 [30] Most Powerful Dragon Ball Characters of All Time (entries 30-11 retrievable) (undated (c. 2025, includes Daima)) https://thefilibusterblog.com/ranking-the-25-most-powerful-dragon-ball-characters-of-all-time/ - notes: #27 'The Tamagami' (group) dropped | [thegamer30] TheGamer - Dragon Ball: The 30 Strongest Characters, Officially Ranked (entries 30-21 retrievable) (2018-07-13) https://www.thegamer.com/dragon-ball-30-strongest-characters-officially-ranked/ - notes: #30 'Pride Troopers' (group) dropped | [thegamermain] TheGamer - Dragon Ball: All Main Characters From Weakest To Strongest, Officially Ranked (entries 25-16 retrievable) (2019-03-28) https://www.thegamer.com/dragon-ball-main-characters-weakest-strongest-officially-ranked/ | [hypebeast] Hypebeast - The Strongest Characters in the Dragon Ball Franchise Right Now (2016-11-11) https://hypebeast.com/2016/11/dragon-ball-strongest-characters - notes: #4 'Zen-Oh's Attendants' (group) dropped | [ciatr] ciatr (JP) - Dragon Ball strength ranking TOP17 (overall list incl. Super/Daima) (2026-09-08) https://ciatr.jp/topics/56564 - notes: 'Universe Zamasu' -> Fused Zamasu; 'Angel' -> Whis; 'God of Destruction' -> Beerus; Goku SSJ4 merged into Goku | [ticket] EntaX / ticket.co.jp (JP) - Dragon Ball strength ranking (2024-09-30 (upd. 2026-07-01)) https://www.ticket.co.jp/entx/?p=3960 | [dbfusions] Dragon Ball Fusions (fan project) - Power Rankings by max ki (161 characters, data from dragonball-api.com) (undated (c(2026) footer)) https://dragonballfusions.com/rankings/ - notes: fan-made; 'Future Bulma' (#156) -> Bulma; 'Elder Kai' -> Old Kai; 'Kibito-Shin' -> Kibito Kai; 'Android 20 (Dr. Gero)' -> Dr. Gero | [looper] Looper - Most Powerful Dragon Ball Characters Ranked (2020-04-15 (upd. 2023-01-30)) https://www.looper.com/201867/most-powerful-dragon-ball-characters-ranked - notes: weakest-first list reversed; 'Trunks' (placed just above Zamasu) -> Future Trunks | [screenrantheroes] ScreenRant - Every Main Dragon Ball Hero Ranked From Weakest To Strongest (2026-01-13) https://screenrant.com/every-main-dragon-ball-hero-ranked-weakest-strongest/ | [skstrength] Sportskeeda - 10 Dragon Ball characters ranked based on strength (undated (June 27)) https://sportskeeda.com/anime/10-dragon-ball-characters-ranked-based-strength | [skrace] Sportskeeda - Dragon Ball: Every race's strongest character ranked (undated) https://sportskeeda.com/anime/dragon-ball-every-race-s-strongest-character-ranked - notes: 'Kid Buu/Super Buu' -> Super Buu | [thegamernonsaiyan] TheGamer - 30 Non-Saiyan Dragon Ball Characters From Weakest To Most Powerful (entries 30-22 retrievable) (2019-04-05) https://www.thegamer.com/dragon-ball-non-saiyan-characters-weak-strong-ranked/ - notes: #21 'Ginyu Force' (group) dropped | [thegamergods] TheGamer - Every Dragon Ball God Ranked From Weakest To Most Powerful (entries 20-12 retrievable) (2018-01-20) https://www.thegamer.com/every-dragon-ball-god-ranked-weakest-powerful/ - notes: #11 ambiguous 'Trunks, Kaioshin Apprentice' skipped | [tail] Kanzenshuu Battle Power databook https://kanzenshuu.com/battle-power/databook (accessed 2026-11-09) | Manual fixes: Syn Shenron merged into Omega Shenron (same character); Cell moved to just below Super Buu.",
+ "unit": "rank",
+ "rows": [
+  {
+   "text": "Zeno",
+   "count": 114,
+   "aliases": [
+    "Zen-Oh",
+    "Zeno-sama",
+    "Omni-King",
+    "Grand Zeno",
+    "Zenō",
+    "Zen'ō"
+   ],
+   "note": "combined normalized rank 0.001 from 12 source(s): slashfilm, otakusnotes, japanfigure, nerdsnack, dexerto, gamerantop, gamerant2019, hypebeast, ciatr, ticket, skstrength, dbfusions"
+  },
+  {
+   "text": "Super Shenron",
+   "count": 113,
+   "aliases": [
+    "Super Shenlong",
+    "Super Dragon"
+   ],
+   "note": "combined normalized rank 0.003 from 2 source(s): skrace, hypebeast"
+  },
+  {
+   "text": "Whis",
+   "count": 112,
+   "aliases": [
+    "Wis"
+   ],
+   "note": "combined normalized rank 0.012 from 12 source(s): looper, slashfilm, japanfigure, dexerto, gamerantop, gamerant2019, otakusnotes, nerdsnack, gamerantgod, ciatr, dbfusions, hypebeast"
+  },
+  {
+   "text": "Vados",
+   "count": 111,
+   "aliases": [
+    "Vadosu"
+   ],
+   "note": "combined normalized rank 0.022 from 2 source(s): dbfusions, hypebeast"
+  },
+  {
+   "text": "Grand Priest",
+   "count": 110,
+   "aliases": [
+    "Daishinkan",
+    "Great Priest",
+    "Grand Minister"
+   ],
+   "note": "combined normalized rank 0.024 from 7 source(s): otakusnotes, nerdsnack, dbfusions, hypebeast, ciatr, ticket, skrace"
+  },
+  {
+   "text": "Gogeta",
+   "count": 109,
+   "aliases": [
+    "Gogita",
+    "Gojita"
+   ],
+   "note": "combined normalized rank 0.027 from 7 source(s): dbfusions, cbrforms, gamerantop, slashfilm, gamerantgod, ticket, ciatr"
+  },
+  {
+   "text": "Beerus",
+   "count": 108,
+   "aliases": [
+    "Birusu",
+    "Bills",
+    "Lord Beerus"
+   ],
+   "note": "combined normalized rank 0.029 from 14 source(s): slashfilm, japanfigure, dexerto, gamerant2019, otakusnotes, nerdsnack, gamerantop, gamerantgod, ticket, ciatr, dbfusions, hypebeast, looper, skstrength"
+  },
+  {
+   "text": "Vermoud",
+   "count": 107,
+   "aliases": [
+    "Belmod"
+   ],
+   "note": "combined normalized rank 0.037 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Vegito",
+   "count": 106,
+   "aliases": [
+    "Vegetto",
+    "Vegerot",
+    "Bejitto"
+   ],
+   "note": "combined normalized rank 0.042 from 8 source(s): cbrforms, slashfilm, gamerantop, gamerantgod, ticket, hypebeast, ciatr, dbfusions"
+  },
+  {
+   "text": "Marcarita",
+   "count": 105,
+   "aliases": [
+    "Marukarita"
+   ],
+   "note": "combined normalized rank 0.044 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Granolah",
+   "count": 104,
+   "aliases": [
+    "Granola"
+   ],
+   "note": "combined normalized rank 0.047 from 9 source(s): screenrantmortal, animehunch, cbr2025, cbr2026all, cbr2026super, japanfigure, otakusnotes, nerdsnack, dbfusions"
+  },
+  {
+   "text": "Gas",
+   "count": 103,
+   "aliases": [
+    "Gass"
+   ],
+   "note": "combined normalized rank 0.050 from 6 source(s): animehunch, otakusnotes, japanfigure, nerdsnack, gamerantop, dbfusions"
+  },
+  {
+   "text": "Goku",
+   "count": 102,
+   "aliases": [
+    "Son Goku",
+    "Kakarot",
+    "Kakarotto",
+    "Son Gokū",
+    "Ultra Instinct Goku",
+    "Goku Ultra Instinct"
+   ],
+   "note": "combined normalized rank 0.053 from 22 source(s): screenrantheroes, cbr2026super, animehunch, screenrantmortal, cbr2025, cbr2026all, dexerto, cbrforms, gamerant2019, otakusnotes, nerdsnack, slashfilm, ticket, japanfigure, ciatr, dbfusions, gamerantgod, filibuster, hypebeast, looper, skstrength, skrace. Best form used (e.g. Goku=UI, Vegeta=Ultra Ego, Frieza=Black, Gohan=Beast)."
+  },
+  {
+   "text": "Vegeta",
+   "count": 101,
+   "aliases": [
+    "Prince Vegeta",
+    "Bejita",
+    "Ultra Ego Vegeta"
+   ],
+   "note": "combined normalized rank 0.058 from 18 source(s): animehunch, cbr2025, cbr2026all, cbrforms, cbr2026super, screenrantmortal, nerdsnack, dexerto, otakusnotes, japanfigure, slashfilm, gamerantgod, dbfusions, hypebeast, ciatr, filibuster, screenrantheroes, looper. Best form used (e.g. Goku=UI, Vegeta=Ultra Ego, Frieza=Black, Gohan=Beast)."
+  },
+  {
+   "text": "Fused Zamasu",
+   "count": 100,
+   "aliases": [
+    "Merged Zamasu",
+    "Universe Zamasu",
+    "Infinite Zamasu"
+   ],
+   "note": "combined normalized rank 0.062 from 8 source(s): ciatr, ticket, japanfigure, hypebeast, slashfilm, filibuster, otakusnotes, cbrcanon25"
+  },
+  {
+   "text": "Champa",
+   "count": 99,
+   "aliases": [
+    "Shampa"
+   ],
+   "note": "combined normalized rank 0.067 from 3 source(s): dexerto, hypebeast, dbfusions"
+  },
+  {
+   "text": "Jiren",
+   "count": 98,
+   "aliases": [
+    "Jiren the Gray"
+   ],
+   "note": "combined normalized rank 0.067 from 18 source(s): gamerant2019, ticket, ciatr, dexerto, cbr2025, cbrforms, screenrantmortal, slashfilm, animehunch, cbr2026super, nerdsnack, cbr2026all, gamerantop, japanfigure, otakusnotes, dbfusions, looper, skstrength"
+  },
+  {
+   "text": "Moro",
+   "count": 97,
+   "aliases": [
+    "Planet Eater Moro"
+   ],
+   "note": "combined normalized rank 0.070 from 7 source(s): japanfigure, animehunch, otakusnotes, nerdsnack, filibuster, cbrcanon25, dbfusions"
+  },
+  {
+   "text": "Broly",
+   "count": 96,
+   "aliases": [
+    "Burori",
+    "Legendary Super Saiyan Broly"
+   ],
+   "note": "combined normalized rank 0.070 from 17 source(s): cbr2026super, cbr2025, cbr2026all, slashfilm, animehunch, cbrforms, gamerantop, screenrantmortal, ticket, otakusnotes, nerdsnack, filibuster, dbfusions, japanfigure, gamerantgod, ciatr, looper"
+  },
+  {
+   "text": "Gohan",
+   "count": 95,
+   "aliases": [
+    "Son Gohan",
+    "Beast Gohan",
+    "Gohan Beast",
+    "Great Saiyaman"
+   ],
+   "note": "combined normalized rank 0.073 from 20 source(s): cbr2025, cbr2026all, cbrforms, cbr2026super, screenrantmortal, animehunch, ticket, slashfilm, nerdsnack, gamerantop, ciatr, gamerantgod, filibuster, dbfusions, japanfigure, otakusnotes, thegamermain, thegamer30, screenrantheroes, looper. Best form used (e.g. Goku=UI, Vegeta=Ultra Ego, Frieza=Black, Gohan=Beast)."
+  },
+  {
+   "text": "Gomah",
+   "count": 94,
+   "aliases": [
+    "Goma",
+    "King Gomah"
+   ],
+   "note": "combined normalized rank 0.081 from 2 source(s): cbr2026all, slashfilm"
+  },
+  {
+   "text": "Frieza",
+   "count": 93,
+   "aliases": [
+    "Freeza",
+    "Furiza",
+    "Black Frieza",
+    "Golden Frieza",
+    "Lord Frieza"
+   ],
+   "note": "combined normalized rank 0.083 from 19 source(s): animehunch, cbr2025, cbr2026all, cbr2026super, cbrforms, screenrantmortal, japanfigure, nerdsnack, gamerantop, ciatr, gamerantgod, dexerto, dbfusions, otakusnotes, hypebeast, slashfilm, looper, skrace, skstrength. Best form used (e.g. Goku=UI, Vegeta=Ultra Ego, Frieza=Black, Gohan=Beast)."
+  },
+  {
+   "text": "Gamma 1",
+   "count": 92,
+   "aliases": [
+    "Gamma1"
+   ],
+   "note": "combined normalized rank 0.085 from 6 source(s): cbr2026super, cbr2025, cbr2026all, animehunch, cbrcanon25, dbfusions"
+  },
+  {
+   "text": "Kefla",
+   "count": 91,
+   "aliases": [
+    "Kefura",
+    "Kale + Caulifla"
+   ],
+   "note": "combined normalized rank 0.087 from 5 source(s): cbrforms, slashfilm, otakusnotes, ciatr, filibuster"
+  },
+  {
+   "text": "Toppo",
+   "count": 90,
+   "aliases": [
+    "Top"
+   ],
+   "note": "combined normalized rank 0.089 from 15 source(s): dexerto, screenrantmortal, animehunch, cbr2025, cbr2026super, cbr20, japanfigure, slashfilm, nerdsnack, otakusnotes, ciatr, dbfusions, cbrcanon25, filibuster, looper"
+  },
+  {
+   "text": "Cell Max",
+   "count": 89,
+   "aliases": [
+    "Cellmax"
+   ],
+   "note": "combined normalized rank 0.101 from 5 source(s): animehunch, slashfilm, filibuster, otakusnotes, dbfusions"
+  },
+  {
+   "text": "Omega Shenron",
+   "count": 88,
+   "aliases": [
+    "Omega Shenlong",
+    "Syn Shenron Omega",
+    "Syn Shenron",
+    "Yi Xing Long",
+    "一星龍",
+    "Ii Shenron",
+    "Ii Shinron"
+   ],
+   "note": "combined normalized rank 0.106 from 1 source(s): slashfilm [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Merus",
+   "count": 87,
+   "aliases": [
+    "Meerus"
+   ],
+   "note": "combined normalized rank 0.117 from 3 source(s): otakusnotes, dbfusions, filibuster"
+  },
+  {
+   "text": "Dyspo",
+   "count": 86,
+   "aliases": [
+    "Dispo"
+   ],
+   "note": "combined normalized rank 0.120 from 4 source(s): screenrantmortal, animehunch, cbrcanon25, dbfusions"
+  },
+  {
+   "text": "Hit",
+   "count": 85,
+   "aliases": [
+    "Hitto"
+   ],
+   "note": "combined normalized rank 0.123 from 11 source(s): dexerto, cbr20, hypebeast, nerdsnack, japanfigure, animehunch, cbrcanon25, otakusnotes, filibuster, dbfusions, looper"
+  },
+  {
+   "text": "Goku Black",
+   "count": 84,
+   "aliases": [
+    "Black Goku",
+    "Black"
+   ],
+   "note": "combined normalized rank 0.123 from 4 source(s): hypebeast, filibuster, cbrcanon25, dbfusions"
+  },
+  {
+   "text": "Gamma 2",
+   "count": 83,
+   "aliases": [
+    "Gamma2"
+   ],
+   "note": "combined normalized rank 0.127 from 3 source(s): animehunch, cbrcanon25, dbfusions"
+  },
+  {
+   "text": "Seven-Three",
+   "count": 82,
+   "aliases": [
+    "73",
+    "OG73-i",
+    "Seven Three"
+   ],
+   "note": "combined normalized rank 0.128 from 2 source(s): animehunch, filibuster"
+  },
+  {
+   "text": "Majin Duu",
+   "count": 81,
+   "aliases": [
+    "Majin Dū",
+    "Majin Duu (Daima)"
+   ],
+   "note": "combined normalized rank 0.156 from 1 source(s): filibuster [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Gotenks",
+   "count": 80,
+   "aliases": [
+    "Gotenkusu"
+   ],
+   "note": "combined normalized rank 0.181 from 4 source(s): cbrforms, thegamermain, filibuster, dbfusions"
+  },
+  {
+   "text": "Kale",
+   "count": 79,
+   "aliases": [
+    "Kare",
+    "Berserker Kale"
+   ],
+   "note": "combined normalized rank 0.188 from 4 source(s): cbr20, dbfusions, animehunch, looper"
+  },
+  {
+   "text": "Piccolo",
+   "count": 78,
+   "aliases": [
+    "Piccolo Jr.",
+    "Ma Junior",
+    "Orange Piccolo",
+    "Pikkoro"
+   ],
+   "note": "combined normalized rank 0.204 from 15 source(s): cbr2025, cbr2026all, cbr2026super, cbrforms, screenrantmortal, animehunch, slashfilm, cbrcanon25, filibuster, otakusnotes, dbfusions, thegamer30, screenrantheroes, looper, skrace"
+  },
+  {
+   "text": "Majin Buu",
+   "count": 77,
+   "aliases": [
+    "Fat Buu",
+    "Good Buu",
+    "Mr. Buu",
+    "Majin Boo",
+    "Majin Bū"
+   ],
+   "note": "combined normalized rank 0.207 from 9 source(s): animehunch, cbr20, filibuster, otakusnotes, thegamermain, thegamer30, dbfusions, looper, skstrength"
+  },
+  {
+   "text": "Future Trunks",
+   "count": 76,
+   "aliases": [
+    "Mirai Trunks",
+    "Trunks (Future)"
+   ],
+   "note": "combined normalized rank 0.212 from 7 source(s): cbr20, ciatr, dbfusions, hypebeast, animehunch, looper, screenrantheroes"
+  },
+  {
+   "text": "Caulifla",
+   "count": 75,
+   "aliases": [
+    "Kaulifla",
+    "Califla"
+   ],
+   "note": "combined normalized rank 0.215 from 6 source(s): cbr20, thegamermain, animehunch, dbfusions, thegamer30, looper"
+  },
+  {
+   "text": "Ribrianne",
+   "count": 74,
+   "aliases": [
+    "Brianne de Chateau",
+    "Ribrianne (Brianne)"
+   ],
+   "note": "combined normalized rank 0.225 from 2 source(s): thegamer30, dbfusions"
+  },
+  {
+   "text": "Frost",
+   "count": 73,
+   "aliases": [
+    "Furosuto"
+   ],
+   "note": "combined normalized rank 0.234 from 2 source(s): thegamer30, dbfusions"
+  },
+  {
+   "text": "Android 17",
+   "count": 72,
+   "aliases": [
+    "C-17",
+    "Lapis",
+    "Jinzōningen 17-gō",
+    "Number 17"
+   ],
+   "note": "combined normalized rank 0.236 from 10 source(s): slashfilm, animehunch, thegamermain, cbr20, cbrcanon25, thegamer30, filibuster, dbfusions, looper, skrace"
+  },
+  {
+   "text": "Hirudegarn",
+   "count": 71,
+   "aliases": [
+    "Hildegarn",
+    "Hirudegaan"
+   ],
+   "note": "combined normalized rank 0.247 from 2 source(s): thegamermain, dbfusions"
+  },
+  {
+   "text": "Cooler",
+   "count": 70,
+   "aliases": [
+    "Kūra",
+    "Coola"
+   ],
+   "note": "combined normalized rank 0.250 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Baby",
+   "count": 69,
+   "aliases": [
+    "Bebi",
+    "Baby Vegeta"
+   ],
+   "note": "combined normalized rank 0.254 from 3 source(s): slashfilm, dbfusions, skrace"
+  },
+  {
+   "text": "Zamasu",
+   "count": 68,
+   "aliases": [
+    "Zamas",
+    "Future Zamasu"
+   ],
+   "note": "combined normalized rank 0.256 from 3 source(s): hypebeast, dbfusions, looper"
+  },
+  {
+   "text": "Janemba",
+   "count": 67,
+   "aliases": [
+    "Janenba"
+   ],
+   "note": "combined normalized rank 0.259 from 2 source(s): thegamermain, dbfusions"
+  },
+  {
+   "text": "Cabba",
+   "count": 66,
+   "aliases": [
+    "Kyabe",
+    "Caba"
+   ],
+   "note": "combined normalized rank 0.281 from 5 source(s): thegamermain, cbr20, thegamer30, dbfusions, looper"
+  },
+  {
+   "text": "Super Buu",
+   "count": 65,
+   "aliases": [
+    "Kid Buu",
+    "Pure Buu",
+    "Evil Buu",
+    "Majin Buu (Super)",
+    "Super Boo",
+    "Kid Boo"
+   ],
+   "note": "combined normalized rank 0.334 from 2 source(s): thegamermain, skrace"
+  },
+  {
+   "text": "Cell",
+   "count": 64,
+   "aliases": [
+    "Seru",
+    "Perfect Cell",
+    "Imperfect Cell"
+   ],
+   "note": "combined normalized rank 0.554 from 3 source(s): dbfusions, looper, skstrength | MANUAL FIX: moved up to just below Super Buu — the merged sources placed Cell below Tien and Android 18, which contradicts the series."
+  },
+  {
+   "text": "Android 18",
+   "count": 63,
+   "aliases": [
+    "C-18",
+    "Lazuli",
+    "Number 18"
+   ],
+   "note": "combined normalized rank 0.356 from 2 source(s): thegamer30, dbfusions"
+  },
+  {
+   "text": "Dabura",
+   "count": 62,
+   "aliases": [
+    "Dabra",
+    "Demon King Dabura"
+   ],
+   "note": "combined normalized rank 0.417 from 5 source(s): thegamermain, filibuster, dbfusions, looper, skrace"
+  },
+  {
+   "text": "Bojack",
+   "count": 61,
+   "aliases": [
+    "Boujack",
+    "Bojack the Unbound"
+   ],
+   "note": "combined normalized rank 0.419 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Future Gohan",
+   "count": 60,
+   "aliases": [
+    "Mirai Gohan"
+   ],
+   "note": "combined normalized rank 0.444 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Goten",
+   "count": 59,
+   "aliases": [
+    "Son Goten"
+   ],
+   "note": "combined normalized rank 0.446 from 3 source(s): cbr20, dbfusions, screenrantheroes"
+  },
+  {
+   "text": "Pan",
+   "count": 58,
+   "aliases": [
+    "Son Pan"
+   ],
+   "note": "combined normalized rank 0.450 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Kibito Kai",
+   "count": 57,
+   "aliases": [
+    "Kibitoshin",
+    "Kibito-Shin"
+   ],
+   "note": "combined normalized rank 0.456 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Pikkon",
+   "count": 56,
+   "aliases": [
+    "Paikuhan"
+   ],
+   "note": "combined normalized rank 0.463 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Arale",
+   "count": 55,
+   "aliases": [
+    "Arale Norimaki",
+    "Norimaki Arale"
+   ],
+   "note": "combined normalized rank 0.500 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Bardock",
+   "count": 54,
+   "aliases": [
+    "Burdock",
+    "Bādakku"
+   ],
+   "note": "combined normalized rank 0.525 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Android 16",
+   "count": 53,
+   "aliases": [
+    "C-16",
+    "Number 16"
+   ],
+   "note": "combined normalized rank 0.531 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Tien",
+   "count": 52,
+   "aliases": [
+    "Tenshinhan",
+    "Tien Shinhan",
+    "Ten Shin Han",
+    "Tenshin-han"
+   ],
+   "note": "combined normalized rank 0.543 from 3 source(s): cbr20, dbfusions, looper"
+  },
+  {
+   "text": "Trunks",
+   "count": 51,
+   "aliases": [
+    "Kid Trunks",
+    "Present Trunks"
+   ],
+   "note": "combined normalized rank 0.569 from 2 source(s): dbfusions, screenrantheroes"
+  },
+  {
+   "text": "Supreme Kai",
+   "count": 50,
+   "aliases": [
+    "Shin",
+    "Kaioshin",
+    "East Supreme Kai",
+    "Kaiōshin"
+   ],
+   "note": "combined normalized rank 0.579 from 1 source(s): thegamergods [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Dr. Gero",
+   "count": 49,
+   "aliases": [
+    "Android 20",
+    "Dr. Gero (Android 20)",
+    "Doctor Gero",
+    "C-20"
+   ],
+   "note": "combined normalized rank 0.588 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Lord Slug",
+   "count": 48,
+   "aliases": [
+    "Slug",
+    "Slugger"
+   ],
+   "note": "combined normalized rank 0.600 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "King Cold",
+   "count": 47,
+   "aliases": [
+    "Cold Daiō",
+    "King Kold"
+   ],
+   "note": "combined normalized rank 0.606 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Tapion",
+   "count": 46,
+   "aliases": [
+    "Tapiyon"
+   ],
+   "note": "combined normalized rank 0.613 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Old Kai",
+   "count": 45,
+   "aliases": [
+    "Elder Kai",
+    "Elder Supreme Kai",
+    "Old Kaioshin",
+    "Rō Kaiōshin"
+   ],
+   "note": "combined normalized rank 0.628 from 2 source(s): dbfusions, thegamergods"
+  },
+  {
+   "text": "Turles",
+   "count": 44,
+   "aliases": [
+    "Tāresu",
+    "Tullece",
+    "Tarles"
+   ],
+   "note": "combined normalized rank 0.637 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Ginyu",
+   "count": 43,
+   "aliases": [
+    "Captain Ginyu",
+    "Giniu"
+   ],
+   "note": "combined normalized rank 0.644 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Paragus",
+   "count": 42,
+   "aliases": [
+    "Paragas"
+   ],
+   "note": "combined normalized rank 0.656 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Recoome",
+   "count": 41,
+   "aliases": [
+    "Recoom",
+    "Rikūmu"
+   ],
+   "note": "combined normalized rank 0.662 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Burter",
+   "count": 40,
+   "aliases": [
+    "Butta",
+    "Bātā",
+    "Bata"
+   ],
+   "note": "combined normalized rank 0.669 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Garlic Jr.",
+   "count": 39,
+   "aliases": [
+    "Garlic Junior"
+   ],
+   "note": "combined normalized rank 0.673 from 2 source(s): dbfusions, thegamernonsaiyan"
+  },
+  {
+   "text": "Jeice",
+   "count": 38,
+   "aliases": [
+    "Jheese",
+    "Jīsu"
+   ],
+   "note": "combined normalized rank 0.675 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Nail",
+   "count": 37,
+   "aliases": [
+    "Neil",
+    "Neiru"
+   ],
+   "note": "combined normalized rank 0.681 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Zarbon",
+   "count": 36,
+   "aliases": [
+    "Zābon",
+    "Zarbon-san"
+   ],
+   "note": "combined normalized rank 0.709 from 2 source(s): dbfusions, thegamernonsaiyan"
+  },
+  {
+   "text": "King Kai",
+   "count": 35,
+   "aliases": [
+    "Kaio",
+    "North Kai",
+    "Kaiō-sama",
+    "Lord King Kai"
+   ],
+   "note": "combined normalized rank 0.717 from 2 source(s): thegamergods, dbfusions"
+  },
+  {
+   "text": "Guldo",
+   "count": 34,
+   "aliases": [
+    "Gurd",
+    "Gurdo"
+   ],
+   "note": "combined normalized rank 0.719 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Kami",
+   "count": 33,
+   "aliases": [
+    "Kami-sama",
+    "God (Kami)"
+   ],
+   "note": "combined normalized rank 0.725 from 2 source(s): dbfusions, thegamergods"
+  },
+  {
+   "text": "Dodoria",
+   "count": 32,
+   "aliases": [
+    "Dodoria-san"
+   ],
+   "note": "combined normalized rank 0.732 from 2 source(s): dbfusions, thegamernonsaiyan"
+  },
+  {
+   "text": "Dr. Wheelo",
+   "count": 31,
+   "aliases": [
+    "Dr. Willow",
+    "Doctor Wheelo"
+   ],
+   "note": "combined normalized rank 0.740 from 2 source(s): dbfusions, thegamernonsaiyan"
+  },
+  {
+   "text": "Yamcha",
+   "count": 30,
+   "aliases": [
+    "Yamucha",
+    "Yamuchā"
+   ],
+   "note": "combined normalized rank 0.753 from 3 source(s): dbfusions, skstrength, thegamernonsaiyan"
+  },
+  {
+   "text": "Master Roshi",
+   "count": 29,
+   "aliases": [
+    "Muten Roshi",
+    "Kame-Sennin",
+    "Turtle Hermit",
+    "Kamesennin"
+   ],
+   "note": "combined normalized rank 0.753 from 3 source(s): dbfusions, looper, thegamernonsaiyan"
+  },
+  {
+   "text": "Uub",
+   "count": 28,
+   "aliases": [
+    "Oob",
+    "Majuub",
+    "Ūbu"
+   ],
+   "note": "combined normalized rank 0.765 from 3 source(s): dbfusions, skstrength, skrace"
+  },
+  {
+   "text": "Nappa",
+   "count": 27,
+   "aliases": [
+    "Nappā"
+   ],
+   "note": "combined normalized rank 0.775 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Krillin",
+   "count": 26,
+   "aliases": [
+    "Kuririn",
+    "Kulilin",
+    "Clillin"
+   ],
+   "note": "combined normalized rank 0.776 from 3 source(s): dbfusions, screenrantheroes, looper"
+  },
+  {
+   "text": "King Enma",
+   "count": 25,
+   "aliases": [
+    "Enma Daiō",
+    "King Yemma",
+    "Great Enma",
+    "Yemma"
+   ],
+   "note": "combined normalized rank 0.789 from 1 source(s): thegamergods [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Cheelai",
+   "count": 24,
+   "aliases": [
+    "Chirai",
+    "Chīrai"
+   ],
+   "note": "combined normalized rank 0.794 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "King Piccolo",
+   "count": 23,
+   "aliases": [
+    "Piccolo Daimao",
+    "Demon King Piccolo",
+    "Piccolo Daimaō"
+   ],
+   "note": "combined normalized rank 0.825 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Mr. Popo",
+   "count": 22,
+   "aliases": [
+    "Popo",
+    "Mister Popo"
+   ],
+   "note": "combined normalized rank 0.830 from 2 source(s): dbfusions, thegamergods"
+  },
+  {
+   "text": "Gine",
+   "count": 21,
+   "aliases": [
+    "Gina"
+   ],
+   "note": "combined normalized rank 0.838 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Guru",
+   "count": 20,
+   "aliases": [
+    "Grand Elder Guru",
+    "Saichōrō",
+    "Grand Elder"
+   ],
+   "note": "combined normalized rank 0.843 from 2 source(s): thegamergods, dbfusions"
+  },
+  {
+   "text": "Mercenary Tao",
+   "count": 19,
+   "aliases": [
+    "Tao Pai Pai",
+    "Taopaipai",
+    "General Tao"
+   ],
+   "note": "combined normalized rank 0.844 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Chiaotzu",
+   "count": 18,
+   "aliases": [
+    "Chaozu",
+    "Chaoz",
+    "Chiaozu"
+   ],
+   "note": "combined normalized rank 0.864 from 2 source(s): dbfusions, thegamernonsaiyan"
+  },
+  {
+   "text": "Yajirobe",
+   "count": 17,
+   "aliases": [
+    "Yajirobē"
+   ],
+   "note": "combined normalized rank 0.875 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Mr. Satan",
+   "count": 16,
+   "aliases": [
+    "Hercule",
+    "Hercule Satan",
+    "Mister Satan",
+    "Mark"
+   ],
+   "note": "combined normalized rank 0.884 from 2 source(s): dbfusions, looper"
+  },
+  {
+   "text": "Bulla",
+   "count": 15,
+   "aliases": [
+    "Bra"
+   ],
+   "note": "combined normalized rank 0.887 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Saibaman",
+   "count": 14,
+   "aliases": [
+    "Saibamen",
+    "Saibaiman",
+    "Saibai-man"
+   ],
+   "note": "combined normalized rank 0.889 from 2 source(s): dbfusions, thegamernonsaiyan"
+  },
+  {
+   "text": "Dende",
+   "count": 13,
+   "aliases": [
+    "Dendē"
+   ],
+   "note": "combined normalized rank 0.891 from 2 source(s): dbfusions, thegamergods"
+  },
+  {
+   "text": "Raditz",
+   "count": 12,
+   "aliases": [
+    "Radditz",
+    "Raditzu"
+   ],
+   "note": "combined normalized rank 0.900 from 2 source(s): dbfusions, skstrength"
+  },
+  {
+   "text": "Grandpa Gohan",
+   "count": 11,
+   "aliases": [
+    "Son Gohan (grandpa)",
+    "Gohan's grandfather"
+   ],
+   "note": "combined normalized rank 0.900 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Korin",
+   "count": 10,
+   "aliases": [
+    "Karin",
+    "Karin-sama",
+    "Master Korin"
+   ],
+   "note": "combined normalized rank 0.908 from 2 source(s): dbfusions, thegamergods"
+  },
+  {
+   "text": "Ox-King",
+   "count": 9,
+   "aliases": [
+    "Gyumao",
+    "Gyū-Maō",
+    "Ox King"
+   ],
+   "note": "combined normalized rank 0.919 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Mai",
+   "count": 8,
+   "aliases": [
+    "Mai (Pilaf gang)"
+   ],
+   "note": "combined normalized rank 0.944 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Bulma",
+   "count": 7,
+   "aliases": [
+    "Buruma",
+    "Bulma Briefs"
+   ],
+   "note": "combined normalized rank 0.948 from 3 source(s): looper, dbfusions, screenrantheroes"
+  },
+  {
+   "text": "Videl",
+   "count": 6,
+   "aliases": [
+    "Bidel",
+    "Bīderu"
+   ],
+   "note": "combined normalized rank 0.956 from 2 source(s): dbfusions, thegamernonsaiyan"
+  },
+  {
+   "text": "Fortuneteller Baba",
+   "count": 5,
+   "aliases": [
+    "Uranai Baba",
+    "Baba",
+    "Fortune Teller Baba"
+   ],
+   "note": "combined normalized rank 0.981 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Oolong",
+   "count": 4,
+   "aliases": [
+    "Ūron",
+    "Oolon"
+   ],
+   "note": "combined normalized rank 0.988 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Emperor Pilaf",
+   "count": 3,
+   "aliases": [
+    "Pilaf",
+    "Pilaf-sama"
+   ],
+   "note": "combined normalized rank 0.994 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Puar",
+   "count": 2,
+   "aliases": [
+    "Pu'ar",
+    "Pūaru"
+   ],
+   "note": "combined normalized rank 1.000 from 1 source(s): dbfusions [SINGLE-SOURCE placement]"
+  },
+  {
+   "text": "Farmer with Shotgun",
+   "count": 1,
+   "aliases": [
+    "Farmer",
+    "Shotgun Farmer",
+    "Farmer with a shotgun"
+   ],
+   "note": "[OFFICIAL-POWER-LEVEL TAIL, not from fan rankings] official scouter reading 5 (manga, ch. 196; via Kanzenshuu battle-power databook https://kanzenshuu.com/battle-power/databook) - below Puar (10), Oolong (10), Bulma (12)"
+  }
+ ]
+}

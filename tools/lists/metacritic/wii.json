@@ -1,0 +1,331 @@
+{
+ "platform": "Wii",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/wii/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "Super Mario Galaxy 2",
+   "count": 98,
+   "aliases": [
+    "Galaxy 2",
+    "Mario Galaxy 2",
+    "SMG2"
+   ]
+  },
+  {
+   "text": "Super Mario Galaxy",
+   "count": 97,
+   "aliases": [
+    "Galaxy",
+    "Mario Galaxy",
+    "SMG"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Twilight Princess",
+   "count": 95,
+   "aliases": [
+    "Legend of Zelda: Twilight Princess",
+    "Twilight Princess",
+    "Zelda Twilight Princess"
+   ]
+  },
+  {
+   "text": "World of Goo",
+   "count": 94,
+   "aliases": [
+    "WoG"
+   ]
+  },
+  {
+   "text": "Super Smash Bros. Brawl",
+   "count": 93,
+   "aliases": [
+    "Brawl",
+    "Smash",
+    "Smash Brawl",
+    "Smash Bros Brawl",
+    "SSBB"
+   ]
+  },
+  {
+   "text": "The Legend of Zelda: Skyward Sword",
+   "count": 93,
+   "aliases": [
+    "Legend of Zelda: Skyward Sword",
+    "Skyward Sword",
+    "Zelda Skyward Sword"
+   ]
+  },
+  {
+   "text": "Rock Band 2",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Xenoblade Chronicles",
+   "count": 92,
+   "aliases": [
+    "XC1",
+    "Xenoblade"
+   ]
+  },
+  {
+   "text": "Rayman Origins",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Rock Band 3",
+   "count": 91,
+   "aliases": []
+  },
+  {
+   "text": "Metroid Prime Trilogy",
+   "count": 91,
+   "aliases": [
+    "MP Trilogy"
+   ]
+  },
+  {
+   "text": "Resident Evil 4",
+   "count": 91,
+   "aliases": [
+    "RE 4",
+    "RE4",
+    "Resident Evil 4",
+    "Resident Evil 4 (2005)"
+   ]
+  },
+  {
+   "text": "Okami",
+   "count": 90,
+   "aliases": []
+  },
+  {
+   "text": "Metroid Prime 3: Corruption",
+   "count": 90,
+   "aliases": [
+    "Corruption",
+    "Metroid Prime 3"
+   ]
+  },
+  {
+   "text": "The Beatles: Rock Band",
+   "count": 89,
+   "aliases": [
+    "Beatles: Rock Band"
+   ]
+  },
+  {
+   "text": "Cave Story",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "Guitar Hero 5",
+   "count": 89,
+   "aliases": []
+  },
+  {
+   "text": "DJ Hero 2",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Tiger Woods PGA Tour 10",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "Art of Balance",
+   "count": 88,
+   "aliases": []
+  },
+  {
+   "text": "La-Mulana",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "New Super Mario Bros. Wii",
+   "count": 87,
+   "aliases": [
+    "NSMB Wii",
+    "NSMBW"
+   ]
+  },
+  {
+   "text": "DJ Hero",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Donkey Kong Country Returns",
+   "count": 87,
+   "aliases": [
+    "DKC Returns",
+    "DKCR"
+   ]
+  },
+  {
+   "text": "Zack & Wiki: Quest for Barbaros' Treasure",
+   "count": 87,
+   "aliases": [
+    "Quest for Barbaros' Treasure",
+    "Zack and Wiki"
+   ]
+  },
+  {
+   "text": "Little King's Story",
+   "count": 87,
+   "aliases": []
+  },
+  {
+   "text": "Sin & Punishment: Star Successor",
+   "count": 87,
+   "aliases": [
+    "Sin and Punishment 2",
+    "Star Successor"
+   ]
+  },
+  {
+   "text": "LostWinds: Winter of the Melodias",
+   "count": 86,
+   "aliases": [
+    "Winter of the Melodias"
+   ]
+  },
+  {
+   "text": "Bomberman Blast",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Kirby's Epic Yarn",
+   "count": 86,
+   "aliases": [
+    "Epic Yarn"
+   ]
+  },
+  {
+   "text": "Boom Blox Bash Party",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Fluidity",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Punch-Out!!",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Guitar Hero World Tour",
+   "count": 86,
+   "aliases": [
+    "Guitar Hero World Tour",
+    "Guitar Hero World Tour (2008)"
+   ]
+  },
+  {
+   "text": "Guitar Hero III: Legends of Rock",
+   "count": 86,
+   "aliases": [
+    "GH3",
+    "Guitar Hero 3",
+    "Guitar Hero 3: Legends of Rock",
+    "Guitar Hero III"
+   ]
+  },
+  {
+   "text": "Tetris Party",
+   "count": 86,
+   "aliases": []
+  },
+  {
+   "text": "Tatsunoko vs. Capcom: Ultimate All-Stars",
+   "count": 85,
+   "aliases": [
+    "Tatsunoko vs. Capcom",
+    "TvC"
+   ]
+  },
+  {
+   "text": "Maboshi's Arcade",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Super Paper Mario",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Guitar Hero: Metallica",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Boom Blox",
+   "count": 85,
+   "aliases": []
+  },
+  {
+   "text": "Tiger Woods PGA Tour 12: The Masters",
+   "count": 85,
+   "aliases": [
+    "Tiger Woods PGA Tour 12"
+   ]
+  },
+  {
+   "text": "Tiger Woods PGA Tour 11",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Pro Evolution Soccer 2009",
+   "count": 84,
+   "aliases": [
+    "PES 2009",
+    "PES2009"
+   ]
+  },
+  {
+   "text": "Monster Hunter Tri",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "No More Heroes 2: Desperate Struggle",
+   "count": 84,
+   "aliases": [
+    "Desperate Struggle",
+    "No More Heroes 2"
+   ]
+  },
+  {
+   "text": "Bit.Trip Complete / THE BIT.TRIP",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "Swords & Soldiers",
+   "count": 84,
+   "aliases": []
+  },
+  {
+   "text": "No More Heroes",
+   "count": 83,
+   "aliases": []
+  },
+  {
+   "text": "MLB Power Pros",
+   "count": 83,
+   "aliases": []
+  }
+ ]
+}

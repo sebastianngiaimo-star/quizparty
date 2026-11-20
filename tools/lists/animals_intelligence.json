@@ -1,0 +1,745 @@
+{
+ "source": "Meta-ranking of published 'smartest animals' lists (fetched 2026-11-09). No single scientific intelligence score exists; this combines editorial rankings the way a meta-ranking does.\n\nEDITORIAL 'SMARTEST' LISTS USED (16):\n  [SF] BBC Science Focus - \"Top 10 smartest animals in the world\" (2023-07-13), 10 entries, ranked: numbered 1-10 (article hedges that scientists don't formally rank species); Humans listed #10. https://www.sciencefocus.com/nature/smartest-animals\n  [LS] Live Science - \"32 of the world's smartest animals\" (2024-09-25), 32 entries, appearance: unnumbered; order of appearance (tagged 'Countdowns'); Humans listed last (#32). https://www.livescience.com/animals/32-of-the-smartest-animals-in-the-world\n  [MF] Mental Floss - \"Top 5 Smartest Animals in the World, Ranked by Intelligence\" (2026-01-29), 9 entries, ranked: ranked 1-5; four 'honorable mentions' appended as positions 6-9 in order of mention. https://www.mentalfloss.com/animals/smartest-animals-in-the-world\n  [AZ] A-Z Animals - \"The 10 Smartest Animals in the World - Updated 2024 Rankings\" (2024-06-01 (updated 2025-06-03)), 13 entries, ranked: countdown 10->1 (Orangutan #1); three 'honorable mentions' appended as positions 11-13. https://a-z-animals.com/blog/the-10-smartest-animals-in-the-world/\n  [DW] BBC Wildlife / Discover Wildlife - \"10 smartest animals on the planet\" (2025-11-24), 10 entries, appearance: unnumbered; order of appearance. https://www.discoverwildlife.com/animal-facts/smartest-animals\n  [BI] Business Insider India - \"The Smartest Animals On The Planet\" (undated (c. 2014)), 9 entries, appearance: unnumbered; order of appearance; article says it offers no definitive ranking. https://www.businessinsider.in/the-smartest-animals-on-the-planet/articleshow/34125571.cms\n  [RD] Reader's Digest Australia - \"15 animals that are probably smarter than you\" (modified 2024-01-09), 14 entries, appearance: unnumbered; order of appearance; 14 entries found on page. https://www.readersdigest.com.au/news-articles/15-animals-that-are-probably-smarter-than-you\n  [AFF] Animal Fun Facts (tierchenwelt) - \"Top 16 Most Intelligent Animals in the World\" (updated 2026-04-22), 16 entries, ranked: numbered 1-16 ('Top 16'); page does not state ranking criteria. https://www.animalfunfacts.net/knowledge/top-lists/326-smartest-animals-in-the-world.html\n  [CW] The Cold Wire - \"Top 20 Smartest Animals In The World\" (undated), 20 entries, ranked: explicitly ranked 1-20. https://www.thecoldwire.com/smartest-animals-in-the-world/\n  [TR] TRVST - \"Top 12 Smartest Animals In The World That Will Impress You\" (2024-05-08 (updated 2024-12-08)), 12 entries, ranked: numbered 1-12 ('Top 12'); no stated criteria. https://www.trvst.world/biodiversity/smartest-animals/\n  [WN] Wildlife Nomads - \"Top 12 Smartest Animals in the World (You'll Be Surprised!)\" (2025-05-31 (updated 2026-11-08)), 12 entries, ranked: numbered 1-12; entry 6 'Great Apes' covers gorillas, orangutans, bonobos and (as a subsection) chimpanzees. https://www.wildlifenomads.com/blog/top-smartest-intelligent-animals\n  [ST] Science Times - \"10 Smartest Animals on Earth: Incredible Intelligence, Tool Use, and Problem-Solving Skills\" (2026-01-09), 10 entries, ranked: explicitly ranked 01-10. https://www.sciencetimes.com/articles/61105/20260109/10-smartest-animals-earth-incredible-intelligence-tool-use-problem-solving-skills.htm\n  [BP] Bored Panda - \"These Are Some Of The Smartest Animals Ever Studied, According To Science\" (2025-11-19), 17 entries, ranked: numbered 1-17; order reflects reader up-votes (points 8 down to 2). https://www.boredpanda.com/smartest-animals/\n  [PS] Popular Science - \"What are the smartest animals in the world, and how do we know?\" (2018-03-30), 7 entries, appearance: unnumbered; order of appearance. https://www.popsci.com/worlds-smartest-animals/\n  [DM] Discover Magazine - \"5 of the World's Most Intelligent Animals\" (2022-03-04), 5 entries, appearance: unnumbered; order of appearance. https://www.discovermagazine.com/planet-earth/5-of-the-worlds-most-intelligent-animals\n  [AF] Africa Freak - \"Top 25 smartest animals in the world\" (2022-07-15 (updated 2024-07-04)), 25 entries, ranked: explicitly ranked (T-1 tie: Chimpanzee & Bonobo; no #2). https://africafreak.com/smartest-animals\n\n'LEAST INTELLIGENT' LISTS (tail only):\n  [RP] Ranger Planet - \"11 Most Dumbest Animals on the Planet, and Why!\" (2022-01-05 (updated 2022-01-31)), ranked: explicit countdown 11->1, #1 = dumbest (Sloth). https://rangerplanet.com/dumbest-animals-on-the-planet\n  [AZD] A-Z Animals - \"The 13 Least Intelligent Animals in the World (2025 Edition)\" (2024-06-10 (updated 2025-06-02)), unordered: numbered but stated to be 'in no particular order' (membership only). https://a-z-animals.com/animals/lists/dumbest-animals/\n  [BR] Briefly News - \"Top 11 dumbest animals in the world: a surprising list with facts and pictures\" (undated), numbered: numbered 1-11 but not stated to be a ranking (membership only). https://briefly.co.za/facts-lifehacks/top/189763-top-dumbest-animals-world-a-surprising-list-facts-pictures\n  [AZM] A-Z Animals - \"Dumbest Mammals\" (2022-09-20), unordered: unnumbered collection (membership only). https://a-z-animals.com/blog/dumbest-mammals/\n\nNEURON-COUNT PROXY (tail only): [WP] Wikipedia - \"List of animals by number of neurons\" (fetched 2026-11-09): whole-brain / whole-nervous-system neuron counts (Table 2); used ONLY to order animals that no editorial list covers. https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons\n\nMETHOD: For every editorial list, each animal's placement is normalized to 0..1 as (rank-1)/(len-1) (0 = top of that list; 'ranked' lists use the source's numbering, 'appearance' lists use order of appearance on the page). Combined headings (e.g. 'Crows and ravens') give the same placement to each named animal; 'honorable mentions' are appended after the ranked entries in order of mention. Species are mapped to a common display name (bottlenose dolphin -> Dolphin; African/Asian elephant -> Elephant; sperm/humpback whale -> Whale; Border collie -> Dog; monitor lizards -> Komodo dragon; bumblebee/honeybee -> Honey bee; parrots -> African grey parrot; 'Cat (lions)' -> Cat; 'Monkey (baboons & mandrills)' -> Baboon; Long Evans rat -> Rat; jumping spider -> Portia spider). Crow and Raven are kept separate because several sources list them separately. Ordering, smartest first: (1) CONSENSUS rows = animals in >=3 editorial lists, by mean normalized rank (plain average across the lists that include the animal); (2) LOW-COVERAGE (2 lists) and SINGLE-SOURCE (1 list) rows, ordered together by their mean normalized rank - the >=3 threshold is standard meta-ranking practice and stops e.g. the Komodo dragon landing in the top 10 on two order-of-appearance placements; these rows are the least reliable (last place on a short top-10 list normalizes to 1.0); (3) NEURONS rows = familiar mammals/birds on no editorial list, by whole-brain neuron count; (4) DUMBEST-LIST rows = warm-blooded animals that appear only on 'least intelligent' lists, ordered by how many such lists include them, then Ranger Planet's explicit rank; (5) NEURONS rows for cold-blooded animals and invertebrates, by whole-brain neuron count, ending with the sea sponge (0 neurons). count = N - position + 1.\n\nHUMANS: excluded. 2 of 16 lists include humans, but only as a closing wink (Science Focus #10 of 10, Live Science #32 of 32), so a meta-rank for Human would be meaningless.\n\nCONSULTED BUT EXCLUDED: World Atlas '10 of the World's Smartest Animals' (numbered 10->1 but states 'in no particular order'); Tempo.co and 24/7 Tempo (alphabetical lists); RankRed (states 'not in any order'); TheTopTens (user-vote popularity list, Human #1); Science Blog 'Animal IQ Rankings' (unreviewed, duplicate species entries); Sparcus and Dotsure (verbatim copies of the A-Z Animals ranking); Natural Habitat Adventures top 25 and AOL (lists only in embedded video); Britannica (essay, no ranking); HowStuffWorks 'Top 30 Smartest Animals' (page blocked fetching); Fact Animal dumbest list (joke entries). Goldfish does not appear in any fetched source (Guppy stands in as the small aquarium fish). | Pruned for the quiz: obscure single-source species removed (Portia spider, Heliconius butterfly, fruit fly, poison dart frog, cleaner wrasse, jerboa, lemming, kakapo, slow loris, tardigrade, Goffin's cockatoo, scrub jay).",
+ "unit": "rank",
+ "rows": [
+  {
+   "text": "Chimpanzee",
+   "count": 66,
+   "aliases": [
+    "chimp",
+    "chimps",
+    "chimpanzees",
+    "common chimpanzee"
+   ],
+   "note": "CONSENSUS: in 14 of 16 editorial lists; mean normalized rank 0.088 (0 = top). Placements: SF 1/10, LS 1/32, MF 1/9, DW 1/10, BI 1/9, ST 1/10, PS 1/7, DM 1/5, AF 1/25, CW 2/20, RD 3/14, AZ 3/13, AFF 7/16, WN 6/12."
+  },
+  {
+   "text": "Dolphin",
+   "count": 65,
+   "aliases": [
+    "dolphins",
+    "bottlenose dolphin",
+    "bottlenose dolphins",
+    "bottlenose"
+   ],
+   "note": "CONSENSUS: in 16 of 16 editorial lists; mean normalized rank 0.258 (0 = top). Placements: LS 2/32, AZ 2/13, TR 2/12, WN 2/12, SF 2/10, MF 2/9, AF 4/25, AFF 4/16, DW 3/10, ST 3/10, CW 8/20, RD 7/14, BI 5/9, BP 9/17, PS 4/7, DM 3/5."
+  },
+  {
+   "text": "Bonobo",
+   "count": 64,
+   "aliases": [
+    "bonobos",
+    "pygmy chimpanzee",
+    "pygmy chimp"
+   ],
+   "note": "CONSENSUS: in 4 of 16 editorial lists; mean normalized rank 0.266 (0 = top). Placements: AF 1/25, LS 3/32, WN 6/12, TR 7/12."
+  },
+  {
+   "text": "Orangutan",
+   "count": 63,
+   "aliases": [
+    "orangutans",
+    "orang-utan",
+    "orang utan",
+    "orangutang"
+   ],
+   "note": "CONSENSUS: in 10 of 16 editorial lists; mean normalized rank 0.367 (0 = top). Placements: AZ 1/13, ST 2/10, AF 5/25, LS 9/32, BP 8/17, SF 5/10, WN 6/12, MF 5/9, CW 13/20, AFF 11/16."
+  },
+  {
+   "text": "African grey parrot",
+   "count": 62,
+   "aliases": [
+    "parrot",
+    "parrots",
+    "african grey",
+    "african gray",
+    "african grey parrots",
+    "african gray parrot",
+    "grey parrot",
+    "gray parrot"
+   ],
+   "note": "CONSENSUS: in 14 of 16 editorial lists; mean normalized rank 0.381 (0 = top). Placements: RD 2/14, AF 6/25, CW 6/20, TR 4/12, BP 6/17, LS 11/32, AZ 5/13, DW 4/10, AFF 6/16, BI 4/9, ST 5/10, WN 8/12, SF 7/10, MF 7/9."
+  },
+  {
+   "text": "Elephant",
+   "count": 61,
+   "aliases": [
+    "elephants",
+    "african elephant",
+    "asian elephant",
+    "indian elephant"
+   ],
+   "note": "CONSENSUS: in 14 of 16 editorial lists; mean normalized rank 0.388 (0 = top). Placements: CW 1/20, AFF 3/16, LS 6/32, WN 3/12, AZ 4/13, BI 3/9, AF 8/25, RD 5/14, ST 4/10, PS 3/7, TR 9/12, DM 4/5, DW 8/10, BP 16/17."
+  },
+  {
+   "text": "Goat",
+   "count": 60,
+   "aliases": [
+    "goats",
+    "domestic goat",
+    "billy goat",
+    "nanny goat"
+   ],
+   "note": "CONSENSUS: in 4 of 16 editorial lists; mean normalized rank 0.394 (0 = top). Placements: BI 2/9, PS 2/7, CW 7/20, LS 31/32."
+  },
+  {
+   "text": "Orca",
+   "count": 59,
+   "aliases": [
+    "killer whale",
+    "killer whales",
+    "orcas"
+   ],
+   "note": "CONSENSUS: in 6 of 16 editorial lists; mean normalized rank 0.463 (0 = top). Placements: WN 1/12, AF 3/25, LS 15/32, TR 8/12, BP 12/17, AZ 12/13."
+  },
+  {
+   "text": "Dog",
+   "count": 58,
+   "aliases": [
+    "dogs",
+    "domestic dog",
+    "border collie",
+    "border collies",
+    "puppy"
+   ],
+   "note": "CONSENSUS: in 11 of 16 editorial lists; mean normalized rank 0.493 (0 = top). Placements: RD 1/14, BP 3/17, CW 5/20, SF 4/10, LS 12/32, MF 4/9, AF 13/25, WN 10/12, AZ 11/13, BI 8/9, TR 12/12."
+  },
+  {
+   "text": "Crow",
+   "count": 57,
+   "aliases": [
+    "crows",
+    "new caledonian crow",
+    "new caledonian crows",
+    "carrion crow",
+    "american crow"
+   ],
+   "note": "CONSENSUS: in 15 of 16 editorial lists; mean normalized rank 0.494 (0 = top). Placements: BP 1/17, DM 2/5, LS 10/32, AF 9/25, WN 5/12, CW 9/20, AFF 8/16, SF 6/10, DW 6/10, AZ 8/13, MF 6/9, BI 6/9, ST 7/10, PS 5/7, RD 14/14."
+  },
+  {
+   "text": "Raven",
+   "count": 56,
+   "aliases": [
+    "ravens",
+    "common raven"
+   ],
+   "note": "CONSENSUS: in 8 of 16 editorial lists; mean normalized rank 0.508 (0 = top). Placements: BP 4/17, TR 5/12, WN 5/12, AFF 8/16, SF 6/10, LS 20/32, MF 6/9, ST 9/10."
+  },
+  {
+   "text": "Capuchin monkey",
+   "count": 55,
+   "aliases": [
+    "capuchin",
+    "capuchins",
+    "capuchin monkeys",
+    "tufted capuchin",
+    "white-faced capuchin"
+   ],
+   "note": "CONSENSUS: in 4 of 16 editorial lists; mean normalized rank 0.515 (0 = top). Placements: AFF 2/16, BP 5/17, LS 24/32, CW 20/20."
+  },
+  {
+   "text": "Octopus",
+   "count": 54,
+   "aliases": [
+    "octopuses",
+    "octopi",
+    "common octopus",
+    "giant pacific octopus"
+   ],
+   "note": "CONSENSUS: in 14 of 16 editorial lists; mean normalized rank 0.520 (0 = top). Placements: LS 7/32, SF 3/10, MF 3/9, WN 4/12, BP 7/17, AF 10/25, AZ 6/13, RD 8/14, ST 6/10, CW 12/20, AFF 13/16, TR 10/12, DW 9/10, PS 7/7."
+  },
+  {
+   "text": "Whale (sperm / humpback)",
+   "count": 53,
+   "aliases": [
+    "whale",
+    "whales",
+    "sperm whale",
+    "sperm whales",
+    "humpback whale",
+    "humpback"
+   ],
+   "note": "CONSENSUS: in 5 of 16 editorial lists; mean normalized rank 0.543 (0 = top). Placements: LS 4/32, AF 12/25, AFF 10/16, DW 7/10, CW 18/20."
+  },
+  {
+   "text": "Pig",
+   "count": 52,
+   "aliases": [
+    "pigs",
+    "hog",
+    "hogs",
+    "swine",
+    "domestic pig",
+    "boar",
+    "wild boar",
+    "piglet"
+   ],
+   "note": "CONSENSUS: in 9 of 16 editorial lists; mean normalized rank 0.560 (0 = top). Placements: CW 3/20, TR 3/12, AZ 7/13, WN 7/12, BP 10/17, AF 17/25, RD 11/14, ST 8/10, AFF 15/16."
+  },
+  {
+   "text": "Gorilla",
+   "count": 51,
+   "aliases": [
+    "gorillas",
+    "western gorilla",
+    "mountain gorilla",
+    "silverback"
+   ],
+   "note": "CONSENSUS: in 6 of 16 editorial lists; mean normalized rank 0.581 (0 = top). Placements: AF 7/25, LS 14/32, WN 6/12, CW 10/20, SF 9/10, MF 9/9."
+  },
+  {
+   "text": "Rat",
+   "count": 50,
+   "aliases": [
+    "rats",
+    "brown rat",
+    "lab rat",
+    "norway rat",
+    "long evans rat"
+   ],
+   "note": "CONSENSUS: in 11 of 16 editorial lists; mean normalized rank 0.617 (0 = top). Placements: CW 4/20, LS 8/32, DW 5/10, TR 6/12, BP 11/17, RD 10/14, AF 18/25, AFF 12/16, AZ 10/13, WN 12/12, DM 5/5."
+  },
+  {
+   "text": "Raccoon",
+   "count": 49,
+   "aliases": [
+    "raccoons",
+    "racoon",
+    "racoons",
+    "trash panda"
+   ],
+   "note": "CONSENSUS: in 5 of 16 editorial lists; mean normalized rank 0.685 (0 = top). Placements: AFF 9/16, LS 19/32, AF 16/25, CW 14/20, AZ 13/13."
+  },
+  {
+   "text": "Pigeon",
+   "count": 48,
+   "aliases": [
+    "pigeons",
+    "rock dove",
+    "dove",
+    "doves",
+    "homing pigeon"
+   ],
+   "note": "CONSENSUS: in 6 of 16 editorial lists; mean normalized rank 0.689 (0 = top). Placements: LS 5/32, AZ 9/13, CW 16/20, AF 21/25, RD 12/14, AFF 14/16."
+  },
+  {
+   "text": "Cat",
+   "count": 47,
+   "aliases": [
+    "cats",
+    "house cat",
+    "domestic cat",
+    "housecat",
+    "kitty"
+   ],
+   "note": "CONSENSUS: in 4 of 16 editorial lists; mean normalized rank 0.689 (0 = top). Placements: CW 11/20, AF 15/25, LS 21/32, BI 9/9."
+  },
+  {
+   "text": "Ant",
+   "count": 46,
+   "aliases": [
+    "ants"
+   ],
+   "note": "CONSENSUS: in 3 of 16 editorial lists; mean normalized rank 0.691 (0 = top). Placements: AFF 5/16, LS 26/32, AF 25/25."
+  },
+  {
+   "text": "Honey bee",
+   "count": 45,
+   "aliases": [
+    "bee",
+    "bees",
+    "honeybee",
+    "honeybees",
+    "honey bees",
+    "bumblebee",
+    "bumble bee",
+    "bumblebees"
+   ],
+   "note": "CONSENSUS: in 10 of 16 editorial lists; mean normalized rank 0.700 (0 = top). Placements: TR 1/12, RD 6/14, LS 13/32, SF 8/10, PS 6/7, MF 8/9, BP 15/17, WN 11/12, AF 24/25, DW 10/10."
+  },
+  {
+   "text": "Squirrel",
+   "count": 44,
+   "aliases": [
+    "squirrels",
+    "grey squirrel",
+    "gray squirrel",
+    "eastern gray squirrel",
+    "red squirrel"
+   ],
+   "note": "CONSENSUS: in 5 of 16 editorial lists; mean normalized rank 0.738 (0 = top). Placements: RD 9/14, LS 22/32, CW 15/20, AF 19/25, TR 11/12."
+  },
+  {
+   "text": "Otter",
+   "count": 43,
+   "aliases": [
+    "otters",
+    "sea otter",
+    "sea otters",
+    "river otter"
+   ],
+   "note": "CONSENSUS: in 3 of 16 editorial lists; mean normalized rank 0.813 (0 = top). Placements: WN 9/12, CW 17/20, LS 28/32."
+  },
+  {
+   "text": "Meerkat",
+   "count": 42,
+   "aliases": [
+    "meerkats",
+    "suricate"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (BP 2/17); normalized rank 0.062; ordered after all consensus rows."
+  },
+  {
+   "text": "Chicken",
+   "count": 41,
+   "aliases": [
+    "chickens",
+    "hen",
+    "hens",
+    "rooster",
+    "roosters",
+    "red junglefowl",
+    "junglefowl",
+    "chook"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (RD 4/14); normalized rank 0.231; ordered after all consensus rows."
+  },
+  {
+   "text": "Baboon",
+   "count": 40,
+   "aliases": [
+    "baboons",
+    "mandrill",
+    "mandrills",
+    "hamadryas baboon",
+    "olive baboon",
+    "chacma baboon"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (AF 11/25); normalized rank 0.417; ordered after all consensus rows."
+  },
+  {
+   "text": "Komodo dragon",
+   "count": 39,
+   "aliases": [
+    "komodo dragons",
+    "komodo",
+    "monitor lizard",
+    "monitor lizards",
+    "monitor",
+    "goanna"
+   ],
+   "note": "LOW-COVERAGE: only 2 of 16 editorial lists (DW 2/10, LS 27/32); mean normalized rank 0.475; below the >=3-list consensus threshold, so ordered with the single-source rows. Both placements are order-of-appearance; Briefly's 'dumbest animals' list also names the Komodo dragon - conflicting signals."
+  },
+  {
+   "text": "Cuttlefish",
+   "count": 38,
+   "aliases": [
+    "cuttlefishes",
+    "cuttle fish"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (LS 16/32); normalized rank 0.484; ordered after all consensus rows."
+  },
+  {
+   "text": "Hyena",
+   "count": 37,
+   "aliases": [
+    "hyenas",
+    "spotted hyena",
+    "striped hyena",
+    "hyaena"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (AF 14/25); normalized rank 0.542; ordered after all consensus rows."
+  },
+  {
+   "text": "Sea lion",
+   "count": 36,
+   "aliases": [
+    "sea lions",
+    "california sea lion"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (LS 23/32); normalized rank 0.710; ordered after all consensus rows."
+  },
+  {
+   "text": "Magpie",
+   "count": 35,
+   "aliases": [
+    "magpies",
+    "eurasian magpie",
+    "european magpie",
+    "black-billed magpie"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (LS 25/32); normalized rank 0.774; ordered after all consensus rows."
+  },
+  {
+   "text": "Honey badger",
+   "count": 34,
+   "aliases": [
+    "honey badgers",
+    "ratel"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (AF 20/25); normalized rank 0.792; ordered after all consensus rows."
+  },
+  {
+   "text": "Giraffe",
+   "count": 33,
+   "aliases": [
+    "giraffes"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (AF 22/25); normalized rank 0.875; ordered after all consensus rows. Also listed on 2 'least intelligent' lists (AZD, AZM) - conflicting signals."
+  },
+  {
+   "text": "Cow",
+   "count": 32,
+   "aliases": [
+    "cows",
+    "cattle",
+    "bull",
+    "bulls",
+    "ox",
+    "oxen",
+    "bovine",
+    "dairy cow",
+    "heifer"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (AF 23/25); normalized rank 0.917; ordered after all consensus rows."
+  },
+  {
+   "text": "Horse",
+   "count": 31,
+   "aliases": [
+    "horses",
+    "pony",
+    "ponies",
+    "stallion",
+    "mare"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (CW 19/20); normalized rank 0.947; ordered after all consensus rows."
+  },
+  {
+   "text": "Rhesus macaque",
+   "count": 30,
+   "aliases": [
+    "macaque",
+    "macaques",
+    "rhesus monkey",
+    "rhesus",
+    "japanese macaque",
+    "snow monkey"
+   ],
+   "note": "SINGLE-SOURCE: only 1 of 16 editorial lists (ST 10/10); normalized rank 1.000; ordered after all consensus rows."
+  },
+  {
+   "text": "Brown bear",
+   "count": 29,
+   "aliases": [
+    "bear",
+    "bears",
+    "grizzly bear",
+    "grizzly",
+    "kodiak bear"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 9.586x10^9. Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Macaw",
+   "count": 28,
+   "aliases": [
+    "macaws",
+    "blue-and-yellow macaw",
+    "blue and gold macaw",
+    "scarlet macaw",
+    "hyacinth macaw"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 3.136x10^9 (blue-and-yellow macaw). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Fox",
+   "count": 27,
+   "aliases": [
+    "foxes",
+    "red fox"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 2.11x10^9 (red fox). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Eagle",
+   "count": 26,
+   "aliases": [
+    "eagles",
+    "white-tailed eagle",
+    "sea eagle",
+    "bald eagle",
+    "golden eagle"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 1.65x10^9 (white-tailed eagle). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Capybara",
+   "count": 25,
+   "aliases": [
+    "capybaras",
+    "capivara"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 1.6x10^9. Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Goose",
+   "count": 24,
+   "aliases": [
+    "geese",
+    "greylag goose",
+    "graylag goose",
+    "canada goose",
+    "gander"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 738,232,000 (greylag goose). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Owl",
+   "count": 23,
+   "aliases": [
+    "owls",
+    "barn owl",
+    "tawny owl",
+    "eagle owl",
+    "eagle-owl",
+    "snowy owl"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 690,000,000 (barn owl). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Peacock",
+   "count": 22,
+   "aliases": [
+    "peacocks",
+    "peafowl",
+    "indian peafowl",
+    "peahen"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 570,934,000 (Indian peafowl). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Rabbit",
+   "count": 21,
+   "aliases": [
+    "rabbits",
+    "bunny",
+    "bunnies",
+    "european rabbit"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 494,200,000 (European rabbit). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Guinea pig",
+   "count": 20,
+   "aliases": [
+    "guinea pigs",
+    "cavy",
+    "cavies"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 240,000,000. Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Hamster",
+   "count": 19,
+   "aliases": [
+    "hamsters",
+    "golden hamster",
+    "syrian hamster"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 90,000,000 (golden hamster). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Mouse",
+   "count": 18,
+   "aliases": [
+    "mice",
+    "house mouse",
+    "field mouse",
+    "lab mouse"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 71,000,000 (house mouse). Placed below all editorial-list animals, above the 'least intelligent'-list block."
+  },
+  {
+   "text": "Ostrich",
+   "count": 17,
+   "aliases": [
+    "ostriches",
+    "common ostrich"
+   ],
+   "note": "DUMBEST-LIST: never on a 'smartest' list; appears on 1 'least intelligent' list(s): BR (unordered list of 11). Block ordered by number of such lists (fewer = higher), then Ranger Planet rank. (Briefly calls the ostrich 'the least intelligent animal' in its text; Wikipedia gives 1.62x10^9 whole-brain neurons. Editorial coverage takes precedence.)"
+  },
+  {
+   "text": "Flamingo",
+   "count": 16,
+   "aliases": [
+    "flamingos",
+    "flamingoes",
+    "greater flamingo"
+   ],
+   "note": "DUMBEST-LIST: never on a 'smartest' list; appears on 2 'least intelligent' list(s): RP #5 of 11 (1 = dumbest), BR (unordered list of 11). Block ordered by number of such lists (fewer = higher), then Ranger Planet rank."
+  },
+  {
+   "text": "Turkey",
+   "count": 15,
+   "aliases": [
+    "turkeys",
+    "wild turkey",
+    "domestic turkey",
+    "gobbler"
+   ],
+   "note": "DUMBEST-LIST: never on a 'smartest' list; appears on 2 'least intelligent' list(s): RP #2 of 11 (1 = dumbest), BR (unordered list of 11). Block ordered by number of such lists (fewer = higher), then Ranger Planet rank. (Wikipedia gives wild turkey 492,873,000 whole-brain neurons - about a rabbit's - but editorial coverage takes precedence over the neuron proxy.)"
+  },
+  {
+   "text": "Giant panda",
+   "count": 14,
+   "aliases": [
+    "panda",
+    "pandas",
+    "panda bear",
+    "giant pandas"
+   ],
+   "note": "DUMBEST-LIST: never on a 'smartest' list; appears on 3 'least intelligent' list(s): RP #3 of 11 (1 = dumbest), AZD (unordered list of 13), BR (unordered list of 11). Block ordered by number of such lists (fewer = higher), then Ranger Planet rank."
+  },
+  {
+   "text": "Koala",
+   "count": 13,
+   "aliases": [
+    "koalas",
+    "koala bear"
+   ],
+   "note": "DUMBEST-LIST: never on a 'smartest' list; appears on 4 'least intelligent' list(s): RP #7 of 11 (1 = dumbest), AZD (unordered list of 13), BR (unordered list of 11), AZM (unordered list of 5). Block ordered by number of such lists (fewer = higher), then Ranger Planet rank."
+  },
+  {
+   "text": "Sloth",
+   "count": 12,
+   "aliases": [
+    "sloths",
+    "three-toed sloth",
+    "two-toed sloth"
+   ],
+   "note": "DUMBEST-LIST: never on a 'smartest' list; appears on 4 'least intelligent' list(s): RP #1 of 11 (1 = dumbest), AZD (unordered list of 13), BR (unordered list of 11), AZM (unordered list of 5). Block ordered by number of such lists (fewer = higher), then Ranger Planet rank."
+  },
+  {
+   "text": "Crocodile",
+   "count": 11,
+   "aliases": [
+    "crocodiles",
+    "nile crocodile",
+    "croc",
+    "alligator",
+    "alligators",
+    "gator",
+    "caiman"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 80,500,000 (Nile crocodile). Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Iguana",
+   "count": 10,
+   "aliases": [
+    "iguanas",
+    "green iguana"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 29,098,000 (green iguana). Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Frog",
+   "count": 9,
+   "aliases": [
+    "frogs",
+    "toad",
+    "toads",
+    "bullfrog",
+    "tree frog"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 16,000,000. Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Turtle",
+   "count": 8,
+   "aliases": [
+    "turtles",
+    "red-eared slider",
+    "slider turtle",
+    "tortoise",
+    "tortoises",
+    "terrapin",
+    "sea turtle"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 15,388,000 (red-eared slider). Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Gecko",
+   "count": 7,
+   "aliases": [
+    "geckos",
+    "leopard gecko"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 8,081,000 (leopard gecko). Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Guppy",
+   "count": 6,
+   "aliases": [
+    "guppies",
+    "aquarium fish"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 4,300,000. Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Cockroach",
+   "count": 5,
+   "aliases": [
+    "cockroaches",
+    "roach",
+    "roaches"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 1,000,000. Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Jellyfish",
+   "count": 4,
+   "aliases": [
+    "box jellyfish",
+    "jellyfishes",
+    "jellies",
+    "sea jelly",
+    "jelly fish"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 8,700-17,500 (box jellyfish; midpoint used for ordering). Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Snail",
+   "count": 3,
+   "aliases": [
+    "snails",
+    "pond snail",
+    "garden snail",
+    "slug",
+    "slugs"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 11,000 (pond snail). Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Starfish",
+   "count": 2,
+   "aliases": [
+    "starfishes",
+    "sea star",
+    "sea stars"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': ~500. Cold-blooded/invertebrate block placed below all mammals and birds."
+  },
+  {
+   "text": "Sea sponge",
+   "count": 1,
+   "aliases": [
+    "sponge",
+    "sponges",
+    "sea sponges"
+   ],
+   "note": "NEURONS: not on any editorial list; ordered by whole-brain neuron count from Wikipedia 'List of animals by number of neurons': 0. Cold-blooded/invertebrate block placed below all mammals and birds."
+  }
+ ]
+}

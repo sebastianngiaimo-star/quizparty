@@ -1,0 +1,1422 @@
+{
+ "source": "UNODC Intentional Homicide dataset (dataUNODC, data_cts_intentional_homicide, Nov 2025 release): intentional homicide victims per 100,000 population, latest year available per country (years 1994-2024; see each row's note), as tabulated on Wikipedia 'List of countries by intentional homicide rate' (UNODC data retrieved 24 Feb 2026), https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate",
+ "unit": "per 100,000",
+ "rows": [
+  {
+   "text": "Turks and Caicos Islands",
+   "count": 103.149,
+   "aliases": [
+    "Turks and Caicos",
+    "Turks & Caicos",
+    "TCI"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Haiti",
+   "count": 64.336,
+   "aliases": [
+    "Republic of Haiti"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Saint Kitts and Nevis",
+   "count": 59.774,
+   "aliases": [
+    "St. Kitts and Nevis",
+    "St Kitts",
+    "Saint Kitts",
+    "St. Kitts",
+    "Saint Christopher and Nevis"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Saint Vincent and the Grenadines",
+   "count": 50.688,
+   "aliases": [
+    "St. Vincent and the Grenadines",
+    "St Vincent",
+    "Saint Vincent",
+    "St. Vincent"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Trinidad and Tobago",
+   "count": 41.518,
+   "aliases": [
+    "Trinidad & Tobago",
+    "Trinidad"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Saint Lucia",
+   "count": 40.613,
+   "aliases": [
+    "St. Lucia",
+    "St Lucia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Jamaica",
+   "count": 40.364,
+   "aliases": [],
+   "note": "2024"
+  },
+  {
+   "text": "South Africa",
+   "count": 39.719,
+   "aliases": [
+    "Republic of South Africa",
+    "RSA"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Ecuador",
+   "count": 38.94,
+   "aliases": [
+    "Republic of Ecuador"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Bahamas",
+   "count": 29.904,
+   "aliases": [
+    "The Bahamas",
+    "Commonwealth of The Bahamas"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Belize",
+   "count": 28.058,
+   "aliases": [
+    "British Honduras"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Saint Martin",
+   "count": 26.9,
+   "aliases": [
+    "St. Martin",
+    "St Martin",
+    "Saint-Martin",
+    "Collectivity of Saint Martin"
+   ],
+   "note": "2016"
+  },
+  {
+   "text": "Mexico",
+   "count": 25.638,
+   "aliases": [
+    "México",
+    "United Mexican States"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Colombia",
+   "count": 24.354,
+   "aliases": [
+    "Columbia",
+    "Republic of Colombia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Honduras",
+   "count": 23.915,
+   "aliases": [
+    "Republic of Honduras"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Guatemala",
+   "count": 22.758,
+   "aliases": [
+    "Republic of Guatemala"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Lesotho",
+   "count": 22.204,
+   "aliases": [
+    "Kingdom of Lesotho"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Brazil",
+   "count": 18.691,
+   "aliases": [
+    "Brasil",
+    "Federative Republic of Brazil"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Dominica",
+   "count": 18.126,
+   "aliases": [
+    "Commonwealth of Dominica"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Costa Rica",
+   "count": 17.115,
+   "aliases": [
+    "Republic of Costa Rica"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Nigeria",
+   "count": 15.747,
+   "aliases": [
+    "Federal Republic of Nigeria"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Puerto Rico",
+   "count": 15.206,
+   "aliases": [
+    "Porto Rico",
+    "Commonwealth of Puerto Rico"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Guyana",
+   "count": 14.078,
+   "aliases": [
+    "Co-operative Republic of Guyana"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Venezuela",
+   "count": 13.812,
+   "aliases": [
+    "Bolivarian Republic of Venezuela"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Eswatini",
+   "count": 13.679,
+   "aliases": [
+    "Swaziland",
+    "Kingdom of Eswatini"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Grenada",
+   "count": 13.666,
+   "aliases": [],
+   "note": "2023"
+  },
+  {
+   "text": "French Guiana",
+   "count": 13.388,
+   "aliases": [
+    "Guyane",
+    "French Guyana",
+    "Guyane française"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Botswana",
+   "count": 12.983,
+   "aliases": [
+    "Republic of Botswana"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Antigua and Barbuda",
+   "count": 12.797,
+   "aliases": [
+    "Antigua",
+    "Antigua & Barbuda"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Panama",
+   "count": 12.778,
+   "aliases": [
+    "Panamá",
+    "Republic of Panama"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Uruguay",
+   "count": 11.28,
+   "aliases": [
+    "Oriental Republic of Uruguay"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Palau",
+   "count": 11.227,
+   "aliases": [
+    "Belau",
+    "Republic of Palau"
+   ],
+   "note": "2018"
+  },
+  {
+   "text": "Namibia",
+   "count": 11.208,
+   "aliases": [
+    "Republic of Namibia"
+   ],
+   "note": "2021"
+  },
+  {
+   "text": "Dominican Republic",
+   "count": 9.118,
+   "aliases": [
+    "Dominican Rep."
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Uganda",
+   "count": 8.819,
+   "aliases": [
+    "Republic of Uganda"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Peru",
+   "count": 8.605,
+   "aliases": [
+    "Perú",
+    "Republic of Peru"
+   ],
+   "note": "2021"
+  },
+  {
+   "text": "Seychelles",
+   "count": 7.967,
+   "aliases": [
+    "Republic of Seychelles"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Russia",
+   "count": 7.821,
+   "aliases": [
+    "Russian Federation"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Barbados",
+   "count": 7.434,
+   "aliases": [],
+   "note": "2024"
+  },
+  {
+   "text": "Cape Verde",
+   "count": 6.995,
+   "aliases": [
+    "Cabo Verde"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Paraguay",
+   "count": 6.884,
+   "aliases": [
+    "Republic of Paraguay"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Cameroon",
+   "count": 6.76,
+   "aliases": [
+    "Cameroun",
+    "Republic of Cameroon"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Zimbabwe",
+   "count": 6.758,
+   "aliases": [
+    "Republic of Zimbabwe",
+    "Rhodesia"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Samoa",
+   "count": 6.263,
+   "aliases": [
+    "Western Samoa",
+    "Independent State of Samoa"
+   ],
+   "note": "2018"
+  },
+  {
+   "text": "Bermuda",
+   "count": 6.183,
+   "aliases": [
+    "Bermuda Islands"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Chile",
+   "count": 6.107,
+   "aliases": [
+    "Republic of Chile"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "United States",
+   "count": 5.763,
+   "aliases": [
+    "USA",
+    "US",
+    "U.S.",
+    "U.S.A.",
+    "America",
+    "United States of America",
+    "The States"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Guadeloupe",
+   "count": 5.684,
+   "aliases": [],
+   "note": "2016"
+  },
+  {
+   "text": "Burundi",
+   "count": 5.65,
+   "aliases": [
+    "Republic of Burundi"
+   ],
+   "note": "2016"
+  },
+  {
+   "text": "Mongolia",
+   "count": 5.639,
+   "aliases": [],
+   "note": "2024"
+  },
+  {
+   "text": "Nicaragua",
+   "count": 5.452,
+   "aliases": [
+    "Republic of Nicaragua"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Greenland",
+   "count": 5.351,
+   "aliases": [
+    "Kalaallit Nunaat",
+    "Grønland"
+   ],
+   "note": "2016"
+  },
+  {
+   "text": "Zambia",
+   "count": 5.202,
+   "aliases": [
+    "Republic of Zambia"
+   ],
+   "note": "2015"
+  },
+  {
+   "text": "Tunisia",
+   "count": 4.693,
+   "aliases": [
+    "Republic of Tunisia"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Kenya",
+   "count": 4.65,
+   "aliases": [
+    "Republic of Kenya"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Cuba",
+   "count": 4.463,
+   "aliases": [
+    "Republic of Cuba"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Cayman Islands",
+   "count": 4.368,
+   "aliases": [
+    "Caymans",
+    "Cayman"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Pakistan",
+   "count": 4.329,
+   "aliases": [
+    "Islamic Republic of Pakistan"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Guam",
+   "count": 4.326,
+   "aliases": [
+    "Guåhan"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Philippines",
+   "count": 4.312,
+   "aliases": [
+    "The Philippines",
+    "Republic of the Philippines"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Suriname",
+   "count": 4.256,
+   "aliases": [
+    "Surinam"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Afghanistan",
+   "count": 4.224,
+   "aliases": [
+    "Islamic Emirate of Afghanistan"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Angola",
+   "count": 4.098,
+   "aliases": [
+    "Republic of Angola"
+   ],
+   "note": "2016"
+  },
+  {
+   "text": "East Timor",
+   "count": 4.066,
+   "aliases": [
+    "Timor-Leste",
+    "Timor Leste",
+    "Timor"
+   ],
+   "note": "2015"
+  },
+  {
+   "text": "Argentina",
+   "count": 3.943,
+   "aliases": [
+    "Argentine Republic"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Myanmar",
+   "count": 3.903,
+   "aliases": [
+    "Burma",
+    "Republic of the Union of Myanmar"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Ukraine",
+   "count": 3.777,
+   "aliases": [
+    "The Ukraine"
+   ],
+   "note": "2021"
+  },
+  {
+   "text": "Israel",
+   "count": 3.718,
+   "aliases": [
+    "State of Israel"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Bolivia",
+   "count": 3.649,
+   "aliases": [
+    "Plurinational State of Bolivia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Rwanda",
+   "count": 3.612,
+   "aliases": [
+    "Republic of Rwanda"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Tanzania",
+   "count": 3.301,
+   "aliases": [
+    "United Republic of Tanzania"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "El Salvador",
+   "count": 3.297,
+   "aliases": [
+    "Salvador",
+    "Republic of El Salvador"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Latvia",
+   "count": 2.778,
+   "aliases": [
+    "Latvija",
+    "Republic of Latvia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "India",
+   "count": 2.716,
+   "aliases": [
+    "Republic of India",
+    "Bharat"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Mauritius",
+   "count": 2.675,
+   "aliases": [
+    "Republic of Mauritius"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Lithuania",
+   "count": 2.658,
+   "aliases": [
+    "Lietuva",
+    "Republic of Lithuania"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Lebanon",
+   "count": 2.635,
+   "aliases": [
+    "Lebanese Republic"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Andorra",
+   "count": 2.585,
+   "aliases": [
+    "Principality of Andorra"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Kazakhstan",
+   "count": 2.551,
+   "aliases": [
+    "Kazakstan",
+    "Republic of Kazakhstan"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Sri Lanka",
+   "count": 2.509,
+   "aliases": [
+    "Ceylon"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Liechtenstein",
+   "count": 2.508,
+   "aliases": [
+    "Principality of Liechtenstein"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Montenegro",
+   "count": 2.506,
+   "aliases": [
+    "Crna Gora"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Bhutan",
+   "count": 2.468,
+   "aliases": [
+    "Kingdom of Bhutan"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Turkey",
+   "count": 2.412,
+   "aliases": [
+    "Türkiye",
+    "Turkiye",
+    "Republic of Turkey",
+    "Republic of Türkiye"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Fiji",
+   "count": 2.369,
+   "aliases": [
+    "Republic of Fiji"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Sierra Leone",
+   "count": 2.224,
+   "aliases": [
+    "Republic of Sierra Leone"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Armenia",
+   "count": 2.186,
+   "aliases": [
+    "Hayastan",
+    "Republic of Armenia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Nepal",
+   "count": 2.13,
+   "aliases": [
+    "Federal Democratic Republic of Nepal"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Iceland",
+   "count": 2.034,
+   "aliases": [
+    "Ísland"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Georgia",
+   "count": 2.028,
+   "aliases": [
+    "Sakartvelo"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Moldova",
+   "count": 2.01,
+   "aliases": [
+    "Republic of Moldova"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Azerbaijan",
+   "count": 1.993,
+   "aliases": [
+    "Republic of Azerbaijan"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Canada",
+   "count": 1.983,
+   "aliases": [],
+   "note": "2024"
+  },
+  {
+   "text": "Kosovo",
+   "count": 1.895,
+   "aliases": [
+    "Republic of Kosovo",
+    "Kosova"
+   ],
+   "note": "2021"
+  },
+  {
+   "text": "Ghana",
+   "count": 1.831,
+   "aliases": [
+    "Republic of Ghana"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Estonia",
+   "count": 1.764,
+   "aliases": [
+    "Eesti",
+    "Republic of Estonia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Bangladesh",
+   "count": 1.763,
+   "aliases": [
+    "People's Republic of Bangladesh"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Albania",
+   "count": 1.755,
+   "aliases": [
+    "Shqipëria",
+    "Republic of Albania"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Morocco",
+   "count": 1.667,
+   "aliases": [
+    "Kingdom of Morocco"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Belarus",
+   "count": 1.535,
+   "aliases": [
+    "Byelorussia",
+    "Belorussia",
+    "Republic of Belarus"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Luxembourg",
+   "count": 1.531,
+   "aliases": [
+    "Luxemburg",
+    "Grand Duchy of Luxembourg"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "New Zealand",
+   "count": 1.461,
+   "aliases": [
+    "NZ",
+    "Aotearoa"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Uzbekistan",
+   "count": 1.399,
+   "aliases": [
+    "Republic of Uzbekistan"
+   ],
+   "note": "2021"
+  },
+  {
+   "text": "Algeria",
+   "count": 1.382,
+   "aliases": [
+    "People's Democratic Republic of Algeria"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "France",
+   "count": 1.325,
+   "aliases": [
+    "French Republic"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Egypt",
+   "count": 1.312,
+   "aliases": [
+    "Arab Republic of Egypt"
+   ],
+   "note": "2017"
+  },
+  {
+   "text": "North Macedonia",
+   "count": 1.262,
+   "aliases": [
+    "Macedonia",
+    "FYROM",
+    "Republic of North Macedonia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Bulgaria",
+   "count": 1.169,
+   "aliases": [
+    "Republic of Bulgaria"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Romania",
+   "count": 1.12,
+   "aliases": [
+    "Rumania",
+    "Roumania"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Guinea-Bissau",
+   "count": 1.119,
+   "aliases": [
+    "Guinea Bissau"
+   ],
+   "note": "2017"
+  },
+  {
+   "text": "Belgium",
+   "count": 1.08,
+   "aliases": [
+    "Kingdom of Belgium"
+   ],
+   "note": "2021"
+  },
+  {
+   "text": "Slovakia",
+   "count": 1.071,
+   "aliases": [
+    "Slovak Republic"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Turkmenistan",
+   "count": 1.014,
+   "aliases": [
+    "Turkmenia"
+   ],
+   "note": "2015"
+  },
+  {
+   "text": "Croatia",
+   "count": 1.006,
+   "aliases": [
+    "Hrvatska",
+    "Republic of Croatia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Mauritania",
+   "count": 1.0,
+   "aliases": [
+    "Islamic Republic of Mauritania"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Austria",
+   "count": 0.987,
+   "aliases": [
+    "Österreich",
+    "Republic of Austria"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Bosnia and Herzegovina",
+   "count": 0.98,
+   "aliases": [
+    "Bosnia",
+    "Bosnia & Herzegovina",
+    "Bosnia-Herzegovina",
+    "BiH"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Cyprus",
+   "count": 0.957,
+   "aliases": [
+    "Republic of Cyprus"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Tonga",
+   "count": 0.946,
+   "aliases": [
+    "Kingdom of Tonga"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Australia",
+   "count": 0.943,
+   "aliases": [
+    "Commonwealth of Australia",
+    "Oz"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "United Kingdom",
+   "count": 0.93,
+   "aliases": [
+    "UK",
+    "U.K.",
+    "Britain",
+    "Great Britain",
+    "England",
+    "United Kingdom of Great Britain and Northern Ireland"
+   ],
+   "note": "2023 (England and Wales)"
+  },
+  {
+   "text": "Finland",
+   "count": 0.928,
+   "aliases": [
+    "Suomi",
+    "Republic of Finland"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Malta",
+   "count": 0.927,
+   "aliases": [
+    "Republic of Malta"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Germany",
+   "count": 0.921,
+   "aliases": [
+    "Deutschland",
+    "Federal Republic of Germany"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Micronesia",
+   "count": 0.907,
+   "aliases": [
+    "Federated States of Micronesia",
+    "FSM"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Tajikistan",
+   "count": 0.892,
+   "aliases": [
+    "Tadzhikistan",
+    "Republic of Tajikistan"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Serbia",
+   "count": 0.891,
+   "aliases": [
+    "Republic of Serbia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Sweden",
+   "count": 0.867,
+   "aliases": [
+    "Sverige",
+    "Kingdom of Sweden"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Greece",
+   "count": 0.846,
+   "aliases": [
+    "Hellenic Republic",
+    "Hellas"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Jordan",
+   "count": 0.84,
+   "aliases": [
+    "Hashemite Kingdom of Jordan"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Denmark",
+   "count": 0.836,
+   "aliases": [
+    "Danmark",
+    "Kingdom of Denmark"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Saudi Arabia",
+   "count": 0.801,
+   "aliases": [
+    "KSA",
+    "Kingdom of Saudi Arabia",
+    "Saudi"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Kuwait",
+   "count": 0.784,
+   "aliases": [
+    "State of Kuwait"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Spain",
+   "count": 0.728,
+   "aliases": [
+    "España",
+    "Espana",
+    "Kingdom of Spain"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Portugal",
+   "count": 0.709,
+   "aliases": [
+    "Portuguese Republic"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Slovenia",
+   "count": 0.708,
+   "aliases": [
+    "Slovenija",
+    "Republic of Slovenia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Ireland",
+   "count": 0.704,
+   "aliases": [
+    "Republic of Ireland",
+    "Eire",
+    "Éire"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Hungary",
+   "count": 0.703,
+   "aliases": [
+    "Magyarország"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Norway",
+   "count": 0.699,
+   "aliases": [
+    "Norge",
+    "Kingdom of Norway"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Malaysia",
+   "count": 0.686,
+   "aliases": [],
+   "note": "2024"
+  },
+  {
+   "text": "Poland",
+   "count": 0.677,
+   "aliases": [
+    "Polska",
+    "Republic of Poland"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Netherlands",
+   "count": 0.658,
+   "aliases": [
+    "The Netherlands",
+    "Holland",
+    "Kingdom of the Netherlands",
+    "Nederland"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Czechia",
+   "count": 0.615,
+   "aliases": [
+    "Czech Republic",
+    "Czech Rep."
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Maldives",
+   "count": 0.615,
+   "aliases": [
+    "The Maldives",
+    "Republic of Maldives"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Italy",
+   "count": 0.566,
+   "aliases": [
+    "Italia",
+    "Italian Republic"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "United Arab Emirates",
+   "count": 0.517,
+   "aliases": [
+    "UAE",
+    "Emirates"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Switzerland",
+   "count": 0.504,
+   "aliases": [
+    "Swiss Confederation",
+    "Schweiz",
+    "Suisse"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "China",
+   "count": 0.502,
+   "aliases": [
+    "PRC",
+    "People's Republic of China",
+    "Mainland China"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "South Korea",
+   "count": 0.489,
+   "aliases": [
+    "Republic of Korea",
+    "ROK",
+    "Korea, South",
+    "Korea (South)"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Indonesia",
+   "count": 0.415,
+   "aliases": [
+    "Republic of Indonesia"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Hong Kong",
+   "count": 0.376,
+   "aliases": [
+    "Hong Kong SAR",
+    "HK",
+    "Hongkong",
+    "Hong Kong, China"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Vanuatu",
+   "count": 0.335,
+   "aliases": [
+    "New Hebrides"
+   ],
+   "note": "2020"
+  },
+  {
+   "text": "Palestine",
+   "count": 0.273,
+   "aliases": [
+    "State of Palestine",
+    "Palestinian Territories",
+    "Palestinian territory"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Japan",
+   "count": 0.229,
+   "aliases": [
+    "Nippon",
+    "Nihon"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Bahrain",
+   "count": 0.196,
+   "aliases": [
+    "Kingdom of Bahrain"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "Singapore",
+   "count": 0.171,
+   "aliases": [
+    "Republic of Singapore"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Macau",
+   "count": 0.139,
+   "aliases": [
+    "Macao",
+    "Macau SAR",
+    "Macao SAR"
+   ],
+   "note": "2024"
+  },
+  {
+   "text": "Oman",
+   "count": 0.139,
+   "aliases": [
+    "Sultanate of Oman"
+   ],
+   "note": "2023"
+  },
+  {
+   "text": "Qatar",
+   "count": 0.069,
+   "aliases": [
+    "State of Qatar"
+   ],
+   "note": "2022"
+  },
+  {
+   "text": "American Samoa",
+   "count": 0.0,
+   "aliases": [
+    "Amerika Samoa",
+    "Eastern Samoa"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Gibraltar",
+   "count": 0.0,
+   "aliases": [],
+   "note": "2024"
+  },
+  {
+   "text": "Isle of Man",
+   "count": 0.0,
+   "aliases": [
+    "Isle of Mann",
+    "Mann"
+   ],
+   "note": "2016"
+  },
+  {
+   "text": "Montserrat",
+   "count": 0.0,
+   "aliases": [],
+   "note": "2018"
+  },
+  {
+   "text": "Tuvalu",
+   "count": 0.0,
+   "aliases": [
+    "Ellice Islands"
+   ],
+   "note": "2019"
+  },
+  {
+   "text": "Vatican City",
+   "count": 0.0,
+   "aliases": [
+    "Vatican",
+    "Holy See",
+    "Vatican City State"
+   ],
+   "note": "2024"
+  }
+ ]
+}

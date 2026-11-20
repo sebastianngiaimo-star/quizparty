@@ -1,0 +1,6 @@
+node_modules/
+data/quiz.json.tmp
+android-tv/.gradle/
+android-tv/build/
+android-tv/app/build/
+android-tv/local.properties

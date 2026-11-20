@@ -1,0 +1,1341 @@
+{
+ "source": "Primary: Animal Diversity Web, University of Michigan (https://animaldiversity.org/accounts/<Genus_species>/); Wikipedia 'Largest and heaviest animals' (https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Largest_animals); Wikipedia 'List of largest birds' (https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/List_of_largest_birds); Wikipedia 'Orders of magnitude (mass)' (https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Orders_of_magnitude_(mass)). Secondary single values: Wikipedia Domestic pig / Komodo dragon (ipfs.ssi.eecc.de mirror), Whale shark / Great white shark (bafybei...ipfs.4everland.io mirror), Sheep (solarspell-dls.sfis.asu.edu mirror); Encyclopaedia Britannica 'Chicken' (https://www.britannica.com/animal/chicken); San Diego Zoo Wildlife Alliance red kangaroo fact sheet (https://ielc.libguides.com/sdzg/factsheets/redkangaroo/characteristics); SeaWorld green anaconda (https://seaworld.org/animals/facts/reptiles/green-anaconda); PBS Nature honeybee guide (https://www.pbs.org/wnet/nature/animal-guide-honeybee/499); reducing-suffering.org bug mass (https://reducing-suffering.org/approximate-mass-of-a-typical-bug/). Method: stated average adult mass preferred; otherwise midpoint of stated adult range (noted per row).",
+ "unit": "kg",
+ "rows": [
+  {
+   "text": "Blue whale",
+   "count": 110000,
+   "aliases": [
+    "whale"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 110 t"
+  },
+  {
+   "text": "North Pacific right whale",
+   "count": 60000,
+   "aliases": [
+    "right whale"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 60 t"
+  },
+  {
+   "text": "Southern right whale",
+   "count": 58000,
+   "aliases": [],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 58 t"
+  },
+  {
+   "text": "Fin whale",
+   "count": 57000,
+   "aliases": [
+    "finback whale"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 57 t"
+  },
+  {
+   "text": "Bowhead whale",
+   "count": 54500,
+   "aliases": [
+    "greenland right whale"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 54.5 t"
+  },
+  {
+   "text": "Sperm whale",
+   "count": 31250,
+   "aliases": [
+    "cachalot"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 31.25 t"
+  },
+  {
+   "text": "Humpback whale",
+   "count": 29000,
+   "aliases": [],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 29 t"
+  },
+  {
+   "text": "Sei whale",
+   "count": 22500,
+   "aliases": [],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 22.5 t"
+  },
+  {
+   "text": "Gray whale",
+   "count": 19500,
+   "aliases": [
+    "grey whale"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 19.5 t"
+  },
+  {
+   "text": "Whale shark",
+   "count": 9000,
+   "aliases": [],
+   "note": "Wikipedia 'Whale shark' (IPFS mirror): average adult size estimated at 9 t"
+  },
+  {
+   "text": "African bush elephant",
+   "count": 6000,
+   "aliases": [
+    "elephant",
+    "african elephant",
+    "savanna elephant"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 6.0 t"
+  },
+  {
+   "text": "Asian elephant",
+   "count": 4500,
+   "aliases": [
+    "indian elephant",
+    "asiatic elephant"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 4.5 t"
+  },
+  {
+   "text": "Killer whale",
+   "count": 3987.5,
+   "aliases": [
+    "orca"
+   ],
+   "note": "Animal Diversity Web (ADW) Orcinus orca: AnAge average mass 3.9875e6 g (page also gives 7200 kg as male average)"
+  },
+  {
+   "text": "African forest elephant",
+   "count": 2700,
+   "aliases": [
+    "forest elephant"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 2.7 t"
+  },
+  {
+   "text": "White rhinoceros",
+   "count": 2000,
+   "aliases": [
+    "rhino",
+    "rhinoceros",
+    "white rhino"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 2 t"
+  },
+  {
+   "text": "Indian rhinoceros",
+   "count": 1900,
+   "aliases": [
+    "indian rhino",
+    "greater one-horned rhinoceros"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 1.9 t"
+  },
+  {
+   "text": "Hippopotamus",
+   "count": 1800,
+   "aliases": [
+    "hippo"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 1.8 t"
+  },
+  {
+   "text": "Beluga whale",
+   "count": 1500,
+   "aliases": [
+    "beluga",
+    "white whale"
+   ],
+   "note": "Animal Diversity Web (ADW) Delphinapterus leucas: average mass 1,500 kg (range 400-1,600)"
+  },
+  {
+   "text": "Northern elephant seal",
+   "count": 1450,
+   "aliases": [
+    "elephant seal"
+   ],
+   "note": "Animal Diversity Web (ADW) Mirounga angustirostris: midpoint of range 600-2,300 kg"
+  },
+  {
+   "text": "Narwhal",
+   "count": 1250,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Monodon monoceros: midpoint of range 900-1,600 kg"
+  },
+  {
+   "text": "Black rhinoceros",
+   "count": 1100,
+   "aliases": [
+    "black rhino"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 1.1 t"
+  },
+  {
+   "text": "Walrus",
+   "count": 1000,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Odobenus rosmarus: average mass 1,000 kg"
+  },
+  {
+   "text": "Giraffe",
+   "count": 1000,
+   "aliases": [],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 1.0 t"
+  },
+  {
+   "text": "Gaur",
+   "count": 950,
+   "aliases": [
+    "indian bison"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 0.95 t"
+  },
+  {
+   "text": "Water buffalo",
+   "count": 725,
+   "aliases": [
+    "asian buffalo"
+   ],
+   "note": "Animal Diversity Web (ADW) Bubalus bubalis: midpoint of range 250-1,200 kg"
+  },
+  {
+   "text": "Domestic cattle (dairy cow)",
+   "count": 650,
+   "aliases": [
+    "cow",
+    "cattle",
+    "bull",
+    "ox"
+   ],
+   "note": "Wikipedia 'Orders of magnitude (mass)' (IPFS mirror): dairy cow 400-900 kg, midpoint"
+  },
+  {
+   "text": "Yak",
+   "count": 650,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Bos grunniens: midpoint of range 300-1,000 kg"
+  },
+  {
+   "text": "Great white shark",
+   "count": 646.5,
+   "aliases": [
+    "shark",
+    "white shark",
+    "great white"
+   ],
+   "note": "Wikipedia 'Great white shark' (IPFS mirror): adults weigh 522-771 kg on average, midpoint"
+  },
+  {
+   "text": "American bison",
+   "count": 609,
+   "aliases": [
+    "bison",
+    "american buffalo"
+   ],
+   "note": "Animal Diversity Web (ADW) Bison bison: midpoint of range 318-900 kg"
+  },
+  {
+   "text": "African buffalo",
+   "count": 567.5,
+   "aliases": [
+    "buffalo",
+    "cape buffalo"
+   ],
+   "note": "Animal Diversity Web (ADW) Syncerus caffer: midpoint of range <300 to >835 kg"
+  },
+  {
+   "text": "Horse",
+   "count": 563.5,
+   "aliases": [
+    "domestic horse"
+   ],
+   "note": "Animal Diversity Web (ADW) Equus caballus: midpoint of range 227-900 kg (all breeds)"
+  },
+  {
+   "text": "Dromedary camel",
+   "count": 495,
+   "aliases": [
+    "camel",
+    "dromedary",
+    "arabian camel"
+   ],
+   "note": "Animal Diversity Web (ADW) Camelus dromedarius: midpoint of range 300-690 kg"
+  },
+  {
+   "text": "Polar bear",
+   "count": 475,
+   "aliases": [
+    "ice bear"
+   ],
+   "note": "Animal Diversity Web (ADW) Ursus maritimus: midpoint of range 150-800 kg"
+  },
+  {
+   "text": "Saltwater crocodile",
+   "count": 450,
+   "aliases": [
+    "crocodile",
+    "saltie",
+    "estuarine crocodile"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 450 kg"
+  },
+  {
+   "text": "Moose",
+   "count": 435,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Alces americanus: midpoint of range 270-600 kg"
+  },
+  {
+   "text": "Nile crocodile",
+   "count": 410,
+   "aliases": [],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 410 kg"
+  },
+  {
+   "text": "West Indian manatee",
+   "count": 400,
+   "aliases": [
+    "manatee",
+    "sea cow"
+   ],
+   "note": "Animal Diversity Web (ADW) Trichechus manatus: average mass 400 kg"
+  },
+  {
+   "text": "Bottlenose dolphin",
+   "count": 400,
+   "aliases": [
+    "dolphin"
+   ],
+   "note": "Animal Diversity Web (ADW) Tursiops truncatus: average mass 400 kg (range 260-500)"
+  },
+  {
+   "text": "Leatherback sea turtle",
+   "count": 364,
+   "aliases": [
+    "leatherback"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 364 kg"
+  },
+  {
+   "text": "Brown bear",
+   "count": 340,
+   "aliases": [
+    "bear",
+    "grizzly bear",
+    "grizzly",
+    "kodiak bear"
+   ],
+   "note": "Animal Diversity Web (ADW) Ursus arctos: midpoint of range 80-600 kg"
+  },
+  {
+   "text": "Black caiman",
+   "count": 300,
+   "aliases": [
+    "caiman"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 300 kg"
+  },
+  {
+   "text": "Okapi",
+   "count": 290,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Okapia johnstoni: average mass 290 kg"
+  },
+  {
+   "text": "Elk",
+   "count": 286,
+   "aliases": [
+    "wapiti",
+    "red deer"
+   ],
+   "note": "Animal Diversity Web (ADW) Cervus elaphus: mean of female average 241 kg and male average 331 kg"
+  },
+  {
+   "text": "Plains zebra",
+   "count": 275,
+   "aliases": [
+    "zebra",
+    "common zebra"
+   ],
+   "note": "Animal Diversity Web (ADW) Equus quagga: midpoint of range 250-300 kg"
+  },
+  {
+   "text": "Tiger",
+   "count": 257,
+   "aliases": [
+    "bengal tiger",
+    "siberian tiger"
+   ],
+   "note": "Animal Diversity Web (ADW) Panthera tigris: midpoint of range 91-423 kg"
+  },
+  {
+   "text": "Donkey",
+   "count": 250,
+   "aliases": [
+    "ass",
+    "burro"
+   ],
+   "note": "Animal Diversity Web (ADW) Equus asinus: AnAge average mass 250,000 g"
+  },
+  {
+   "text": "Gharial",
+   "count": 250,
+   "aliases": [
+    "gavial"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 250 kg"
+  },
+  {
+   "text": "American alligator",
+   "count": 240,
+   "aliases": [
+    "alligator",
+    "gator"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 240 kg"
+  },
+  {
+   "text": "American black bear",
+   "count": 224,
+   "aliases": [
+    "black bear"
+   ],
+   "note": "Animal Diversity Web (ADW) Ursus americanus: midpoint of range 39-409 kg"
+  },
+  {
+   "text": "Aldabra giant tortoise",
+   "count": 205,
+   "aliases": [
+    "aldabra tortoise"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 205 kg"
+  },
+  {
+   "text": "Domestic pig",
+   "count": 200,
+   "aliases": [
+    "pig",
+    "hog",
+    "swine"
+   ],
+   "note": "Wikipedia 'Domestic pig' (IPFS mirror): adults typically 50-350 kg, midpoint"
+  },
+  {
+   "text": "Loggerhead sea turtle",
+   "count": 200,
+   "aliases": [
+    "loggerhead"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 200 kg"
+  },
+  {
+   "text": "Green sea turtle",
+   "count": 190,
+   "aliases": [
+    "turtle",
+    "sea turtle",
+    "green turtle"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 190 kg"
+  },
+  {
+   "text": "California sea lion",
+   "count": 183,
+   "aliases": [
+    "sea lion"
+   ],
+   "note": "Animal Diversity Web (ADW) Zalophus californianus: mean of male average 275 kg and female average 91 kg"
+  },
+  {
+   "text": "Western gorilla",
+   "count": 180,
+   "aliases": [
+    "gorilla"
+   ],
+   "note": "Animal Diversity Web (ADW) Gorilla gorilla: average mass 180 kg (wild males; females about half)"
+  },
+  {
+   "text": "Galapagos tortoise",
+   "count": 175,
+   "aliases": [
+    "tortoise",
+    "giant tortoise"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): average 175 kg"
+  },
+  {
+   "text": "Wild boar",
+   "count": 169,
+   "aliases": [
+    "boar"
+   ],
+   "note": "Animal Diversity Web (ADW) Sus scrofa: midpoint of range 66-272 kg"
+  },
+  {
+   "text": "Lion",
+   "count": 157.5,
+   "aliases": [
+    "african lion"
+   ],
+   "note": "Animal Diversity Web (ADW) Panthera leo: mean of male average 189 kg and female average 126 kg"
+  },
+  {
+   "text": "Green anaconda",
+   "count": 148.5,
+   "aliases": [
+    "anaconda"
+   ],
+   "note": "SeaWorld animal info 'Green anaconda': average 148.5 kg"
+  },
+  {
+   "text": "Llama",
+   "count": 140,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Lama glama: average mass 140 kg"
+  },
+  {
+   "text": "Harbor seal",
+   "count": 115,
+   "aliases": [
+    "seal",
+    "common seal",
+    "harbour seal"
+   ],
+   "note": "Animal Diversity Web (ADW) Phoca vitulina: AnAge average mass 115,000 g"
+  },
+  {
+   "text": "Common ostrich",
+   "count": 104,
+   "aliases": [
+    "ostrich"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 104 kg"
+  },
+  {
+   "text": "Giant panda",
+   "count": 102.5,
+   "aliases": [
+    "panda",
+    "panda bear"
+   ],
+   "note": "Animal Diversity Web (ADW) Ailuropoda melanoleuca: midpoint of range 80-125 kg"
+  },
+  {
+   "text": "Jaguar",
+   "count": 100,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Panthera onca: average mass 100 kg"
+  },
+  {
+   "text": "White-tailed deer",
+   "count": 97,
+   "aliases": [
+    "deer",
+    "whitetail"
+   ],
+   "note": "Animal Diversity Web (ADW) Odocoileus virginianus: midpoint of range 57-137 kg"
+  },
+  {
+   "text": "Domestic sheep",
+   "count": 87.5,
+   "aliases": [
+    "sheep",
+    "ram",
+    "ewe",
+    "lamb"
+   ],
+   "note": "Wikipedia 'Sheep' (solarspell mirror): ewes 45-100 kg, rams 45-160 kg; mean of the two midpoints"
+  },
+  {
+   "text": "Cougar",
+   "count": 74.5,
+   "aliases": [
+    "puma",
+    "mountain lion",
+    "panther"
+   ],
+   "note": "Animal Diversity Web (ADW) Puma concolor: midpoint of range 29-120 kg"
+  },
+  {
+   "text": "Human",
+   "count": 70,
+   "aliases": [
+    "person",
+    "man",
+    "woman",
+    "people"
+   ],
+   "note": "Wikipedia 'Orders of magnitude (mass)' (IPFS mirror): adult human 70 kg"
+  },
+  {
+   "text": "Komodo dragon",
+   "count": 70,
+   "aliases": [
+    "komodo",
+    "komodo monitor"
+   ],
+   "note": "Wikipedia 'Komodo dragon' (IPFS mirror): wild adults usually weigh around 70 kg"
+  },
+  {
+   "text": "Spotted hyena",
+   "count": 62.5,
+   "aliases": [
+    "hyena",
+    "laughing hyena"
+   ],
+   "note": "Animal Diversity Web (ADW) Crocuta crocuta: midpoint of range 45-80 kg"
+  },
+  {
+   "text": "Bornean orangutan",
+   "count": 62,
+   "aliases": [
+    "orangutan",
+    "orang-utan"
+   ],
+   "note": "Animal Diversity Web (ADW) Pongo pygmaeus: mean of male average 87 kg and female average 37 kg"
+  },
+  {
+   "text": "Alpaca",
+   "count": 60,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Lama pacos: midpoint of range 55-65 kg"
+  },
+  {
+   "text": "Pacific bluefin tuna",
+   "count": 60,
+   "aliases": [
+    "tuna",
+    "bluefin tuna"
+   ],
+   "note": "Animal Diversity Web (ADW) Thunnus orientalis: average mass 60 kg"
+  },
+  {
+   "text": "Red kangaroo",
+   "count": 54.5,
+   "aliases": [
+    "kangaroo"
+   ],
+   "note": "San Diego Zoo Wildlife Alliance fact sheet: males 22-92 kg, females 17-39 kg; midpoint of overall 17-92 kg"
+  },
+  {
+   "text": "Capybara",
+   "count": 50.5,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Hydrochoerus hydrochaeris: midpoint of range 35-66 kg"
+  },
+  {
+   "text": "Gray wolf",
+   "count": 50,
+   "aliases": [
+    "wolf",
+    "grey wolf",
+    "timber wolf"
+   ],
+   "note": "Animal Diversity Web (ADW) Canis lupus: mean of male average 55 kg and female average 45 kg"
+  },
+  {
+   "text": "Great Dane",
+   "count": 50,
+   "aliases": [],
+   "note": "Wikipedia 'Orders of magnitude (mass)' (IPFS mirror): large dog breed (Great Dane) 50 kg"
+  },
+  {
+   "text": "Chimpanzee",
+   "count": 48,
+   "aliases": [
+    "chimp"
+   ],
+   "note": "Animal Diversity Web (ADW) Pan troglodytes: midpoint of range 26-70 kg"
+  },
+  {
+   "text": "Cheetah",
+   "count": 46.5,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Acinonyx jubatus: midpoint of range 21-72 kg"
+  },
+  {
+   "text": "Domestic goat",
+   "count": 45,
+   "aliases": [
+    "goat",
+    "billy goat",
+    "nanny goat"
+   ],
+   "note": "Animal Diversity Web (ADW) Capra hircus: average mass 45 kg"
+  },
+  {
+   "text": "Southern cassowary",
+   "count": 45,
+   "aliases": [
+    "cassowary"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 45 kg"
+  },
+  {
+   "text": "Leopard",
+   "count": 41,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Panthera pardus: midpoint of range 17-65 kg"
+  },
+  {
+   "text": "Snow leopard",
+   "count": 40,
+   "aliases": [
+    "ounce"
+   ],
+   "note": "Animal Diversity Web (ADW) Uncia uncia: midpoint of stated adult average 35-45 kg"
+  },
+  {
+   "text": "Emu",
+   "count": 33,
+   "aliases": [],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 33 kg"
+  },
+  {
+   "text": "Emperor penguin",
+   "count": 31.5,
+   "aliases": [
+    "penguin"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 31.5 kg"
+  },
+  {
+   "text": "Giant Pacific octopus",
+   "count": 30,
+   "aliases": [
+    "octopus"
+   ],
+   "note": "Wikipedia 'Largest and heaviest animals' (kiwix mirror wiki.krisyotam.com): common 10-50 kg, midpoint"
+  },
+  {
+   "text": "Sea otter",
+   "count": 29.5,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Enhydra lutris: midpoint of range 14-45 kg"
+  },
+  {
+   "text": "Giant anteater",
+   "count": 28.5,
+   "aliases": [
+    "anteater",
+    "ant bear"
+   ],
+   "note": "Animal Diversity Web (ADW) Myrmecophaga tridactyla: midpoint of range 18-39 kg"
+  },
+  {
+   "text": "Common wombat",
+   "count": 27.5,
+   "aliases": [
+    "wombat"
+   ],
+   "note": "Animal Diversity Web (ADW) Vombatus ursinus: midpoint of range 20-35 kg"
+  },
+  {
+   "text": "Greater rhea",
+   "count": 23,
+   "aliases": [
+    "rhea"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 23 kg"
+  },
+  {
+   "text": "North American beaver",
+   "count": 22.5,
+   "aliases": [
+    "beaver"
+   ],
+   "note": "Animal Diversity Web (ADW) Castor canadensis: midpoint of range 13-32 kg"
+  },
+  {
+   "text": "Mandrill",
+   "count": 18.25,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Mandrillus sphinx: midpoint of stated averages 11.5 kg (females) - 25 kg (males)"
+  },
+  {
+   "text": "Domestic dog (medium-sized)",
+   "count": 18,
+   "aliases": [
+    "dog",
+    "puppy",
+    "hound"
+   ],
+   "note": "Wikipedia 'Orders of magnitude (mass)' (IPFS mirror): medium-sized dog 9-27 kg, midpoint"
+  },
+  {
+   "text": "Coyote",
+   "count": 14,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Canis latrans: midpoint of range 7-21 kg"
+  },
+  {
+   "text": "King penguin",
+   "count": 13.6,
+   "aliases": [],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 13.6 kg"
+  },
+  {
+   "text": "Turkey",
+   "count": 13.5,
+   "aliases": [
+    "domestic turkey",
+    "wild turkey",
+    "gobbler"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 13.5 kg (listed as domestic/wild turkey)"
+  },
+  {
+   "text": "Wandering albatross",
+   "count": 11.9,
+   "aliases": [
+    "albatross"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 11.9 kg"
+  },
+  {
+   "text": "Mute swan",
+   "count": 11.87,
+   "aliases": [
+    "swan"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 11.87 kg"
+  },
+  {
+   "text": "Eurasian badger",
+   "count": 11.7,
+   "aliases": [
+    "badger"
+   ],
+   "note": "Animal Diversity Web (ADW) Meles meles: average mass 11.7 kg"
+  },
+  {
+   "text": "Dalmatian pelican",
+   "count": 11.5,
+   "aliases": [],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 11.5 kg"
+  },
+  {
+   "text": "Andean condor",
+   "count": 11.3,
+   "aliases": [
+    "condor"
+   ],
+   "note": "Wikipedia 'List of largest birds' (IPFS mirror): average 11.3 kg"
+  },
+  {
+   "text": "Bobcat",
+   "count": 9.5,
+   "aliases": [
+    "lynx"
+   ],
+   "note": "Animal Diversity Web (ADW) Lynx rufus: midpoint of range 4-15 kg"
+  },
+  {
+   "text": "Red fox",
+   "count": 8.5,
+   "aliases": [
+    "fox"
+   ],
+   "note": "Animal Diversity Web (ADW) Vulpes vulpes: midpoint of range 3-14 kg"
+  },
+  {
+   "text": "Koala",
+   "count": 8.45,
+   "aliases": [
+    "koala bear"
+   ],
+   "note": "Animal Diversity Web (ADW) Phascolarctos cinereus: midpoint of range 5.1-11.8 kg"
+  },
+  {
+   "text": "Rhesus macaque",
+   "count": 8,
+   "aliases": [
+    "monkey",
+    "rhesus monkey",
+    "macaque"
+   ],
+   "note": "Animal Diversity Web (ADW) Macaca mulatta: midpoint of range 4-12 kg"
+  },
+  {
+   "text": "Tasmanian devil",
+   "count": 8,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Sarcophilus harrisii: midpoint of range 4-12 kg"
+  },
+  {
+   "text": "Green iguana",
+   "count": 7,
+   "aliases": [
+    "iguana"
+   ],
+   "note": "Animal Diversity Web (ADW) Iguana iguana: average mass 7 kg"
+  },
+  {
+   "text": "Canada goose",
+   "count": 6.95,
+   "aliases": [
+    "goose"
+   ],
+   "note": "Animal Diversity Web (ADW) Branta canadensis: midpoint of range 3-10.9 kg"
+  },
+  {
+   "text": "Raccoon",
+   "count": 6.0,
+   "aliases": [
+    "racoon"
+   ],
+   "note": "Animal Diversity Web (ADW) Procyon lotor: average mass 6.0 kg"
+  },
+  {
+   "text": "Nine-banded armadillo",
+   "count": 5.5,
+   "aliases": [
+    "armadillo"
+   ],
+   "note": "Animal Diversity Web (ADW) Dasypus novemcinctus: average mass 5.5 kg"
+  },
+  {
+   "text": "Red panda",
+   "count": 4.95,
+   "aliases": [
+    "lesser panda"
+   ],
+   "note": "Animal Diversity Web (ADW) Ailurus fulgens: midpoint of range 3.7-6.2 kg"
+  },
+  {
+   "text": "Atlantic salmon",
+   "count": 4.95,
+   "aliases": [
+    "salmon"
+   ],
+   "note": "Animal Diversity Web (ADW) Salmo salar: commercially caught fish average 4.5-5.4 kg, midpoint"
+  },
+  {
+   "text": "Domestic cat",
+   "count": 4.75,
+   "aliases": [
+    "cat",
+    "kitten",
+    "house cat",
+    "kitty"
+   ],
+   "note": "Animal Diversity Web (ADW) Felis catus: midpoint of range 4.1-5.4 kg"
+  },
+  {
+   "text": "Eastern diamondback rattlesnake",
+   "count": 4.6,
+   "aliases": [
+    "rattlesnake",
+    "diamondback"
+   ],
+   "note": "Animal Diversity Web (ADW) Crotalus adamanteus: midpoint of wild adult range 2.2-7 kg"
+  },
+  {
+   "text": "Golden eagle",
+   "count": 4.56,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Aquila chrysaetos: midpoint of range 3,000-6,125 g"
+  },
+  {
+   "text": "Bald eagle",
+   "count": 4.3,
+   "aliases": [
+    "eagle",
+    "american eagle"
+   ],
+   "note": "Animal Diversity Web (ADW) Haliaeetus leucocephalus: average mass 4.3 kg"
+  },
+  {
+   "text": "Indian peafowl",
+   "count": 4,
+   "aliases": [
+    "peacock",
+    "peafowl",
+    "peahen"
+   ],
+   "note": "Animal Diversity Web (ADW) Pavo cristatus: average mass 4 kg"
+  },
+  {
+   "text": "Three-toed sloth",
+   "count": 3.875,
+   "aliases": [
+    "sloth"
+   ],
+   "note": "Animal Diversity Web (ADW) Bradypus tridactylus: midpoint of range 2.25-5.5 kg"
+  },
+  {
+   "text": "Striped skunk",
+   "count": 3.5,
+   "aliases": [
+    "skunk"
+   ],
+   "note": "Animal Diversity Web (ADW) Mephitis mephitis: midpoint of range 0.7-6.3 kg"
+  },
+  {
+   "text": "Brown pelican",
+   "count": 3.5,
+   "aliases": [
+    "pelican"
+   ],
+   "note": "Animal Diversity Web (ADW) Pelecanus occidentalis: midpoint of range 2-5 kg"
+  },
+  {
+   "text": "American flamingo",
+   "count": 3.1,
+   "aliases": [
+    "flamingo"
+   ],
+   "note": "Animal Diversity Web (ADW) Phoenicopterus ruber: midpoint of range 2.1-4.1 kg"
+  },
+  {
+   "text": "Chicken",
+   "count": 2.6,
+   "aliases": [
+    "hen",
+    "rooster",
+    "chook"
+   ],
+   "note": "Encyclopaedia Britannica 'Chicken': approximately 2.6 kg on average"
+  },
+  {
+   "text": "Ring-tailed lemur",
+   "count": 2.2,
+   "aliases": [
+    "lemur"
+   ],
+   "note": "Animal Diversity Web (ADW) Lemur catta: average mass 2.2 kg"
+  },
+  {
+   "text": "European rabbit",
+   "count": 2.0,
+   "aliases": [
+    "rabbit",
+    "bunny"
+   ],
+   "note": "Animal Diversity Web (ADW) Oryctolagus cuniculus: midpoint of wild range 1.5-2.5 kg"
+  },
+  {
+   "text": "Chihuahua",
+   "count": 2,
+   "aliases": [],
+   "note": "Wikipedia 'Orders of magnitude (mass)' (IPFS mirror): Chihuahua 1-3 kg, midpoint"
+  },
+  {
+   "text": "Snowy owl",
+   "count": 1.525,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Nyctea scandiaca: midpoint of range 1,450-1,600 g"
+  },
+  {
+   "text": "Platypus",
+   "count": 1.52,
+   "aliases": [
+    "duck-billed platypus"
+   ],
+   "note": "Animal Diversity Web (ADW) Ornithorhynchus anatinus: average mass 1.52 kg"
+  },
+  {
+   "text": "Domestic ferret",
+   "count": 1.5,
+   "aliases": [
+    "ferret"
+   ],
+   "note": "Animal Diversity Web (ADW) Mustela putorius furo: midpoint of range 0.3-2.7 kg"
+  },
+  {
+   "text": "Great horned owl",
+   "count": 1.45,
+   "aliases": [
+    "owl",
+    "hoot owl"
+   ],
+   "note": "Animal Diversity Web (ADW) Bubo virginianus: average mass 1,450 g (females avg 1.7, males 1.3 kg)"
+  },
+  {
+   "text": "European hedgehog",
+   "count": 1.0,
+   "aliases": [
+    "hedgehog"
+   ],
+   "note": "Animal Diversity Web (ADW) Erinaceus europaeus: midpoint of range 800-1,200 g"
+  },
+  {
+   "text": "Peregrine falcon",
+   "count": 0.907,
+   "aliases": [
+    "falcon",
+    "peregrine"
+   ],
+   "note": "Animal Diversity Web (ADW) Falco peregrinus: average mass 907 g"
+  },
+  {
+   "text": "Guinea pig",
+   "count": 0.9,
+   "aliases": [
+    "cavy"
+   ],
+   "note": "Animal Diversity Web (ADW) Cavia porcellus: midpoint of range 700-1,100 g"
+  },
+  {
+   "text": "Meerkat",
+   "count": 0.725,
+   "aliases": [
+    "suricate"
+   ],
+   "note": "Animal Diversity Web (ADW) Suricata suricatta: average mass 725 g"
+  },
+  {
+   "text": "Toco toucan",
+   "count": 0.676,
+   "aliases": [
+    "toucan"
+   ],
+   "note": "Animal Diversity Web (ADW) Ramphastos toco: midpoint of range 592-760 g"
+  },
+  {
+   "text": "Chinchilla",
+   "count": 0.65,
+   "aliases": [],
+   "note": "Animal Diversity Web (ADW) Chinchilla lanigera: midpoint of range 0.5-0.8 kg"
+  },
+  {
+   "text": "Eastern gray squirrel",
+   "count": 0.54,
+   "aliases": [
+    "squirrel",
+    "grey squirrel",
+    "gray squirrel"
+   ],
+   "note": "Animal Diversity Web (ADW) Sciurus carolinensis: average mass 540.33 g"
+  },
+  {
+   "text": "Atlantic puffin",
+   "count": 0.5,
+   "aliases": [
+    "puffin"
+   ],
+   "note": "Animal Diversity Web (ADW) Fratercula arctica: average mass 500 g"
+  },
+  {
+   "text": "American lobster",
+   "count": 0.5,
+   "aliases": [
+    "lobster"
+   ],
+   "note": "Animal Diversity Web (ADW) Homarus americanus: commonly caught size weighs about 0.5 kg"
+  },
+  {
+   "text": "American crow",
+   "count": 0.45,
+   "aliases": [
+    "crow"
+   ],
+   "note": "Animal Diversity Web (ADW) Corvus brachyrhynchos: average mass 450 g"
+  },
+  {
+   "text": "Brown rat",
+   "count": 0.4,
+   "aliases": [
+    "rat",
+    "norway rat",
+    "sewer rat"
+   ],
+   "note": "Animal Diversity Web (ADW) Rattus norvegicus: average mass 400 g"
+  },
+  {
+   "text": "Rock pigeon",
+   "count": 0.3587,
+   "aliases": [
+    "pigeon",
+    "rock dove",
+    "dove"
+   ],
+   "note": "Animal Diversity Web (ADW) Columba livia: AnAge average mass 358.7 g"
+  },
+  {
+   "text": "Golden hamster",
+   "count": 0.1125,
+   "aliases": [
+    "hamster",
+    "syrian hamster"
+   ],
+   "note": "Animal Diversity Web (ADW) Mesocricetus auratus: midpoint of range 100-125 g"
+  },
+  {
+   "text": "Cane toad",
+   "count": 0.10625,
+   "aliases": [
+    "toad",
+    "marine toad"
+   ],
+   "note": "Animal Diversity Web (ADW) Rhinella marina: AnAge average mass 106.25 g"
+  },
+  {
+   "text": "European mole",
+   "count": 0.1,
+   "aliases": [
+    "mole"
+   ],
+   "note": "Animal Diversity Web (ADW) Talpa europaea: midpoint of range 72-128 g"
+  },
+  {
+   "text": "Mongolian gerbil",
+   "count": 0.096,
+   "aliases": [
+    "gerbil",
+    "mongolian jird"
+   ],
+   "note": "Animal Diversity Web (ADW) Meriones unguiculatus: average mass 96 g"
+  },
+  {
+   "text": "Eastern chipmunk",
+   "count": 0.0905,
+   "aliases": [
+    "chipmunk"
+   ],
+   "note": "Animal Diversity Web (ADW) Tamias striatus: midpoint of range 66-115 g"
+  },
+  {
+   "text": "American robin",
+   "count": 0.077,
+   "aliases": [
+    "robin"
+   ],
+   "note": "Animal Diversity Web (ADW) Turdus migratorius: average mass 77 g"
+  },
+  {
+   "text": "Common vampire bat",
+   "count": 0.0325,
+   "aliases": [
+    "vampire bat"
+   ],
+   "note": "Animal Diversity Web (ADW) Desmodus rotundus: midpoint of range 15-50 g"
+  },
+  {
+   "text": "Budgerigar",
+   "count": 0.03,
+   "aliases": [
+    "budgie",
+    "parakeet"
+   ],
+   "note": "Animal Diversity Web (ADW) Melopsittacus undulatus: AnAge average mass 30 g"
+  },
+  {
+   "text": "House sparrow",
+   "count": 0.0285,
+   "aliases": [
+    "sparrow"
+   ],
+   "note": "Animal Diversity Web (ADW) Passer domesticus: average mass 28.5 g"
+  },
+  {
+   "text": "Common frog",
+   "count": 0.0227,
+   "aliases": [
+    "frog",
+    "european common frog",
+    "grass frog"
+   ],
+   "note": "Animal Diversity Web (ADW) Rana temporaria: average mass 22.7 g"
+  },
+  {
+   "text": "House mouse",
+   "count": 0.021,
+   "aliases": [
+    "mouse"
+   ],
+   "note": "Animal Diversity Web (ADW) Mus musculus: midpoint of range 12-30 g"
+  },
+  {
+   "text": "Common shrew",
+   "count": 0.0095,
+   "aliases": [
+    "shrew",
+    "eurasian shrew"
+   ],
+   "note": "Animal Diversity Web (ADW) Sorex araneus: midpoint of range 5-14 g"
+  },
+  {
+   "text": "Little brown bat",
+   "count": 0.0095,
+   "aliases": [
+    "bat",
+    "little brown myotis"
+   ],
+   "note": "Animal Diversity Web (ADW) Myotis lucifugus: midpoint of range 5-14 g"
+  },
+  {
+   "text": "Eurasian harvest mouse",
+   "count": 0.006,
+   "aliases": [
+    "harvest mouse"
+   ],
+   "note": "Animal Diversity Web (ADW) Micromys minutus: average mass 6 g"
+  },
+  {
+   "text": "Ruby-throated hummingbird",
+   "count": 0.0036,
+   "aliases": [
+    "hummingbird"
+   ],
+   "note": "Animal Diversity Web (ADW) Archilochus colubris: midpoint of range 3.4-3.8 g"
+  },
+  {
+   "text": "Blue poison dart frog",
+   "count": 0.003,
+   "aliases": [
+    "poison dart frog",
+    "poison frog"
+   ],
+   "note": "Animal Diversity Web (ADW) Dendrobates tinctorius (azureus): average mass 3 g"
+  },
+  {
+   "text": "Etruscan shrew",
+   "count": 0.002,
+   "aliases": [
+    "pygmy white-toothed shrew",
+    "etruscan pygmy shrew"
+   ],
+   "note": "Animal Diversity Web (ADW) Suncus etruscus: average mass 2 g (range 1.8-3 g)"
+  },
+  {
+   "text": "Bumblebee bat",
+   "count": 0.00185,
+   "aliases": [
+    "kitti's hog-nosed bat"
+   ],
+   "note": "Animal Diversity Web (ADW) Craseonycteris thonglongyai: midpoint of range 1.7-2.0 g"
+  },
+  {
+   "text": "Honey bee",
+   "count": 0.0001,
+   "aliases": [
+    "bee",
+    "honeybee",
+    "worker bee"
+   ],
+   "note": "PBS Nature animal guide 'Honeybee': worker 100 mg"
+  },
+  {
+   "text": "Housefly",
+   "count": 1.2e-05,
+   "aliases": [
+    "fly",
+    "house fly"
+   ],
+   "note": "Animal Diversity Web (ADW) Musca domestica: average mass 0.012 g"
+  },
+  {
+   "text": "Ant",
+   "count": 3e-06,
+   "aliases": [
+    "worker ant",
+    "ants"
+   ],
+   "note": "reducing-suffering.org 'Approximate Mass of a Typical Bug' (citing BBC): typical worker ant 1-5 mg, midpoint"
+  },
+  {
+   "text": "Mosquito",
+   "count": 2.5e-06,
+   "aliases": [],
+   "note": "Wikipedia 'Orders of magnitude (mass)' (IPFS mirror): common smaller species of mosquito 2.5e-6 kg"
+  }
+ ]
+}

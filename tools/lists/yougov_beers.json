@@ -1,0 +1,386 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (beers): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "Corona",
+   "count": 60,
+   "aliases": [
+    "Corona Extra"
+   ]
+  },
+  {
+   "text": "Guinness",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Budweiser",
+   "count": 54,
+   "aliases": [
+    "Bud"
+   ]
+  },
+  {
+   "text": "Samuel Adams",
+   "count": 49,
+   "aliases": [
+    "Sam Adams"
+   ]
+  },
+  {
+   "text": "Heineken",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Modelo",
+   "count": 48,
+   "aliases": [
+    "Modelo Especial"
+   ]
+  },
+  {
+   "text": "Coors",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Miller",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Stella Artois",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Miller Lite",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Blue Moon",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Dos Equis",
+   "count": 43,
+   "aliases": [
+    "XX"
+   ]
+  },
+  {
+   "text": "Corona Light",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Busch",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Miller High Life",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Bud Light",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Pabst Blue Ribbon",
+   "count": 40,
+   "aliases": [
+    "PBR",
+    "Pabst"
+   ]
+  },
+  {
+   "text": "Coors Light",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Michelob Light",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Miller Genuine Draft",
+   "count": 38,
+   "aliases": [
+    "Miller Genunine Draft",
+    "MGD"
+   ]
+  },
+  {
+   "text": "Heineken Light",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Coors Banquet",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Michelob Ultra",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Great Lakes",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Amstel",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Yuengling",
+   "count": 35,
+   "aliases": [
+    "Yuenglng Lager"
+   ]
+  },
+  {
+   "text": "Negra Modelo",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Rolling Rock",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Beck's",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Tecate",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Redd's Apple Ale",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Molson",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Bud Light Platinum",
+   "count": 31,
+   "aliases": [
+    "Bud Light Plainum"
+   ]
+  },
+  {
+   "text": "Red Stripe",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Bud Light Lime",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Fat Tire",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Natural Light",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Icehouse",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Lagunitas",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Founders",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Busch Light",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Keystone",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Natural Ice",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Molson Canadian",
+   "count": 28,
+   "aliases": []
+  },
+  {
+   "text": "Milwaukee's Best",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Dogfish Head",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "Shock Top",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Blue Moon Light Sky",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Foster's",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Asahi",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "St. Pauli Girl",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Tripel Karmeliet",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Keystone Light",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "TsingTao",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Peroni Nastro Azzurro",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Milwaukee Best Ice",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Pure Brewery",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Hitachino",
+   "count": 24,
+   "aliases": []
+  },
+  {
+   "text": "Harbin",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Bells",
+   "count": 22,
+   "aliases": []
+  },
+  {
+   "text": "Bellerose",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Saint Archer Gold",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Foam Brewers",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Madri",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Steel Reserve",
+   "count": 21,
+   "aliases": []
+  },
+  {
+   "text": "Vermont Brewery",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Yanjing",
+   "count": 20,
+   "aliases": []
+  },
+  {
+   "text": "Clausthaler",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "O Haras",
+   "count": 19,
+   "aliases": []
+  },
+  {
+   "text": "Radeberger",
+   "count": 18,
+   "aliases": []
+  },
+  {
+   "text": "Bon & Viv",
+   "count": 17,
+   "aliases": []
+  },
+  {
+   "text": "Marz Community",
+   "count": 16,
+   "aliases": []
+  }
+ ]
+}

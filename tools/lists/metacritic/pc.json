@@ -1,0 +1,414 @@
+{
+ "platform": "PC",
+ "source": "Metacritic, fetched 2026-11-09, https://www.metacritic.com/browse/game/pc/ (browse sorted by Metascore High-Low, all-time; titles with fewer than 7 critic reviews excluded by Metacritic)",
+ "unit": "Metascore",
+ "rows": [
+  {
+   "text": "Disco Elysium: The Final Cut",
+   "count": 97,
+   "aliases": [
+    "Disco Elysium"
+   ]
+  },
+  {
+   "text": "Half-Life 2",
+   "count": 96,
+   "aliases": [
+    "HL2"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto V",
+   "count": 96,
+   "aliases": [
+    "Grand Theft Auto 5",
+    "GTA 5",
+    "GTA V",
+    "GTA5"
+   ]
+  },
+  {
+   "text": "Baldur's Gate 3",
+   "count": 96,
+   "aliases": [
+    "Baldur's Gate III",
+    "Baldurs Gate 3",
+    "BG3"
+   ]
+  },
+  {
+   "text": "The Orange Box",
+   "count": 96,
+   "aliases": [
+    "Orange Box"
+   ]
+  },
+  {
+   "text": "Half-Life",
+   "count": 96,
+   "aliases": [
+    "HL1"
+   ]
+  },
+  {
+   "text": "BioShock",
+   "count": 96,
+   "aliases": [
+    "Bioshock 1"
+   ]
+  },
+  {
+   "text": "Baldur's Gate II: Shadows of Amn",
+   "count": 95,
+   "aliases": [
+    "Baldur's Gate 2",
+    "Baldur's Gate 2: Shadows of Amn",
+    "Baldur's Gate II",
+    "Baldurs Gate 2",
+    "BG2",
+    "Shadows of Amn"
+   ]
+  },
+  {
+   "text": "Persona 5 Royal",
+   "count": 95,
+   "aliases": [
+    "P5R",
+    "Persona 5R"
+   ]
+  },
+  {
+   "text": "Portal 2",
+   "count": 95,
+   "aliases": [
+    "Portal II"
+   ]
+  },
+  {
+   "text": "The Elder Scrolls V: Skyrim",
+   "count": 94,
+   "aliases": [
+    "Elder Scrolls 5",
+    "Elder Scrolls 5: Skyrim",
+    "Elder Scrolls V",
+    "Elder Scrolls V: Skyrim",
+    "Skyrim",
+    "TES V",
+    "TES5",
+    "The Elder Scrolls 5",
+    "The Elder Scrolls 5: Skyrim",
+    "The Elder Scrolls V"
+   ]
+  },
+  {
+   "text": "Hades II",
+   "count": 94,
+   "aliases": [
+    "Hades 2"
+   ]
+  },
+  {
+   "text": "Mass Effect 2",
+   "count": 94,
+   "aliases": [
+    "ME2"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto: Vice City",
+   "count": 94,
+   "aliases": [
+    "GTA VC",
+    "GTA Vice City",
+    "Vice City"
+   ]
+  },
+  {
+   "text": "Sid Meier's Civilization II",
+   "count": 94,
+   "aliases": [
+    "Civ 2",
+    "Civ II",
+    "Civilization 2",
+    "Civilization II",
+    "Sid Meier's Civilization 2"
+   ]
+  },
+  {
+   "text": "Quake",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "BioShock Infinite",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "The Elder Scrolls IV: Oblivion",
+   "count": 94,
+   "aliases": [
+    "Elder Scrolls 4",
+    "Elder Scrolls 4: Oblivion",
+    "Elder Scrolls IV",
+    "Elder Scrolls IV: Oblivion",
+    "Oblivion",
+    "TES IV",
+    "TES4",
+    "The Elder Scrolls 4",
+    "The Elder Scrolls 4: Oblivion",
+    "The Elder Scrolls IV"
+   ]
+  },
+  {
+   "text": "Elden Ring",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "Grim Fandango",
+   "count": 94,
+   "aliases": []
+  },
+  {
+   "text": "Diablo",
+   "count": 94,
+   "aliases": [
+    "Diablo 1",
+    "Diablo I"
+   ]
+  },
+  {
+   "text": "Sid Meier's Civilization IV",
+   "count": 94,
+   "aliases": [
+    "Civ 4",
+    "Civ IV",
+    "Civilization 4",
+    "Civilization IV",
+    "Sid Meier's Civilization 4"
+   ]
+  },
+  {
+   "text": "The Witcher 3: Wild Hunt",
+   "count": 93,
+   "aliases": [
+    "The Witcher 3",
+    "TW3",
+    "Wild Hunt",
+    "Witcher 3",
+    "Witcher 3: Wild Hunt"
+   ]
+  },
+  {
+   "text": "Company of Heroes",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Half-Life: Alyx",
+   "count": 93,
+   "aliases": [
+    "Alyx",
+    "HL Alyx"
+   ]
+  },
+  {
+   "text": "Divinity: Original Sin II",
+   "count": 93,
+   "aliases": [
+    "Divinity 2",
+    "Divinity: Original Sin 2",
+    "DOS2",
+    "Original Sin 2",
+    "Original Sin II"
+   ]
+  },
+  {
+   "text": "Unreal Tournament 2004",
+   "count": 93,
+   "aliases": [
+    "UT2004",
+    "UT2K4"
+   ]
+  },
+  {
+   "text": "Starcraft II: Wings of Liberty",
+   "count": 93,
+   "aliases": [
+    "StarCraft 2",
+    "Starcraft 2: Wings of Liberty",
+    "StarCraft II",
+    "Wings of Liberty"
+   ]
+  },
+  {
+   "text": "God of War",
+   "count": 93,
+   "aliases": [
+    "God of War 2018",
+    "GoW",
+    "GoW 2018"
+   ]
+  },
+  {
+   "text": "Minecraft",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Red Dead Redemption 2",
+   "count": 93,
+   "aliases": [
+    "RDR 2",
+    "RDR2",
+    "Red Dead 2"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto III",
+   "count": 93,
+   "aliases": [
+    "Grand Theft Auto 3",
+    "GTA 3",
+    "GTA III",
+    "GTA3"
+   ]
+  },
+  {
+   "text": "Homeworld",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Beat Saber",
+   "count": 93,
+   "aliases": [
+    "Beatsaber"
+   ]
+  },
+  {
+   "text": "Hades",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "Star Wars: Knights of the Old Republic",
+   "count": 93,
+   "aliases": [
+    "Knights of the Old Republic",
+    "KotOR"
+   ]
+  },
+  {
+   "text": "World of Warcraft",
+   "count": 93,
+   "aliases": [
+    "WoW"
+   ]
+  },
+  {
+   "text": "Grand Theft Auto: San Andreas",
+   "count": 93,
+   "aliases": [
+    "GTA SA",
+    "GTA San Andreas",
+    "San Andreas"
+   ]
+  },
+  {
+   "text": "Sektori",
+   "count": 93,
+   "aliases": []
+  },
+  {
+   "text": "The Witcher 3: Wild Hunt - Remastered",
+   "count": 92,
+   "aliases": [
+    "The Witcher 3 Remastered",
+    "Witcher 3 Remastered",
+    "Witcher 3: Wild Hunt - Remastered"
+   ]
+  },
+  {
+   "text": "Call of Duty 4: Modern Warfare",
+   "count": 92,
+   "aliases": [
+    "Call of Duty 4",
+    "CoD 4",
+    "COD4",
+    "Modern Warfare"
+   ]
+  },
+  {
+   "text": "Resident Evil Requiem",
+   "count": 92,
+   "aliases": [
+    "RE Requiem",
+    "RE9",
+    "Requiem",
+    "Resident Evil 9"
+   ]
+  },
+  {
+   "text": "Warcraft III: Reign of Chaos",
+   "count": 92,
+   "aliases": [
+    "Reign of Chaos",
+    "Warcraft 3",
+    "Warcraft 3: Reign of Chaos",
+    "Warcraft III",
+    "WC3"
+   ]
+  },
+  {
+   "text": "The Sims",
+   "count": 92,
+   "aliases": [
+    "Sims"
+   ]
+  },
+  {
+   "text": "Sid Meier's Gettysburg!",
+   "count": 92,
+   "aliases": [
+    "Gettysburg!"
+   ]
+  },
+  {
+   "text": "Street Fighter 6",
+   "count": 92,
+   "aliases": [
+    "SF 6",
+    "SF6"
+   ]
+  },
+  {
+   "text": "World Soccer Winning Eleven 7 International",
+   "count": 92,
+   "aliases": [
+    "PES 3",
+    "Pro Evolution Soccer 3",
+    "WE7",
+    "Winning Eleven 7"
+   ]
+  },
+  {
+   "text": "Blue Prince",
+   "count": 92,
+   "aliases": []
+  },
+  {
+   "text": "Team Fortress 2",
+   "count": 92,
+   "aliases": [
+    "TF2"
+   ]
+  },
+  {
+   "text": "System Shock 2",
+   "count": 92,
+   "aliases": []
+  }
+ ]
+}

@@ -1,0 +1,314 @@
+{
+  "_note": "Topic title (shown big, Survey Scramble style), the subtitle saying what is ranked, and what HI / LO rounds ask. Keys are survey ids. Applied by: node tools/add-lists.js",
+  "list-lima-districts": {
+    "title": "Districts of Lima",
+    "prompt": "Lima, Peru · ranked by population (INEI, 2025 census)",
+    "hiText": "Name a district with TONS of people",
+    "loText": "Name a district with BARELY anyone"
+  },
+  "list-countries": {
+    "title": "Most Populated Countries in the World",
+    "prompt": "Worldwide · ranked by population (UN, 2024)",
+    "hiText": "Name a country with a HUGE population",
+    "loText": "Name a country with a TINY population"
+  },
+  "list-obesity": {
+    "title": "Obesity Around the World",
+    "prompt": "Worldwide · countries ranked by % of adults with obesity (WHO, 2024)",
+    "hiText": "Name a country with LOTS of obesity",
+    "loText": "Name a country with very LITTLE obesity"
+  },
+  "list-jobs": {
+    "title": "America's Best-Paid Jobs",
+    "prompt": "USA · ranked by average yearly salary (US Bureau of Labor Statistics, 2025)",
+    "hiText": "Name the job that pays the MOST",
+    "loText": "Name a job that BARELY made the top 300"
+  },
+  "list-transport": {
+    "title": "How Dangerous Is It to Travel By… (UK data)",
+    "prompt": "United Kingdom · ranked by deaths per billion km travelled",
+    "hiText": "Name the MOST dangerous way to travel",
+    "loText": "Name the SAFEST way to travel"
+  },
+  "list-animals": {
+    "title": "The World's Fastest Animals",
+    "prompt": "Worldwide · ranked by top speed (km/h)",
+    "hiText": "Name a SUPER fast animal",
+    "loText": "Name the SLOWEST animal on the list"
+  },
+  "auto-mal-characters": {
+    "title": "The World's Most-Loved Anime Characters",
+    "prompt": "Worldwide · characters ranked by fan favorites on MyAnimeList / AniList",
+    "hiText": "Name a SUPER beloved character",
+    "loText": "Name one that BARELY made the top 300"
+  },
+  "auto-mal-anime": {
+    "title": "The World's Most Popular Anime",
+    "prompt": "Worldwide · ranked by number of fans on MyAnimeList / AniList",
+    "hiText": "Name a SUPER popular anime",
+    "loText": "Name one that BARELY made the top 300"
+  },
+  "auto-mal-manga": {
+    "title": "The World's Most Popular Manga",
+    "prompt": "Worldwide · ranked by number of readers on MyAnimeList / AniList",
+    "hiText": "Name a SUPER popular manga",
+    "loText": "Name one that BARELY made the top 300"
+  },
+  "auto-dragonball-characters": {
+    "title": "Dragon Ball Characters Fans Love Most",
+    "prompt": "Worldwide · ranked by fan favorites on MyAnimeList / AniList",
+    "hiText": "Name the MOST beloved character",
+    "loText": "Name the LEAST beloved one on the list",
+    "series": "Dragon Ball"
+  },
+  "auto-dragonball-titles": {
+    "title": "Dragon Ball Series & Movies Fans Love Most",
+    "prompt": "Worldwide · ranked by number of fans on MyAnimeList / AniList",
+    "hiText": "Name the MOST popular one",
+    "loText": "Name the LEAST popular one",
+    "series": "Dragon Ball"
+  },
+  "auto-demonslayer-characters": {
+    "title": "Demon Slayer Characters Fans Love Most",
+    "prompt": "Worldwide · ranked by fan favorites on MyAnimeList / AniList",
+    "hiText": "Name the MOST beloved character",
+    "loText": "Name the LEAST beloved one on the list",
+    "series": "Demon Slayer"
+  },
+  "auto-jjk-characters": {
+    "title": "Jujutsu Kaisen Characters Fans Love Most",
+    "prompt": "Worldwide · ranked by fan favorites on MyAnimeList / AniList",
+    "hiText": "Name the MOST beloved character",
+    "loText": "Name the LEAST beloved one on the list",
+    "series": "Jujutsu Kaisen"
+  },
+  "curated-dota2-heroes": {
+    "title": "Dota 2 Heroes Picked Most Worldwide",
+    "prompt": "Worldwide · ranked by how often players pick them (OpenDota)",
+    "hiText": "Name a hero EVERYONE picks",
+    "loText": "Name a hero almost NOBODY picks"
+  },
+  "list-mc-3ds": {
+    "title": "Best 3DS Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a 3DS MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the 3DS top 50"
+  },
+  "list-mc-ds": {
+    "title": "Best Nintendo DS Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a Nintendo DS MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the Nintendo DS top 50"
+  },
+  "list-mc-gamecube": {
+    "title": "Best GameCube Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a GameCube MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the GameCube top 49"
+  },
+  "list-mc-gba": {
+    "title": "Best Game Boy Advance Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a Game Boy Advance MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the Game Boy Advance top 50"
+  },
+  "list-mc-n64": {
+    "title": "Best N64 Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a N64 MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the N64 top 50"
+  },
+  "list-mc-pc": {
+    "title": "Best PC Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a PC MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the PC top 50"
+  },
+  "list-mc-ps1": {
+    "title": "Best PS1 Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a PS1 MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the PS1 top 50"
+  },
+  "list-mc-ps2": {
+    "title": "Best PS2 Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a PS2 MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the PS2 top 50"
+  },
+  "list-mc-ps3": {
+    "title": "Best PS3 Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a PS3 MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the PS3 top 48"
+  },
+  "list-mc-switch": {
+    "title": "Best Switch Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a Switch MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the Switch top 47"
+  },
+  "list-mc-wii": {
+    "title": "Best Wii Games",
+    "prompt": "Ranked by Metacritic critic score (mostly English-language reviews)",
+    "hiText": "Name a Wii MASTERPIECE (top score)",
+    "loText": "Name one that BARELY made the Wii top 50"
+  },
+  "list-dragonball-strength": {
+    "title": "Dragon Ball: Who's the Strongest?",
+    "prompt": "Characters ranked by strength — combined fan rankings (English & Japanese sites) through Dragon Ball Super",
+    "hiText": "Name one of the STRONGEST beings in Dragon Ball",
+    "loText": "Name one of the WEAKEST characters on the list",
+    "series": "Dragon Ball"
+  },
+  "list-animals-weight": {
+    "title": "The World's Heaviest Animals",
+    "prompt": "Worldwide · ranked by typical adult weight (kg)",
+    "hiText": "Name a GIGANTIC animal",
+    "loText": "Name a TINY, super light animal"
+  },
+  "list-suicide": {
+    "title": "Suicide Rates Around the World",
+    "prompt": "Worldwide · ranked by suicides per 100,000 people (WHO, 2023)",
+    "hiText": "Name a country with a HIGH suicide rate",
+    "loText": "Name a country with a very LOW suicide rate"
+  },
+  "list-homicide": {
+    "title": "Homicide Rates Around the World",
+    "prompt": "Worldwide · ranked by murders per 100,000 people (UNODC)",
+    "hiText": "Name a country with a HIGH murder rate",
+    "loText": "Name a country with a very LOW murder rate"
+  },
+  "auto-waifus": {
+    "title": "Anime's Best Girls (Worldwide Fan Vote)",
+    "prompt": "Worldwide · female characters ranked by fan favorites on MyAnimeList / AniList",
+    "hiText": "Name a WILDLY popular waifu",
+    "loText": "Name one who BARELY made the top 300"
+  },
+  "list-animals-smart": {
+    "title": "The World's Smartest Animals",
+    "prompt": "Ranked by intelligence — combined from 16 published rankings (mostly US/UK sites)",
+    "hiText": "Name a GENIUS of the animal kingdom",
+    "loText": "Name one of the DUMBEST animals on the list"
+  },
+  "list-movies": {
+    "title": "Highest-Grossing Movies Worldwide",
+    "prompt": "Worldwide · ranked by global box office (USD, Box Office Mojo)",
+    "hiText": "Name a movie that made an OBSCENE amount of money",
+    "loText": "Name a hit that BARELY made the top 400"
+  },
+  "list-billionaires": {
+    "title": "The World's Richest People",
+    "prompt": "Worldwide · ranked by net worth — Forbes Billionaires 2026",
+    "hiText": "Name someone who is OBSCENELY rich",
+    "loText": "Name a billionaire who is BARELY on the list"
+  },
+  "list-billionaires-country": {
+    "title": "Where the World's Billionaires Live",
+    "prompt": "Worldwide · countries ranked by number of billionaires — Forbes 2026",
+    "hiText": "Name a country CRAWLING with billionaires",
+    "loText": "Name a country with just a HANDFUL of billionaires"
+  },
+  "list-instruments": {
+    "title": "Musical Instruments People Name First (UK & US)",
+    "prompt": "Ranked by how many people name them — Scottish students (1972) + online quiz players (mostly US)",
+    "hiText": "Name an instrument EVERYBODY thinks of",
+    "loText": "Name an instrument HARDLY anyone thinks of"
+  },
+  "list-yg-food-snack-brands": {
+    "title": "America's Favorite Snack Brands",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the snack brand Americans like MOST",
+    "loText": "Name a snack brand that BARELY made America's list"
+  },
+  "list-yg-beers": {
+    "title": "America's Favorite Beers",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the beer Americans like MOST",
+    "loText": "Name a beer that BARELY made America's list"
+  },
+  "list-yg-all-time-tv-shows": {
+    "title": "America's Most-Loved TV Shows of All Time",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the TV show Americans like MOST",
+    "loText": "Name a TV show that BARELY made America's list"
+  },
+  "list-yg-current-tv-shows": {
+    "title": "TV Shows Americans Love Right Now",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the current show Americans like MOST",
+    "loText": "Name a current show that BARELY made America's list"
+  },
+  "list-yg-comedy-movies": {
+    "title": "America's Favorite Comedy Movies",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the comedy movie Americans like MOST",
+    "loText": "Name a comedy movie that BARELY made America's list"
+  },
+  "list-yg-all-time-actors-actresses": {
+    "title": "America's Most-Liked Actors Ever",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the actor or actress Americans like MOST",
+    "loText": "Name an actor or actress that BARELY made America's list"
+  },
+  "list-yg-all-time-people": {
+    "title": "Famous People Americans Like Most",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the famous person Americans like MOST",
+    "loText": "Name a famous person that BARELY made America's list"
+  },
+  "list-yg-rap-hiphop-artists": {
+    "title": "America's Favorite Rappers",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the rapper Americans like MOST",
+    "loText": "Name a rapper that BARELY made America's list"
+  },
+  "list-yg-classic-rock-music-artists": {
+    "title": "America's Favorite Classic Rock Legends",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the rock legend Americans like MOST",
+    "loText": "Name a rock legend that BARELY made America's list"
+  },
+  "list-yg-all-time-sports-personalities": {
+    "title": "America's Favorite Sports Legends",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the athlete Americans like MOST",
+    "loText": "Name an athlete that BARELY made America's list"
+  },
+  "list-yg-contemporary-soccer-players": {
+    "title": "Soccer Stars Americans Like Most",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the soccer player Americans like MOST",
+    "loText": "Name a soccer player that BARELY made America's list"
+  },
+  "list-yg-contemporary-basketball-players": {
+    "title": "America's Favorite Basketball Stars",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the basketball player Americans like MOST",
+    "loText": "Name a basketball player that BARELY made America's list"
+  },
+  "list-yg-contemporary-wwe-personalities": {
+    "title": "America's Favorite WWE Superstars",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the WWE star Americans like MOST",
+    "loText": "Name a WWE star that BARELY made America's list"
+  },
+  "list-yg-influencers": {
+    "title": "America's Favorite Influencers",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the influencer Americans like MOST",
+    "loText": "Name an influencer that BARELY made America's list"
+  },
+  "list-yg-digital-services": {
+    "title": "America's Favorite Apps & Websites",
+    "prompt": "USA only · ranked by % of Americans who like it (YouGov, Q3 2026)",
+    "hiText": "Name the app or website Americans like MOST",
+    "loText": "Name an app or website that BARELY made America's list"
+  },
+  "list-ranker-anime": {
+    "title": "The Hottest Anime Right Now (Ranker Fans, Mostly US)",
+    "prompt": "Ranked by fan votes on Ranker, a mostly-American site (2026)",
+    "hiText": "Name the anime EVERYONE is watching",
+    "loText": "Name an anime near the BOTTOM of the hype list"
+  }
+}

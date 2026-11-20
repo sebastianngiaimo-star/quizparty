@@ -1,0 +1,84 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (contemporary-wwe-personalities): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "John Cena",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Triple H",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Roman Reigns",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Becky Lynch",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Charlotte Flair",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "Seth Rollins",
+   "count": 29,
+   "aliases": []
+  },
+  {
+   "text": "A.J. Styles",
+   "count": 28,
+   "aliases": [
+    "AJ Styles"
+   ]
+  },
+  {
+   "text": "Cody Rhodes",
+   "count": 27,
+   "aliases": []
+  },
+  {
+   "text": "The Miz",
+   "count": 26,
+   "aliases": [
+    "Michael Gregory Mizanin",
+    "Miz",
+    "Mike Mizanin"
+   ]
+  },
+  {
+   "text": "Rhea Ripley",
+   "count": 26,
+   "aliases": []
+  },
+  {
+   "text": "Kofi Kingston",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Sheamus",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Xavier Woods",
+   "count": 25,
+   "aliases": []
+  },
+  {
+   "text": "Iyo Sky",
+   "count": 24,
+   "aliases": [
+    "Io Shirai"
+   ]
+  }
+ ]
+}

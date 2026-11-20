@@ -1,0 +1,1472 @@
+{
+ "source": "YouGov Ratings, Q3 2026 (food-snack-brands): % of US adults with a positive opinion of each item, full category ranking (capped at 300; very obscure tails trimmed).",
+ "unit": "%",
+ "rows": [
+  {
+   "text": "M&M's",
+   "count": 81,
+   "aliases": [
+    "M and Ms",
+    "MMs",
+    "eminems"
+   ]
+  },
+  {
+   "text": "Hershey's",
+   "count": 79,
+   "aliases": []
+  },
+  {
+   "text": "Lay's",
+   "count": 79,
+   "aliases": [
+    "Lay's Chips"
+   ]
+  },
+  {
+   "text": "Oreo",
+   "count": 78,
+   "aliases": []
+  },
+  {
+   "text": "Reese's",
+   "count": 78,
+   "aliases": [
+    "Reese's Peanut Butter Cups",
+    "Reeses"
+   ]
+  },
+  {
+   "text": "Heinz Ketchup",
+   "count": 78,
+   "aliases": [
+    "Heinz"
+   ]
+  },
+  {
+   "text": "Dove",
+   "count": 78,
+   "aliases": [
+    "Dove (chocolate)",
+    "Dove Chocolate Candy Bar"
+   ]
+  },
+  {
+   "text": "Kit Kat",
+   "count": 78,
+   "aliases": [
+    "KitKat"
+   ]
+  },
+  {
+   "text": "Snickers",
+   "count": 77,
+   "aliases": []
+  },
+  {
+   "text": "McCormick",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "Pillsbury",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "Planters",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "Ritz",
+   "count": 76,
+   "aliases": []
+  },
+  {
+   "text": "Twix",
+   "count": 75,
+   "aliases": []
+  },
+  {
+   "text": "Cheetos",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Doritos",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Goldfish",
+   "count": 74,
+   "aliases": []
+  },
+  {
+   "text": "Fritos",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Kellogg's",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Frito-Lay",
+   "count": 73,
+   "aliases": []
+  },
+  {
+   "text": "Chips Ahoy!",
+   "count": 73,
+   "aliases": [
+    "Chips Ahoy"
+   ]
+  },
+  {
+   "text": "Milky Way",
+   "count": 73,
+   "aliases": [
+    "Milky Way bar"
+   ]
+  },
+  {
+   "text": "Ruffles",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Jif",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Quaker",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Ben & Jerry's",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Ghirardelli",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Eggo",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Pringles",
+   "count": 72,
+   "aliases": []
+  },
+  {
+   "text": "Häagen-Dazs",
+   "count": 71,
+   "aliases": [
+    "Haagen Dazs"
+   ]
+  },
+  {
+   "text": "Old El Paso",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Jolly Rancher",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "General Mills",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Tostitos Scoops",
+   "count": 71,
+   "aliases": []
+  },
+  {
+   "text": "Lifesavers",
+   "count": 71,
+   "aliases": [
+    "Life Savers"
+   ]
+  },
+  {
+   "text": "Cheerios",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Nabisco",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Betty Crocker",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Cheez-It",
+   "count": 70,
+   "aliases": []
+  },
+  {
+   "text": "Kraft Foods",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Nestlé Crunch",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Tostitos",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Thin Mints Girl Scout Cookies",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "French's Mustard",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Smucker's",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Honey Nut Cheerios",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Rice Krispies Treats",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Jell-O Pudding Snacks",
+   "count": 69,
+   "aliases": []
+  },
+  {
+   "text": "Land O'Lakes",
+   "count": 69,
+   "aliases": [
+    "Land O Lakes (butter)"
+   ]
+  },
+  {
+   "text": "Skittles",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Orville Redenbacher's Popcorn",
+   "count": 68,
+   "aliases": [
+    "Orville Redenbacher's"
+   ]
+  },
+  {
+   "text": "Nesquik",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Nestlé",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Breyers",
+   "count": 68,
+   "aliases": []
+  },
+  {
+   "text": "Nature Valley",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Campbell's",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Butterfinger",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Sargento String Cheese",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Chex Mix",
+   "count": 67,
+   "aliases": []
+  },
+  {
+   "text": "Honey Bunches of Oats",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Starburst",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Hunt's Ketchup",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "King's Hawaiian",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Hidden Valley Ranch",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Heinz Mustard",
+   "count": 66,
+   "aliases": []
+  },
+  {
+   "text": "Stouffer’s",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Yoplait",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Baked Lay's",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Cool Ranch Doritos",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Oscar Mayer",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Three Musketeers",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Hostess CupCake",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Tyson",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Baby Ruth",
+   "count": 65,
+   "aliases": []
+  },
+  {
+   "text": "Peanut Butter Patties Girl Scout Cookies",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Cadbury Egg",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Ore-Ida",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Almond Joy",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Jimmy Dean",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Chiquita",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Kraft Mac & Cheese",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Ferrero Rocher",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Sargento",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Tootsie Pop",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Wheat Thins",
+   "count": 64,
+   "aliases": []
+  },
+  {
+   "text": "Planters Trail Mix",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Frosted Flakes",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "York Peppermint Pattie",
+   "count": 63,
+   "aliases": [
+    "York Peppermint Patties"
+   ]
+  },
+  {
+   "text": "Kettle Brand Chips",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Whoppers",
+   "count": 63,
+   "aliases": []
+  },
+  {
+   "text": "Snyder's Pretzels",
+   "count": 63,
+   "aliases": [
+    "Snyder's"
+   ]
+  },
+  {
+   "text": "Teddy Grahams",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Great Value",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Cinnamon Toast Crunch",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Junior Mints",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Sunchips",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Werther's Original",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Pez Candy Dispenser",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Milk Duds",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Progresso",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Prego",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Bisquick",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Special K",
+   "count": 62,
+   "aliases": []
+  },
+  {
+   "text": "Lucky Charms",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "DiGiorno",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Andes Mints",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Tabasco",
+   "count": 61,
+   "aliases": [
+    "McIllhenny Tobasco Sauce"
+   ]
+  },
+  {
+   "text": "Chex",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Entenmann's",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Mars Bar",
+   "count": 61,
+   "aliases": []
+  },
+  {
+   "text": "Annie’s",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Triscuit",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Johnsonville Sausage",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Sour Patch Kids",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Knorr",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "Bertolli",
+   "count": 60,
+   "aliases": []
+  },
+  {
+   "text": "StarKist",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Mr. Goodbar",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Lay’s Kettle Cooked",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Laffy Taffy",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Maruchan Ramen Noodle Soup",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Coffee-Mate",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Dreyer’s",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Shortbread Girl Scout Cookies",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Nerds",
+   "count": 59,
+   "aliases": []
+  },
+  {
+   "text": "Twizzlers",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Kraft Barbecue Sauce",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "PayDay",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Wonderful Pistachios",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Kirkland Signature",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Snickers Almond Bar",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Hubba Bubba",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Girl Scout S'mores Cookies",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Brach's",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Chicken of the Sea",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Hamburger Helper",
+   "count": 58,
+   "aliases": []
+  },
+  {
+   "text": "Blow Pops",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Totino's Pizza Rolls",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Velveeta",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Red Baron",
+   "count": 57,
+   "aliases": []
+  },
+  {
+   "text": "Frank's RedHot Sauce",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Lindt",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Chobani",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "SweetTarts",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Cape Cod Chips",
+   "count": 56,
+   "aliases": [
+    "Cape Cod"
+   ]
+  },
+  {
+   "text": "Rolo",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "Pop Rocks",
+   "count": 56,
+   "aliases": []
+  },
+  {
+   "text": "KIND",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Swedish Fish",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Toaster Strudel",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Caramel Chocolate Chip Girl Scout Cookies",
+   "count": 55,
+   "aliases": []
+  },
+  {
+   "text": "Ragú",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Maruchan Instant Lunch",
+   "count": 54,
+   "aliases": []
+  },
+  {
+   "text": "Girl Scout S'mores Double Dipped Cookies",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Heath",
+   "count": 53,
+   "aliases": [
+    "Heath bar"
+   ]
+  },
+  {
+   "text": "Caramel deLites Girl Scout Cookies",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Ortega",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Mike and Ike",
+   "count": 53,
+   "aliases": []
+  },
+  {
+   "text": "Dots",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Half Baked Ice Cream",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Rold Gold",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Jack’s Links Beef Jerky",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "100 Grand Bar",
+   "count": 52,
+   "aliases": []
+  },
+  {
+   "text": "Mounds",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Fairlife",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "DAVID Seeds",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Peanut Butter Sandwich Girl Scout Cookies",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Smartfood",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Raisinets",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Air Heads",
+   "count": 51,
+   "aliases": []
+  },
+  {
+   "text": "Mrs. Dash",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Tillamook",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Dove Promises",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Lemonhead",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Kinder Joy",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Fruit Gushers",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Ring Pop",
+   "count": 50,
+   "aliases": []
+  },
+  {
+   "text": "Sour Skittles",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Caramello",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Jawbreakers",
+   "count": 49,
+   "aliases": [
+    "Jaw Breakers"
+   ]
+  },
+  {
+   "text": "Go-gurt",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Country Crock",
+   "count": 49,
+   "aliases": []
+  },
+  {
+   "text": "Horizon Organic Milk",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Boston Baked Beans",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Hormel",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Utz",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Omaha Steaks",
+   "count": 48,
+   "aliases": []
+  },
+  {
+   "text": "Nissin Cup Noodles",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "I Can't Believe It's Not Butter!",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Toblerone (Dark)",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Pasta Roni",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Heinz Seriously Good Mayonnaise",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Fun Dip",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Dannon",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Emerald Nuts",
+   "count": 47,
+   "aliases": []
+  },
+  {
+   "text": "Kinder Bueno",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Trolli",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Bit o Honey",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Mrs. Smith's Pies",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Red Hots",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Flamin' Hot Cheetos",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Fiber One",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "White Castle Frozen Sliders",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Zatarain's",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Sugar Babies",
+   "count": 46,
+   "aliases": []
+  },
+  {
+   "text": "Bumble Bee Foods",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Lemon UPS Girl Scout Cookies",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Cheese Nips",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Riesen",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Smarties",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Nissin Top Ramen",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Splenda",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Heinz Beanz",
+   "count": 45,
+   "aliases": []
+  },
+  {
+   "text": "Jujyfruits",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Weight Watchers",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Oh Henry",
+   "count": 44,
+   "aliases": [
+    "Oh Henry!"
+   ]
+  },
+  {
+   "text": "Hot Tamales",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Huy Fong Sriracha",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Texas Pete Hot Sauce",
+   "count": 44,
+   "aliases": []
+  },
+  {
+   "text": "Warheads",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Organic Valley",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Clif",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Now and Later",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Perdue",
+   "count": 43,
+   "aliases": []
+  },
+  {
+   "text": "Gobstoppers",
+   "count": 42,
+   "aliases": [
+    "Gobstopper"
+   ]
+  },
+  {
+   "text": "Orange Slices",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "Lemonades Girl Scout Cookies",
+   "count": 42,
+   "aliases": []
+  },
+  {
+   "text": "See's",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Schwan's",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Atomic Fireball",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Danimals",
+   "count": 41,
+   "aliases": []
+  },
+  {
+   "text": "Sabra Hummus",
+   "count": 41,
+   "aliases": [
+    "Sabra Hummus Singles"
+   ]
+  },
+  {
+   "text": "Pirate's Booty",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Mamba",
+   "count": 40,
+   "aliases": []
+  },
+  {
+   "text": "Charleston Chew",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Clark Bar",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Imperial Margarine",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Kashi",
+   "count": 39,
+   "aliases": []
+  },
+  {
+   "text": "Skinny Cow",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Marie's Dressing",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Chick-o-Stick",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Fage",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Imperial Vegetable Oil Spread",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Smithfield Foods",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Spree",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Goobers",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Nature's Promise",
+   "count": 38,
+   "aliases": []
+  },
+  {
+   "text": "Wise",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Whatchamacallit",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Sno-Caps",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Cherry Sours",
+   "count": 37,
+   "aliases": []
+  },
+  {
+   "text": "Cabot",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Bear Naked",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Siggi's",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Toffee-tastic Girl Scout Cookies",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "5th Avenue Candy Bar",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Quaker Sandwich Minis",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Jenny Craig",
+   "count": 36,
+   "aliases": []
+  },
+  {
+   "text": "Land O Frost",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Bolthouse Dressings",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Amy's",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Nutrisystem",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Zero Candy Bar",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Skor",
+   "count": 35,
+   "aliases": []
+  },
+  {
+   "text": "Stonyfield",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Pacific",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Rocky Road Candy Bar",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "Marzetti Refrigerated Dressings",
+   "count": 34,
+   "aliases": []
+  },
+  {
+   "text": "El Charrito",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Simple Mills",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Butcher Box",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Herr's",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Stacy's",
+   "count": 33,
+   "aliases": []
+  },
+  {
+   "text": "Beyond Meat",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Razzles",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Oui",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Impossible Foods",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Peanut Chews",
+   "count": 32,
+   "aliases": []
+  },
+  {
+   "text": "Athenos Hummus",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Larabar",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Take 5",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "MorningStar Farms Incogmeato",
+   "count": 31,
+   "aliases": []
+  },
+  {
+   "text": "Brunswick",
+   "count": 30,
+   "aliases": []
+  },
+  {
+   "text": "Luna",
+   "count": 30,
+   "aliases": []
+  }
+ ]
+}
