@@ -83539,7 +83539,8 @@
       ],
       "title": "America's Favorite Sports Legends",
       "hiText": "Name the athlete Americans like MOST",
-      "loText": "Name an athlete that BARELY made America's list"
+      "loText": "Name an athlete that BARELY made America's list",
+      "sub": "All-time legends"
     },
     {
       "id": "list-yg-contemporary-soccer-players",
@@ -85129,7 +85130,8 @@
       ],
       "title": "Soccer Stars Americans Like Most",
       "hiText": "Name the soccer player Americans like MOST",
-      "loText": "Name a soccer player that BARELY made America's list"
+      "loText": "Name a soccer player that BARELY made America's list",
+      "sub": "Football (soccer)"
     },
     {
       "id": "list-yg-contemporary-basketball-players",
@@ -86083,7 +86085,8 @@
       ],
       "title": "America's Favorite Basketball Stars",
       "hiText": "Name the basketball player Americans like MOST",
-      "loText": "Name a basketball player that BARELY made America's list"
+      "loText": "Name a basketball player that BARELY made America's list",
+      "sub": "Basketball"
     },
     {
       "id": "list-yg-contemporary-wwe-personalities",
@@ -86216,7 +86219,8 @@
       ],
       "title": "America's Favorite WWE Superstars",
       "hiText": "Name the WWE star Americans like MOST",
-      "loText": "Name a WWE star that BARELY made America's list"
+      "loText": "Name a WWE star that BARELY made America's list",
+      "sub": "Wrestling (WWE)"
     },
     {
       "id": "list-yg-influencers",
